@@ -9,6 +9,9 @@ python = "^3.9"
 gradio = "^3.19.1"
 openai = "^0.27.0"
 llama-index = "^0.4.19"
+pandas = "^1.5.3"
+jupyter = "^1.0.0"
+ipykernel = "^6.21.2"
 
 [tool.poetry.dev-dependencies]
 pynvim = "^0.4.3"
