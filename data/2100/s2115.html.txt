@@ -1,0 +1,58 @@
+[
+# 2115 Material or Article Worked Upon by Apparatus [R-07.2015]
+
+**MATERIAL OR ARTICLE WORKED UPON DOES NOT LIMIT APPARATUS CLAIMS** Claim analysis is highly fact-dependent. A claim is only limited by
+ positively recited elements. Thus, "[i]nclusion of the material or article worked upon
+ by a structure being claimed does not impart patentability to the claims." *In
+ re Otto,* 312 F.2d 937, 136 USPQ 458, 459 (CCPA 1963); see also *In
+ re Young,* 75 F.2d 996, 25 USPQ 69 (CCPA 1935).
+ 
+
+
+In *Otto,* the claims were directed to a
+ core member for hair curlers (i.e., a particular device) and a method of making the core
+ member (i.e., a particular method of making that device) and "not to a method of curling
+ hair wherein th[e] particular device is used." 312 F.2d at 940. The court held that
+ patentability of the claims cannot be based "upon a certain procedure for curling hair
+ using th[e] device and involving a number of steps in the process." The court noted that
+ "the process is irrelevant as is the recitation involving the hair being wound around
+ the core" in terms of determining patentability of the particular device.
+ *Id.* Therefore, the inclusion of the material or article worked
+ upon by a structure being claimed does not impart patentability to the claims.
+ 
+
+
+In *Young,* a claim to a machine for making concrete
+ beams included a limitation to the concrete reinforced members made by the machine as
+ well as the structural elements of the machine itself. The court held that the inclusion
+ of the article formed within the body of the claim did not, without more, make the claim
+ patentable.
+ 
+
+
+In *In re Casey,* 370 F.2d 576, 152 USPQ 235 (CCPA
+ 1967), an apparatus claim recited "[a] taping machine comprising a supporting structure,
+ a brush attached to said supporting structure, said brush being formed with projecting
+ bristles which terminate in free ends to collectively define a surface to which adhesive
+ tape will detachably adhere, and means for providing relative motion between said brush
+ and said supporting structure while said adhesive tape is adhered to said surface." An
+ obviousness rejection was made over a reference to Kienzle which taught a machine for
+ perforating sheets. The court upheld the rejection stating that "the references in claim
+ 1 to adhesive tape handling do not expressly or impliedly require any particular
+ structure in addition to that of Kienzle." *Id.* at 580-81. The
+ perforating device had the structure of the taping device as claimed, the difference was
+ in the use of the device, and "the manner or method in which such machine is to be
+ utilized is not germane to the issue of patentability of the machine itself."
+ *Id.* at 580.
+ 
+
+
+Note that this line of cases is limited to claims directed to machinery
+ which works upon an article or material in its intended use. 
+ 
+
+
+[[top]](#top)
+
+
+]

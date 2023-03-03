@@ -1,0 +1,340 @@
+[
+# 2124 Exception to the Rule That the Reference Must be Prior
+ Art [R-10.2019]
+
+**IN SOME CIRCUMSTANCES A FACTUAL REFERENCE NEED NOT ANTEDATE THE FILING DATE**In certain circumstances, references cited to show a universal fact
+ need not be available as prior art before applicant’s filing date. *In re
+ Wilson,* 311 F.2d 266, 135 USPQ 442 (CCPA 1962). Such facts include the
+ characteristics and properties of a material or a scientific truism. Some specific
+ examples in which later publications showing factual evidence can be cited include
+ situations where the facts shown in the reference are evidence "that, as of
+ an application’s filing date, undue experimentation would have been
+ required, *In re Corneil,* 347 F.2d 563, 568, 145 USPQ 702, 705 (CCPA
+ 1965), or that a parameter absent from the claims was or was not critical, *In
+ re Rainer,* 305 F.2d 505, 507 n.3, 134 USPQ 343, 345 n.3 (CCPA 1962), or
+ that a statement in the specification was inaccurate, *In re**Marzocchi,* 439 F.2d 220, 223 n.4, 169 USPQ 367, 370 n.4 (CCPA 1971),
+ or that the invention was inoperative or lacked utility, *In re
+ Langer,* 503 F.2d 1380, 1391, 183 USPQ 288, 297 (CCPA 1974), or that a claim
+ was indefinite, *In re Glass,* 492 F.2d 1228,1232 n.6, 181 USPQ 31, 34
+ n.6 (CCPA 1974), or that characteristics of prior art products were known, *In
+ re Wilson,* 311 F.2d 266, 135 USPQ 442 (CCPA 1962)." *In re
+ Koller,* 613 F.2d 819, 824 n.5, 204 USPQ 702, 706 n.5 (CCPA 1980) (quoting
+ *In re Hogan,* 559 F.2d 595, 605 n.17, 194 USPQ 527, 537 n.17 (CCPA
+ 1977) (emphasis in original)). See also *Amgen Inc. v. Sanofi,* 872
+ F.3d 1367, 1375, 124 USPQ2d 1354, 1359 (Fed. Cir. 2017)(post-effective-filing-date
+ evidence could be relied upon to show that patent failed to disclose a representative
+ number of species of a claimed genus, and to show that patentees may have engaged in
+ undue experimentation as of the effective filing date to enable the full scope of the
+ claims). However, it is impermissible to use a later factual reference showing the state
+ of the art existing after the effective filing date of the application to determine
+ whether the application is enabled or described as required under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. *In re Koller,* 613 F.2d 819, 823 n. 5, 204 USPQ 702, 706
+ n.5 (CCPA 1980). Post-effective-filing-date evidence offered to illuminate the
+ post-effective-filing-date state of the art is improper. *Amgen,* 872
+ F.3d at 1374, 124 USPQ2d at 1359. References which do not qualify as prior art because
+ they postdate the claimed invention may be relied upon to show the level of ordinary
+ skill in the art at or around the time the invention was made. *Ex parte
+ Erlich,* 22 USPQ 1463 (Bd. Pat. App. & Inter. 1992).
+ 
+
+
+
+# 2124.01 Tax Strategies Deemed Within the Prior
+ Art [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **applicable** to applications
+ subject to the first inventor to file (FITF) provisions of the AIA except that the
+ relevant date is the "effective filing date" of the claimed invention instead of the
+ "time of the invention," which is only applicable to applications subject to
+ **[pre-AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. See **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP
+ § 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq.]*
+
+**I.** **OVERVIEW****[The
+ Leahy-Smith America Invents Act (AIA), Public Law 112-29, sec.
+ 14](mpep-9015-appx-l.html#aiasec14taxstrategy)**, 125 Stat. 284 (September 16, 2011) provides that for
+ purposes of evaluating an invention for novelty and nonobviousness under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**, any strategy for
+ reducing, avoiding, or deferring tax liability (hereinafter "tax strategy"), whether
+ known or unknown at the time of the invention or application for patent, shall be
+ deemed insufficient to differentiate a claimed invention from the prior art. As a
+ result, applicants will no longer be able to rely on the novelty or non-obviousness
+ of a tax strategy embodied in their claims to distinguish them from the prior art.
+ Any tax strategy will be considered indistinguishable from all other publicly
+ available information that is relevant to a patent’s claim of originality. This
+ provision aims to keep the ability to interpret the tax law and to implement such
+ interpretation in the public domain, available to all taxpayers and their
+ advisors.
+ 
+
+
+The term "tax liability" is defined for purposes of this
+ provision as referring to any liability for a tax under any federal, state, or local
+ law, or the law of any foreign jurisdiction, including any statute, rule, regulation,
+ or ordinance that levies, imposes, or assesses such tax liability.
+ 
+
+
+There are two exclusions to this provision. The first
+ is that the provision does not apply to that part of an invention that is a method,
+ apparatus, technology, computer program product, or system, that is used solely for
+ preparing a tax or information return or other tax filing, including one that
+ records, transmits, transfers, or organizes data related to such filing.
+ 
+
+
+The second is that the provision does not apply to
+ that part of an invention that is a method, apparatus, technology, computer program
+ product, or system, that is used solely for financial management, to the extent that
+ it is severable from any tax strategy or does not limit the use of any tax strategy
+ by any taxpayer or tax advisor.
+ 
+
+
+This provision took effect on September 16, 2011, and
+ applies to any patent application that is pending on, or filed on or after, September
+ 16, 2011, and to any patent issued on or after September 16, 2011. Accordingly, this
+ provision will apply in a reexamination or other post-grant proceeding only to
+ patents issued on or after September 16, 2011.
+ 
+
+**II.** **EXAMINATION GUIDANCE FOR CLAIMS RELATING TO TAX STRATEGIES**The following procedure should be followed when
+ examining claims relating to tax strategies.
+ 
+
+
+* 1. Construe the claim in accordance with
+ **[MPEP §
+ 2111](s2111.html#d0e200352)***et seq.*
+* 2. Analyze the claim for compliance with
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[112](mpep-9015-appx-l.html#d0e302824)** in accordance with
+ current guidance, which is unaffected by this provision.
+* 3. Identify any limitations relating to a tax
+ strategy, as defined above (note the listed exclusions).
+	+ a. Inventions that fall within the scope of
+	 **[AIA section 14](mpep-9015-appx-l.html#aiasec14taxstrategy)**
+	 include those tax strategies especially suitable for use with tax-favored
+	 structures that must meet certain requirements, such as employee benefit
+	 plans, tax-exempt organizations, or other entities that must be
+	 structured or operated in a particular manner to obtain certain tax
+	 consequences.
+	+ b. Thus, **[AIA section
+	 14](mpep-9015-appx-l.html#aiasec14taxstrategy)** applies if the effect of an invention is to aid
+	 in satisfying the qualification requirements for a desired tax-favored
+	 entity status, to take advantage of the specific tax benefits offered in
+	 a tax-favored structure, or to allow for tax reduction, avoidance, or
+	 deferral not otherwise automatically available in such entity or
+	 structure.
+* 4. Evaluate the claim in view of the prior art
+ under **[35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**, treating any
+ limitations relating to a tax strategy as being within the prior art, and not
+ as a patentable difference between the claim and the prior art. This approach
+ is analogous to the treatment of printed matter limitations in a claim as
+ discussed at **[MPEP § 2112.01](s2112.html#d0e201273)**, subsection III.
+
+
+Form paragraph **[7.06.01](#fp7.06.01)** may be used to indicate
+ claim limitation(s) interpreted as a tax strategy. 
+ 
+
+
+# ¶ 7.06.01 Claim Limitation Relating to a Tax Strategy Deemed To Be
+ Within the Prior Art under 35 U.S.C. 102 and/or 103
+
+
+Claim limitation "**[1]**" has been interpreted
+ as a strategy for reducing, avoiding, or deferring tax liability ("tax strategy") pursuant to
+ Section 14 of the Leahy-Smith America Invents Act. Accordingly, this claim limitation is being
+ treated as being within the prior art and is insufficient to differentiate the invention of
+ claim **[2]** from the prior art.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 1, recite the claim limitation that
+ relates to a tax strategy. For more information see **[MPEP §
+ 2124.01](s2124.html#ch2100_d1b13f_20224_b9)**.
+* 2. In bracket 2, insert claim number(s), pluralize
+ "claim" as appropriate.
+
+
+**III.** **EXAMPLES DIRECTED TO COMPUTER-IMPLEMENTED METHODS**A computer-implemented method that is deemed novel and
+ non-obvious would not be affected by this provision even if used for a tax purpose.
+ For example, a novel and non-obvious computer-implemented method for manipulating
+ data would not be affected by this provision even if the method organized data for a
+ future tax filing. However, a prior art computer-implemented method would not become
+ non-obvious by implementing a novel and non-obvious tax strategy. That is, the
+ presence of limitations relating to the tax strategy would not cause a claim that is
+ otherwise within the prior art to become novel or non-obvious over the prior art. 
+ 
+
+
+Thus, for purposes of applying art to a
+ software-related invention under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[35
+ U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, claim limitations that are directed solely to
+ enabling individuals to file their income tax returns or assisting them with managing
+ their finances should be given patentable weight, except that claim limitations
+ directed to a tax strategy should not be given patentable weight. 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2124.01 Tax Strategies Deemed Within the Prior
+ Art [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **applicable** to applications
+ subject to the first inventor to file (FITF) provisions of the AIA except that the
+ relevant date is the "effective filing date" of the claimed invention instead of the
+ "time of the invention," which is only applicable to applications subject to
+ **[pre-AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. See **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP
+ § 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq.]*
+
+**I.** **OVERVIEW****[The
+ Leahy-Smith America Invents Act (AIA), Public Law 112-29, sec.
+ 14](mpep-9015-appx-l.html#aiasec14taxstrategy)**, 125 Stat. 284 (September 16, 2011) provides that for
+ purposes of evaluating an invention for novelty and nonobviousness under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**, any strategy for
+ reducing, avoiding, or deferring tax liability (hereinafter "tax strategy"), whether
+ known or unknown at the time of the invention or application for patent, shall be
+ deemed insufficient to differentiate a claimed invention from the prior art. As a
+ result, applicants will no longer be able to rely on the novelty or non-obviousness
+ of a tax strategy embodied in their claims to distinguish them from the prior art.
+ Any tax strategy will be considered indistinguishable from all other publicly
+ available information that is relevant to a patent’s claim of originality. This
+ provision aims to keep the ability to interpret the tax law and to implement such
+ interpretation in the public domain, available to all taxpayers and their
+ advisors.
+ 
+
+
+The term "tax liability" is defined for purposes of this
+ provision as referring to any liability for a tax under any federal, state, or local
+ law, or the law of any foreign jurisdiction, including any statute, rule, regulation,
+ or ordinance that levies, imposes, or assesses such tax liability.
+ 
+
+
+There are two exclusions to this provision. The first
+ is that the provision does not apply to that part of an invention that is a method,
+ apparatus, technology, computer program product, or system, that is used solely for
+ preparing a tax or information return or other tax filing, including one that
+ records, transmits, transfers, or organizes data related to such filing.
+ 
+
+
+The second is that the provision does not apply to
+ that part of an invention that is a method, apparatus, technology, computer program
+ product, or system, that is used solely for financial management, to the extent that
+ it is severable from any tax strategy or does not limit the use of any tax strategy
+ by any taxpayer or tax advisor.
+ 
+
+
+This provision took effect on September 16, 2011, and
+ applies to any patent application that is pending on, or filed on or after, September
+ 16, 2011, and to any patent issued on or after September 16, 2011. Accordingly, this
+ provision will apply in a reexamination or other post-grant proceeding only to
+ patents issued on or after September 16, 2011.
+ 
+
+**II.** **EXAMINATION GUIDANCE FOR CLAIMS RELATING TO TAX STRATEGIES**The following procedure should be followed when
+ examining claims relating to tax strategies.
+ 
+
+
+* 1. Construe the claim in accordance with
+ **[MPEP §
+ 2111](s2111.html#d0e200352)***et seq.*
+* 2. Analyze the claim for compliance with
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[112](mpep-9015-appx-l.html#d0e302824)** in accordance with
+ current guidance, which is unaffected by this provision.
+* 3. Identify any limitations relating to a tax
+ strategy, as defined above (note the listed exclusions).
+	+ a. Inventions that fall within the scope of
+	 **[AIA section 14](mpep-9015-appx-l.html#aiasec14taxstrategy)**
+	 include those tax strategies especially suitable for use with tax-favored
+	 structures that must meet certain requirements, such as employee benefit
+	 plans, tax-exempt organizations, or other entities that must be
+	 structured or operated in a particular manner to obtain certain tax
+	 consequences.
+	+ b. Thus, **[AIA section
+	 14](mpep-9015-appx-l.html#aiasec14taxstrategy)** applies if the effect of an invention is to aid
+	 in satisfying the qualification requirements for a desired tax-favored
+	 entity status, to take advantage of the specific tax benefits offered in
+	 a tax-favored structure, or to allow for tax reduction, avoidance, or
+	 deferral not otherwise automatically available in such entity or
+	 structure.
+* 4. Evaluate the claim in view of the prior art
+ under **[35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**, treating any
+ limitations relating to a tax strategy as being within the prior art, and not
+ as a patentable difference between the claim and the prior art. This approach
+ is analogous to the treatment of printed matter limitations in a claim as
+ discussed at **[MPEP § 2112.01](s2112.html#d0e201273)**, subsection III.
+
+
+Form paragraph **[7.06.01](#fp7.06.01)** may be used to indicate
+ claim limitation(s) interpreted as a tax strategy. 
+ 
+
+
+# ¶ 7.06.01 Claim Limitation Relating to a Tax Strategy Deemed To Be
+ Within the Prior Art under 35 U.S.C. 102 and/or 103
+
+
+Claim limitation "**[1]**" has been interpreted
+ as a strategy for reducing, avoiding, or deferring tax liability ("tax strategy") pursuant to
+ Section 14 of the Leahy-Smith America Invents Act. Accordingly, this claim limitation is being
+ treated as being within the prior art and is insufficient to differentiate the invention of
+ claim **[2]** from the prior art.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 1, recite the claim limitation that
+ relates to a tax strategy. For more information see **[MPEP §
+ 2124.01](s2124.html#ch2100_d1b13f_20224_b9)**.
+* 2. In bracket 2, insert claim number(s), pluralize
+ "claim" as appropriate.
+
+
+**III.** **EXAMPLES DIRECTED TO COMPUTER-IMPLEMENTED METHODS**A computer-implemented method that is deemed novel and
+ non-obvious would not be affected by this provision even if used for a tax purpose.
+ For example, a novel and non-obvious computer-implemented method for manipulating
+ data would not be affected by this provision even if the method organized data for a
+ future tax filing. However, a prior art computer-implemented method would not become
+ non-obvious by implementing a novel and non-obvious tax strategy. That is, the
+ presence of limitations relating to the tax strategy would not cause a claim that is
+ otherwise within the prior art to become novel or non-obvious over the prior art. 
+ 
+
+
+Thus, for purposes of applying art to a
+ software-related invention under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[35
+ U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, claim limitations that are directed solely to
+ enabling individuals to file their income tax returns or assisting them with managing
+ their finances should be given patentable weight, except that claim limitations
+ directed to a tax strategy should not be given patentable weight. 
+ 
+
+
+]

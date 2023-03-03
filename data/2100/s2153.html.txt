@@ -1,0 +1,760 @@
+[
+# 2153 Prior Art Exceptions Under 35 U.S.C. 102(b)(1) to
+ AIA 35 U.S.C. 102(a)(1) [R-11.2013]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP § 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for
+ examination of applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+See **[MPEP § 2153.01](s2153.html#ch2100_d20033_24caf_cd)** for prior art exceptions
+ based on grace period inventor or inventor-originated disclosures as provided for under
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)**. See **[MPEP §
+ 2153.02](s2153.html#ch2100_d20033_25935_125)** for prior art exceptions based on inventor or
+ inventor-originated prior public disclosures.
+ 
+
+
+
+# 2153.01 Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(1)(A) To AIA 35 U.S.C. 102(a)(1) (Grace Period Inventor Or Inventor-Originated
+ Disclosure Exception) [R-11.2013]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides exceptions to the prior art
+ provisions of **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. These
+ exceptions limit the use of an inventor's own work as prior art, when the inventor's own
+ work has been publicly disclosed by the inventor, a joint inventor, or another who
+ obtained the subject matter directly or indirectly from the inventor or joint inventor
+ not more than one year before the effective filing date of the claimed invention.
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides that a disclosure which would
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** is not prior
+ art if the disclosure was made: (1) One year or less before the effective filing date of
+ the claimed invention; and (2) by the inventor or a joint inventor, or by another who
+ obtained the subject matter directly or indirectly from the inventor or joint inventor.
+ **[MPEP §
+ 2153.01(a)](s2153.html#ch2100_d20033_24e66_2ac)** discusses issues pertaining to disclosures within
+ the grace period by the inventor or a joint inventor ("grace period inventor
+ disclosures") and **[MPEP § 2153.01(b)](s2153.html#ch2100_d20033_256f4_147)** discusses issues
+ pertaining to disclosures within the grace period by another who obtained the subject
+ matter directly or indirectly from the inventor or joint inventor ("grace period
+ inventor-originated disclosures"). **[MPEP § 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** discusses the "effective
+ filing date" of a claimed invention.
+ 
+
+
+
+# 2153.01(a) Grace Period Inventor Disclosure
+ Exception [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** first provides that a disclosure which
+ would otherwise qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** may be excepted as prior art if the disclosure is
+ made: (1) one year or less before the effective filing date of the claimed invention;
+ and (2) by the inventor or a joint inventor. Thus, a disclosure that would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** will not
+ be treated as prior art by Office personnel if the disclosure is made one year or
+ less before the effective filing date of the claimed invention, and the evidence
+ shows that the disclosure is by the inventor or a joint inventor. What evidence is
+ necessary to show that the disclosure is by the inventor or a joint inventor requires
+ case-by-case treatment, depending upon whether it is apparent from the disclosure
+ itself or the patent application specification that the disclosure is by the inventor
+ or a joint inventor.
+ 
+
+
+Office personnel will not apply a disclosure as prior
+ art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if it is apparent from the disclosure
+ itself that it is by the inventor or a joint inventor. Specifically, Office personnel
+ will not apply a disclosure as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if the disclosure: (1) was made one year or less
+ before the effective filing date of the claimed invention; (2) names the inventor or
+ a joint inventor as an author or an inventor; and (3) does not name additional
+ persons as authors on a printed publication or joint inventors on a patent. This
+ means that in circumstances where an application names additional persons as joint
+ inventors relative to the persons named as authors in the publication (e.g., the
+ application names as joint inventors A, B, and C, and the publication names as
+ authors A and B), and the publication is one year or less before the effective filing
+ date, it is apparent that the disclosure is a grace period inventor disclosure, and
+ the publication would not be treated as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. If, however, the application names fewer joint
+ inventors than a publication (e.g., the application names as joint inventors A and B,
+ and the publication names as authors A, B and C), it would not be readily apparent
+ from the publication that it is by the inventor (i.e., the inventive entity) or a
+ joint inventor and the publication would be treated as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**.
+ 
+
+
+Applicants can include a statement designating any
+ grace period inventor disclosures in the specification See **[37 CFR
+ 1.77(b)(6)](mpep-9020-appx-r.html#ar_d1fc99_2016c_96)** and **[MPEP § 608.01(a)](s608.html#d0e43582)**. An applicant is
+ not required to use the format specified in **[37 CFR 1.77](mpep-9020-appx-r.html#d0e320555)** or identify any prior
+ disclosures by the inventor or a joint inventor (unless necessary to overcome a
+ rejection), but identifying any prior disclosures by the inventor or a joint inventor
+ may expedite examination of the application and save applicants (and the Office) the
+ costs related to an Office action and reply. If the patent application specification
+ contains a specific reference to a grace period inventor disclosure, the Office will
+ consider it apparent from the specification that the prior disclosure is by the
+ inventor or a joint inventor, provided that the prior disclosure does not name
+ additional authors or joint inventors and there is no other evidence to the contrary.
+ The applicant may also provide a copy of the grace period inventor disclosure (e.g.,
+ copy of a printed publication).
+ 
+
+
+The Office has provided a mechanism for filing an
+ affidavit or declaration (under **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)**) to establish that a
+ disclosure is not prior art under **[AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** due to an
+ exception in **[AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#al_d1d85b_11e7d_156)**. See
+ **[MPEP §
+ 717](s717.html#ch700_d1ffd2_235c5_25d)**. In the situations in which it is not apparent from the
+ prior disclosure or the patent application specification that the prior disclosure is
+ by the inventor or a joint inventor, the applicant may establish by way of an
+ affidavit or declaration that a grace period disclosure is not prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** because the prior disclosure was by the
+ inventor or a joint inventor. **[MPEP § 2155.01](s2155.html#ch2100_d20034_17271_83)** discusses the use of
+ affidavits or declarations to show that the prior disclosure was made by the inventor
+ or a joint inventor under the exception of **[AIA 35 U.S.C.
+ 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** for a grace period inventor disclosure.
+ 
+
+
+
+
+# 2153.01(b) Grace Period Inventor-Originated Disclosure
+ Exception [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** also provides that a disclosure which would
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** may be
+ excepted as prior art if the disclosure was made: (1) one year or less before the
+ effective filing date of the claimed invention; and (2) by another who obtained the
+ subject matter directly or indirectly from the inventor or a joint inventor. Thus, if
+ a prior disclosure upon which the rejection is based is by someone who obtained the
+ subject matter from the inventor or a joint inventor, and was made one year or less
+ before the effective filing date of the claimed invention, the applicant may
+ establish by way of an affidavit or declaration that the prior disclosure is not
+ prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** because
+ the prior disclosure was by another who obtained the subject matter directly or
+ indirectly from the inventor or a joint inventor. **[MPEP § 718](s718.html#d0e93900)** and
+ **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discuss the use of affidavits or declarations to
+ show that a prior disclosure was by another who obtained the subject matter disclosed
+ directly or indirectly from the inventor or a joint inventor under the exception of
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** for a grace period inventor-originated
+ disclosure.
+ 
+
+
+
+
+
+# 2153.02 Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(1)(B) to AIA 35 U.S.C. 102(a)(1) (Inventor Or Inventor-Originated Prior Public
+ Disclosure Exception) [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** provides additional exceptions to the prior
+ art provisions of **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. These
+ provisions except as prior art a disclosure of subject matter that occurs after the
+ subject matter had been publicly disclosed by the inventor, a joint inventor, or another
+ who obtained the subject matter directly or indirectly from the inventor or joint
+ inventor. Specifically, **[AIA 35 U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** provides
+ that a disclosure which would otherwise qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** (patent, printed publication, public use, sale, or other
+ means of public availability) may be excepted as prior art if: (1) the disclosure was
+ made one year or less before the effective filing date of the claimed invention; and (2)
+ the subject matter disclosed had been previously publicly disclosed by the inventor, a
+ joint inventor, or another who obtained the subject matter directly or indirectly from
+ the inventor or joint inventor. The previous public disclosure of the subject matter by
+ the inventor, a joint inventor, or another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor typically will be a disclosure within the
+ one-year grace period (i.e., be either a grace period inventor disclosure by the
+ inventor or a joint inventor or be a grace period inventor-originated disclosure by
+ another who obtained the subject matter directly or indirectly from the inventor or
+ joint inventor). However, if the previous public disclosure of the subject matter was
+ made outside the grace period, it would qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** that could not be excepted under **[AIA 35 U.S.C.
+ 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)**. **[MPEP § 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** discusses the "effective
+ filing date" of a claimed invention. **[MPEP §
+ 2155.02](s2155.html#ch2100_d20034_173e3_369)** discusses the use of affidavits or declarations to
+ show that the subject matter disclosed had, before such disclosure, been publicly
+ disclosed by the inventor or a joint inventor, and **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that the disclosure was made, or that the subject matter had been previously
+ publicly disclosed, by another obtained the subject matter disclosed directly or
+ indirectly from the inventor or a joint inventor.
+ 
+
+
+The exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** applies if the "subject matter disclosed [in the
+ intervening disclosure] had, before such [intervening] disclosure, been publicly
+ disclosed by the inventor or a joint inventor (or another who obtained the subject
+ matter directly or indirectly from the inventor or joint inventor)." See
+ **[35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**. The exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** focuses on the "subject matter" that had been
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor). There is no
+ requirement under **[AIA 35 U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** that the
+ mode of disclosure by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor) be the same
+ as the mode of disclosure of the intervening grace period disclosure (e.g., patenting,
+ publication, public use, sale activity). There is also no requirement that the
+ disclosure by the inventor or a joint inventor be a verbatim or ipsissimis verbis
+ disclosure of the intervening grace period disclosure. See *In re Kao,*
+ 639 F.3d 1057, 1066 98 USPQ2d 1799, 1806 (Fed. Cir. 2011) (subject matter does not
+ change as a function of how one chooses to describe it). What is required for subject
+ matter in an intervening grace period disclosure to be excepted under **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** is that the subject matter of the disclosure to be
+ excepted as prior art must have been previously publicly disclosed by the inventor or a
+ joint inventor (or by another who obtained the subject matter therefrom).
+ 
+
+
+The exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** applies to the subject matter in the intervening
+ grace period disclosure being relied upon as prior art for a rejection under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** (an intervening disclosure) that was also
+ publicly disclosed by the inventor or a joint inventor (or by another who obtained the
+ subject matter therefrom) before such intervening disclosure. The subject matter of an
+ intervening grace period disclosure that is not in the inventor or inventor-originated
+ prior public disclosure is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. For example, if the inventor or a joint inventor had
+ publicly disclosed elements A, B, and C, and a subsequent intervening grace period
+ disclosure discloses elements A, B, C, and D, then only element D of the intervening
+ grace period disclosure is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. In other words, the exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** does not necessarily remove the entire disclosure in
+ the intervening reference from being prior art.
+ 
+
+
+In addition, if subject matter of an intervening grace
+ period disclosure is simply a more general description of the subject matter in the
+ inventor or inventor-originated prior public disclosure, the exception in
+ **[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** applies to such subject matter of the
+ intervening grace period disclosure. For example, if the inventor or a joint inventor
+ had publicly disclosed a species, and a subsequent intervening grace period disclosure
+ discloses a genus (i.e., provides a more generic disclosure of the species), the
+ intervening grace period disclosure of the genus is not available as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. Conversely, if the inventor or a joint inventor
+ had publicly disclosed a genus, and a subsequent intervening grace period disclosure
+ discloses a species, the intervening grace period disclosure of the species would be
+ available as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. Likewise,
+ if the inventor or a joint inventor had publicly disclosed a species, and a subsequent
+ intervening grace period disclosure discloses an alternative species not also disclosed
+ by the inventor or a joint inventor, the intervening grace period disclosure of the
+ alternative species would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**.
+ 
+
+
+Finally, **[AIA 35 U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** does not
+ discuss "the claimed invention" with respect to either the subject matter disclosed by
+ the inventor or a joint inventor, or the subject matter of the subsequent intervening
+ grace period disclosure. Any inquiry with respect to the claimed invention is whether or
+ not the subject matter in the prior art disclosure being relied upon anticipates or
+ renders obvious the claimed invention. A determination of whether the exception in
+ **[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** is applicable to subject matter in an
+ intervening grace period disclosure does not involve a comparison of the subject matter
+ of the claimed invention to either the subject matter in the inventor or
+ inventor-originated prior public disclosure, or to the subject matter of the subsequent
+ intervening grace period disclosure.
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2153.01 Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(1)(A) To AIA 35 U.S.C. 102(a)(1) (Grace Period Inventor Or Inventor-Originated
+ Disclosure Exception) [R-11.2013]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides exceptions to the prior art
+ provisions of **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. These
+ exceptions limit the use of an inventor's own work as prior art, when the inventor's own
+ work has been publicly disclosed by the inventor, a joint inventor, or another who
+ obtained the subject matter directly or indirectly from the inventor or joint inventor
+ not more than one year before the effective filing date of the claimed invention.
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides that a disclosure which would
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** is not prior
+ art if the disclosure was made: (1) One year or less before the effective filing date of
+ the claimed invention; and (2) by the inventor or a joint inventor, or by another who
+ obtained the subject matter directly or indirectly from the inventor or joint inventor.
+ **[MPEP §
+ 2153.01(a)](s2153.html#ch2100_d20033_24e66_2ac)** discusses issues pertaining to disclosures within
+ the grace period by the inventor or a joint inventor ("grace period inventor
+ disclosures") and **[MPEP § 2153.01(b)](s2153.html#ch2100_d20033_256f4_147)** discusses issues
+ pertaining to disclosures within the grace period by another who obtained the subject
+ matter directly or indirectly from the inventor or joint inventor ("grace period
+ inventor-originated disclosures"). **[MPEP § 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** discusses the "effective
+ filing date" of a claimed invention.
+ 
+
+
+
+# 2153.01(a) Grace Period Inventor Disclosure
+ Exception [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** first provides that a disclosure which
+ would otherwise qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** may be excepted as prior art if the disclosure is
+ made: (1) one year or less before the effective filing date of the claimed invention;
+ and (2) by the inventor or a joint inventor. Thus, a disclosure that would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** will not
+ be treated as prior art by Office personnel if the disclosure is made one year or
+ less before the effective filing date of the claimed invention, and the evidence
+ shows that the disclosure is by the inventor or a joint inventor. What evidence is
+ necessary to show that the disclosure is by the inventor or a joint inventor requires
+ case-by-case treatment, depending upon whether it is apparent from the disclosure
+ itself or the patent application specification that the disclosure is by the inventor
+ or a joint inventor.
+ 
+
+
+Office personnel will not apply a disclosure as prior
+ art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if it is apparent from the disclosure
+ itself that it is by the inventor or a joint inventor. Specifically, Office personnel
+ will not apply a disclosure as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if the disclosure: (1) was made one year or less
+ before the effective filing date of the claimed invention; (2) names the inventor or
+ a joint inventor as an author or an inventor; and (3) does not name additional
+ persons as authors on a printed publication or joint inventors on a patent. This
+ means that in circumstances where an application names additional persons as joint
+ inventors relative to the persons named as authors in the publication (e.g., the
+ application names as joint inventors A, B, and C, and the publication names as
+ authors A and B), and the publication is one year or less before the effective filing
+ date, it is apparent that the disclosure is a grace period inventor disclosure, and
+ the publication would not be treated as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. If, however, the application names fewer joint
+ inventors than a publication (e.g., the application names as joint inventors A and B,
+ and the publication names as authors A, B and C), it would not be readily apparent
+ from the publication that it is by the inventor (i.e., the inventive entity) or a
+ joint inventor and the publication would be treated as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**.
+ 
+
+
+Applicants can include a statement designating any
+ grace period inventor disclosures in the specification See **[37 CFR
+ 1.77(b)(6)](mpep-9020-appx-r.html#ar_d1fc99_2016c_96)** and **[MPEP § 608.01(a)](s608.html#d0e43582)**. An applicant is
+ not required to use the format specified in **[37 CFR 1.77](mpep-9020-appx-r.html#d0e320555)** or identify any prior
+ disclosures by the inventor or a joint inventor (unless necessary to overcome a
+ rejection), but identifying any prior disclosures by the inventor or a joint inventor
+ may expedite examination of the application and save applicants (and the Office) the
+ costs related to an Office action and reply. If the patent application specification
+ contains a specific reference to a grace period inventor disclosure, the Office will
+ consider it apparent from the specification that the prior disclosure is by the
+ inventor or a joint inventor, provided that the prior disclosure does not name
+ additional authors or joint inventors and there is no other evidence to the contrary.
+ The applicant may also provide a copy of the grace period inventor disclosure (e.g.,
+ copy of a printed publication).
+ 
+
+
+The Office has provided a mechanism for filing an
+ affidavit or declaration (under **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)**) to establish that a
+ disclosure is not prior art under **[AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** due to an
+ exception in **[AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#al_d1d85b_11e7d_156)**. See
+ **[MPEP §
+ 717](s717.html#ch700_d1ffd2_235c5_25d)**. In the situations in which it is not apparent from the
+ prior disclosure or the patent application specification that the prior disclosure is
+ by the inventor or a joint inventor, the applicant may establish by way of an
+ affidavit or declaration that a grace period disclosure is not prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** because the prior disclosure was by the
+ inventor or a joint inventor. **[MPEP § 2155.01](s2155.html#ch2100_d20034_17271_83)** discusses the use of
+ affidavits or declarations to show that the prior disclosure was made by the inventor
+ or a joint inventor under the exception of **[AIA 35 U.S.C.
+ 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** for a grace period inventor disclosure.
+ 
+
+
+
+
+# 2153.01(b) Grace Period Inventor-Originated Disclosure
+ Exception [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** also provides that a disclosure which would
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** may be
+ excepted as prior art if the disclosure was made: (1) one year or less before the
+ effective filing date of the claimed invention; and (2) by another who obtained the
+ subject matter directly or indirectly from the inventor or a joint inventor. Thus, if
+ a prior disclosure upon which the rejection is based is by someone who obtained the
+ subject matter from the inventor or a joint inventor, and was made one year or less
+ before the effective filing date of the claimed invention, the applicant may
+ establish by way of an affidavit or declaration that the prior disclosure is not
+ prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** because
+ the prior disclosure was by another who obtained the subject matter directly or
+ indirectly from the inventor or a joint inventor. **[MPEP § 718](s718.html#d0e93900)** and
+ **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discuss the use of affidavits or declarations to
+ show that a prior disclosure was by another who obtained the subject matter disclosed
+ directly or indirectly from the inventor or a joint inventor under the exception of
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** for a grace period inventor-originated
+ disclosure.
+ 
+
+
+
+, 
+# 2153.01(a) Grace Period Inventor Disclosure
+ Exception [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** first provides that a disclosure which
+ would otherwise qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** may be excepted as prior art if the disclosure is
+ made: (1) one year or less before the effective filing date of the claimed invention;
+ and (2) by the inventor or a joint inventor. Thus, a disclosure that would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** will not
+ be treated as prior art by Office personnel if the disclosure is made one year or
+ less before the effective filing date of the claimed invention, and the evidence
+ shows that the disclosure is by the inventor or a joint inventor. What evidence is
+ necessary to show that the disclosure is by the inventor or a joint inventor requires
+ case-by-case treatment, depending upon whether it is apparent from the disclosure
+ itself or the patent application specification that the disclosure is by the inventor
+ or a joint inventor.
+ 
+
+
+Office personnel will not apply a disclosure as prior
+ art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if it is apparent from the disclosure
+ itself that it is by the inventor or a joint inventor. Specifically, Office personnel
+ will not apply a disclosure as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if the disclosure: (1) was made one year or less
+ before the effective filing date of the claimed invention; (2) names the inventor or
+ a joint inventor as an author or an inventor; and (3) does not name additional
+ persons as authors on a printed publication or joint inventors on a patent. This
+ means that in circumstances where an application names additional persons as joint
+ inventors relative to the persons named as authors in the publication (e.g., the
+ application names as joint inventors A, B, and C, and the publication names as
+ authors A and B), and the publication is one year or less before the effective filing
+ date, it is apparent that the disclosure is a grace period inventor disclosure, and
+ the publication would not be treated as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. If, however, the application names fewer joint
+ inventors than a publication (e.g., the application names as joint inventors A and B,
+ and the publication names as authors A, B and C), it would not be readily apparent
+ from the publication that it is by the inventor (i.e., the inventive entity) or a
+ joint inventor and the publication would be treated as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**.
+ 
+
+
+Applicants can include a statement designating any
+ grace period inventor disclosures in the specification See **[37 CFR
+ 1.77(b)(6)](mpep-9020-appx-r.html#ar_d1fc99_2016c_96)** and **[MPEP § 608.01(a)](s608.html#d0e43582)**. An applicant is
+ not required to use the format specified in **[37 CFR 1.77](mpep-9020-appx-r.html#d0e320555)** or identify any prior
+ disclosures by the inventor or a joint inventor (unless necessary to overcome a
+ rejection), but identifying any prior disclosures by the inventor or a joint inventor
+ may expedite examination of the application and save applicants (and the Office) the
+ costs related to an Office action and reply. If the patent application specification
+ contains a specific reference to a grace period inventor disclosure, the Office will
+ consider it apparent from the specification that the prior disclosure is by the
+ inventor or a joint inventor, provided that the prior disclosure does not name
+ additional authors or joint inventors and there is no other evidence to the contrary.
+ The applicant may also provide a copy of the grace period inventor disclosure (e.g.,
+ copy of a printed publication).
+ 
+
+
+The Office has provided a mechanism for filing an
+ affidavit or declaration (under **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)**) to establish that a
+ disclosure is not prior art under **[AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** due to an
+ exception in **[AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#al_d1d85b_11e7d_156)**. See
+ **[MPEP §
+ 717](s717.html#ch700_d1ffd2_235c5_25d)**. In the situations in which it is not apparent from the
+ prior disclosure or the patent application specification that the prior disclosure is
+ by the inventor or a joint inventor, the applicant may establish by way of an
+ affidavit or declaration that a grace period disclosure is not prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** because the prior disclosure was by the
+ inventor or a joint inventor. **[MPEP § 2155.01](s2155.html#ch2100_d20034_17271_83)** discusses the use of
+ affidavits or declarations to show that the prior disclosure was made by the inventor
+ or a joint inventor under the exception of **[AIA 35 U.S.C.
+ 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** for a grace period inventor disclosure.
+ 
+
+
+, 
+# 2153.01(b) Grace Period Inventor-Originated Disclosure
+ Exception [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** also provides that a disclosure which would
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** may be
+ excepted as prior art if the disclosure was made: (1) one year or less before the
+ effective filing date of the claimed invention; and (2) by another who obtained the
+ subject matter directly or indirectly from the inventor or a joint inventor. Thus, if
+ a prior disclosure upon which the rejection is based is by someone who obtained the
+ subject matter from the inventor or a joint inventor, and was made one year or less
+ before the effective filing date of the claimed invention, the applicant may
+ establish by way of an affidavit or declaration that the prior disclosure is not
+ prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** because
+ the prior disclosure was by another who obtained the subject matter directly or
+ indirectly from the inventor or a joint inventor. **[MPEP § 718](s718.html#d0e93900)** and
+ **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discuss the use of affidavits or declarations to
+ show that a prior disclosure was by another who obtained the subject matter disclosed
+ directly or indirectly from the inventor or a joint inventor under the exception of
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** for a grace period inventor-originated
+ disclosure.
+ 
+
+
+, 
+# 2153.02 Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(1)(B) to AIA 35 U.S.C. 102(a)(1) (Inventor Or Inventor-Originated Prior Public
+ Disclosure Exception) [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** provides additional exceptions to the prior
+ art provisions of **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. These
+ provisions except as prior art a disclosure of subject matter that occurs after the
+ subject matter had been publicly disclosed by the inventor, a joint inventor, or another
+ who obtained the subject matter directly or indirectly from the inventor or joint
+ inventor. Specifically, **[AIA 35 U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** provides
+ that a disclosure which would otherwise qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** (patent, printed publication, public use, sale, or other
+ means of public availability) may be excepted as prior art if: (1) the disclosure was
+ made one year or less before the effective filing date of the claimed invention; and (2)
+ the subject matter disclosed had been previously publicly disclosed by the inventor, a
+ joint inventor, or another who obtained the subject matter directly or indirectly from
+ the inventor or joint inventor. The previous public disclosure of the subject matter by
+ the inventor, a joint inventor, or another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor typically will be a disclosure within the
+ one-year grace period (i.e., be either a grace period inventor disclosure by the
+ inventor or a joint inventor or be a grace period inventor-originated disclosure by
+ another who obtained the subject matter directly or indirectly from the inventor or
+ joint inventor). However, if the previous public disclosure of the subject matter was
+ made outside the grace period, it would qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** that could not be excepted under **[AIA 35 U.S.C.
+ 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)**. **[MPEP § 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** discusses the "effective
+ filing date" of a claimed invention. **[MPEP §
+ 2155.02](s2155.html#ch2100_d20034_173e3_369)** discusses the use of affidavits or declarations to
+ show that the subject matter disclosed had, before such disclosure, been publicly
+ disclosed by the inventor or a joint inventor, and **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that the disclosure was made, or that the subject matter had been previously
+ publicly disclosed, by another obtained the subject matter disclosed directly or
+ indirectly from the inventor or a joint inventor.
+ 
+
+
+The exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** applies if the "subject matter disclosed [in the
+ intervening disclosure] had, before such [intervening] disclosure, been publicly
+ disclosed by the inventor or a joint inventor (or another who obtained the subject
+ matter directly or indirectly from the inventor or joint inventor)." See
+ **[35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**. The exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** focuses on the "subject matter" that had been
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor). There is no
+ requirement under **[AIA 35 U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** that the
+ mode of disclosure by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor) be the same
+ as the mode of disclosure of the intervening grace period disclosure (e.g., patenting,
+ publication, public use, sale activity). There is also no requirement that the
+ disclosure by the inventor or a joint inventor be a verbatim or ipsissimis verbis
+ disclosure of the intervening grace period disclosure. See *In re Kao,*
+ 639 F.3d 1057, 1066 98 USPQ2d 1799, 1806 (Fed. Cir. 2011) (subject matter does not
+ change as a function of how one chooses to describe it). What is required for subject
+ matter in an intervening grace period disclosure to be excepted under **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** is that the subject matter of the disclosure to be
+ excepted as prior art must have been previously publicly disclosed by the inventor or a
+ joint inventor (or by another who obtained the subject matter therefrom).
+ 
+
+
+The exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** applies to the subject matter in the intervening
+ grace period disclosure being relied upon as prior art for a rejection under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** (an intervening disclosure) that was also
+ publicly disclosed by the inventor or a joint inventor (or by another who obtained the
+ subject matter therefrom) before such intervening disclosure. The subject matter of an
+ intervening grace period disclosure that is not in the inventor or inventor-originated
+ prior public disclosure is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. For example, if the inventor or a joint inventor had
+ publicly disclosed elements A, B, and C, and a subsequent intervening grace period
+ disclosure discloses elements A, B, C, and D, then only element D of the intervening
+ grace period disclosure is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. In other words, the exception in **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** does not necessarily remove the entire disclosure in
+ the intervening reference from being prior art.
+ 
+
+
+In addition, if subject matter of an intervening grace
+ period disclosure is simply a more general description of the subject matter in the
+ inventor or inventor-originated prior public disclosure, the exception in
+ **[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** applies to such subject matter of the
+ intervening grace period disclosure. For example, if the inventor or a joint inventor
+ had publicly disclosed a species, and a subsequent intervening grace period disclosure
+ discloses a genus (i.e., provides a more generic disclosure of the species), the
+ intervening grace period disclosure of the genus is not available as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. Conversely, if the inventor or a joint inventor
+ had publicly disclosed a genus, and a subsequent intervening grace period disclosure
+ discloses a species, the intervening grace period disclosure of the species would be
+ available as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. Likewise,
+ if the inventor or a joint inventor had publicly disclosed a species, and a subsequent
+ intervening grace period disclosure discloses an alternative species not also disclosed
+ by the inventor or a joint inventor, the intervening grace period disclosure of the
+ alternative species would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**.
+ 
+
+
+Finally, **[AIA 35 U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** does not
+ discuss "the claimed invention" with respect to either the subject matter disclosed by
+ the inventor or a joint inventor, or the subject matter of the subsequent intervening
+ grace period disclosure. Any inquiry with respect to the claimed invention is whether or
+ not the subject matter in the prior art disclosure being relied upon anticipates or
+ renders obvious the claimed invention. A determination of whether the exception in
+ **[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** is applicable to subject matter in an
+ intervening grace period disclosure does not involve a comparison of the subject matter
+ of the claimed invention to either the subject matter in the inventor or
+ inventor-originated prior public disclosure, or to the subject matter of the subsequent
+ intervening grace period disclosure.
+ 
+
+
+]

@@ -1,0 +1,78 @@
+[
+# 2185 Related Issues Under 35 U.S.C. 112(a) or (b) and Pre-AIA 35 U.S.C.
+ 112, First or Second Paragraphs [R-10.2019]
+
+
+Interpretation of claims as set forth in **[MPEP § 2181](s2181.html#d0e219279)** may create
+ some uncertainty as to what the inventor or a joint inventor regards as the invention. If
+ this issue arises, it should be addressed in a rejection under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph. While **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ permits a particular form of claim limitation, it cannot be read as creating an exception
+ either to the description, enablement or best mode requirements of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph
+ or the definiteness requirement of **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph. *In re**Knowlton,* 481 F.2d 1357, 178 USPQ 486 (CCPA 1973).
+ 
+
+
+If a means- (or step-) plus-function limitation recited in a claim is not
+ supported by corresponding structure, material or acts in the specification disclosure, the
+ following rejections under **[35 U.S.C. 112](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** should be considered:
+ 
+
+
+* (A) under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as not being supported by an
+ enabling disclosure because the person skilled in the art would not know how to make
+ and use the invention without a description of elements to perform the function. Note
+ that the description of an apparatus with block diagrams describing the function, but
+ not the structure, of the apparatus is not fatal under the enablement requirement of
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, as long as the structure is conventional and can be determined without an
+ undue amount of experimentation. *In re**Ghiron,* 442 F.2d 985, 991, 169 USPQ 723, 727 (CCPA 1971);
+* (B) under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph as lacking adequate written
+ description because the specification does not describe the claimed invention in
+ sufficient detail that one skilled in the art can reasonably conclude that the
+ inventor had possession of the claimed invention. As an example, if the means- (or
+ step-) plus-function limitation is computer-implemented, and the specification does
+ not provide a disclosure of the computer and algorithm in sufficient detail to
+ demonstrate to one of ordinary skill in the art that the inventor possessed the
+ invention , see **[MPEP §
+ 2161.01](s2161.html#d0e213447)** and **[MPEP § 2181](s2181.html#d0e219279)**, subsection IV, a
+ rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, for lack of written description
+ must be made; and
+* (C) under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, as being indefinite. See
+ *Noah Systems v. Intuit,* 675 F.3d 1302, 1311-19, 102 USPQ.2d
+ 1410, 1415-21 (Fed. Cir. 2012); *In re Aoyama,* 656 F.3d 1293,
+ 1297-98, 99 U.S.P.Q.2d 1936, 1940 (Fed. Cir. 2011); *Finisar Corp. v. DirecTV
+ Group, Inc.,* 523 F.3d 1323, 1340-41, 86 USPQ2d 1609, 1622-23 (Fed. Cir.
+ 2008); and **[MPEP §
+ 2181](s2181.html#d0e219279)**.
+
+
+ The examiner must also consider an application for
+ compliance with the requirements of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, and
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**. When examining the claims under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** or
+ **[103](mpep-9015-appx-l.html#d0e302450)**
+ a determination of whether the prior art anticipates or renders obvious the claimed subject
+ matter, including the means or step that performs the function specified in the claim, must
+ be made. In the situation when there is no corresponding structure, etc., in the
+ specification to limit the means- (or step-) plus- function limitation, an equivalent is
+ any element that performs the specified function.
+ 
+
+
+[[top]](#top)
+
+
+]

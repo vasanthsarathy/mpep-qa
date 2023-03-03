@@ -1,0 +1,3086 @@
+[
+# 2107 Guidelines for Examination of Applications for Compliance with the
+ Utility Requirement [R-11.2013]
+
+**I.** **INTRODUCTION**The following Guidelines establish the policies and procedures to be
+ followed by Office personnel in the evaluation of any patent application for compliance
+ with the utility requirements of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**, or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. These Guidelines have been promulgated to assist Office personnel in their
+ review of applications for compliance with the utility requirement. The Guidelines do
+ not alter the substantive requirements of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, nor
+ are they designed to obviate the examiner’s review of applications for compliance with
+ all other statutory requirements for patentability. The Guidelines do not constitute
+ substantive rulemaking and hence do not have the force and effect of law. Rejections
+ will be based upon the substantive law, and it is these rejections which are appealable.
+ Consequently, any perceived failure by Office personnel to follow these Guidelines is
+ neither appealable nor petitionable.
+ 
+
+**II.** **EXAMINATION GUIDELINES FOR THE UTILITY REQUIREMENT** Office personnel are to adhere to the following procedures when
+ reviewing patent applications for compliance with the "useful invention" ("utility")
+ requirement of **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. 
+ 
+
+
+* (A) Read the claims and the supporting written description.
+	+ (1) Determine what the applicant has claimed, noting any
+	 specific embodiments of the invention.
+	+ (2) Ensure that the claims define statutory subject matter
+	 (i.e., a process, machine, manufacture, composition of matter, or
+	 improvement thereof).
+	+ (3) If at any time during the examination, it becomes readily
+	 apparent that the claimed invention has a well-established utility, do not
+	 impose a rejection based on lack of utility. An invention has a
+	 well-established utility if (i) a person of ordinary skill in the art would
+	 immediately appreciate why the invention is useful based on the
+	 characteristics of the invention (e.g., properties or applications of a
+	 product or process), and (ii) the utility is specific, substantial, and
+	 credible.
+* (B) Review the claims and the supporting written description to
+ determine if the applicant has asserted for the claimed invention any specific and
+ substantial utility that is credible:
+	+ (1) If the applicant has asserted that the claimed invention is
+	 useful for any particular practical purpose (i.e., it has a "specific and
+	 substantial utility") and the assertion would be considered credible by a
+	 person of ordinary skill in the art, do not impose a rejection based on lack
+	 of utility.
+		- (i) A claimed invention must have a specific and
+		 substantial utility. This requirement excludes "throw-away,"
+		 "insubstantial," or "nonspecific" utilities, such as the use of a
+		 complex invention as landfill, as a way of satisfying the utility
+		 requirement of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+		- (ii) Credibility is assessed from the perspective of one
+		 of ordinary skill in the art in view of the disclosure and any other
+		 evidence of record (e.g., test data, affidavits or declarations from
+		 experts in the art, patents or printed publications) that is probative
+		 of the applicant’s assertions. An applicant need only provide one
+		 credible assertion of specific and substantial utility for each
+		 claimed invention to satisfy the utility requirement.
+	+ (2) If no assertion of specific and substantial utility for the
+	 claimed invention made by the applicant is credible, and the claimed
+	 invention does not have a readily apparent well-established utility, reject
+	 the claim(s) under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** on the
+	 grounds that the invention as claimed lacks utility. Also reject the claims
+	 under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+	 **[pre-AIA
+	 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, on the basis that the
+	 disclosure fails to teach how to use the invention as claimed. The
+	 **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+	 **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824912)**, first paragraph, rejection
+	 imposed in conjunction with a **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** rejection
+	 should incorporate by reference the grounds of the corresponding
+	 **[35
+	 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** rejection.
+	+ (3) If the applicant has not asserted any specific and
+	 substantial utility for the claimed invention and it does not have a readily
+	 apparent well-established utility, impose a rejection under
+	 **[35
+	 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, emphasizing that the applicant has not
+	 disclosed a specific and substantial utility for the invention. Also impose
+	 a separate rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+	 **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824912)**, first paragraph, on the basis
+	 that the applicant has not disclosed how to use the invention due to the
+	 lack of a specific and substantial utility. The **[35 U.S.C.
+	 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** rejections
+	 shift the burden of coming forward with evidence to the applicant to:
+		- (i) Explicitly identify a specific and substantial
+		 utility for the claimed invention; and
+		- (ii) Provide evidence that one of ordinary skill in the
+		 art would have recognized that the identified specific and substantial
+		 utility was well-established at the time of filing. The examiner
+		 should review any subsequently submitted evidence of utility using the
+		 criteria outlined above. The examiner should also ensure that there is
+		 an adequate nexus between the evidence and the properties of the now
+		 claimed subject matter as disclosed in the application as filed. That
+		 is, the applicant has the burden to establish a probative relation
+		 between the submitted evidence and the originally disclosed properties
+		 of the claimed invention.
+	+ (C) Any rejection based on lack of utility should include a
+	 detailed explanation why the claimed invention has no specific and
+	 substantial credible utility. Whenever possible, the examiner should provide
+	 documentary evidence regardless of publication date (e.g., scientific or
+	 technical journals, excerpts from treatises or books, or U.S. or foreign
+	 patents) to support the factual basis for the *prima facie*
+	 showing of no specific and substantial credible utility. If documentary
+	 evidence is not available, the examiner should specifically explain the
+	 scientific basis for his or her factual conclusions.
+		- (1) Where the asserted utility is not specific or
+		 substantial, a *prima facie* showing must establish
+		 that it is more likely than not that a person of ordinary skill in the
+		 art would not consider that any utility asserted by the applicant
+		 would be specific and substantial. The *prima facie*
+		 showing must contain the following elements:
+			* (i) An explanation that clearly sets forth the
+			 reasoning used in concluding that the asserted utility for the
+			 claimed invention is not both specific and substantial nor
+			 well-established;
+			* (ii) Support for factual findings relied upon in
+			 reaching this conclusion; and
+			* (iii) An evaluation of all relevant evidence of
+			 record, including utilities taught in the closest prior art.
+		- (2) Where the asserted specific and substantial utility
+		 is not credible, a *prima facie* showing of no
+		 specific and substantial credible utility must establish that it is
+		 more likely than not that a person skilled in the art would not
+		 consider credible any specific and substantial utility asserted by the
+		 applicant for the claimed invention. The *prima
+		 facie* showing must contain the following elements:
+			* (i) An explanation that clearly sets forth the
+			 reasoning used in concluding that the asserted specific and
+			 substantial utility is not credible;
+			* (ii) Support for factual findings relied upon in
+			 reaching this conclusion; and
+			* (iii) An evaluation of all relevant evidence of
+			 record, including utilities taught in the closest prior art.
+		- (3) Where no specific and substantial utility is
+		 disclosed or is well-established, a *prima facie* showing of no specific and substantial utility need only
+		 establish that applicant has not asserted a utility and that, on the
+		 record before the examiner, there is no known well-established
+		 utility.
+	+ (D) A rejection based on lack of utility should not be
+	 maintained if an asserted utility for the claimed invention would be
+	 considered specific, substantial, and credible by a person of ordinary skill
+	 in the art in view of all evidence of record.
+
+
+Office personnel are reminded that they must treat as true a statement
+ of fact made by an applicant in relation to an asserted utility, unless countervailing
+ evidence can be provided that shows that one of ordinary skill in the art would have a
+ legitimate basis to doubt the credibility of such a statement. Similarly, Office
+ personnel must accept an opinion from a qualified expert that is based upon relevant
+ facts whose accuracy is not being questioned; it is improper to disregard the opinion
+ solely because of a disagreement over the significance or meaning of the facts
+ offered.
+ 
+
+
+Once a *prima facie* showing of no specific and
+ substantial credible utility has been properly established, the applicant bears the
+ burden of rebutting it. The applicant can do this by amending the claims, by providing
+ reasoning or arguments, or by providing evidence in the form of a declaration under
+ **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** or a patent or a printed publication that rebuts the basis
+ or logic of the *prima facie* showing. If the applicant responds to the
+ *prima facie* rejection, the Office personnel should review the
+ original disclosure, any evidence relied upon in establishing the *prima
+ facie* showing, any claim amendments, and any new reasoning or evidence
+ provided by the applicant in support of an asserted specific and substantial credible
+ utility. It is essential for Office personnel to recognize, fully consider and respond
+ to each substantive element of any response to a rejection based on lack of utility.
+ Only where the totality of the record continues to show that the asserted utility is not
+ specific, substantial, and credible should a rejection based on lack of utility be
+ maintained.
+ 
+
+
+If the applicant satisfactorily rebuts a *prima facie*
+ rejection based on lack of utility under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, withdraw the
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** rejection and the corresponding rejection imposed under
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824912)**, first
+ paragraph.
+ 
+
+
+
+# 2107.01 General Principles Governing Utility Rejections [R-10.2019]
+
+
+
+#### *35 U.S.C. 101   
+ Inventions patentable*
+
+
+Whoever invents or discovers any new and useful process, machine,
+ manufacture, or composition of matter, or any new and useful improvement thereof, may
+ obtain a patent therefor, subject to the conditions and requirements of this
+ title.
+ 
+
+
+
+See **[MPEP
+ § 2107](s2107.html#d0e198469)** for guidelines for the examination of applications for
+ compliance with the utility requirement of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ 
+
+
+The Office must examine each application to ensure compliance with the
+ "useful invention" or utility requirement of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. In discharging this
+ obligation, however, Office personnel must keep in mind several general principles that
+ control application of the utility requirement. **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** has been interpreted
+ as imposing four purposes. First, **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** limits an inventor to
+ ONE patent for a claimed invention. If more than one patent is sought, a patent
+ applicant will receive a statutory double patenting rejection for claims included in
+ more than one application that are directed to the same invention. See
+  **[MPEP §
+ 804](s804.html#d0e98894)**. Second, the inventor(s) must be the applicant in an
+ application filed before September 16, 2012, (except as otherwise provided in
+ **[pre-AIA 37 CFR
+ 1.41(b)](mpep-9020-appx-r.html#d0e317757)**) and the inventor or each joint inventor must be
+ identified in an application filed on or after September 16, 2012. See
+ **[MPEP §
+ 2109](s2109.html#ch2100_d2c183_22374_28b)** for a detailed discussion of inventorship,
+ **[MPEP §
+ 602.01(c)](s602.html#d0e4830ss602)***et seq.* for details regarding correction of inventorship,
+ **[MPEP §
+ 2157](s2157.html#ch2100_d20034_1bb92_e7)** for rejections under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[115](mpep-9015-appx-l.html#d0e302875912)** for failure
+ to set forth the correct inventorship, and **[MPEP § 2137](s2137.html#d0e206570)** for rejections under
+ **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)** (for applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**) for failure to set forth the correct inventorship. Third,
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** defines which categories of inventions are eligible for patent
+ protection. An invention that is not a machine, an article of manufacture, a composition
+ or a process cannot be patented. See *Diamond**v.**Chakrabarty,* 447 U.S. 303, 206 USPQ 193 (1980);
+ *Diamond**v.**Diehr,* 450 U.S. 175, 209 USPQ 1 (1981); *In re
+ Nuijten,* 500 F.3d 1346, 1354, 84 USPQ2d 1495, 1500 (Fed. Cir. 2007).
+ Fourth, **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** serves to ensure that patents are granted on only those
+ inventions that are "useful." This second purpose has a Constitutional footing — Article
+ I, Section 8 of the Constitution authorizes Congress to provide exclusive rights to
+ inventors to promote the "useful arts." See *Carl Zeiss Stiftung**v.**Renishaw PLC,* 945 F.2d 1173, 20 USPQ2d 1094 (Fed. Cir. 1991). Thus,
+ to satisfy the requirements of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, an applicant must
+ claim an invention that is statutory subject matter and must show that the claimed
+ invention is "useful" for some purpose either explicitly or implicitly. Application of
+ this latter element of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** is the focus of these guidelines.
+ 
+
+
+Deficiencies under the "useful invention" requirement of
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** will arise in one of two forms. The first is where it is not
+ apparent why the invention is "useful." This can occur when an applicant fails to
+ identify any specific and substantial utility for the invention or fails to disclose
+ enough information about the invention to make its usefulness immediately apparent to
+ those familiar with the technological field of the invention. *Brenner**v.**Manson,* 383 U.S. 519, 148 USPQ 689 (1966); *In re
+ Fisher,* 421 F.3d 1365, 76 USPQ2d 1225 (Fed. Cir. 2005); *In re
+ Ziegler,* 992 F.2d 1197, 26 USPQ2d 1600 (Fed. Cir. 1993). The second type of
+ deficiency arises in the rare instance where an assertion of specific and substantial
+ utility for the invention made by an applicant is not credible.
+ 
+
+**I.** **SPECIFIC AND SUBSTANTIAL REQUIREMENTS**To satisfy **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, an invention must
+ be "useful." Courts have recognized that the term "useful" used with reference to the
+ utility requirement can be a difficult term to define. *Brenner**v.**Manson,* 383 U.S. 519, 529, 148 USPQ 689, 693 (1966) (simple
+ everyday word like "useful" can be "pregnant with ambiguity when applied to the facts
+ of life."). Where an applicant has set forth a specific and substantial utility,
+ courts have been reluctant to uphold a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ solely on the basis that the applicant’s opinion as to the nature of the specific and
+ substantial utility was inaccurate. For example, in *Nelson**v.**Bowler,* 626 F.2d 853, 206 USPQ 881 (CCPA 1980), the court reversed
+ a finding by the Office that the applicant had not set forth a "practical" utility
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. In this case the applicant asserted that the composition
+ was "useful" in a particular pharmaceutical application and provided evidence to
+ support that assertion. Courts have used the labels "practical utility," "substantial
+ utility," or "specific utility" to refer to this aspect of the "useful invention"
+ requirement of **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. The Court of Customs and Patent Appeals has
+ stated:
+ 
+
+
+
+> 
+> Practical utility is a shorthand way of attributing "real-world"
+>  value to claimed subject matter. In other words, one skilled in the art can use a
+>  claimed discovery in a manner which provides some immediate benefit to the
+>  public.
+>  
+> 
+> 
+> 
+
+
+*Nelson v. Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA
+ 1980).
+ 
+
+
+Practical considerations require the Office to rely on the
+ inventor’s understanding of the invention in determining whether and in what regard
+ an invention is believed to be "useful." Because of this, Office personnel should
+ focus on and be receptive to assertions made by the applicant that an invention is
+ "useful" for a particular reason. 
+ 
+
+***A.******Specific Utility***A "specific utility" is *specific* to the
+ subject matter claimed and can "provide a well-defined and particular benefit to
+ the public." *In re Fisher,* 421 F.3d 1365, 1371, 76 USPQ2d 1225,
+ 1230 (Fed. Cir. 2005). This contrasts with a *general* utility
+ that would be applicable to the broad class of the invention. Office personnel
+ should distinguish between situations where an applicant has disclosed a specific
+ use for or application of the invention and situations where the applicant merely
+ indicates that the invention may prove useful without identifying with specificity
+ why it is considered useful. For example, indicating that a
+ compound may be useful in treating unspecified disorders, or that the compound has
+ "useful biological" properties, would not be sufficient to define a specific
+ utility for the compound. See, e.g., *In re Kirk,* 376 F.2d 936,
+ 153 USPQ 48 (CCPA 1967); *In re Joly,* 376 F.2d 906, 153 USPQ 45
+ (CCPA 1967). Similarly, a claim to a polynucleotide whose use is disclosed simply
+ as a "gene probe" or "chromosome marker" would not be considered to be
+ *specific* in the absence of a disclosure of a specific DNA
+ target. See *In re Fisher,* 421 F.3d at 1374, 76 USPQ2d at 1232
+ ("Any EST [expressed sequence tag] transcribed from any gene in the maize genome
+ has the potential to perform any one of the alleged uses…. Nothing about
+ [applicant’s] seven alleged uses set the five claimed ESTs apart from the more
+ than 32,000 ESTs disclosed in the [ ] application or indeed from any EST derived
+ from any organism. Accordingly, we conclude that [applicant] has only disclosed
+ general uses for its claimed ESTs, not specific ones that satisfy
+ **[§
+ 101](mpep-9015-appx-l.html#d0e302376)**."). A general statement of diagnostic utility, such as
+ diagnosing an unspecified disease, would ordinarily be insufficient absent a
+ disclosure of what condition can be diagnosed. Contrast the situation where an
+ applicant discloses a specific biological activity and reasonably correlates that
+ activity to a disease condition. Assertions falling within the latter category are
+ sufficient to identify a specific utility for the invention. Assertions that fall
+ in the former category are insufficient to define a specific utility for the
+ invention, especially if the assertion takes the form of a general statement that
+ makes it clear that a "useful" invention may arise from
+ what has been disclosed by the applicant. *Knapp v.**Anderson,* 477 F.2d 588, 177 USPQ 688 (CCPA 1973).
+ 
+
+***B.******Substantial Utility*** "[A]n application must show that an invention is useful to the
+ public as disclosed in its current form, not that it may prove useful at some
+ future date after further research. Simply put, to satisfy the ‘substantial’
+ utility requirement, an asserted use must show that the claimed invention has a
+ significant and presently available benefit to the public."
+ *Fisher,* 421 F.3d at 1371, 76 USPQ2d at 1230. The claims at
+ issue in *Fisher* were directed to expressed sequence tags
+ (ESTs), which are short nucleotide sequences that can be used to discover what
+ genes and downstream proteins are expressed in a cell. The court held that "the
+ claimed ESTs can be used only to gain further information about the underlying
+ genes and the proteins encoded for by those genes. The claimed ESTs themselves are
+ not an end of [applicant’s] research effort, but only tools to be used along the
+ way in the search for a practical utility…. [Applicant] does not identify the
+ function for the underlying protein-encoding genes. Absent such identification, we
+ hold that the claimed ESTs have not been researched and understood to the point of
+ providing an immediate, well-defined, real world benefit to the public meriting
+ the grant of a patent." *Id.* at 1376, 76 USPQ2d at 1233-34).
+ Thus a "substantial utility" defines a "real world" use. Utilities that require or
+ constitute carrying out further research to identify or reasonably confirm a "real
+ world" context of use are not substantial utilities. For example, both a
+ therapeutic method of treating a known or newly discovered disease and an assay
+ method for identifying compounds that themselves have a "substantial utility"
+ define a "real world" context of use. An assay that measures the presence of a
+ material which has a stated correlation to a predisposition to the onset of a
+ particular disease condition would also define a "real world" context of use in
+ identifying potential candidates for preventive measures or further monitoring. On
+ the other hand, the following are examples of situations that require or
+ constitute carrying out further research to identify or reasonably confirm a "real
+ world" context of use and, therefore, do not define "substantial utilities":
+ 
+
+
+* (A) Basic research such as studying the properties of the
+ claimed product itself or the mechanisms in which the material is
+ involved;
+* (B) A method of treating an *unspecified*
+ disease or condition;
+* (C) A method of assaying for or identifying a material that
+ itself has no specific and/or substantial utility;
+* (D) A method of making a material that itself has no specific,
+ substantial, and credible utility; and
+* (E) A claim to an intermediate product for use in making a
+ final product that has no specific, substantial and credible utility.
+
+
+Office personnel must be careful not to interpret the phrase
+ "immediate benefit to the public" or similar formulations in other cases to mean
+ that products or services based on the claimed invention must be "currently
+ available" to the public in order to satisfy the utility requirement. See, e.g.,
+ *Brenner v. Manson,* 383 U.S. 519, 534-35, 148 USPQ 689, 695
+ (1966). Rather, any reasonable use that an applicant has identified for the
+ invention that can be viewed as providing a public benefit should be accepted as
+ sufficient, at least with regard to defining a "substantial" utility.
+ 
+
+***C.******Research Tools***Some confusion can result when one attempts to label certain
+ types of inventions as not being capable of having a specific and substantial
+ utility based on the setting in which the invention is to be used. One example is
+ inventions to be used in a research or laboratory setting. Many research tools
+ such as gas chromatographs, screening assays, and nucleotide sequencing techniques
+ have a clear, specific and unquestionable utility (e.g., they are useful in
+ analyzing compounds). An assessment that focuses on whether an invention is useful
+ only in a research setting thus does not address whether the invention is in fact
+ "useful" in a patent sense. Instead, Office personnel must distinguish between
+ inventions that have a specifically identified substantial utility and inventions
+ whose asserted utility requires further research to identify or reasonably
+ confirm. Labels such as "research tool," "intermediate" or "for research purposes"
+ are not helpful in determining if an applicant has identified a specific and
+ substantial utility for the invention. 
+ 
+
+**II.** **WHOLLY INOPERATIVE INVENTIONS; "INCREDIBLE" UTILITY**An invention that is "inoperative" (i.e., it does not operate to
+ produce the results claimed by the patent applicant) is not a "useful" invention in
+ the meaning of the patent law. See, e.g., *Newman**v.**Quigg,* 877 F.2d 1575, 1581, 11 USPQ2d 1340, 1345 (Fed. Cir. 1989);
+ *In re Harwood,* 390 F.2d 985, 989, 156 USPQ 673, 676 (CCPA 1968)
+ ("An inoperative invention, of course, does not satisfy the requirement of
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** that an invention be useful."). However, as the Federal
+ Circuit has stated, "[t]o violate **[[35 U.S.C.] 101](mpep-9015-appx-l.html#d0e302376)** the claimed
+ device must be totally incapable of achieving a useful
+ result." *Brooktree Corp.**v.**Advanced Micro Devices, Inc.,* 977 F.2d 1555, 1571, 24 USPQ2d 1401,
+ 1412 (Fed. Cir. 1992) (emphasis added). See also *E.I. du Pont De Nemours and
+ Co.**v.**Berkley and Co.,* 620 F.2d 1247, 1260 n.17, 205 USPQ 1, 10 n.17
+ (8th Cir. 1980) ("A small degree of utility is sufficient . . . The claimed invention
+ must only be capable of performing some beneficial function . . . An invention does
+ not lack utility merely because the particular embodiment disclosed in the patent
+ lacks perfection or performs crudely . . . A commercially successful product is not
+ required . . . Nor is it essential that the invention accomplish all its intended
+ functions . . . or operate under all conditions . . . partial success being
+ sufficient to demonstrate patentable utility . . . In short, the defense of
+ non-utility cannot be sustained without proof of total incapacity." If an invention
+ is only partially successful in achieving a useful result, a
+ rejection of the claimed invention as a whole based on a lack of utility is not
+ appropriate. See *In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed.
+ Cir. 1995); *In re Gardner,* 475 F.2d 1389, 177 USPQ 396 (CCPA),
+ *reh’g denied,* 480 F.2d 879 (CCPA 1973); *In re
+ Marzocchi,* 439 F.2d 220, 169 USPQ 367 (CCPA 1971).
+ 
+
+
+Situations where an invention is found to be "inoperative" and
+ therefore lacking in utility are rare, and rejections maintained solely on this
+ ground by a federal court even rarer. In many of these cases, the utility asserted by
+ the applicant was thought to be "incredible in the light of the knowledge of the art,
+ or factually misleading" when initially considered by the Office. *In re
+ Citron,* 325 F.2d 248, 253, 139 USPQ 516, 520 (CCPA 1963). Other cases
+ suggest that on initial evaluation, the Office considered the asserted utility to be
+ inconsistent with known scientific principles or "speculative at best" as to whether
+ attributes of the invention necessary to impart the asserted utility were actually
+ present in the invention. *In re Sichert,* 566 F.2d 1154, 196 USPQ
+ 209 (CCPA 1977). However cast, the underlying finding by the court in these cases was
+ that, based on the factual record of the case, it was clear
+ that the invention could not and did not work as the inventor claimed it did. Indeed,
+ the use of many labels to describe a single problem (e.g., a false assertion
+ regarding utility) has led to some of the confusion that exists today with regard to
+ a rejection based on the "utility" requirement. Examples of such cases include: an
+ invention asserted to change the taste of food using a magnetic field
+ *(Fregeau**v.**Mossinghoff,* 776 F.2d 1034, 227 USPQ 848 (Fed. Cir. 1985)), a
+ perpetual motion machine *(Newman**v.**Quigg,* 877 F.2d 1575, 11 USPQ2d 1340 (Fed. Cir. 1989)), a flying
+ machine operating on "flapping or flutter function" *(In re
+ Houghton,* 433 F.2d 820, 167 USPQ 687 (CCPA 1970)), a "cold fusion"
+ process for producing energy *(In re Swartz,* 232 F.3d 862, 56
+ USPQ2d 1703 (Fed. Cir. 2000)), a method for increasing the energy output of fossil
+ fuels upon combustion through exposure to a magnetic field *(In re
+ Ruskin,* 354 F.2d 395, 148 USPQ 221 (CCPA 1966)), uncharacterized
+ compositions for curing a wide array of cancers *(In re Citron,* 325
+ F.2d 248, 139 USPQ 516 (CCPA 1963)), and a method of controlling the aging process
+ *(In re Eltgroth,* 419 F.2d 918, 164 USPQ 221 (CCPA 1970)). These
+ examples are fact specific and should not be applied as a
+ *per se* rule. Thus, in view of the rare nature of such cases,
+ Office personnel should not label an asserted utility "incredible," "speculative" or
+ otherwise unless it is clear that a rejection based on "lack of utility" is
+ proper.
+ 
+
+**III.** **THERAPEUTIC OR PHARMACOLOGICAL UTILITY**Inventions asserted to have utility in the treatment of human or
+ animal disorders are subject to the same legal requirements for utility as inventions
+ in any other field of technology. *In re Chilowsky,* 229 F.2d 457,
+ 461-2, 108 USPQ 321, 325 (CCPA 1956) ("There appears to be no basis in the statutes
+ or decisions for requiring any more conclusive evidence of operativeness in one type
+ of case than another. The character and amount of evidence needed may vary, depending
+ on whether the alleged operation described in the application appears to accord with
+ or to contravene established scientific principles or to depend upon principles
+ alleged but not generally recognized, but the degree of certainty as to the ultimate
+ fact of operativeness or inoperativeness should be the same in all cases");
+ *In re Gazave,* 379 F.2d 973, 978, 154 USPQ 92, 96 (CCPA 1967)
+ ("Thus, in the usual case where the mode of operation alleged can be readily
+ understood and conforms to the known laws of physics and chemistry, operativeness is
+ not questioned, and no further evidence is required."). As such, pharmacological or
+ therapeutic inventions that provide any "immediate benefit to
+ the public" satisfy **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. The utility being asserted in
+ *Nelson* related to a compound with pharmacological utility.
+ *Nelson**v.**Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA 1980). Office
+ personnel should rely on *Nelson* and other cases as providing
+ general guidance when evaluating the utility of an invention that is based on any
+ therapeutic, prophylactic, or pharmacological activities of that invention. 
+ 
+
+
+Courts have repeatedly found that the mere
+ identification of a pharmacological activity of a compound
+ that is relevant to an asserted pharmacological use provides an "immediate benefit to
+ the public" and thus satisfies the utility requirement. As the Court of Customs and
+ Patent Appeals held in *Nelson**v.**Bowler*:
+ 
+
+
+
+> 
+> Knowledge of the pharmacological activity of any compound is
+>  obviously beneficial to the public. It is inherently faster and easier to combat
+>  illnesses and alleviate symptoms when the medical profession is armed with an
+>  arsenal of chemicals having known pharmacological activities. Since it is crucial
+>  to provide researchers with an incentive to disclose pharmacological activities in
+>  as many compounds as possible, we conclude that adequate proof of any such
+>  activity constitutes a showing of practical utility.
+>  
+> 
+> 
+> 
+
+
+*Nelson**v.**Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA 1980).
+ 
+
+
+In *Nelson**v.**Bowler,* the court addressed the practical utility requirement in
+ the context of an interference proceeding. Bowler challenged the patentability of the
+ invention claimed by Nelson on the basis that Nelson had failed to sufficiently and
+ persuasively disclose in his application a practical utility for the invention.
+ Nelson had developed and claimed a class of synthetic prostaglandins modeled on
+ naturally occurring prostaglandins. Naturally occurring prostaglandins are bioactive
+ compounds that, at the time of Nelson’s application, had a recognized value in
+ pharmacology (e.g., the stimulation of uterine smooth muscle which resulted in labor
+ induction or abortion, the ability to raise or lower blood pressure, etc.). To
+ support the utility he identified in his disclosure, Nelson included in his
+ application the results of tests demonstrating the bioactivity of his new substituted
+ prostaglandins relative to the bioactivity of naturally occurring prostaglandins. The
+ court concluded that Nelson had satisfied the practical utility requirement in
+ identifying the synthetic prostaglandins as pharmacologically active compounds. In
+ reaching this conclusion, the court considered and rejected arguments advanced by
+ Bowler that attacked the evidentiary basis for Nelson’s assertions that the compounds
+ were pharmacologically active.
+ 
+
+
+In *In re Jolles,* 628 F.2d 1322, 206 USPQ 885
+ (CCPA 1980), an inventor claimed protection for pharmaceutical compositions for
+ treating leukemia. The active ingredient in the compositions was a structural analog
+ to a known anticancer agent. The applicant provided evidence showing that the claimed
+ analogs had the same general pharmaceutical activity as the known anticancer agents.
+ The court reversed the Board’s finding that the asserted pharmaceutical utility was
+ "incredible," pointing to the evidence that showed the relevant pharmacological
+ activity.
+ 
+
+
+In *Cross**v.**Iizuka,* 753 F.2d 1040, 224 USPQ 739 (Fed. Cir. 1985), the Federal
+ Circuit affirmed a finding by the Board of Patent Appeals and Interferences that a
+ pharmacological utility had been disclosed in the application of one party to an
+ interference proceeding. The invention that was the subject of the interference count
+ was a chemical compound used for treating blood disorders. Cross had challenged the
+ evidence in Iizuka’s specification that supported the claimed utility. However, the
+ Federal Circuit relied extensively on *Nelson**v.**Bowler* in finding that Iizuka’s application had sufficiently
+ disclosed a pharmacological utility for the compounds. It distinguished the case from
+ cases where only a generalized "nebulous" expression, such as "biological
+ properties," had been disclosed in a specification. Such statements, the court held,
+ "convey little explicit indication regarding the utility of a compound."
+ *Cross,* 753 F.2d at 1048, 224 USPQ at 745 (citing *In re
+ Kirk,* 376 F.2d 936, 941, 153 USPQ 48, 52 (CCPA 1967)).
+ 
+
+
+Similarly, courts have found utility for therapeutic inventions
+ despite the fact that an applicant is at a very early stage in the development of a
+ pharmaceutical product or therapeutic regimen based on a claimed pharmacological or
+ bioactive compound or composition. The Federal Circuit, in *Cross**v.**Iizuka,* 753 F.2d 1040, 1051, 224 USPQ 739, 747-48 (Fed. Cir.
+ 1985), commented on the significance of data from *in vitro* testing
+ that showed pharmacological activity:
+ 
+
+
+
+> 
+> We perceive no insurmountable difficulty, under appropriate
+>  circumstances, in finding that the first link in the screening chain, *in
+>  vitro* testing, may establish a practical utility for the compound in
+>  question. Successful *in vitro* testing will marshal resources
+>  and direct the expenditure of effort to further *in vivo* testing
+>  of the most potent compounds, thereby providing an immediate benefit to the
+>  public, analogous to the benefit provided by the showing of an *in
+>  vivo* utility.
+>  
+> 
+> 
+> 
+
+
+The Federal Circuit has reiterated that therapeutic utility
+ sufficient under the patent laws is not to be confused with the requirements of the
+ FDA with regard to safety and efficacy of drugs to marketed in the United States.
+ 
+
+
+
+> 
+> FDA approval, however, is not a prerequisite for finding a
+>  compound useful within the meaning of the patent laws. *Scott v.**Finney,* 34 F.3d 1058, 1063, 32 USPQ2d 1115, 1120 [(Fed.Cir.
+>  1994)]. Usefulness in patent law, and in particular in the context of
+>  pharmaceutical inventions, necessarily includes the expectation of further
+>  research and development. The stage at which an invention in this field becomes
+>  useful is well before it is ready to be administered to humans. Were we to require
+>  Phase II testing in order to prove utility, the associated costs would prevent
+>  many companies from obtaining patent protection on promising new inventions,
+>  thereby eliminating an incentive to pursue, through research and development,
+>  potential cures in many crucial areas such as the treatment of cancer.
+>  
+> 
+> 
+> 
+
+
+*In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995).
+ Accordingly, Office personnel should not construe **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, under the logic of
+ "practical" utility or otherwise, to require that an applicant demonstrate that a
+ therapeutic agent based on a claimed invention is a safe or fully effective drug for
+ humans. See, e.g., *In re Sichert,* 566 F.2d 1154, 196 USPQ 209
+ (CCPA 1977); *In re Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA 1962);
+ *In re Anthony,* 414 F.2d 1383, 162 USPQ 594 (CCPA 1969);
+ *In re Watson,* 517 F.2d 465, 186 USPQ 11 (CCPA 1975).
+ 
+
+
+These general principles are equally applicable to situations where
+ an applicant has claimed a process for treating a human or animal disorder. In such
+ cases, the asserted utility is usually clear — the invention is asserted to be useful
+ in treating the particular disorder. If the asserted utility is
+ credible, there is no basis to challenge such a claim on
+ the basis that it lacks utility under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ 
+
+
+ See **[MPEP § 2107.03](s2107.html#d0e200058)** for special considerations for asserted
+ therapeutic or pharmacological utilities.
+ 
+
+**IV.** **RELATIONSHIP BETWEEN 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, FIRST
+ PARAGRAPH, AND 35 U.S.C. 101** A deficiency under the utility prong of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ also creates a deficiency under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. See *In re
+ Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995); *In re
+ Jolles,* 628 F.2d 1322, 1326 n.10, 206 USPQ 885, 889 n.11 (CCPA 1980);
+ *In re Fouche,* 439 F.2d 1237, 1243, 169 USPQ 429, 434 (CCPA
+ 1971) ("If such compositions are in fact useless, appellant’s specification cannot
+ have taught how to use them."). Courts have also cast the **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**/**[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** relationship such
+ that **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** presupposes compliance with **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ See *In re Ziegler,* 992 F.2d 1197, 1200-1201, 26 USPQ2d 1600, 1603
+ (Fed. Cir. 1993) ("The how to use prong of **[section 112](mpep-9015-appx-l.html#d0e302824)** incorporates as a
+ matter of law the requirement of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** that the
+ specification disclose as a matter of fact a practical utility for the invention. ...
+ If the application fails as a matter of fact to satisfy **[35 U.S.C. §
+ 101](mpep-9015-appx-l.html#d0e302376)**, then the application also fails as a matter of law to enable
+ one of ordinary skill in the art to use the invention under **[35 U.S.C. §
+ 112](mpep-9015-appx-l.html#d0e302824)**."); *In re Kirk,* 376 F.2d 936, 942, 153 USPQ
+ 48, 53 (CCPA 1967) ("Necessarily, compliance with **[§ 112](mpep-9015-appx-l.html#d0e302824)** requires a description of
+ how to use presently useful inventions, otherwise an applicant would anomalously be
+ required to teach how to use a useless invention."). For example, the Federal Circuit
+ noted, "[o]bviously, if a claimed invention does not have utility, the specification
+ cannot enable one to use it." *In re Brana,* 51 F.3d 1560, 34 USPQ2d
+ 1436 (Fed. Cir. 1995). As such, a rejection properly imposed under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ for lack of utility should be accompanied with a rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. It is equally clear that a rejection based on "lack of utility," whether
+ grounded upon **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** or **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824912)**, first paragraph, rests on the same basis (i.e., the
+ asserted utility is not credible). To avoid confusion, any lack of utility rejection
+ that is imposed on the basis of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** should be
+ accompanied by a rejection based on **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. The **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, rejection should be set out as a separate rejection that incorporates by
+ reference the factual basis and conclusions set forth in the **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ rejection. The **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, rejection should indicate that
+ because the invention as claimed does not have utility, a person skilled in the art
+ would not be able to use the invention as claimed, and as such, the claim is
+ defective under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. A **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, rejection based on lack of utility should not be imposed or maintained
+ unless an appropriate basis exists for imposing a utility rejection under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. In other words, Office personnel should not impose a
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, rejection grounded on a "lack of utility" basis unless a **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ rejection is proper. In particular, the factual showing needed to impose a rejection
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** must be provided if a rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, is to be imposed on "lack of utility" grounds.
+ 
+
+
+It is important to recognize that **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, addresses matters other than those related to the question of whether or
+ not an invention lacks utility. These matters include whether the claims are fully
+ supported by the disclosure *(In re Vaeck,* 947 F.2d 488, 495, 20
+ USPQ2d 1438, 1444 (Fed. Cir. 1991)), whether the applicant has provided an enabling
+ disclosure of the claimed subject matter *(In re Wright,* 999 F.2d
+ 1557, 1561-1562, 27 USPQ2d 1510, 1513 (Fed. Cir. 1993)), whether the applicant has
+ provided an adequate written description of the invention and whether the applicant
+ has disclosed the best mode of practicing the claimed invention *(Chemcast
+ Corp.**v.**Arco Indus. Corp.,* 913 F.2d 923, 927-928, 16 USPQ2d 1033,
+ 1036-1037 (Fed. Cir. 1990)). See also *Transco Products Inc.**v. Performance Contracting Inc.,* 38 F.3d 551, 32 USPQ2d 1077 (Fed.
+ Cir. 1994); *Glaxo Inc.**v.**Novopharm Ltd.,* 52 F.3d 1043, 34 USPQ2d 1565 (Fed. Cir. 1995). The
+ fact that an applicant has disclosed a specific utility for an invention and provided
+ a credible basis supporting that specific utility does not provide a basis for
+ concluding that the claims comply with all the requirements of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. For example, if an applicant has claimed a process of treating a certain
+ disease condition with a certain compound and provided a credible basis for asserting
+ that the compound is useful in that regard, but to actually practice the invention as
+ claimed a person skilled in the relevant art would have to engage in an undue amount
+ of experimentation, the claim may be defective under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ but not **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. To avoid confusion during examination, any rejection under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, based on grounds other than "lack of utility" should be imposed separately
+ from any rejection imposed due to "lack of utility" under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ and **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph.
+ 
+
+
+
+
+# 2107.02 Procedural Considerations Related to Rejections for Lack of
+ Utility [R-10.2019]
+
+**I.** **THE CLAIMED INVENTION IS THE FOCUS OF THE UTILITY REQUIREMENT**The claimed invention is the focus of the assessment of whether an
+ applicant has satisfied the utility requirement. Each claim (i.e., each "invention"),
+ therefore, must be evaluated on its own merits for compliance with all statutory
+ requirements. Generally speaking, however, a dependent claim will define an invention
+ that has utility if the independent claim from which the dependent claim depends is
+ drawn to the same statutory class of invention as the dependent claim and the
+ independent claim defines an invention having utility. An exception to this general
+ rule is where the utility specified for the invention defined in a dependent claim
+ differs from that indicated for the invention defined in the independent claim from
+ which the dependent claim depends. Where an applicant has established utility for a
+ species that falls within an identified genus of compounds, and presents a generic
+ claim covering the genus, as a general matter, that claim should be treated as being
+ sufficient under **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. Only where it can be established that other species
+ clearly encompassed by the claim do not have utility should a rejection be imposed on
+ the generic claim. In such cases, the applicant should be encouraged to amend the
+ generic claim so as to exclude the species that lack utility. 
+ 
+
+
+It is common and sensible for an applicant to identify several
+ specific utilities for an invention, particularly where the invention is a product
+ (e.g., a machine, an article of manufacture or a composition of matter). However,
+ regardless of the category of invention that is claimed (e.g., product or process),
+ an applicant need only make one credible assertion of specific utility for the
+ claimed invention to satisfy **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**; additional statements of utility, even if not "credible,"
+ do not render the claimed invention lacking in utility. See, e.g.,
+ *Raytheon**v.**Roper,* 724 F.2d 951, 958, 220 USPQ 592, 598 (Fed. Cir. 1983),
+ *cert. denied,* 469 U.S. 835 (1984) ("When a properly claimed
+ invention meets at least one stated objective, utility under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ is clearly shown."); *In re Gottlieb,* 328 F.2d 1016, 1019, 140 USPQ
+ 665, 668 (CCPA 1964) ("Having found that the antibiotic is useful for some purpose,
+ it becomes unnecessary to decide whether it is in fact useful for the other purposes
+ ‘indicated’ in the specification as possibly useful."); *In re
+ Malachowski,* 530 F.2d 1402, 189 USPQ 432 (CCPA 1976);
+ *Hoffman**v.**Klaus,* 9 USPQ2d 1657 (Bd. Pat. App. & Inter. 1988). Thus, if
+ applicant makes one credible assertion of utility, utility for the claimed invention
+ as a whole is established.
+ 
+
+
+Statements made by the applicant in the specification or incident to
+ prosecution of the application before the Office cannot, standing alone, be the basis
+ for a lack of utility rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** or
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**. *Tol-O-Matic, Inc.**v.**Proma Produkt-Und Mktg. Gesellschaft m.b.h.,* 945 F.2d 1546, 1553,
+ 20 USPQ2d 1332, 1338 (Fed. Cir. 1991) (It is not required that a particular
+ characteristic set forth in the prosecution history be achieved in order to satisfy
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**.). An applicant may include statements in the specification
+ whose technical accuracy cannot be easily confirmed if those statements are not
+ necessary to support the patentability of an invention with regard to any statutory
+ basis. Thus, the Office should not require an applicant to strike nonessential
+ statements relating to utility from a patent disclosure, regardless of the technical
+ accuracy of the statement or assertion it presents. Office personnel should also be
+ especially careful not to read into a claim unclaimed results, limitations or
+ embodiments of an invention. See *Carl Zeiss Stiftung**v.**Renishaw PLC,* 945 F.2d 1173, 20 USPQ2d 1094 (Fed. Cir. 1991);
+ *In re Krimmel,* 292 F.2d 948, 130 USPQ 215 (CCPA 1961). Doing so
+ can inappropriately change the relationship of an asserted utility to the claimed
+ invention and raise issues not relevant to examination of that claim.
+ 
+
+**II.** **IS THERE AN ASSERTED OR WELL-ESTABLISHED UTILITY FOR THE CLAIMED
+ INVENTION?**Upon initial examination, the examiner should review the
+ specification to determine if there are any statements asserting that the claimed
+ invention is useful for any particular purpose. A complete disclosure should include
+ a statement which identifies a specific and substantial utility for the invention. 
+ 
+
+***A.******An Asserted Utility Must Be Specific and Substantial***A statement of specific and substantial utility should fully and
+ clearly explain why the applicant believes the invention is useful. Such
+ statements will usually explain the purpose of or how the invention may be used
+ (e.g., a compound is believed to be useful in the treatment of a particular
+ disorder). Regardless of the form of statement of utility, it must enable one
+ ordinarily skilled in the art to understand why the applicant believes the claimed
+ invention is useful. 
+ 
+
+
+Except where an invention has a well-established utility, the
+ failure of an applicant to specifically identify why an invention is believed to
+ be useful renders the claimed invention deficient under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. In such cases, the applicant
+ has failed to identify a "specific and substantial utility" for the claimed
+ invention. For example, a statement that a composition has an unspecified
+ "biological activity" or that does not explain why a composition with that
+ activity is believed to be useful fails to set forth a "specific and substantial
+ utility." *Brenner**v.**Manson,* 383 US 519, 148 USPQ 689 (1966) (general assertion of
+ similarities to known compounds known to be useful without sufficient
+ corresponding explanation why claimed compounds are believed to be similarly
+ useful insufficient under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**); *In re
+ Ziegler,* 992 F.2d 1197, 1201, 26 USPQ2d 1600, 1604 (Fed. Cir. 1993)
+ (disclosure that composition is "plastic-like" and can form "films" not sufficient
+ to identify specific and substantial utility for invention); *In re
+ Kirk,* 376 F.2d 936, 153 USPQ 48 (CCPA 1967) (indication that compound
+ is "biologically active" or has "biological properties" insufficient standing
+ alone). See also *In re Joly,* 376 F.2d 906, 153 USPQ 45 (CCPA
+ 1967); *Kawai**v.**Metlesics,* 480 F.2d 880, 890, 178 USPQ 158, 165 (CCPA 1973)
+ (contrasting description of invention as sedative which did suggest specific
+ utility to general suggestion of "pharmacological effects on the central nervous
+ system" which did not). In contrast, a disclosure that identifies a particular
+ biological activity of a compound and explains how that activity can be utilized
+ in a particular therapeutic application of the compound does contain an assertion
+ of specific and substantial utility for the invention.
+ 
+
+
+Situations where an applicant either fails to indicate why an
+ invention is considered useful, or where the applicant inaccurately describes the
+ utility should rarely arise. One reason for this is that applicants are required
+ to disclose the best mode known to them of practicing the invention at the time
+ they file their application. An applicant who omits a description of the specific
+ and substantial utility of the invention, or who incompletely describes that
+ utility, may encounter problems with respect to the best mode requirement of
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph.
+ 
+
+***B.******No Statement of Utility for the Claimed Invention in the Specification
+ Does Not Per Se Negate Utility***Occasionally, an applicant will not explicitly state in the
+ specification or otherwise assert a specific and substantial utility for the
+ claimed invention. If no statements can be found asserting a specific and
+ substantial utility for the claimed invention in the specification, Office
+ personnel should determine if the claimed invention has a well-established
+ utility. An invention has a well-established utility if (i) a person of ordinary
+ skill in the art would immediately appreciate why the invention is useful based on
+ the characteristics of the invention (e.g., properties or applications of a
+ product or process), and (ii) the utility is specific, substantial, and credible.
+ If an invention has a well- established utility, rejections under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, based on lack of utility should
+ not be imposed. *In re Folkers,* 344 F.2d 970, 145 USPQ 390 (CCPA
+ 1965). For example, if an application teaches the cloning and characterization of
+ the nucleotide sequence of a well-known protein such as insulin, and those skilled
+ in the art at the time of filing knew that insulin had a well-established use, it
+ would be improper to reject the claimed invention as lacking utility solely
+ because of the omitted statement of specific and substantial utility.
+ 
+
+
+If a person of ordinary skill would not immediately recognize a
+ specific and substantial utility for the claimed invention (i.e., why it would be
+ useful) based on the characteristics of the invention or statements made by the
+ applicant, the examiner should reject the application under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as failing to identify a
+ specific and substantial utility for the claimed invention. The rejection should
+ clearly indicate that the basis of the rejection is that the application fails to
+ identify a specific and substantial utility for the invention. The rejection
+ should also specify that the applicant must reply by indicating why the invention
+ is believed useful and where support for any subsequently asserted utility can be
+ found in the specification as filed. See **[MPEP § 2701](s2701.html#d0e271945)**.
+ 
+
+
+If the applicant subsequently indicates why the invention is
+ useful, Office personnel should review that assertion according to the standards
+ articulated below for review of the credibility of an asserted utility.
+ 
+
+**III.** **EVALUATING THE CREDIBILITY OF AN ASSERTED UTILITY*** 
+
+***A.******An Asserted Utility Creates a Presumption of Utility***In most cases, an applicant’s assertion of utility creates a
+ presumption of utility that will be sufficient to satisfy the utility requirement
+ of **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. See, e.g., *In re Jolles,* 628 F.2d
+ 1322, 206 USPQ 885 (CCPA 1980); *In re Irons,* 340 F.2d 974, 144
+ USPQ 351 (CCPA 1965); *In re Langer,* 503 F.2d 1380, 183 USPQ 288
+ (CCPA 1974); *In re Sichert,* 566 F.2d 1154, 1159, 196 USPQ 209,
+ 212-13 (CCPA 1977). As the Court of Customs and Patent Appeals stated in
+ *In re Langer*:
+ 
+
+
+
+> 
+> As a matter of Patent Office practice, a specification which
+>  contains a disclosure of utility which corresponds in scope to the subject
+>  matter sought to be patented must be taken as sufficient
+>  to satisfy the utility requirement of **[§ 101](mpep-9015-appx-l.html#d0e302376)** for the entire
+>  claimed subject matter unless there is a reason for one
+>  skilled in the art to question the objective truth of the statement of utility
+>  or its scope.
+>  
+> 
+> 
+> 
+
+
+*In re Langer,* 503 F.2d at 1391, 183 USPQ at 297 (emphasis in
+ original). The "Langer" test for utility has been used by both the Federal Circuit
+ and the Court of Customs and Patent Appeals in evaluation of rejections under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, where the rejection is based on a deficiency under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. In *In re Brana,* 51 F.3d 1560, 34
+ USPQ2d 1436 (Fed. Cir. 1995), the Federal Circuit explicitly adopted the Court of
+ Customs and Patent Appeals formulation of the "Langer" standard for
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph rejections, as it was expressed in a slightly reworded format in
+ *In re Marzocchi,* 439 F.2d 220, 223, 169 USPQ 367, 369 (CCPA
+ 1971), namely:
+ 
+
+
+
+> 
+> [A] specification disclosure which contains a teaching of the
+>  manner and process of making and using the invention in terms which correspond
+>  in scope to those used in describing and defining the subject matter sought to
+>  be patented must be taken as in compliance with the
+>  enabling requirement of the first paragraph of **[§ 112](mpep-9015-appx-l.html#d0e302824)**
+>  unless there is reason to doubt the objective truth of the statements contained
+>  therein which must be relied on for enabling support. (emphasis added).
+>  
+> 
+> 
+> 
+
+
+Thus, *Langer* and subsequent cases direct the
+ Office to presume that a statement of utility made by an applicant is true. See
+ *In re Langer,* 503 F.2d at 1391, 183 USPQ at 297; *In
+ re Malachowski,* 530 F.2d 1402, 1404, 189 USPQ 432, 435 (CCPA 1976);
+ *In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995).
+ For obvious reasons of efficiency and in deference to an applicant’s understanding
+ of the invention, when a statement of utility is evaluated, Office personnel
+ should not begin by questioning the truth of the statement of utility. Instead,
+ any inquiry must start by asking if there is any reason to question the truth of
+ the statement of utility. This can be done by simply evaluating the logic of the
+ statements made, taking into consideration any evidence cited by the applicant. If
+ the asserted utility is credible (i.e., believable based on the record or the
+ nature of the invention), a rejection based on "lack of utility" is not
+ appropriate. Clearly, Office personnel should not begin an evaluation of utility
+ by assuming that an asserted utility is likely to be false, based on the technical
+ field of the invention or for other general reasons.
+ 
+
+
+Compliance with **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** is a question of
+ fact. *Raytheon**v.**Roper,* 724 F.2d 951, 956, 220 USPQ 592, 596 (Fed. Cir. 1983)
+ *cert. denied,* 469 U.S. 835 (1984). Thus, to overcome the
+ presumption of truth that an assertion of utility by the applicant enjoys, Office
+ personnel must establish that it is more likely than not that one of ordinary
+ skill in the art would doubt (i.e., "question") the truth of the statement of
+ utility. The evidentiary standard to be used throughout *ex
+ parte* examination in setting forth a rejection is a preponderance of
+ the totality of the evidence under consideration. *In re
+ Oetiker,* 977 F.2d 1443, 1445, 24 USPQ2d 1443, 1444 (Fed. Cir. 1992)
+ ("After evidence or argument is submitted by the applicant in response,
+ patentability is determined on the totality of the record, by a preponderance of
+ evidence with due consideration to persuasiveness of argument."); *In re
+ Corkill,* 771 F.2d 1496, 1500, 226 USPQ 1005, 1008 (Fed. Cir. 1985). A
+ preponderance of the evidence exists when it suggests that it is more likely than
+ not that the assertion in question is true. *Herman**v.**Huddleston,* 459 U.S. 375, 390 (1983). To do this, Office
+ personnel must provide evidence sufficient to show that the statement of asserted
+ utility would be considered "false" by a person of ordinary skill in the art. Of
+ course, a person of ordinary skill must have the benefit of both facts and
+ reasoning in order to assess the truth of a statement. This means that if the
+ applicant has presented facts that support the reasoning used in asserting a
+ utility, Office personnel must present countervailing facts and reasoning
+ sufficient to establish that a person of ordinary skill would not believe the
+ applicant’s assertion of utility. *In re Brana,* 51 F.3d 1560, 34
+ USPQ2d 1436 (Fed. Cir. 1995). The initial evidentiary standard used during
+ evaluation of this question is a preponderance of the evidence (i.e., the totality
+ of facts and reasoning suggest that it is more likely than not that the statement
+ of the applicant is false). 
+ 
+
+***B.******When Is an Asserted Utility Not Credible?***Where an applicant has specifically asserted that an invention
+ has a particular utility, that assertion cannot simply be dismissed by Office
+ personnel as being "wrong," even when there may be reason to believe that the
+ assertion is not entirely accurate. Rather, Office personnel must determine if the
+ assertion of utility is credible (i.e., whether the
+ assertion of utility is believable to a person of ordinary skill in the art based
+ on the totality of evidence and reasoning provided). An assertion is credible
+ unless (A) the logic underlying the assertion is seriously flawed, or (B) the
+ facts upon which the assertion is based are inconsistent with the logic underlying
+ the assertion. Credibility as used in this context refers to the reliability of
+ the statement based on the logic and facts that are offered by the applicant to
+ support the assertion of utility.
+ 
+
+
+One situation where an assertion of utility would not be
+ considered credible is where a person of ordinary skill would consider the
+ assertion to be "incredible in view of contemporary knowledge" and where nothing
+ offered by the applicant would counter what contemporary knowledge might otherwise
+ suggest. Office personnel should be careful, however, not to label certain types
+ of inventions as "incredible" or "speculative" as such labels do not provide the
+ correct focus for the evaluation of an assertion of utility. "Incredible utility"
+ is a conclusion, not a starting point for analysis under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. A conclusion that an asserted utility is incredible can
+ be reached only after the Office has evaluated both the assertion of the applicant
+ regarding utility and any evidentiary basis of that
+ assertion. The Office should be particularly careful not to start with a
+ presumption that an asserted utility is, *per se,* "incredible"
+ and then proceed to base a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** on that
+ presumption.
+ 
+
+
+Rejections under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** based on a lack
+ of credible utility have been sustained by federal courts when, for example, the
+ applicant failed to disclose any utility for the invention or asserted a utility
+ that could only be true if it violated a scientific principle, such as the second
+ law of thermodynamics, or a law of nature, or was wholly
+ inconsistent with contemporary knowledge in the art. *In re
+ Gazave,* 379 F.2d 973, 978, 154 USPQ 92, 96 (CCPA 1967). Special care
+ should be taken when assessing the credibility of an asserted therapeutic utility
+ for a claimed invention. In such cases, a previous lack of success in treating a
+ disease or condition, or the absence of a proven animal model for testing the
+ effectiveness of drugs for treating a disorder in humans, should not, standing
+ alone, serve as a basis for challenging the asserted utility under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. See **[MPEP § 2107.03](s2107.html#d0e200058)** for additional
+ guidance with regard to therapeutic or pharmacological utilities.
+ 
+
+**IV.** **INITIAL BURDEN IS ON THE OFFICE TO ESTABLISH A *PRIMA FACIE*
+ CASE AND PROVIDE EVIDENTIARY SUPPORT THEREOF**To properly reject a claimed invention under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**,
+ the Office must (A) make a *prima facie* showing that the claimed
+ invention lacks utility, and (B) provide a sufficient evidentiary basis for factual
+ assumptions relied upon in establishing the *prima facie* showing.
+ *In re Gaubert,* 524 F.2d 1222, 1224, 187 USPQ 664, 666 (CCPA
+ 1975) "Accordingly, the PTO must do more than merely question operability - it must
+ set forth factual reasons which would lead one skilled in the art to question the
+ objective truth of  the statement of operability." If the Office cannot develop a
+ proper *prima facie* case and provide evidentiary support for a
+ rejection under **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, a rejection on this ground should not be imposed.
+ See, e.g., *In re Oetiker,* 977 F.2d 1443, 1445, 24 USPQ2d 1443,
+ 1444 (Fed. Cir. 1992) ("[T]he examiner bears the initial burden, on review of the
+ prior art or on any other ground, of presenting a *prima facie* case
+ of unpatentability. If that burden is met, the burden of coming forward with evidence
+ or argument shifts to the applicant.... If examination at the initial stage does not
+ produce a *prima facie* case of unpatentability, then without more
+ the applicant is entitled to grant of the patent."). See also
+ *Fregeau**v.**Mossinghoff,* 776 F.2d 1034, 227 USPQ 848 (Fed. Cir. 1985)
+ (applying *prima facie* case law to **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**);
+ *In re Piasecki,* 745 F.2d 1468, 223 USPQ 785 (Fed. Cir. 1984). 
+ 
+
+
+The *prima facie* showing must be set forth in a
+ well-reasoned statement. Any rejection based on lack of utility should include a
+ detailed explanation why the claimed invention has no specific and substantial
+ credible utility. Whenever possible, the examiner should provide documentary evidence
+ regardless of publication date (e.g., scientific or technical journals, excerpts from
+ treatises or books, or U.S. or foreign patents) to support the factual basis for the
+ *prima facie* showing of no specific and substantial credible
+ utility. If documentary evidence is not available, the examiner should specifically
+ explain the scientific basis for the examiner's factual conclusions.
+ 
+
+
+ Where the asserted utility is not specific or substantial, a
+ *prima facie* showing must establish that it is more likely than
+ not that a person of ordinary skill in the art would not consider that any utility
+ asserted by the applicant would be specific and substantial. The *prima
+ facie* showing must contain the following elements:
+ 
+
+
+* (A) An explanation that clearly sets forth the reasoning used in
+ concluding that the asserted utility for the claimed invention is neither both
+ specific and substantial nor well-established;
+* (B) Support for factual findings relied upon in reaching this
+ conclusion; and
+* (C) An evaluation of all relevant evidence of record, including
+ utilities taught in the closest prior art.
+
+
+Where the asserted specific and substantial utility is not credible,
+ a *prima facie* showing of no specific and substantial credible
+ utility must establish that it is more likely than not that a person skilled in the
+ art would not consider credible any specific and substantial utility asserted by the
+ applicant for the claimed invention. The *prima facie* showing must
+ contain the following elements:
+ 
+
+
+* (A) An explanation that clearly sets forth the reasoning used in
+ concluding that the asserted specific and substantial utility is not
+ credible;
+* (B) Support for factual findings relied upon in reaching this
+ conclusion; and
+* (C) An evaluation of all relevant evidence of record, including
+ utilities taught in the closest prior art.
+
+
+Where no specific and substantial utility is disclosed or is
+ well-established, a *prima facie* showing of no specific and
+ substantial utility need only establish that applicant has not asserted a utility and
+ that, on the record before the examiner, there is no known well-established
+ utility.
+ 
+
+
+It is imperative that Office personnel use specificity in setting
+ forth and initial rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and support any
+ factual conclusions made in the *prima facie* showing. 
+ 
+
+
+By using specificity, the applicant will be able to identify the
+ assumptions made by the Office in setting forth the rejection and will be able to
+ address those assumptions properly.
+ 
+
+
+Use form paragraphs **[7.04.01](#fp7.04.01)** and
+ **[7.05.02](#fp7.05.02)**
+ through **[7.05.04](#fp.7.05.04)** to reject claims under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ for failure to satisfy the utility requirement.
+ 
+
+
+# ¶ 7.05.02 Rejection, 35 U.S.C. 101, Utility Lacking
+
+
+the claimed invention lacks patentable utility. **[1]**
+
+
+### Examiner Note:
+
+
+In bracket 1, provide explanation of lack of utility. See
+ **[MPEP §§ 2105](s2105.html#d0e197008)** - **[2107.03](s2107.html#d0e200058)**.
+ 
+
+
+
+# ¶ 7.05.03 Rejection, 35 U.S.C. 101, Inoperative
+
+
+the disclosed invention is inoperative and therefore lacks utility. **[1]**
+
+
+### Examiner Note:
+
+
+In bracket 1, explain why invention is inoperative.
+
+
+
+# ¶ 7.05.04 Utility Rejections Under 35 U.S.C. 101 and 35 U.S.C. 112(a) or 35
+ U.S.C. 112 (pre-AIA), First Paragraph
+
+
+Claim **[1]** rejected under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** because the claimed invention is not supported by either a
+ **[2]** asserted utility or a well established utility.
+ 
+
+
+**[3]**
+
+
+Claim **[4]** also rejected
+ under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph.
+ Specifically, because the claimed invention is not supported by either a **[5]**
+ asserted utility or a well established utility for the reasons set forth above, one skilled in
+ the art clearly would not know how to use the claimed invention.
+ 
+
+
+### Examiner Note:
+
+ * 1. Where the specification would not enable one skilled in the art to
+ make the claimed invention, or where alternative reasons support the enablement
+ rejection, a separate rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, enablement should be made using the factors
+ set forth in *In re Wands*, 858 F.2d 731, 8 USPQ2d 1400 (Fed. Cir.
+ 1988) and an undue experimentation analysis. See **[MPEP §§ 2164](s2164.html#d0e215224)** - **[2164.08(c)](s2164.html#d0e216899)**.
+* 2. Use Format A, B, or C below as
+ appropriate.
+	+ Format A:- (a) Insert the same claim numbers in
+		 brackets 1 and 4.
+		- (b) Insert --specific and substantial--
+		 in inserts 2 and 5.
+		- (c) In bracket 3, insert the explanation
+		 as to why the claimed invention is not supported by either a specific and
+		 substantial asserted utility or a well established
+		 utility.
+		- (d) Format A is to be used when there is
+		 no asserted utility and when there is an asserted utility but that
+		 utility is not specific and substantial.
+	+ Format B:- (a) Insert the same claim numbers in
+		 brackets 1 and 4.
+		- (b) Insert --credible-- in inserts 2 and
+		 5.
+		- (c) In bracket 3, insert the explanation
+		 as to why the claimed invention is not supported by either a credible
+		 asserted utility or a well established utility.
+	+ Format C:- For claims that have multiple utilities, some of which
+		 are not specific and substantial, some of which are not credible, but none of
+		 which are specific, substantial and credible:
+			* (a) Insert the same claim numbers in brackets 1 and
+			 4.
+			* (b) Insert --specific and substantial asserted
+			 utility, a credible-- in inserts 2 and 5.
+			* (c) In bracket 3, insert the explanation as to why the
+			 claimed invention is not supported by either a specific and substantial
+			 asserted utility, a credible asserted utility or a well established
+			 utility. Each utility should be addressed.
+
+
+**V.** **EVIDENTIARY REQUESTS BY AN EXAMINER TO SUPPORT AN ASSERTED UTILITY**In appropriate situations the Office may require an applicant to
+ substantiate an asserted utility for a claimed invention. See *In re
+ Pottier,* 376 F.2d 328, 330, 153 USPQ 407, 408 (CCPA 1967) ("When the
+ operativeness of any process would be deemed unlikely by one of ordinary skill in the
+ art, it is not improper for the examiner to call for evidence of operativeness.").
+ See also *In re Jolles,* 628 F.2d 1322, 1327, 206 USPQ 885, 890
+ (CCPA 1980); *In re Citron,* 325 F.2d 248, 139 USPQ 516 (CCPA 1963);
+  *In re Novak,* 306 F.2d 924, 928, 134 USPQ 335, 337 (CCPA1962).
+ In *In re Citron,* the court held that when an "alleged utility
+ appears to be incredible in the light of the knowledge of the art, or factually
+ misleading, applicant must establish the asserted utility by acceptable proof." 325
+ F.2d at 253, 139 USPQ at 520. The court approved of the board’s decision which
+ affirmed the rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** "in view
+ of the art knowledge of the lack of a cure for cancer and the absence of any
+ clinical data to substantiate the allegation." 325 F.2d at 252, 139
+ USPQ at 519 (emphasis in original). The court thus established a higher burden on the
+ applicant where the statement of use is incredible or misleading. In such a case, the
+ examiner should challenge the use and require sufficient evidence of operativeness.
+ The purpose of this authority is to enable an applicant to cure an otherwise
+ defective factual basis for the operability of an invention. Because this is a
+ curative authority (e.g., evidence is requested to enable an applicant to support an
+ assertion that is inconsistent with the facts of record in the application), Office
+ personnel should indicate not only why the factual record is defective in relation to
+ the assertions of the applicant, but also, where appropriate, what type of
+ evidentiary showing can be provided by the applicant to remedy the problem.
+ 
+
+
+Requests for additional evidence should be imposed rarely, and only
+ if necessary to support the scientific credibility of the asserted utility (e.g., if
+ the asserted utility is not consistent with the evidence of record and current
+ scientific knowledge). As the Federal Circuit recently noted, "[o]nly after the PTO
+ provides evidence showing that one of ordinary skill in the art would reasonably
+ doubt the asserted utility does the burden shift to the applicant to provide rebuttal
+ evidence sufficient to convince such a person of the invention’s asserted utility."
+ *In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995)
+ (citing *In re Bundy,* 642 F.2d 430, 433, 209 USPQ 48, 51 (CCPA
+ 1981)). In *Brana,* the court pointed out that the purpose of
+ treating cancer with chemical compounds does not
+ suggest, *per se,* an incredible utility. Where the prior
+ art disclosed "structurally similar compounds to those claimed by applicants which
+ have been proven *in vivo* to be effective as chemotherapeutic
+ agents against various tumor models . . ., one skilled in the art would be without
+ basis to reasonably doubt applicants’ asserted utility on its face." 51 F.3d at 1566,
+ 34 USPQ2d at 1441. As courts have stated, "it is clearly improper for the examiner to
+ make a demand for further test data, which as evidence would be essentially redundant
+ and would seem to serve for nothing except perhaps to unduly burden the applicant."
+ *In re Isaacs,* 347 F.2d 887, 890, 146 USPQ 193, 196 (CCPA
+ 1965).
+ 
+
+**VI.** **CONSIDERATION OF A REPLY TO A *PRIMA FACIE* REJECTION FOR
+ LACK OF UTILITY**If a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** has been properly
+ imposed, along with a corresponding rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, the burden shifts to the applicant to rebut the *prima
+ facie* showing. *In re Oetiker,* 977 F.2d 1443, 1445, 24
+ USPQ2d 1443, 1444 (Fed. Cir. 1992) ("The examiner bears the initial burden, on review
+ of the prior art or on any other ground, of presenting a *prima
+ facie* case of unpatentability. If that burden is met, the burden of
+ coming forward with evidence or argument shifts to the applicant. . . After evidence
+ or argument is submitted by the applicant in response, patentability is determined on
+ the totality of the record, by a preponderance of evidence with due consideration to
+ persuasiveness of argument."). An applicant can do this using any combination of the
+ following: amendments to the claims, arguments or reasoning, or new evidence
+ submitted in an affidavit or declaration under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)**, or in a printed
+ publication. New evidence provided by an applicant must be relevant to the issues
+ raised in the rejection. For example, declarations in which conclusions are set forth
+ without establishing a nexus between those conclusions and the supporting evidence,
+ or which merely express opinions, may be of limited probative value with regard to
+ rebutting a *prima facie* case. *In re Grunwell,*
+ 609 F.2d 486, 203 USPQ 1055 (CCPA 1979); *In re Buchner,* 929 F.2d
+ 660, 18 USPQ2d 1331 (Fed. Cir. 1991). See **[MPEP § 716.01(a)](s716.html#d0e92557)** through
+ **[MPEP
+ § 716.01(c)](s716.html#d0e92659)**.
+ 
+
+
+If the applicant responds to the *prima facie*
+ rejection, Office personnel should review the original disclosure, any evidence
+ relied upon in establishing the *prima facie* showing, any claim
+ amendments, and any new reasoning or evidence provided by the applicant in support of
+ an asserted specific and substantial credible utility. It is essential for Office
+ personnel to recognize, fully consider and respond to each substantive element of any
+ response to a rejection based on lack of utility. Only where the totality of the
+ record continues to show that the asserted utility is not specific, substantial, and
+ credible should a rejection based on lack of utility be maintained. If the record as
+ a whole would make it more likely than not that the asserted utility for the claimed
+ invention would be considered credible by a person of ordinary skill in the art, the
+ Office cannot maintain the rejection. *In re Rinehart,* 531 F.2d
+ 1048, 1052, 189 USPQ 143, 147 (CCPA 1976).
+ 
+
+**VII.** **EVALUATION OF EVIDENCE RELATED TO UTILITY**There is no predetermined amount or character of evidence that must
+ be provided by an applicant to support an asserted utility, therapeutic or otherwise.
+ Rather, the character and amount of evidence needed to support an asserted utility
+ will vary depending on what is claimed *(Ex parte Ferguson,* 117
+ USPQ 229 (Bd. App. 1957)), and whether the asserted utility appears to contravene
+ established scientific principles and beliefs. *In re Gazave,* 379
+ F.2d 973, 978, 154 USPQ 92, 96 (CCPA 1967); *In re Chilowsky,*
+ 229 F.2d 457, 462, 108 USPQ 321, 325 (CCPA 1956). Furthermore, the applicant does not
+ have to provide evidence sufficient to establish that an asserted utility is true
+ "beyond a reasonable doubt." *In re Irons,* 340 F.2d 974, 978, 144
+ USPQ 351, 354 (CCPA 1965). Nor must an applicant provide evidence such that it
+ establishes an asserted utility as a matter of statistical certainty.
+ *Nelson**v.**Bowler,* 626 F.2d 853, 856-57, 206 USPQ 881, 883-84 (CCPA 1980)
+ (reversing the Board and rejecting Bowler’s arguments that the evidence of utility
+ was statistically insignificant. The court pointed out that a rigorous correlation is
+ not necessary when the test is reasonably predictive of the response). See also
+ *Rey-Bellet**v.**Englehardt,* 493 F.2d 1380, 181 USPQ 453 (CCPA 1974) (data from
+ animal testing is relevant to asserted human therapeutic utility if there is a
+ "satisfactory correlation between the effect on the animal and that ultimately
+ observed in human beings"). Instead, evidence will be sufficient if, considered as a
+ whole, it leads a person of ordinary skill in the art to conclude that the asserted
+ utility is more likely than not true.
+ 
+
+
+
+
+# 2107.03 Special Considerations for Asserted Therapeutic or
+ Pharmacological Utilities [R-08.2012]
+
+
+The federal courts have consistently reversed rejections by the Office
+ asserting a lack of utility for inventions claiming a pharmacological or therapeutic
+ utility where an applicant has provided evidence that reasonably supports such a
+ utility. In view of this, Office personnel should be particularly careful in their
+ review of evidence provided in support of an asserted therapeutic or pharmacological
+ utility.
+ 
+
+**I.** **A REASONABLE CORRELATION BETWEEN THE EVIDENCE AND THE ASSERTED UTILITY IS
+ SUFFICIENT**As a general matter, evidence of pharmacological or other biological
+ activity of a compound will be relevant to an asserted therapeutic use if there is a
+ reasonable correlation between the activity in question and
+ the asserted utility. *Cross**v. Iizuka,* 753 F.2d 1040, 224 USPQ 739 (Fed. Cir. 1985);
+ *In re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA 1980);
+ *Nelson**v.**Bowler,* 626 F.2d 853, 206 USPQ 881 (CCPA 1980). An applicant can
+ establish this reasonable correlation by relying on statistically relevant data
+ documenting the activity of a compound or composition, arguments or reasoning,
+ documentary evidence (e.g., articles in scientific journals), or any combination
+ thereof. The applicant does not have to prove that a correlation exists between a
+ particular activity and an asserted therapeutic use of a compound as a matter of
+ statistical certainty, nor does he or she have to provide actual evidence of success
+ in treating humans where such a utility is asserted. Instead, as the courts have
+ repeatedly held, all that is required is a reasonable correlation between the
+ activity and the asserted use. *Nelson**v.**Bowler,* 626 F.2d 853, 857, 206 USPQ 881, 884 (CCPA 1980).
+ 
+
+**II.** **STRUCTURAL SIMILARITY TO COMPOUNDS WITH ESTABLISHED UTILITY**Courts have routinely found evidence of structural similarity to a
+ compound known to have a particular therapeutic or pharmacological utility as being
+ supportive of an assertion of therapeutic utility for a new compound. In *In
+ re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA 1980), the claimed
+ compounds were found to have utility based on a finding of a close structural
+ relationship to daunorubicin and doxorubicin and shared pharmacological activity with
+ those compounds, both of which were known to be useful in cancer chemotherapy. The
+ evidence of close structural similarity with the known compounds was presented in
+ conjunction with evidence demonstrating substantial activity of the claimed
+ compounds in animals customarily employed for screening anticancer agents. Such
+ evidence should be given appropriate weight in determining whether one skilled in the
+ art would find the asserted utility credible. Office personnel should evaluate not
+ only the existence of the structural relationship, but also the reasoning used by the
+ applicant or a declarant to explain why that structural similarity is believed to be
+ relevant to the applicant's assertion of utility.
+ 
+
+**III.** **DATA FROM *IN VITRO* OR ANIMAL TESTING IS GENERALLY
+ SUFFICIENT TO SUPPORT THERAPEUTIC UTILITY**If reasonably correlated to the particular therapeutic or
+ pharmacological utility, data generated using *in vitro* assays, or
+ from testing in an animal model or a combination thereof almost invariably will be
+ sufficient to establish therapeutic or pharmacological utility for a compound,
+ composition or process. A cursory review of cases involving therapeutic inventions
+ where **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** was the dispositive issue illustrates the fact that the
+ federal courts are not particularly receptive to rejections under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ based on inoperability. Most striking is the fact that in those cases where an
+ applicant supplied a reasonable evidentiary showing supporting an asserted
+ therapeutic utility, almost uniformly the **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**-based rejection was
+ reversed. See, e.g., *In re Brana,* 51 F.3d 1560, 34 USPQ 1436 (Fed.
+ Cir. 1995); *Cross**v. Iizuka,* 753 F.2d 1040, 224 USPQ 739 (Fed. Cir. 1985);
+ *In re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA 1980);
+ *Nelson**v.**Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA 1980);
+ *In re Malachowski,* 530 F.2d 1402, 189 USPQ 432 (CCPA 1976);
+ *In re Gaubert,* 530 F.2d 1402, 189 USPQ 432 (CCPA 1975);
+ *In re Gazave,* 379 F.2d 973, 154 USPQ 92 (CCPA 1967);
+ *In re Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA 1962);
+ *In re Krimmel,* 292 F.2d 948, 130 USPQ 215 (CCPA 1961). Only in
+ those cases where the applicant was unable to come forward with any relevant evidence
+ to rebut a finding by the Office that the claimed invention was inoperative was a
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** rejection affirmed by the court. *In re
+ Citron,* 325 F.2d 248, 253, 139 USPQ 516, 520 (CCPA 1963) (therapeutic
+ utility for an uncharacterized biological extract not supported or scientifically
+ credible); *In re Buting,* 418 F.2d 540, 543, 163 USPQ 689, 690
+ (CCPA 1969) (record did not establish a credible basis for the assertion that the
+ single class of compounds in question would be useful in treating disparate types of
+ cancers); *In re Novak,* 306 F.2d 924, 134 USPQ 335 (CCPA 1962)
+ (claimed compounds did not have capacity to effect physiological activity upon which
+ utility claim based). Contrast, however, *In re Buting* to
+ *In re Gardner,* 475 F.2d 1389, 177 USPQ 396 (CCPA 1973),
+ *reh'g denied,* 480 F.2d 879 (CCPA 1973), in which the court held
+ that utility for a genus was found to be supported through a showing of utility for
+ one species. In no case has a federal court required an applicant to support an
+ asserted utility with data from human clinical trials.
+ 
+
+
+If an applicant provides data, whether from *in
+ vitro* assays or animal tests or both, to support an asserted utility,
+ and an explanation of why that data supports the asserted utility, the Office will
+ determine if the data and the explanation would be viewed by one skilled in the art
+ as being reasonably predictive of the asserted utility. See, e.g., *Ex parte
+ Maas,* 9 USPQ2d 1746 (Bd. Pat. App. & Inter. 1987); *Ex parte
+ Balzarini,* 21 USPQ2d 1892 (Bd. Pat. App. & Inter. 1991). Office
+ personnel must be careful to evaluate all factors that might influence the
+ conclusions of a person of ordinary skill in the art as to this question, including
+ the test parameters, choice of animal, relationship of the activity to the particular
+ disorder to be treated, characteristics of the compound or composition, relative
+ significance of the data provided and, most importantly, the explanation offered by
+ the applicant as to why the information provided is believed to support the asserted
+ utility. If the data supplied is consistent with the asserted utility, the Office
+ cannot maintain a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ 
+
+
+Evidence does not have to be in the form of data from an
+ art-recognized animal model for the particular disease or disease condition to which
+ the asserted utility relates. Data from any test that the applicant reasonably
+ correlates to the asserted utility should be evaluated substantively. Thus, an
+ applicant may provide data generated using a particular animal model with an
+ appropriate explanation as to why that data supports the asserted utility. The
+ absence of a certification that the test in question is an industry-accepted model is
+ not dispositive of whether data from an animal model is in fact relevant to the
+ asserted utility. Thus, if one skilled in the art would accept the animal tests as
+ being reasonably predictive of utility in humans, evidence
+ from those tests should be considered sufficient to support the credibility of the
+ asserted utility. *In re Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA
+ 1962); *In re Krimmel,* 292 F.2d 948, 953, 130 USPQ 215, 219 (CCPA
+ 1961); *Ex parte Krepelka,* 231 USPQ 746 (Bd. Pat. App. & Inter.
+ 1986). Office personnel should be careful not to find evidence unpersuasive simply
+ because no animal model for the human disease condition had been established prior to
+ the filing of the application. See *In re Chilowsky,* 229 F.2d 457,
+ 461, 108 USPQ 321, 325 (CCPA 1956) ("The mere fact that something has not previously
+ been done clearly is not, in itself, a sufficient basis for rejecting all
+ applications purporting to disclose how to do it."); *In re Wooddy,*
+ 331 F.2d 636, 639, 141 USPQ 518, 520 (CCPA 1964) ("It appears that no one on earth is
+ certain as of the present whether the process claimed will operate in the manner
+ claimed. Yet absolute certainty is not required by the law. The mere fact that
+ something has not previously been done clearly is not, in itself, a sufficient basis
+ for rejecting all applications purporting to disclose how to do it.").
+ 
+
+**IV.** **HUMAN CLINICAL DATA**Office personnel should not impose on applicants the unnecessary
+ burden of providing evidence from human clinical trials. There is no decisional law
+ that requires an applicant to provide data from human clinical trials to establish
+ utility for an invention related to treatment of human disorders (see *In re
+ Isaacs,* 347 F.2d 889, 146 USPQ 193 (CCPA 1963); *In re
+ Langer,* 503 F.2d 1380, 183 USPQ 288 (CCPA 1974)), even with respect to
+ situations where no art-recognized animal models existed for the human disease
+ encompassed by the claims. *Ex parte Balzarini,* 21 USPQ2d 1892 (Bd.
+ Pat. App. & Inter. 1991) (human clinical data is not required to demonstrate the
+ utility of the claimed invention, even though those skilled in the art might not
+ accept other evidence to establish the efficacy of the claimed therapeutic
+ compositions and the operativeness of the claimed methods of treating humans). Before
+ a drug can enter human clinical trials, the sponsor, often the
+ applicant, must provide a convincing rationale to those
+ especially skilled in the art (e.g., the Food and Drug
+ Administration (FDA)) that the investigation may be successful. Such a rationale
+ would provide a basis for the sponsor’s expectation that the investigation may be
+ successful. In order to determine a protocol for phase I testing, the first phase of
+ clinical investigation, some credible rationale of how the drug might be effective or
+ could be effective would be necessary. Thus, as a general rule, if an
+ applicant has initiated human clinical trials for a therapeutic product or
+ process, Office personnel should presume that the applicant has established that
+ the subject matter of that trial is reasonably predictive of having the asserted
+ therapeutic utility.
+
+**V.** **SAFETY AND EFFICACY CONSIDERATIONS**The Office must confine its review of patent applications to the
+ statutory requirements of the patent law. Other agencies of the government have been
+ assigned the responsibility of ensuring conformance to standards established by
+ statute for the advertisement, use, sale or distribution of drugs. The FDA pursues a
+ two-prong test to provide approval for testing. Under that test, a sponsor must show
+ that the investigation does not pose an unreasonable and significant risk of illness
+ or injury and that there is an acceptable rationale for the study. As a review
+ matter, there must be a rationale for believing that the compound could be effective.
+ If the use reviewed by the FDA is not set forth in the specification, FDA review may
+ not satisfy **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. However, if the reviewed use is one set forth in
+ the specification, Office personnel must be extremely hesitant to challenge utility.
+ In such a situation, experts at the FDA have assessed the rationale for the drug or
+ research study upon which an asserted utility is based and found it satisfactory.
+ Thus, in challenging utility, Office personnel must be able to carry their burden
+ that there is no sound rationale for the asserted utility even though experts
+ designated by Congress to decide the issue have come to an opposite conclusion. "FDA
+ approval, however, is not a prerequisite for finding a compound useful within the
+ meaning of the patent laws." *In re Brana,* 51 F.3d 1560, 34 USPQ2d
+ 1436 (Fed. Cir. 1995) (citing *Scott**v.**Finney,* 34 F.3d 1058, 1063, 32 USPQ2d 1115, 1120 (Fed. Cir.
+ 1994)).
+ 
+
+
+Thus, while an applicant may on occasion need to provide evidence to
+ show that an invention will work as claimed, it is improper for Office personnel to
+ request evidence of safety in the treatment of humans, or regarding the
+ degree of effectiveness. See *In re
+ Sichert,* 566 F.2d 1154, 196 USPQ 209 (CCPA 1977); *In re
+ Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA 1962); *In re
+ Anthony,* 414 F.2d 1383, 162 USPQ 594 (CCPA 1969); *In re
+ Watson,* 517 F.2d 465, 186 USPQ 11 (CCPA 1975); *In re
+ Krimmel,* 292 F.2d 948, 130 USPQ 215 (CCPA 1961); *Ex parte
+ Jovanovics,* 211 USPQ 907 (Bd. Pat. App. & Inter. 1981).
+ 
+
+**VI.** **TREATMENT OF SPECIFIC DISEASE CONDITIONS**Claims directed to a method of treating or curing a disease for
+ which there have been no previously successful treatments or cures warrant careful
+ review for compliance with **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. The credibility of
+ an asserted utility for treating a human disorder may be more difficult to establish
+ where current scientific understanding suggests that such a task would be impossible.
+ Such a determination has always required a good understanding of the state of the art
+ as of the time that the invention was made. For example, prior to the 1980’s, there
+ were a number of cases where an asserted use in treating cancer in humans was viewed
+ as "incredible." *In re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA
+ 1980); *In re Buting,* 418 F.2d 540, 163 USPQ 689 (CCPA 1969);
+ *Ex parte Stevens,* 16 USPQ2d 1379 (Bd. Pat. App. & Inter.
+ 1990); *Ex parte Busse,* 1 USPQ2d 1908 (Bd. Pat. App. & Inter.
+ 1986); *Ex parte Krepelka,* 231 USPQ 746 (Bd. Pat. App. & Inter.
+ 1986); *Ex parte Jovanovics,* 211 USPQ 907 (Bd. Pat. App. &
+ Inter. 1981). The fact that there is no known cure for a disease, however, cannot
+ serve as the basis for a conclusion that such an invention lacks utility. Rather,
+ Office personnel must determine if the asserted utility for the invention is credible
+ based on the information disclosed in the application. Only those claims for which an
+ asserted utility is not credible should be rejected. In such
+ cases, the Office should carefully review what is being claimed by the applicant. An
+ assertion that the claimed invention is useful in treating a symptom of an incurable
+ disease may be considered credible by a person of ordinary skill in the art on the
+ basis of a fairly modest amount of evidence or support. In contrast, an assertion
+ that the claimed invention will be useful in "curing" the disease may require a
+ significantly greater amount of evidentiary support to be considered credible by a
+ person of ordinary skill in the art. *In re Sichert,* 566 F.2d 1154,
+ 196 USPQ 209 (CCPA 1977); *In re Jolles,* 628 F.2d 1322, 206 USPQ
+ 885 (CCPA 1980). See also *Ex parte Ferguson,* 117 USPQ 229 (Bd.
+ Pat. App. & Inter. 1957).
+ 
+
+
+In these cases, it is important to note that the Food and Drug
+ Administration has promulgated regulations that enable a party to conduct clinical
+ trials for drugs used to treat life threatening and severely-debilitating illnesses,
+ even where no alternative therapy exists. See 21 CFR 312.80-88 (1994). Implicit in
+ these regulations is the recognition that experts qualified to evaluate the
+ effectiveness of therapeutics can and often do find a sufficient basis to conduct
+ clinical trials of drugs for incurable or previously untreatable illnesses. Thus,
+ affidavit evidence from experts in the art indicating that there is a reasonable
+ expectation of success, supported by sound reasoning, usually should be sufficient to
+ establish that such a utility is credible.
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2107.01 General Principles Governing Utility Rejections [R-10.2019]
+
+
+
+#### *35 U.S.C. 101   
+ Inventions patentable*
+
+
+Whoever invents or discovers any new and useful process, machine,
+ manufacture, or composition of matter, or any new and useful improvement thereof, may
+ obtain a patent therefor, subject to the conditions and requirements of this
+ title.
+ 
+
+
+
+See **[MPEP
+ § 2107](s2107.html#d0e198469)** for guidelines for the examination of applications for
+ compliance with the utility requirement of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ 
+
+
+The Office must examine each application to ensure compliance with the
+ "useful invention" or utility requirement of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. In discharging this
+ obligation, however, Office personnel must keep in mind several general principles that
+ control application of the utility requirement. **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** has been interpreted
+ as imposing four purposes. First, **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** limits an inventor to
+ ONE patent for a claimed invention. If more than one patent is sought, a patent
+ applicant will receive a statutory double patenting rejection for claims included in
+ more than one application that are directed to the same invention. See
+  **[MPEP §
+ 804](s804.html#d0e98894)**. Second, the inventor(s) must be the applicant in an
+ application filed before September 16, 2012, (except as otherwise provided in
+ **[pre-AIA 37 CFR
+ 1.41(b)](mpep-9020-appx-r.html#d0e317757)**) and the inventor or each joint inventor must be
+ identified in an application filed on or after September 16, 2012. See
+ **[MPEP §
+ 2109](s2109.html#ch2100_d2c183_22374_28b)** for a detailed discussion of inventorship,
+ **[MPEP §
+ 602.01(c)](s602.html#d0e4830ss602)***et seq.* for details regarding correction of inventorship,
+ **[MPEP §
+ 2157](s2157.html#ch2100_d20034_1bb92_e7)** for rejections under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[115](mpep-9015-appx-l.html#d0e302875912)** for failure
+ to set forth the correct inventorship, and **[MPEP § 2137](s2137.html#d0e206570)** for rejections under
+ **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)** (for applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**) for failure to set forth the correct inventorship. Third,
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** defines which categories of inventions are eligible for patent
+ protection. An invention that is not a machine, an article of manufacture, a composition
+ or a process cannot be patented. See *Diamond**v.**Chakrabarty,* 447 U.S. 303, 206 USPQ 193 (1980);
+ *Diamond**v.**Diehr,* 450 U.S. 175, 209 USPQ 1 (1981); *In re
+ Nuijten,* 500 F.3d 1346, 1354, 84 USPQ2d 1495, 1500 (Fed. Cir. 2007).
+ Fourth, **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** serves to ensure that patents are granted on only those
+ inventions that are "useful." This second purpose has a Constitutional footing — Article
+ I, Section 8 of the Constitution authorizes Congress to provide exclusive rights to
+ inventors to promote the "useful arts." See *Carl Zeiss Stiftung**v.**Renishaw PLC,* 945 F.2d 1173, 20 USPQ2d 1094 (Fed. Cir. 1991). Thus,
+ to satisfy the requirements of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, an applicant must
+ claim an invention that is statutory subject matter and must show that the claimed
+ invention is "useful" for some purpose either explicitly or implicitly. Application of
+ this latter element of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** is the focus of these guidelines.
+ 
+
+
+Deficiencies under the "useful invention" requirement of
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** will arise in one of two forms. The first is where it is not
+ apparent why the invention is "useful." This can occur when an applicant fails to
+ identify any specific and substantial utility for the invention or fails to disclose
+ enough information about the invention to make its usefulness immediately apparent to
+ those familiar with the technological field of the invention. *Brenner**v.**Manson,* 383 U.S. 519, 148 USPQ 689 (1966); *In re
+ Fisher,* 421 F.3d 1365, 76 USPQ2d 1225 (Fed. Cir. 2005); *In re
+ Ziegler,* 992 F.2d 1197, 26 USPQ2d 1600 (Fed. Cir. 1993). The second type of
+ deficiency arises in the rare instance where an assertion of specific and substantial
+ utility for the invention made by an applicant is not credible.
+ 
+
+**I.** **SPECIFIC AND SUBSTANTIAL REQUIREMENTS**To satisfy **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, an invention must
+ be "useful." Courts have recognized that the term "useful" used with reference to the
+ utility requirement can be a difficult term to define. *Brenner**v.**Manson,* 383 U.S. 519, 529, 148 USPQ 689, 693 (1966) (simple
+ everyday word like "useful" can be "pregnant with ambiguity when applied to the facts
+ of life."). Where an applicant has set forth a specific and substantial utility,
+ courts have been reluctant to uphold a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ solely on the basis that the applicant’s opinion as to the nature of the specific and
+ substantial utility was inaccurate. For example, in *Nelson**v.**Bowler,* 626 F.2d 853, 206 USPQ 881 (CCPA 1980), the court reversed
+ a finding by the Office that the applicant had not set forth a "practical" utility
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. In this case the applicant asserted that the composition
+ was "useful" in a particular pharmaceutical application and provided evidence to
+ support that assertion. Courts have used the labels "practical utility," "substantial
+ utility," or "specific utility" to refer to this aspect of the "useful invention"
+ requirement of **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. The Court of Customs and Patent Appeals has
+ stated:
+ 
+
+
+
+> 
+> Practical utility is a shorthand way of attributing "real-world"
+>  value to claimed subject matter. In other words, one skilled in the art can use a
+>  claimed discovery in a manner which provides some immediate benefit to the
+>  public.
+>  
+> 
+> 
+> 
+
+
+*Nelson v. Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA
+ 1980).
+ 
+
+
+Practical considerations require the Office to rely on the
+ inventor’s understanding of the invention in determining whether and in what regard
+ an invention is believed to be "useful." Because of this, Office personnel should
+ focus on and be receptive to assertions made by the applicant that an invention is
+ "useful" for a particular reason. 
+ 
+
+***A.******Specific Utility***A "specific utility" is *specific* to the
+ subject matter claimed and can "provide a well-defined and particular benefit to
+ the public." *In re Fisher,* 421 F.3d 1365, 1371, 76 USPQ2d 1225,
+ 1230 (Fed. Cir. 2005). This contrasts with a *general* utility
+ that would be applicable to the broad class of the invention. Office personnel
+ should distinguish between situations where an applicant has disclosed a specific
+ use for or application of the invention and situations where the applicant merely
+ indicates that the invention may prove useful without identifying with specificity
+ why it is considered useful. For example, indicating that a
+ compound may be useful in treating unspecified disorders, or that the compound has
+ "useful biological" properties, would not be sufficient to define a specific
+ utility for the compound. See, e.g., *In re Kirk,* 376 F.2d 936,
+ 153 USPQ 48 (CCPA 1967); *In re Joly,* 376 F.2d 906, 153 USPQ 45
+ (CCPA 1967). Similarly, a claim to a polynucleotide whose use is disclosed simply
+ as a "gene probe" or "chromosome marker" would not be considered to be
+ *specific* in the absence of a disclosure of a specific DNA
+ target. See *In re Fisher,* 421 F.3d at 1374, 76 USPQ2d at 1232
+ ("Any EST [expressed sequence tag] transcribed from any gene in the maize genome
+ has the potential to perform any one of the alleged uses…. Nothing about
+ [applicant’s] seven alleged uses set the five claimed ESTs apart from the more
+ than 32,000 ESTs disclosed in the [ ] application or indeed from any EST derived
+ from any organism. Accordingly, we conclude that [applicant] has only disclosed
+ general uses for its claimed ESTs, not specific ones that satisfy
+ **[§
+ 101](mpep-9015-appx-l.html#d0e302376)**."). A general statement of diagnostic utility, such as
+ diagnosing an unspecified disease, would ordinarily be insufficient absent a
+ disclosure of what condition can be diagnosed. Contrast the situation where an
+ applicant discloses a specific biological activity and reasonably correlates that
+ activity to a disease condition. Assertions falling within the latter category are
+ sufficient to identify a specific utility for the invention. Assertions that fall
+ in the former category are insufficient to define a specific utility for the
+ invention, especially if the assertion takes the form of a general statement that
+ makes it clear that a "useful" invention may arise from
+ what has been disclosed by the applicant. *Knapp v.**Anderson,* 477 F.2d 588, 177 USPQ 688 (CCPA 1973).
+ 
+
+***B.******Substantial Utility*** "[A]n application must show that an invention is useful to the
+ public as disclosed in its current form, not that it may prove useful at some
+ future date after further research. Simply put, to satisfy the ‘substantial’
+ utility requirement, an asserted use must show that the claimed invention has a
+ significant and presently available benefit to the public."
+ *Fisher,* 421 F.3d at 1371, 76 USPQ2d at 1230. The claims at
+ issue in *Fisher* were directed to expressed sequence tags
+ (ESTs), which are short nucleotide sequences that can be used to discover what
+ genes and downstream proteins are expressed in a cell. The court held that "the
+ claimed ESTs can be used only to gain further information about the underlying
+ genes and the proteins encoded for by those genes. The claimed ESTs themselves are
+ not an end of [applicant’s] research effort, but only tools to be used along the
+ way in the search for a practical utility…. [Applicant] does not identify the
+ function for the underlying protein-encoding genes. Absent such identification, we
+ hold that the claimed ESTs have not been researched and understood to the point of
+ providing an immediate, well-defined, real world benefit to the public meriting
+ the grant of a patent." *Id.* at 1376, 76 USPQ2d at 1233-34).
+ Thus a "substantial utility" defines a "real world" use. Utilities that require or
+ constitute carrying out further research to identify or reasonably confirm a "real
+ world" context of use are not substantial utilities. For example, both a
+ therapeutic method of treating a known or newly discovered disease and an assay
+ method for identifying compounds that themselves have a "substantial utility"
+ define a "real world" context of use. An assay that measures the presence of a
+ material which has a stated correlation to a predisposition to the onset of a
+ particular disease condition would also define a "real world" context of use in
+ identifying potential candidates for preventive measures or further monitoring. On
+ the other hand, the following are examples of situations that require or
+ constitute carrying out further research to identify or reasonably confirm a "real
+ world" context of use and, therefore, do not define "substantial utilities":
+ 
+
+
+* (A) Basic research such as studying the properties of the
+ claimed product itself or the mechanisms in which the material is
+ involved;
+* (B) A method of treating an *unspecified*
+ disease or condition;
+* (C) A method of assaying for or identifying a material that
+ itself has no specific and/or substantial utility;
+* (D) A method of making a material that itself has no specific,
+ substantial, and credible utility; and
+* (E) A claim to an intermediate product for use in making a
+ final product that has no specific, substantial and credible utility.
+
+
+Office personnel must be careful not to interpret the phrase
+ "immediate benefit to the public" or similar formulations in other cases to mean
+ that products or services based on the claimed invention must be "currently
+ available" to the public in order to satisfy the utility requirement. See, e.g.,
+ *Brenner v. Manson,* 383 U.S. 519, 534-35, 148 USPQ 689, 695
+ (1966). Rather, any reasonable use that an applicant has identified for the
+ invention that can be viewed as providing a public benefit should be accepted as
+ sufficient, at least with regard to defining a "substantial" utility.
+ 
+
+***C.******Research Tools***Some confusion can result when one attempts to label certain
+ types of inventions as not being capable of having a specific and substantial
+ utility based on the setting in which the invention is to be used. One example is
+ inventions to be used in a research or laboratory setting. Many research tools
+ such as gas chromatographs, screening assays, and nucleotide sequencing techniques
+ have a clear, specific and unquestionable utility (e.g., they are useful in
+ analyzing compounds). An assessment that focuses on whether an invention is useful
+ only in a research setting thus does not address whether the invention is in fact
+ "useful" in a patent sense. Instead, Office personnel must distinguish between
+ inventions that have a specifically identified substantial utility and inventions
+ whose asserted utility requires further research to identify or reasonably
+ confirm. Labels such as "research tool," "intermediate" or "for research purposes"
+ are not helpful in determining if an applicant has identified a specific and
+ substantial utility for the invention. 
+ 
+
+**II.** **WHOLLY INOPERATIVE INVENTIONS; "INCREDIBLE" UTILITY**An invention that is "inoperative" (i.e., it does not operate to
+ produce the results claimed by the patent applicant) is not a "useful" invention in
+ the meaning of the patent law. See, e.g., *Newman**v.**Quigg,* 877 F.2d 1575, 1581, 11 USPQ2d 1340, 1345 (Fed. Cir. 1989);
+ *In re Harwood,* 390 F.2d 985, 989, 156 USPQ 673, 676 (CCPA 1968)
+ ("An inoperative invention, of course, does not satisfy the requirement of
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** that an invention be useful."). However, as the Federal
+ Circuit has stated, "[t]o violate **[[35 U.S.C.] 101](mpep-9015-appx-l.html#d0e302376)** the claimed
+ device must be totally incapable of achieving a useful
+ result." *Brooktree Corp.**v.**Advanced Micro Devices, Inc.,* 977 F.2d 1555, 1571, 24 USPQ2d 1401,
+ 1412 (Fed. Cir. 1992) (emphasis added). See also *E.I. du Pont De Nemours and
+ Co.**v.**Berkley and Co.,* 620 F.2d 1247, 1260 n.17, 205 USPQ 1, 10 n.17
+ (8th Cir. 1980) ("A small degree of utility is sufficient . . . The claimed invention
+ must only be capable of performing some beneficial function . . . An invention does
+ not lack utility merely because the particular embodiment disclosed in the patent
+ lacks perfection or performs crudely . . . A commercially successful product is not
+ required . . . Nor is it essential that the invention accomplish all its intended
+ functions . . . or operate under all conditions . . . partial success being
+ sufficient to demonstrate patentable utility . . . In short, the defense of
+ non-utility cannot be sustained without proof of total incapacity." If an invention
+ is only partially successful in achieving a useful result, a
+ rejection of the claimed invention as a whole based on a lack of utility is not
+ appropriate. See *In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed.
+ Cir. 1995); *In re Gardner,* 475 F.2d 1389, 177 USPQ 396 (CCPA),
+ *reh’g denied,* 480 F.2d 879 (CCPA 1973); *In re
+ Marzocchi,* 439 F.2d 220, 169 USPQ 367 (CCPA 1971).
+ 
+
+
+Situations where an invention is found to be "inoperative" and
+ therefore lacking in utility are rare, and rejections maintained solely on this
+ ground by a federal court even rarer. In many of these cases, the utility asserted by
+ the applicant was thought to be "incredible in the light of the knowledge of the art,
+ or factually misleading" when initially considered by the Office. *In re
+ Citron,* 325 F.2d 248, 253, 139 USPQ 516, 520 (CCPA 1963). Other cases
+ suggest that on initial evaluation, the Office considered the asserted utility to be
+ inconsistent with known scientific principles or "speculative at best" as to whether
+ attributes of the invention necessary to impart the asserted utility were actually
+ present in the invention. *In re Sichert,* 566 F.2d 1154, 196 USPQ
+ 209 (CCPA 1977). However cast, the underlying finding by the court in these cases was
+ that, based on the factual record of the case, it was clear
+ that the invention could not and did not work as the inventor claimed it did. Indeed,
+ the use of many labels to describe a single problem (e.g., a false assertion
+ regarding utility) has led to some of the confusion that exists today with regard to
+ a rejection based on the "utility" requirement. Examples of such cases include: an
+ invention asserted to change the taste of food using a magnetic field
+ *(Fregeau**v.**Mossinghoff,* 776 F.2d 1034, 227 USPQ 848 (Fed. Cir. 1985)), a
+ perpetual motion machine *(Newman**v.**Quigg,* 877 F.2d 1575, 11 USPQ2d 1340 (Fed. Cir. 1989)), a flying
+ machine operating on "flapping or flutter function" *(In re
+ Houghton,* 433 F.2d 820, 167 USPQ 687 (CCPA 1970)), a "cold fusion"
+ process for producing energy *(In re Swartz,* 232 F.3d 862, 56
+ USPQ2d 1703 (Fed. Cir. 2000)), a method for increasing the energy output of fossil
+ fuels upon combustion through exposure to a magnetic field *(In re
+ Ruskin,* 354 F.2d 395, 148 USPQ 221 (CCPA 1966)), uncharacterized
+ compositions for curing a wide array of cancers *(In re Citron,* 325
+ F.2d 248, 139 USPQ 516 (CCPA 1963)), and a method of controlling the aging process
+ *(In re Eltgroth,* 419 F.2d 918, 164 USPQ 221 (CCPA 1970)). These
+ examples are fact specific and should not be applied as a
+ *per se* rule. Thus, in view of the rare nature of such cases,
+ Office personnel should not label an asserted utility "incredible," "speculative" or
+ otherwise unless it is clear that a rejection based on "lack of utility" is
+ proper.
+ 
+
+**III.** **THERAPEUTIC OR PHARMACOLOGICAL UTILITY**Inventions asserted to have utility in the treatment of human or
+ animal disorders are subject to the same legal requirements for utility as inventions
+ in any other field of technology. *In re Chilowsky,* 229 F.2d 457,
+ 461-2, 108 USPQ 321, 325 (CCPA 1956) ("There appears to be no basis in the statutes
+ or decisions for requiring any more conclusive evidence of operativeness in one type
+ of case than another. The character and amount of evidence needed may vary, depending
+ on whether the alleged operation described in the application appears to accord with
+ or to contravene established scientific principles or to depend upon principles
+ alleged but not generally recognized, but the degree of certainty as to the ultimate
+ fact of operativeness or inoperativeness should be the same in all cases");
+ *In re Gazave,* 379 F.2d 973, 978, 154 USPQ 92, 96 (CCPA 1967)
+ ("Thus, in the usual case where the mode of operation alleged can be readily
+ understood and conforms to the known laws of physics and chemistry, operativeness is
+ not questioned, and no further evidence is required."). As such, pharmacological or
+ therapeutic inventions that provide any "immediate benefit to
+ the public" satisfy **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. The utility being asserted in
+ *Nelson* related to a compound with pharmacological utility.
+ *Nelson**v.**Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA 1980). Office
+ personnel should rely on *Nelson* and other cases as providing
+ general guidance when evaluating the utility of an invention that is based on any
+ therapeutic, prophylactic, or pharmacological activities of that invention. 
+ 
+
+
+Courts have repeatedly found that the mere
+ identification of a pharmacological activity of a compound
+ that is relevant to an asserted pharmacological use provides an "immediate benefit to
+ the public" and thus satisfies the utility requirement. As the Court of Customs and
+ Patent Appeals held in *Nelson**v.**Bowler*:
+ 
+
+
+
+> 
+> Knowledge of the pharmacological activity of any compound is
+>  obviously beneficial to the public. It is inherently faster and easier to combat
+>  illnesses and alleviate symptoms when the medical profession is armed with an
+>  arsenal of chemicals having known pharmacological activities. Since it is crucial
+>  to provide researchers with an incentive to disclose pharmacological activities in
+>  as many compounds as possible, we conclude that adequate proof of any such
+>  activity constitutes a showing of practical utility.
+>  
+> 
+> 
+> 
+
+
+*Nelson**v.**Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA 1980).
+ 
+
+
+In *Nelson**v.**Bowler,* the court addressed the practical utility requirement in
+ the context of an interference proceeding. Bowler challenged the patentability of the
+ invention claimed by Nelson on the basis that Nelson had failed to sufficiently and
+ persuasively disclose in his application a practical utility for the invention.
+ Nelson had developed and claimed a class of synthetic prostaglandins modeled on
+ naturally occurring prostaglandins. Naturally occurring prostaglandins are bioactive
+ compounds that, at the time of Nelson’s application, had a recognized value in
+ pharmacology (e.g., the stimulation of uterine smooth muscle which resulted in labor
+ induction or abortion, the ability to raise or lower blood pressure, etc.). To
+ support the utility he identified in his disclosure, Nelson included in his
+ application the results of tests demonstrating the bioactivity of his new substituted
+ prostaglandins relative to the bioactivity of naturally occurring prostaglandins. The
+ court concluded that Nelson had satisfied the practical utility requirement in
+ identifying the synthetic prostaglandins as pharmacologically active compounds. In
+ reaching this conclusion, the court considered and rejected arguments advanced by
+ Bowler that attacked the evidentiary basis for Nelson’s assertions that the compounds
+ were pharmacologically active.
+ 
+
+
+In *In re Jolles,* 628 F.2d 1322, 206 USPQ 885
+ (CCPA 1980), an inventor claimed protection for pharmaceutical compositions for
+ treating leukemia. The active ingredient in the compositions was a structural analog
+ to a known anticancer agent. The applicant provided evidence showing that the claimed
+ analogs had the same general pharmaceutical activity as the known anticancer agents.
+ The court reversed the Board’s finding that the asserted pharmaceutical utility was
+ "incredible," pointing to the evidence that showed the relevant pharmacological
+ activity.
+ 
+
+
+In *Cross**v.**Iizuka,* 753 F.2d 1040, 224 USPQ 739 (Fed. Cir. 1985), the Federal
+ Circuit affirmed a finding by the Board of Patent Appeals and Interferences that a
+ pharmacological utility had been disclosed in the application of one party to an
+ interference proceeding. The invention that was the subject of the interference count
+ was a chemical compound used for treating blood disorders. Cross had challenged the
+ evidence in Iizuka’s specification that supported the claimed utility. However, the
+ Federal Circuit relied extensively on *Nelson**v.**Bowler* in finding that Iizuka’s application had sufficiently
+ disclosed a pharmacological utility for the compounds. It distinguished the case from
+ cases where only a generalized "nebulous" expression, such as "biological
+ properties," had been disclosed in a specification. Such statements, the court held,
+ "convey little explicit indication regarding the utility of a compound."
+ *Cross,* 753 F.2d at 1048, 224 USPQ at 745 (citing *In re
+ Kirk,* 376 F.2d 936, 941, 153 USPQ 48, 52 (CCPA 1967)).
+ 
+
+
+Similarly, courts have found utility for therapeutic inventions
+ despite the fact that an applicant is at a very early stage in the development of a
+ pharmaceutical product or therapeutic regimen based on a claimed pharmacological or
+ bioactive compound or composition. The Federal Circuit, in *Cross**v.**Iizuka,* 753 F.2d 1040, 1051, 224 USPQ 739, 747-48 (Fed. Cir.
+ 1985), commented on the significance of data from *in vitro* testing
+ that showed pharmacological activity:
+ 
+
+
+
+> 
+> We perceive no insurmountable difficulty, under appropriate
+>  circumstances, in finding that the first link in the screening chain, *in
+>  vitro* testing, may establish a practical utility for the compound in
+>  question. Successful *in vitro* testing will marshal resources
+>  and direct the expenditure of effort to further *in vivo* testing
+>  of the most potent compounds, thereby providing an immediate benefit to the
+>  public, analogous to the benefit provided by the showing of an *in
+>  vivo* utility.
+>  
+> 
+> 
+> 
+
+
+The Federal Circuit has reiterated that therapeutic utility
+ sufficient under the patent laws is not to be confused with the requirements of the
+ FDA with regard to safety and efficacy of drugs to marketed in the United States.
+ 
+
+
+
+> 
+> FDA approval, however, is not a prerequisite for finding a
+>  compound useful within the meaning of the patent laws. *Scott v.**Finney,* 34 F.3d 1058, 1063, 32 USPQ2d 1115, 1120 [(Fed.Cir.
+>  1994)]. Usefulness in patent law, and in particular in the context of
+>  pharmaceutical inventions, necessarily includes the expectation of further
+>  research and development. The stage at which an invention in this field becomes
+>  useful is well before it is ready to be administered to humans. Were we to require
+>  Phase II testing in order to prove utility, the associated costs would prevent
+>  many companies from obtaining patent protection on promising new inventions,
+>  thereby eliminating an incentive to pursue, through research and development,
+>  potential cures in many crucial areas such as the treatment of cancer.
+>  
+> 
+> 
+> 
+
+
+*In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995).
+ Accordingly, Office personnel should not construe **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, under the logic of
+ "practical" utility or otherwise, to require that an applicant demonstrate that a
+ therapeutic agent based on a claimed invention is a safe or fully effective drug for
+ humans. See, e.g., *In re Sichert,* 566 F.2d 1154, 196 USPQ 209
+ (CCPA 1977); *In re Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA 1962);
+ *In re Anthony,* 414 F.2d 1383, 162 USPQ 594 (CCPA 1969);
+ *In re Watson,* 517 F.2d 465, 186 USPQ 11 (CCPA 1975).
+ 
+
+
+These general principles are equally applicable to situations where
+ an applicant has claimed a process for treating a human or animal disorder. In such
+ cases, the asserted utility is usually clear — the invention is asserted to be useful
+ in treating the particular disorder. If the asserted utility is
+ credible, there is no basis to challenge such a claim on
+ the basis that it lacks utility under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ 
+
+
+ See **[MPEP § 2107.03](s2107.html#d0e200058)** for special considerations for asserted
+ therapeutic or pharmacological utilities.
+ 
+
+**IV.** **RELATIONSHIP BETWEEN 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, FIRST
+ PARAGRAPH, AND 35 U.S.C. 101** A deficiency under the utility prong of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ also creates a deficiency under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. See *In re
+ Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995); *In re
+ Jolles,* 628 F.2d 1322, 1326 n.10, 206 USPQ 885, 889 n.11 (CCPA 1980);
+ *In re Fouche,* 439 F.2d 1237, 1243, 169 USPQ 429, 434 (CCPA
+ 1971) ("If such compositions are in fact useless, appellant’s specification cannot
+ have taught how to use them."). Courts have also cast the **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**/**[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** relationship such
+ that **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** presupposes compliance with **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ See *In re Ziegler,* 992 F.2d 1197, 1200-1201, 26 USPQ2d 1600, 1603
+ (Fed. Cir. 1993) ("The how to use prong of **[section 112](mpep-9015-appx-l.html#d0e302824)** incorporates as a
+ matter of law the requirement of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** that the
+ specification disclose as a matter of fact a practical utility for the invention. ...
+ If the application fails as a matter of fact to satisfy **[35 U.S.C. §
+ 101](mpep-9015-appx-l.html#d0e302376)**, then the application also fails as a matter of law to enable
+ one of ordinary skill in the art to use the invention under **[35 U.S.C. §
+ 112](mpep-9015-appx-l.html#d0e302824)**."); *In re Kirk,* 376 F.2d 936, 942, 153 USPQ
+ 48, 53 (CCPA 1967) ("Necessarily, compliance with **[§ 112](mpep-9015-appx-l.html#d0e302824)** requires a description of
+ how to use presently useful inventions, otherwise an applicant would anomalously be
+ required to teach how to use a useless invention."). For example, the Federal Circuit
+ noted, "[o]bviously, if a claimed invention does not have utility, the specification
+ cannot enable one to use it." *In re Brana,* 51 F.3d 1560, 34 USPQ2d
+ 1436 (Fed. Cir. 1995). As such, a rejection properly imposed under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ for lack of utility should be accompanied with a rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. It is equally clear that a rejection based on "lack of utility," whether
+ grounded upon **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** or **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824912)**, first paragraph, rests on the same basis (i.e., the
+ asserted utility is not credible). To avoid confusion, any lack of utility rejection
+ that is imposed on the basis of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** should be
+ accompanied by a rejection based on **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. The **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, rejection should be set out as a separate rejection that incorporates by
+ reference the factual basis and conclusions set forth in the **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ rejection. The **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, rejection should indicate that
+ because the invention as claimed does not have utility, a person skilled in the art
+ would not be able to use the invention as claimed, and as such, the claim is
+ defective under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. A **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, rejection based on lack of utility should not be imposed or maintained
+ unless an appropriate basis exists for imposing a utility rejection under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. In other words, Office personnel should not impose a
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, rejection grounded on a "lack of utility" basis unless a **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ rejection is proper. In particular, the factual showing needed to impose a rejection
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** must be provided if a rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, is to be imposed on "lack of utility" grounds.
+ 
+
+
+It is important to recognize that **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, addresses matters other than those related to the question of whether or
+ not an invention lacks utility. These matters include whether the claims are fully
+ supported by the disclosure *(In re Vaeck,* 947 F.2d 488, 495, 20
+ USPQ2d 1438, 1444 (Fed. Cir. 1991)), whether the applicant has provided an enabling
+ disclosure of the claimed subject matter *(In re Wright,* 999 F.2d
+ 1557, 1561-1562, 27 USPQ2d 1510, 1513 (Fed. Cir. 1993)), whether the applicant has
+ provided an adequate written description of the invention and whether the applicant
+ has disclosed the best mode of practicing the claimed invention *(Chemcast
+ Corp.**v.**Arco Indus. Corp.,* 913 F.2d 923, 927-928, 16 USPQ2d 1033,
+ 1036-1037 (Fed. Cir. 1990)). See also *Transco Products Inc.**v. Performance Contracting Inc.,* 38 F.3d 551, 32 USPQ2d 1077 (Fed.
+ Cir. 1994); *Glaxo Inc.**v.**Novopharm Ltd.,* 52 F.3d 1043, 34 USPQ2d 1565 (Fed. Cir. 1995). The
+ fact that an applicant has disclosed a specific utility for an invention and provided
+ a credible basis supporting that specific utility does not provide a basis for
+ concluding that the claims comply with all the requirements of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. For example, if an applicant has claimed a process of treating a certain
+ disease condition with a certain compound and provided a credible basis for asserting
+ that the compound is useful in that regard, but to actually practice the invention as
+ claimed a person skilled in the relevant art would have to engage in an undue amount
+ of experimentation, the claim may be defective under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ but not **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. To avoid confusion during examination, any rejection under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, based on grounds other than "lack of utility" should be imposed separately
+ from any rejection imposed due to "lack of utility" under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ and **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph.
+ 
+
+
+, 
+# 2107.02 Procedural Considerations Related to Rejections for Lack of
+ Utility [R-10.2019]
+
+**I.** **THE CLAIMED INVENTION IS THE FOCUS OF THE UTILITY REQUIREMENT**The claimed invention is the focus of the assessment of whether an
+ applicant has satisfied the utility requirement. Each claim (i.e., each "invention"),
+ therefore, must be evaluated on its own merits for compliance with all statutory
+ requirements. Generally speaking, however, a dependent claim will define an invention
+ that has utility if the independent claim from which the dependent claim depends is
+ drawn to the same statutory class of invention as the dependent claim and the
+ independent claim defines an invention having utility. An exception to this general
+ rule is where the utility specified for the invention defined in a dependent claim
+ differs from that indicated for the invention defined in the independent claim from
+ which the dependent claim depends. Where an applicant has established utility for a
+ species that falls within an identified genus of compounds, and presents a generic
+ claim covering the genus, as a general matter, that claim should be treated as being
+ sufficient under **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. Only where it can be established that other species
+ clearly encompassed by the claim do not have utility should a rejection be imposed on
+ the generic claim. In such cases, the applicant should be encouraged to amend the
+ generic claim so as to exclude the species that lack utility. 
+ 
+
+
+It is common and sensible for an applicant to identify several
+ specific utilities for an invention, particularly where the invention is a product
+ (e.g., a machine, an article of manufacture or a composition of matter). However,
+ regardless of the category of invention that is claimed (e.g., product or process),
+ an applicant need only make one credible assertion of specific utility for the
+ claimed invention to satisfy **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**; additional statements of utility, even if not "credible,"
+ do not render the claimed invention lacking in utility. See, e.g.,
+ *Raytheon**v.**Roper,* 724 F.2d 951, 958, 220 USPQ 592, 598 (Fed. Cir. 1983),
+ *cert. denied,* 469 U.S. 835 (1984) ("When a properly claimed
+ invention meets at least one stated objective, utility under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ is clearly shown."); *In re Gottlieb,* 328 F.2d 1016, 1019, 140 USPQ
+ 665, 668 (CCPA 1964) ("Having found that the antibiotic is useful for some purpose,
+ it becomes unnecessary to decide whether it is in fact useful for the other purposes
+ ‘indicated’ in the specification as possibly useful."); *In re
+ Malachowski,* 530 F.2d 1402, 189 USPQ 432 (CCPA 1976);
+ *Hoffman**v.**Klaus,* 9 USPQ2d 1657 (Bd. Pat. App. & Inter. 1988). Thus, if
+ applicant makes one credible assertion of utility, utility for the claimed invention
+ as a whole is established.
+ 
+
+
+Statements made by the applicant in the specification or incident to
+ prosecution of the application before the Office cannot, standing alone, be the basis
+ for a lack of utility rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** or
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**. *Tol-O-Matic, Inc.**v.**Proma Produkt-Und Mktg. Gesellschaft m.b.h.,* 945 F.2d 1546, 1553,
+ 20 USPQ2d 1332, 1338 (Fed. Cir. 1991) (It is not required that a particular
+ characteristic set forth in the prosecution history be achieved in order to satisfy
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**.). An applicant may include statements in the specification
+ whose technical accuracy cannot be easily confirmed if those statements are not
+ necessary to support the patentability of an invention with regard to any statutory
+ basis. Thus, the Office should not require an applicant to strike nonessential
+ statements relating to utility from a patent disclosure, regardless of the technical
+ accuracy of the statement or assertion it presents. Office personnel should also be
+ especially careful not to read into a claim unclaimed results, limitations or
+ embodiments of an invention. See *Carl Zeiss Stiftung**v.**Renishaw PLC,* 945 F.2d 1173, 20 USPQ2d 1094 (Fed. Cir. 1991);
+ *In re Krimmel,* 292 F.2d 948, 130 USPQ 215 (CCPA 1961). Doing so
+ can inappropriately change the relationship of an asserted utility to the claimed
+ invention and raise issues not relevant to examination of that claim.
+ 
+
+**II.** **IS THERE AN ASSERTED OR WELL-ESTABLISHED UTILITY FOR THE CLAIMED
+ INVENTION?**Upon initial examination, the examiner should review the
+ specification to determine if there are any statements asserting that the claimed
+ invention is useful for any particular purpose. A complete disclosure should include
+ a statement which identifies a specific and substantial utility for the invention. 
+ 
+
+***A.******An Asserted Utility Must Be Specific and Substantial***A statement of specific and substantial utility should fully and
+ clearly explain why the applicant believes the invention is useful. Such
+ statements will usually explain the purpose of or how the invention may be used
+ (e.g., a compound is believed to be useful in the treatment of a particular
+ disorder). Regardless of the form of statement of utility, it must enable one
+ ordinarily skilled in the art to understand why the applicant believes the claimed
+ invention is useful. 
+ 
+
+
+Except where an invention has a well-established utility, the
+ failure of an applicant to specifically identify why an invention is believed to
+ be useful renders the claimed invention deficient under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. In such cases, the applicant
+ has failed to identify a "specific and substantial utility" for the claimed
+ invention. For example, a statement that a composition has an unspecified
+ "biological activity" or that does not explain why a composition with that
+ activity is believed to be useful fails to set forth a "specific and substantial
+ utility." *Brenner**v.**Manson,* 383 US 519, 148 USPQ 689 (1966) (general assertion of
+ similarities to known compounds known to be useful without sufficient
+ corresponding explanation why claimed compounds are believed to be similarly
+ useful insufficient under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**); *In re
+ Ziegler,* 992 F.2d 1197, 1201, 26 USPQ2d 1600, 1604 (Fed. Cir. 1993)
+ (disclosure that composition is "plastic-like" and can form "films" not sufficient
+ to identify specific and substantial utility for invention); *In re
+ Kirk,* 376 F.2d 936, 153 USPQ 48 (CCPA 1967) (indication that compound
+ is "biologically active" or has "biological properties" insufficient standing
+ alone). See also *In re Joly,* 376 F.2d 906, 153 USPQ 45 (CCPA
+ 1967); *Kawai**v.**Metlesics,* 480 F.2d 880, 890, 178 USPQ 158, 165 (CCPA 1973)
+ (contrasting description of invention as sedative which did suggest specific
+ utility to general suggestion of "pharmacological effects on the central nervous
+ system" which did not). In contrast, a disclosure that identifies a particular
+ biological activity of a compound and explains how that activity can be utilized
+ in a particular therapeutic application of the compound does contain an assertion
+ of specific and substantial utility for the invention.
+ 
+
+
+Situations where an applicant either fails to indicate why an
+ invention is considered useful, or where the applicant inaccurately describes the
+ utility should rarely arise. One reason for this is that applicants are required
+ to disclose the best mode known to them of practicing the invention at the time
+ they file their application. An applicant who omits a description of the specific
+ and substantial utility of the invention, or who incompletely describes that
+ utility, may encounter problems with respect to the best mode requirement of
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph.
+ 
+
+***B.******No Statement of Utility for the Claimed Invention in the Specification
+ Does Not Per Se Negate Utility***Occasionally, an applicant will not explicitly state in the
+ specification or otherwise assert a specific and substantial utility for the
+ claimed invention. If no statements can be found asserting a specific and
+ substantial utility for the claimed invention in the specification, Office
+ personnel should determine if the claimed invention has a well-established
+ utility. An invention has a well-established utility if (i) a person of ordinary
+ skill in the art would immediately appreciate why the invention is useful based on
+ the characteristics of the invention (e.g., properties or applications of a
+ product or process), and (ii) the utility is specific, substantial, and credible.
+ If an invention has a well- established utility, rejections under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, based on lack of utility should
+ not be imposed. *In re Folkers,* 344 F.2d 970, 145 USPQ 390 (CCPA
+ 1965). For example, if an application teaches the cloning and characterization of
+ the nucleotide sequence of a well-known protein such as insulin, and those skilled
+ in the art at the time of filing knew that insulin had a well-established use, it
+ would be improper to reject the claimed invention as lacking utility solely
+ because of the omitted statement of specific and substantial utility.
+ 
+
+
+If a person of ordinary skill would not immediately recognize a
+ specific and substantial utility for the claimed invention (i.e., why it would be
+ useful) based on the characteristics of the invention or statements made by the
+ applicant, the examiner should reject the application under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as failing to identify a
+ specific and substantial utility for the claimed invention. The rejection should
+ clearly indicate that the basis of the rejection is that the application fails to
+ identify a specific and substantial utility for the invention. The rejection
+ should also specify that the applicant must reply by indicating why the invention
+ is believed useful and where support for any subsequently asserted utility can be
+ found in the specification as filed. See **[MPEP § 2701](s2701.html#d0e271945)**.
+ 
+
+
+If the applicant subsequently indicates why the invention is
+ useful, Office personnel should review that assertion according to the standards
+ articulated below for review of the credibility of an asserted utility.
+ 
+
+**III.** **EVALUATING THE CREDIBILITY OF AN ASSERTED UTILITY*** 
+
+***A.******An Asserted Utility Creates a Presumption of Utility***In most cases, an applicant’s assertion of utility creates a
+ presumption of utility that will be sufficient to satisfy the utility requirement
+ of **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. See, e.g., *In re Jolles,* 628 F.2d
+ 1322, 206 USPQ 885 (CCPA 1980); *In re Irons,* 340 F.2d 974, 144
+ USPQ 351 (CCPA 1965); *In re Langer,* 503 F.2d 1380, 183 USPQ 288
+ (CCPA 1974); *In re Sichert,* 566 F.2d 1154, 1159, 196 USPQ 209,
+ 212-13 (CCPA 1977). As the Court of Customs and Patent Appeals stated in
+ *In re Langer*:
+ 
+
+
+
+> 
+> As a matter of Patent Office practice, a specification which
+>  contains a disclosure of utility which corresponds in scope to the subject
+>  matter sought to be patented must be taken as sufficient
+>  to satisfy the utility requirement of **[§ 101](mpep-9015-appx-l.html#d0e302376)** for the entire
+>  claimed subject matter unless there is a reason for one
+>  skilled in the art to question the objective truth of the statement of utility
+>  or its scope.
+>  
+> 
+> 
+> 
+
+
+*In re Langer,* 503 F.2d at 1391, 183 USPQ at 297 (emphasis in
+ original). The "Langer" test for utility has been used by both the Federal Circuit
+ and the Court of Customs and Patent Appeals in evaluation of rejections under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, where the rejection is based on a deficiency under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. In *In re Brana,* 51 F.3d 1560, 34
+ USPQ2d 1436 (Fed. Cir. 1995), the Federal Circuit explicitly adopted the Court of
+ Customs and Patent Appeals formulation of the "Langer" standard for
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph rejections, as it was expressed in a slightly reworded format in
+ *In re Marzocchi,* 439 F.2d 220, 223, 169 USPQ 367, 369 (CCPA
+ 1971), namely:
+ 
+
+
+
+> 
+> [A] specification disclosure which contains a teaching of the
+>  manner and process of making and using the invention in terms which correspond
+>  in scope to those used in describing and defining the subject matter sought to
+>  be patented must be taken as in compliance with the
+>  enabling requirement of the first paragraph of **[§ 112](mpep-9015-appx-l.html#d0e302824)**
+>  unless there is reason to doubt the objective truth of the statements contained
+>  therein which must be relied on for enabling support. (emphasis added).
+>  
+> 
+> 
+> 
+
+
+Thus, *Langer* and subsequent cases direct the
+ Office to presume that a statement of utility made by an applicant is true. See
+ *In re Langer,* 503 F.2d at 1391, 183 USPQ at 297; *In
+ re Malachowski,* 530 F.2d 1402, 1404, 189 USPQ 432, 435 (CCPA 1976);
+ *In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995).
+ For obvious reasons of efficiency and in deference to an applicant’s understanding
+ of the invention, when a statement of utility is evaluated, Office personnel
+ should not begin by questioning the truth of the statement of utility. Instead,
+ any inquiry must start by asking if there is any reason to question the truth of
+ the statement of utility. This can be done by simply evaluating the logic of the
+ statements made, taking into consideration any evidence cited by the applicant. If
+ the asserted utility is credible (i.e., believable based on the record or the
+ nature of the invention), a rejection based on "lack of utility" is not
+ appropriate. Clearly, Office personnel should not begin an evaluation of utility
+ by assuming that an asserted utility is likely to be false, based on the technical
+ field of the invention or for other general reasons.
+ 
+
+
+Compliance with **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** is a question of
+ fact. *Raytheon**v.**Roper,* 724 F.2d 951, 956, 220 USPQ 592, 596 (Fed. Cir. 1983)
+ *cert. denied,* 469 U.S. 835 (1984). Thus, to overcome the
+ presumption of truth that an assertion of utility by the applicant enjoys, Office
+ personnel must establish that it is more likely than not that one of ordinary
+ skill in the art would doubt (i.e., "question") the truth of the statement of
+ utility. The evidentiary standard to be used throughout *ex
+ parte* examination in setting forth a rejection is a preponderance of
+ the totality of the evidence under consideration. *In re
+ Oetiker,* 977 F.2d 1443, 1445, 24 USPQ2d 1443, 1444 (Fed. Cir. 1992)
+ ("After evidence or argument is submitted by the applicant in response,
+ patentability is determined on the totality of the record, by a preponderance of
+ evidence with due consideration to persuasiveness of argument."); *In re
+ Corkill,* 771 F.2d 1496, 1500, 226 USPQ 1005, 1008 (Fed. Cir. 1985). A
+ preponderance of the evidence exists when it suggests that it is more likely than
+ not that the assertion in question is true. *Herman**v.**Huddleston,* 459 U.S. 375, 390 (1983). To do this, Office
+ personnel must provide evidence sufficient to show that the statement of asserted
+ utility would be considered "false" by a person of ordinary skill in the art. Of
+ course, a person of ordinary skill must have the benefit of both facts and
+ reasoning in order to assess the truth of a statement. This means that if the
+ applicant has presented facts that support the reasoning used in asserting a
+ utility, Office personnel must present countervailing facts and reasoning
+ sufficient to establish that a person of ordinary skill would not believe the
+ applicant’s assertion of utility. *In re Brana,* 51 F.3d 1560, 34
+ USPQ2d 1436 (Fed. Cir. 1995). The initial evidentiary standard used during
+ evaluation of this question is a preponderance of the evidence (i.e., the totality
+ of facts and reasoning suggest that it is more likely than not that the statement
+ of the applicant is false). 
+ 
+
+***B.******When Is an Asserted Utility Not Credible?***Where an applicant has specifically asserted that an invention
+ has a particular utility, that assertion cannot simply be dismissed by Office
+ personnel as being "wrong," even when there may be reason to believe that the
+ assertion is not entirely accurate. Rather, Office personnel must determine if the
+ assertion of utility is credible (i.e., whether the
+ assertion of utility is believable to a person of ordinary skill in the art based
+ on the totality of evidence and reasoning provided). An assertion is credible
+ unless (A) the logic underlying the assertion is seriously flawed, or (B) the
+ facts upon which the assertion is based are inconsistent with the logic underlying
+ the assertion. Credibility as used in this context refers to the reliability of
+ the statement based on the logic and facts that are offered by the applicant to
+ support the assertion of utility.
+ 
+
+
+One situation where an assertion of utility would not be
+ considered credible is where a person of ordinary skill would consider the
+ assertion to be "incredible in view of contemporary knowledge" and where nothing
+ offered by the applicant would counter what contemporary knowledge might otherwise
+ suggest. Office personnel should be careful, however, not to label certain types
+ of inventions as "incredible" or "speculative" as such labels do not provide the
+ correct focus for the evaluation of an assertion of utility. "Incredible utility"
+ is a conclusion, not a starting point for analysis under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. A conclusion that an asserted utility is incredible can
+ be reached only after the Office has evaluated both the assertion of the applicant
+ regarding utility and any evidentiary basis of that
+ assertion. The Office should be particularly careful not to start with a
+ presumption that an asserted utility is, *per se,* "incredible"
+ and then proceed to base a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** on that
+ presumption.
+ 
+
+
+Rejections under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** based on a lack
+ of credible utility have been sustained by federal courts when, for example, the
+ applicant failed to disclose any utility for the invention or asserted a utility
+ that could only be true if it violated a scientific principle, such as the second
+ law of thermodynamics, or a law of nature, or was wholly
+ inconsistent with contemporary knowledge in the art. *In re
+ Gazave,* 379 F.2d 973, 978, 154 USPQ 92, 96 (CCPA 1967). Special care
+ should be taken when assessing the credibility of an asserted therapeutic utility
+ for a claimed invention. In such cases, a previous lack of success in treating a
+ disease or condition, or the absence of a proven animal model for testing the
+ effectiveness of drugs for treating a disorder in humans, should not, standing
+ alone, serve as a basis for challenging the asserted utility under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. See **[MPEP § 2107.03](s2107.html#d0e200058)** for additional
+ guidance with regard to therapeutic or pharmacological utilities.
+ 
+
+**IV.** **INITIAL BURDEN IS ON THE OFFICE TO ESTABLISH A *PRIMA FACIE*
+ CASE AND PROVIDE EVIDENTIARY SUPPORT THEREOF**To properly reject a claimed invention under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**,
+ the Office must (A) make a *prima facie* showing that the claimed
+ invention lacks utility, and (B) provide a sufficient evidentiary basis for factual
+ assumptions relied upon in establishing the *prima facie* showing.
+ *In re Gaubert,* 524 F.2d 1222, 1224, 187 USPQ 664, 666 (CCPA
+ 1975) "Accordingly, the PTO must do more than merely question operability - it must
+ set forth factual reasons which would lead one skilled in the art to question the
+ objective truth of  the statement of operability." If the Office cannot develop a
+ proper *prima facie* case and provide evidentiary support for a
+ rejection under **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, a rejection on this ground should not be imposed.
+ See, e.g., *In re Oetiker,* 977 F.2d 1443, 1445, 24 USPQ2d 1443,
+ 1444 (Fed. Cir. 1992) ("[T]he examiner bears the initial burden, on review of the
+ prior art or on any other ground, of presenting a *prima facie* case
+ of unpatentability. If that burden is met, the burden of coming forward with evidence
+ or argument shifts to the applicant.... If examination at the initial stage does not
+ produce a *prima facie* case of unpatentability, then without more
+ the applicant is entitled to grant of the patent."). See also
+ *Fregeau**v.**Mossinghoff,* 776 F.2d 1034, 227 USPQ 848 (Fed. Cir. 1985)
+ (applying *prima facie* case law to **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**);
+ *In re Piasecki,* 745 F.2d 1468, 223 USPQ 785 (Fed. Cir. 1984). 
+ 
+
+
+The *prima facie* showing must be set forth in a
+ well-reasoned statement. Any rejection based on lack of utility should include a
+ detailed explanation why the claimed invention has no specific and substantial
+ credible utility. Whenever possible, the examiner should provide documentary evidence
+ regardless of publication date (e.g., scientific or technical journals, excerpts from
+ treatises or books, or U.S. or foreign patents) to support the factual basis for the
+ *prima facie* showing of no specific and substantial credible
+ utility. If documentary evidence is not available, the examiner should specifically
+ explain the scientific basis for the examiner's factual conclusions.
+ 
+
+
+ Where the asserted utility is not specific or substantial, a
+ *prima facie* showing must establish that it is more likely than
+ not that a person of ordinary skill in the art would not consider that any utility
+ asserted by the applicant would be specific and substantial. The *prima
+ facie* showing must contain the following elements:
+ 
+
+
+* (A) An explanation that clearly sets forth the reasoning used in
+ concluding that the asserted utility for the claimed invention is neither both
+ specific and substantial nor well-established;
+* (B) Support for factual findings relied upon in reaching this
+ conclusion; and
+* (C) An evaluation of all relevant evidence of record, including
+ utilities taught in the closest prior art.
+
+
+Where the asserted specific and substantial utility is not credible,
+ a *prima facie* showing of no specific and substantial credible
+ utility must establish that it is more likely than not that a person skilled in the
+ art would not consider credible any specific and substantial utility asserted by the
+ applicant for the claimed invention. The *prima facie* showing must
+ contain the following elements:
+ 
+
+
+* (A) An explanation that clearly sets forth the reasoning used in
+ concluding that the asserted specific and substantial utility is not
+ credible;
+* (B) Support for factual findings relied upon in reaching this
+ conclusion; and
+* (C) An evaluation of all relevant evidence of record, including
+ utilities taught in the closest prior art.
+
+
+Where no specific and substantial utility is disclosed or is
+ well-established, a *prima facie* showing of no specific and
+ substantial utility need only establish that applicant has not asserted a utility and
+ that, on the record before the examiner, there is no known well-established
+ utility.
+ 
+
+
+It is imperative that Office personnel use specificity in setting
+ forth and initial rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and support any
+ factual conclusions made in the *prima facie* showing. 
+ 
+
+
+By using specificity, the applicant will be able to identify the
+ assumptions made by the Office in setting forth the rejection and will be able to
+ address those assumptions properly.
+ 
+
+
+Use form paragraphs **[7.04.01](#fp7.04.01)** and
+ **[7.05.02](#fp7.05.02)**
+ through **[7.05.04](#fp.7.05.04)** to reject claims under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ for failure to satisfy the utility requirement.
+ 
+
+
+# ¶ 7.05.02 Rejection, 35 U.S.C. 101, Utility Lacking
+
+
+the claimed invention lacks patentable utility. **[1]**
+
+
+### Examiner Note:
+
+
+In bracket 1, provide explanation of lack of utility. See
+ **[MPEP §§ 2105](s2105.html#d0e197008)** - **[2107.03](s2107.html#d0e200058)**.
+ 
+
+
+
+# ¶ 7.05.03 Rejection, 35 U.S.C. 101, Inoperative
+
+
+the disclosed invention is inoperative and therefore lacks utility. **[1]**
+
+
+### Examiner Note:
+
+
+In bracket 1, explain why invention is inoperative.
+
+
+
+# ¶ 7.05.04 Utility Rejections Under 35 U.S.C. 101 and 35 U.S.C. 112(a) or 35
+ U.S.C. 112 (pre-AIA), First Paragraph
+
+
+Claim **[1]** rejected under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** because the claimed invention is not supported by either a
+ **[2]** asserted utility or a well established utility.
+ 
+
+
+**[3]**
+
+
+Claim **[4]** also rejected
+ under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph.
+ Specifically, because the claimed invention is not supported by either a **[5]**
+ asserted utility or a well established utility for the reasons set forth above, one skilled in
+ the art clearly would not know how to use the claimed invention.
+ 
+
+
+### Examiner Note:
+
+ * 1. Where the specification would not enable one skilled in the art to
+ make the claimed invention, or where alternative reasons support the enablement
+ rejection, a separate rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, enablement should be made using the factors
+ set forth in *In re Wands*, 858 F.2d 731, 8 USPQ2d 1400 (Fed. Cir.
+ 1988) and an undue experimentation analysis. See **[MPEP §§ 2164](s2164.html#d0e215224)** - **[2164.08(c)](s2164.html#d0e216899)**.
+* 2. Use Format A, B, or C below as
+ appropriate.
+	+ Format A:- (a) Insert the same claim numbers in
+		 brackets 1 and 4.
+		- (b) Insert --specific and substantial--
+		 in inserts 2 and 5.
+		- (c) In bracket 3, insert the explanation
+		 as to why the claimed invention is not supported by either a specific and
+		 substantial asserted utility or a well established
+		 utility.
+		- (d) Format A is to be used when there is
+		 no asserted utility and when there is an asserted utility but that
+		 utility is not specific and substantial.
+	+ Format B:- (a) Insert the same claim numbers in
+		 brackets 1 and 4.
+		- (b) Insert --credible-- in inserts 2 and
+		 5.
+		- (c) In bracket 3, insert the explanation
+		 as to why the claimed invention is not supported by either a credible
+		 asserted utility or a well established utility.
+	+ Format C:- For claims that have multiple utilities, some of which
+		 are not specific and substantial, some of which are not credible, but none of
+		 which are specific, substantial and credible:
+			* (a) Insert the same claim numbers in brackets 1 and
+			 4.
+			* (b) Insert --specific and substantial asserted
+			 utility, a credible-- in inserts 2 and 5.
+			* (c) In bracket 3, insert the explanation as to why the
+			 claimed invention is not supported by either a specific and substantial
+			 asserted utility, a credible asserted utility or a well established
+			 utility. Each utility should be addressed.
+
+
+**V.** **EVIDENTIARY REQUESTS BY AN EXAMINER TO SUPPORT AN ASSERTED UTILITY**In appropriate situations the Office may require an applicant to
+ substantiate an asserted utility for a claimed invention. See *In re
+ Pottier,* 376 F.2d 328, 330, 153 USPQ 407, 408 (CCPA 1967) ("When the
+ operativeness of any process would be deemed unlikely by one of ordinary skill in the
+ art, it is not improper for the examiner to call for evidence of operativeness.").
+ See also *In re Jolles,* 628 F.2d 1322, 1327, 206 USPQ 885, 890
+ (CCPA 1980); *In re Citron,* 325 F.2d 248, 139 USPQ 516 (CCPA 1963);
+  *In re Novak,* 306 F.2d 924, 928, 134 USPQ 335, 337 (CCPA1962).
+ In *In re Citron,* the court held that when an "alleged utility
+ appears to be incredible in the light of the knowledge of the art, or factually
+ misleading, applicant must establish the asserted utility by acceptable proof." 325
+ F.2d at 253, 139 USPQ at 520. The court approved of the board’s decision which
+ affirmed the rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** "in view
+ of the art knowledge of the lack of a cure for cancer and the absence of any
+ clinical data to substantiate the allegation." 325 F.2d at 252, 139
+ USPQ at 519 (emphasis in original). The court thus established a higher burden on the
+ applicant where the statement of use is incredible or misleading. In such a case, the
+ examiner should challenge the use and require sufficient evidence of operativeness.
+ The purpose of this authority is to enable an applicant to cure an otherwise
+ defective factual basis for the operability of an invention. Because this is a
+ curative authority (e.g., evidence is requested to enable an applicant to support an
+ assertion that is inconsistent with the facts of record in the application), Office
+ personnel should indicate not only why the factual record is defective in relation to
+ the assertions of the applicant, but also, where appropriate, what type of
+ evidentiary showing can be provided by the applicant to remedy the problem.
+ 
+
+
+Requests for additional evidence should be imposed rarely, and only
+ if necessary to support the scientific credibility of the asserted utility (e.g., if
+ the asserted utility is not consistent with the evidence of record and current
+ scientific knowledge). As the Federal Circuit recently noted, "[o]nly after the PTO
+ provides evidence showing that one of ordinary skill in the art would reasonably
+ doubt the asserted utility does the burden shift to the applicant to provide rebuttal
+ evidence sufficient to convince such a person of the invention’s asserted utility."
+ *In re Brana,* 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995)
+ (citing *In re Bundy,* 642 F.2d 430, 433, 209 USPQ 48, 51 (CCPA
+ 1981)). In *Brana,* the court pointed out that the purpose of
+ treating cancer with chemical compounds does not
+ suggest, *per se,* an incredible utility. Where the prior
+ art disclosed "structurally similar compounds to those claimed by applicants which
+ have been proven *in vivo* to be effective as chemotherapeutic
+ agents against various tumor models . . ., one skilled in the art would be without
+ basis to reasonably doubt applicants’ asserted utility on its face." 51 F.3d at 1566,
+ 34 USPQ2d at 1441. As courts have stated, "it is clearly improper for the examiner to
+ make a demand for further test data, which as evidence would be essentially redundant
+ and would seem to serve for nothing except perhaps to unduly burden the applicant."
+ *In re Isaacs,* 347 F.2d 887, 890, 146 USPQ 193, 196 (CCPA
+ 1965).
+ 
+
+**VI.** **CONSIDERATION OF A REPLY TO A *PRIMA FACIE* REJECTION FOR
+ LACK OF UTILITY**If a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** has been properly
+ imposed, along with a corresponding rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, the burden shifts to the applicant to rebut the *prima
+ facie* showing. *In re Oetiker,* 977 F.2d 1443, 1445, 24
+ USPQ2d 1443, 1444 (Fed. Cir. 1992) ("The examiner bears the initial burden, on review
+ of the prior art or on any other ground, of presenting a *prima
+ facie* case of unpatentability. If that burden is met, the burden of
+ coming forward with evidence or argument shifts to the applicant. . . After evidence
+ or argument is submitted by the applicant in response, patentability is determined on
+ the totality of the record, by a preponderance of evidence with due consideration to
+ persuasiveness of argument."). An applicant can do this using any combination of the
+ following: amendments to the claims, arguments or reasoning, or new evidence
+ submitted in an affidavit or declaration under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)**, or in a printed
+ publication. New evidence provided by an applicant must be relevant to the issues
+ raised in the rejection. For example, declarations in which conclusions are set forth
+ without establishing a nexus between those conclusions and the supporting evidence,
+ or which merely express opinions, may be of limited probative value with regard to
+ rebutting a *prima facie* case. *In re Grunwell,*
+ 609 F.2d 486, 203 USPQ 1055 (CCPA 1979); *In re Buchner,* 929 F.2d
+ 660, 18 USPQ2d 1331 (Fed. Cir. 1991). See **[MPEP § 716.01(a)](s716.html#d0e92557)** through
+ **[MPEP
+ § 716.01(c)](s716.html#d0e92659)**.
+ 
+
+
+If the applicant responds to the *prima facie*
+ rejection, Office personnel should review the original disclosure, any evidence
+ relied upon in establishing the *prima facie* showing, any claim
+ amendments, and any new reasoning or evidence provided by the applicant in support of
+ an asserted specific and substantial credible utility. It is essential for Office
+ personnel to recognize, fully consider and respond to each substantive element of any
+ response to a rejection based on lack of utility. Only where the totality of the
+ record continues to show that the asserted utility is not specific, substantial, and
+ credible should a rejection based on lack of utility be maintained. If the record as
+ a whole would make it more likely than not that the asserted utility for the claimed
+ invention would be considered credible by a person of ordinary skill in the art, the
+ Office cannot maintain the rejection. *In re Rinehart,* 531 F.2d
+ 1048, 1052, 189 USPQ 143, 147 (CCPA 1976).
+ 
+
+**VII.** **EVALUATION OF EVIDENCE RELATED TO UTILITY**There is no predetermined amount or character of evidence that must
+ be provided by an applicant to support an asserted utility, therapeutic or otherwise.
+ Rather, the character and amount of evidence needed to support an asserted utility
+ will vary depending on what is claimed *(Ex parte Ferguson,* 117
+ USPQ 229 (Bd. App. 1957)), and whether the asserted utility appears to contravene
+ established scientific principles and beliefs. *In re Gazave,* 379
+ F.2d 973, 978, 154 USPQ 92, 96 (CCPA 1967); *In re Chilowsky,*
+ 229 F.2d 457, 462, 108 USPQ 321, 325 (CCPA 1956). Furthermore, the applicant does not
+ have to provide evidence sufficient to establish that an asserted utility is true
+ "beyond a reasonable doubt." *In re Irons,* 340 F.2d 974, 978, 144
+ USPQ 351, 354 (CCPA 1965). Nor must an applicant provide evidence such that it
+ establishes an asserted utility as a matter of statistical certainty.
+ *Nelson**v.**Bowler,* 626 F.2d 853, 856-57, 206 USPQ 881, 883-84 (CCPA 1980)
+ (reversing the Board and rejecting Bowler’s arguments that the evidence of utility
+ was statistically insignificant. The court pointed out that a rigorous correlation is
+ not necessary when the test is reasonably predictive of the response). See also
+ *Rey-Bellet**v.**Englehardt,* 493 F.2d 1380, 181 USPQ 453 (CCPA 1974) (data from
+ animal testing is relevant to asserted human therapeutic utility if there is a
+ "satisfactory correlation between the effect on the animal and that ultimately
+ observed in human beings"). Instead, evidence will be sufficient if, considered as a
+ whole, it leads a person of ordinary skill in the art to conclude that the asserted
+ utility is more likely than not true.
+ 
+
+
+, 
+# 2107.03 Special Considerations for Asserted Therapeutic or
+ Pharmacological Utilities [R-08.2012]
+
+
+The federal courts have consistently reversed rejections by the Office
+ asserting a lack of utility for inventions claiming a pharmacological or therapeutic
+ utility where an applicant has provided evidence that reasonably supports such a
+ utility. In view of this, Office personnel should be particularly careful in their
+ review of evidence provided in support of an asserted therapeutic or pharmacological
+ utility.
+ 
+
+**I.** **A REASONABLE CORRELATION BETWEEN THE EVIDENCE AND THE ASSERTED UTILITY IS
+ SUFFICIENT**As a general matter, evidence of pharmacological or other biological
+ activity of a compound will be relevant to an asserted therapeutic use if there is a
+ reasonable correlation between the activity in question and
+ the asserted utility. *Cross**v. Iizuka,* 753 F.2d 1040, 224 USPQ 739 (Fed. Cir. 1985);
+ *In re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA 1980);
+ *Nelson**v.**Bowler,* 626 F.2d 853, 206 USPQ 881 (CCPA 1980). An applicant can
+ establish this reasonable correlation by relying on statistically relevant data
+ documenting the activity of a compound or composition, arguments or reasoning,
+ documentary evidence (e.g., articles in scientific journals), or any combination
+ thereof. The applicant does not have to prove that a correlation exists between a
+ particular activity and an asserted therapeutic use of a compound as a matter of
+ statistical certainty, nor does he or she have to provide actual evidence of success
+ in treating humans where such a utility is asserted. Instead, as the courts have
+ repeatedly held, all that is required is a reasonable correlation between the
+ activity and the asserted use. *Nelson**v.**Bowler,* 626 F.2d 853, 857, 206 USPQ 881, 884 (CCPA 1980).
+ 
+
+**II.** **STRUCTURAL SIMILARITY TO COMPOUNDS WITH ESTABLISHED UTILITY**Courts have routinely found evidence of structural similarity to a
+ compound known to have a particular therapeutic or pharmacological utility as being
+ supportive of an assertion of therapeutic utility for a new compound. In *In
+ re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA 1980), the claimed
+ compounds were found to have utility based on a finding of a close structural
+ relationship to daunorubicin and doxorubicin and shared pharmacological activity with
+ those compounds, both of which were known to be useful in cancer chemotherapy. The
+ evidence of close structural similarity with the known compounds was presented in
+ conjunction with evidence demonstrating substantial activity of the claimed
+ compounds in animals customarily employed for screening anticancer agents. Such
+ evidence should be given appropriate weight in determining whether one skilled in the
+ art would find the asserted utility credible. Office personnel should evaluate not
+ only the existence of the structural relationship, but also the reasoning used by the
+ applicant or a declarant to explain why that structural similarity is believed to be
+ relevant to the applicant's assertion of utility.
+ 
+
+**III.** **DATA FROM *IN VITRO* OR ANIMAL TESTING IS GENERALLY
+ SUFFICIENT TO SUPPORT THERAPEUTIC UTILITY**If reasonably correlated to the particular therapeutic or
+ pharmacological utility, data generated using *in vitro* assays, or
+ from testing in an animal model or a combination thereof almost invariably will be
+ sufficient to establish therapeutic or pharmacological utility for a compound,
+ composition or process. A cursory review of cases involving therapeutic inventions
+ where **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** was the dispositive issue illustrates the fact that the
+ federal courts are not particularly receptive to rejections under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ based on inoperability. Most striking is the fact that in those cases where an
+ applicant supplied a reasonable evidentiary showing supporting an asserted
+ therapeutic utility, almost uniformly the **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**-based rejection was
+ reversed. See, e.g., *In re Brana,* 51 F.3d 1560, 34 USPQ 1436 (Fed.
+ Cir. 1995); *Cross**v. Iizuka,* 753 F.2d 1040, 224 USPQ 739 (Fed. Cir. 1985);
+ *In re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA 1980);
+ *Nelson**v.**Bowler,* 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA 1980);
+ *In re Malachowski,* 530 F.2d 1402, 189 USPQ 432 (CCPA 1976);
+ *In re Gaubert,* 530 F.2d 1402, 189 USPQ 432 (CCPA 1975);
+ *In re Gazave,* 379 F.2d 973, 154 USPQ 92 (CCPA 1967);
+ *In re Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA 1962);
+ *In re Krimmel,* 292 F.2d 948, 130 USPQ 215 (CCPA 1961). Only in
+ those cases where the applicant was unable to come forward with any relevant evidence
+ to rebut a finding by the Office that the claimed invention was inoperative was a
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** rejection affirmed by the court. *In re
+ Citron,* 325 F.2d 248, 253, 139 USPQ 516, 520 (CCPA 1963) (therapeutic
+ utility for an uncharacterized biological extract not supported or scientifically
+ credible); *In re Buting,* 418 F.2d 540, 543, 163 USPQ 689, 690
+ (CCPA 1969) (record did not establish a credible basis for the assertion that the
+ single class of compounds in question would be useful in treating disparate types of
+ cancers); *In re Novak,* 306 F.2d 924, 134 USPQ 335 (CCPA 1962)
+ (claimed compounds did not have capacity to effect physiological activity upon which
+ utility claim based). Contrast, however, *In re Buting* to
+ *In re Gardner,* 475 F.2d 1389, 177 USPQ 396 (CCPA 1973),
+ *reh'g denied,* 480 F.2d 879 (CCPA 1973), in which the court held
+ that utility for a genus was found to be supported through a showing of utility for
+ one species. In no case has a federal court required an applicant to support an
+ asserted utility with data from human clinical trials.
+ 
+
+
+If an applicant provides data, whether from *in
+ vitro* assays or animal tests or both, to support an asserted utility,
+ and an explanation of why that data supports the asserted utility, the Office will
+ determine if the data and the explanation would be viewed by one skilled in the art
+ as being reasonably predictive of the asserted utility. See, e.g., *Ex parte
+ Maas,* 9 USPQ2d 1746 (Bd. Pat. App. & Inter. 1987); *Ex parte
+ Balzarini,* 21 USPQ2d 1892 (Bd. Pat. App. & Inter. 1991). Office
+ personnel must be careful to evaluate all factors that might influence the
+ conclusions of a person of ordinary skill in the art as to this question, including
+ the test parameters, choice of animal, relationship of the activity to the particular
+ disorder to be treated, characteristics of the compound or composition, relative
+ significance of the data provided and, most importantly, the explanation offered by
+ the applicant as to why the information provided is believed to support the asserted
+ utility. If the data supplied is consistent with the asserted utility, the Office
+ cannot maintain a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ 
+
+
+Evidence does not have to be in the form of data from an
+ art-recognized animal model for the particular disease or disease condition to which
+ the asserted utility relates. Data from any test that the applicant reasonably
+ correlates to the asserted utility should be evaluated substantively. Thus, an
+ applicant may provide data generated using a particular animal model with an
+ appropriate explanation as to why that data supports the asserted utility. The
+ absence of a certification that the test in question is an industry-accepted model is
+ not dispositive of whether data from an animal model is in fact relevant to the
+ asserted utility. Thus, if one skilled in the art would accept the animal tests as
+ being reasonably predictive of utility in humans, evidence
+ from those tests should be considered sufficient to support the credibility of the
+ asserted utility. *In re Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA
+ 1962); *In re Krimmel,* 292 F.2d 948, 953, 130 USPQ 215, 219 (CCPA
+ 1961); *Ex parte Krepelka,* 231 USPQ 746 (Bd. Pat. App. & Inter.
+ 1986). Office personnel should be careful not to find evidence unpersuasive simply
+ because no animal model for the human disease condition had been established prior to
+ the filing of the application. See *In re Chilowsky,* 229 F.2d 457,
+ 461, 108 USPQ 321, 325 (CCPA 1956) ("The mere fact that something has not previously
+ been done clearly is not, in itself, a sufficient basis for rejecting all
+ applications purporting to disclose how to do it."); *In re Wooddy,*
+ 331 F.2d 636, 639, 141 USPQ 518, 520 (CCPA 1964) ("It appears that no one on earth is
+ certain as of the present whether the process claimed will operate in the manner
+ claimed. Yet absolute certainty is not required by the law. The mere fact that
+ something has not previously been done clearly is not, in itself, a sufficient basis
+ for rejecting all applications purporting to disclose how to do it.").
+ 
+
+**IV.** **HUMAN CLINICAL DATA**Office personnel should not impose on applicants the unnecessary
+ burden of providing evidence from human clinical trials. There is no decisional law
+ that requires an applicant to provide data from human clinical trials to establish
+ utility for an invention related to treatment of human disorders (see *In re
+ Isaacs,* 347 F.2d 889, 146 USPQ 193 (CCPA 1963); *In re
+ Langer,* 503 F.2d 1380, 183 USPQ 288 (CCPA 1974)), even with respect to
+ situations where no art-recognized animal models existed for the human disease
+ encompassed by the claims. *Ex parte Balzarini,* 21 USPQ2d 1892 (Bd.
+ Pat. App. & Inter. 1991) (human clinical data is not required to demonstrate the
+ utility of the claimed invention, even though those skilled in the art might not
+ accept other evidence to establish the efficacy of the claimed therapeutic
+ compositions and the operativeness of the claimed methods of treating humans). Before
+ a drug can enter human clinical trials, the sponsor, often the
+ applicant, must provide a convincing rationale to those
+ especially skilled in the art (e.g., the Food and Drug
+ Administration (FDA)) that the investigation may be successful. Such a rationale
+ would provide a basis for the sponsor’s expectation that the investigation may be
+ successful. In order to determine a protocol for phase I testing, the first phase of
+ clinical investigation, some credible rationale of how the drug might be effective or
+ could be effective would be necessary. Thus, as a general rule, if an
+ applicant has initiated human clinical trials for a therapeutic product or
+ process, Office personnel should presume that the applicant has established that
+ the subject matter of that trial is reasonably predictive of having the asserted
+ therapeutic utility.
+
+**V.** **SAFETY AND EFFICACY CONSIDERATIONS**The Office must confine its review of patent applications to the
+ statutory requirements of the patent law. Other agencies of the government have been
+ assigned the responsibility of ensuring conformance to standards established by
+ statute for the advertisement, use, sale or distribution of drugs. The FDA pursues a
+ two-prong test to provide approval for testing. Under that test, a sponsor must show
+ that the investigation does not pose an unreasonable and significant risk of illness
+ or injury and that there is an acceptable rationale for the study. As a review
+ matter, there must be a rationale for believing that the compound could be effective.
+ If the use reviewed by the FDA is not set forth in the specification, FDA review may
+ not satisfy **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. However, if the reviewed use is one set forth in
+ the specification, Office personnel must be extremely hesitant to challenge utility.
+ In such a situation, experts at the FDA have assessed the rationale for the drug or
+ research study upon which an asserted utility is based and found it satisfactory.
+ Thus, in challenging utility, Office personnel must be able to carry their burden
+ that there is no sound rationale for the asserted utility even though experts
+ designated by Congress to decide the issue have come to an opposite conclusion. "FDA
+ approval, however, is not a prerequisite for finding a compound useful within the
+ meaning of the patent laws." *In re Brana,* 51 F.3d 1560, 34 USPQ2d
+ 1436 (Fed. Cir. 1995) (citing *Scott**v.**Finney,* 34 F.3d 1058, 1063, 32 USPQ2d 1115, 1120 (Fed. Cir.
+ 1994)).
+ 
+
+
+Thus, while an applicant may on occasion need to provide evidence to
+ show that an invention will work as claimed, it is improper for Office personnel to
+ request evidence of safety in the treatment of humans, or regarding the
+ degree of effectiveness. See *In re
+ Sichert,* 566 F.2d 1154, 196 USPQ 209 (CCPA 1977); *In re
+ Hartop,* 311 F.2d 249, 135 USPQ 419 (CCPA 1962); *In re
+ Anthony,* 414 F.2d 1383, 162 USPQ 594 (CCPA 1969); *In re
+ Watson,* 517 F.2d 465, 186 USPQ 11 (CCPA 1975); *In re
+ Krimmel,* 292 F.2d 948, 130 USPQ 215 (CCPA 1961); *Ex parte
+ Jovanovics,* 211 USPQ 907 (Bd. Pat. App. & Inter. 1981).
+ 
+
+**VI.** **TREATMENT OF SPECIFIC DISEASE CONDITIONS**Claims directed to a method of treating or curing a disease for
+ which there have been no previously successful treatments or cures warrant careful
+ review for compliance with **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**. The credibility of
+ an asserted utility for treating a human disorder may be more difficult to establish
+ where current scientific understanding suggests that such a task would be impossible.
+ Such a determination has always required a good understanding of the state of the art
+ as of the time that the invention was made. For example, prior to the 1980’s, there
+ were a number of cases where an asserted use in treating cancer in humans was viewed
+ as "incredible." *In re Jolles,* 628 F.2d 1322, 206 USPQ 885 (CCPA
+ 1980); *In re Buting,* 418 F.2d 540, 163 USPQ 689 (CCPA 1969);
+ *Ex parte Stevens,* 16 USPQ2d 1379 (Bd. Pat. App. & Inter.
+ 1990); *Ex parte Busse,* 1 USPQ2d 1908 (Bd. Pat. App. & Inter.
+ 1986); *Ex parte Krepelka,* 231 USPQ 746 (Bd. Pat. App. & Inter.
+ 1986); *Ex parte Jovanovics,* 211 USPQ 907 (Bd. Pat. App. &
+ Inter. 1981). The fact that there is no known cure for a disease, however, cannot
+ serve as the basis for a conclusion that such an invention lacks utility. Rather,
+ Office personnel must determine if the asserted utility for the invention is credible
+ based on the information disclosed in the application. Only those claims for which an
+ asserted utility is not credible should be rejected. In such
+ cases, the Office should carefully review what is being claimed by the applicant. An
+ assertion that the claimed invention is useful in treating a symptom of an incurable
+ disease may be considered credible by a person of ordinary skill in the art on the
+ basis of a fairly modest amount of evidence or support. In contrast, an assertion
+ that the claimed invention will be useful in "curing" the disease may require a
+ significantly greater amount of evidentiary support to be considered credible by a
+ person of ordinary skill in the art. *In re Sichert,* 566 F.2d 1154,
+ 196 USPQ 209 (CCPA 1977); *In re Jolles,* 628 F.2d 1322, 206 USPQ
+ 885 (CCPA 1980). See also *Ex parte Ferguson,* 117 USPQ 229 (Bd.
+ Pat. App. & Inter. 1957).
+ 
+
+
+In these cases, it is important to note that the Food and Drug
+ Administration has promulgated regulations that enable a party to conduct clinical
+ trials for drugs used to treat life threatening and severely-debilitating illnesses,
+ even where no alternative therapy exists. See 21 CFR 312.80-88 (1994). Implicit in
+ these regulations is the recognition that experts qualified to evaluate the
+ effectiveness of therapeutics can and often do find a sufficient basis to conduct
+ clinical trials of drugs for incurable or previously untreatable illnesses. Thus,
+ affidavit evidence from experts in the art indicating that there is a reasonable
+ expectation of success, supported by sound reasoning, usually should be sufficient to
+ establish that such a utility is credible.
+ 
+
+
+]

@@ -1,0 +1,1791 @@
+[
+# 2154 Provisions Pertaining to Subject Matter in a U.S.
+ Patent or Application Effectively Filed Before the Effective Filing Date of the Claimed
+ Invention [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP § 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for
+ examination of applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** sets forth three types of U.S. patent documents that are
+ available as prior art as of the date they were effectively filed with respect to the
+ subject matter relied upon in the document if they name another inventor. See
+ **[MPEP §§
+ 2151](s2151.html#ch2100_d2002f_22873_3d8)**,  **[2154.01](s2154.html#ch2100_d20033_27642_39b)**, and **[2154.01(a)](s2154.html#ch2100_d20034_11f3b_a0)**
+ for a discussion of the types of patent documents that qualify as prior art under
+ **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. See **[MPEP § 2154.02](s2154.html#ch2100_d20034_139ac_31b)***et seq.* for prior art exceptions under **[35 U.S.C.
+ 102(b)(2)](mpep-9015-appx-l.html#al_d1d85b_11e7d_19a)** to **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+
+# 2154.01 Prior Art Under AIA 35 U.S.C. 102(a)(2) "U.S.
+ Patent Documents" [R-11.2013]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** sets forth three types of patent documents that
+ are available as prior art as of the date they were effectively filed with respect to
+ the subject matter relied upon in the document if they name another inventor: (1) U.S.
+ patents; (2) U.S. patent application publications; and (3) certain WIPO published
+ applications. These documents are referred to collectively as "U.S. patent documents."
+ These documents may have different prior art effects under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** than under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Note that a
+ U.S. patent document may also be prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if its issue or publication date is before the effective
+ filing date of the claimed invention in question.
+ 
+
+
+If the issue date of the U.S. patent or publication date
+ of the U.S. patent application publication or WIPO published application is not before
+ the effective filing date of the claimed invention, it may be applicable as prior art
+ under **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if it was "effectively filed" before the
+ effective filing date of the claimed invention in question with respect to the subject
+ matter relied upon to reject the claim. **[MPEP §
+ 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** discusses the "effective filing date" of a claimed
+ invention. **[AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** sets forth the criteria to determine when
+ subject matter described in a U.S. patent document was "effectively filed" for purposes
+ of **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+
+# 2154.01(a) WIPO Published Applications [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+The WIPO publication of a PCT international application
+ that designates the United States is an application for patent deemed published under
+ **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303063)** for purposes of **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** under **[35 U.S.C. 374](mpep-9015-appx-l.html#d0e307311313)**. Thus, under the
+ AIA, WIPO publications of PCT applications that designate the United States are
+ treated as U.S. patent application publications for prior art purposes, regardless of
+ the international filing date, whether they are published in English, or whether the
+ PCT international application enters the national stage in the United States.
+ Accordingly, a U.S. patent, a U.S. patent application publication, or a WIPO
+ published application that names another inventor and was effectively filed before
+ the effective filing date of the claimed invention, is prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. This differs from the treatment of a WIPO
+ published application under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, where a
+ WIPO published application is treated as a U.S. patent application publication only
+ if the PCT application was filed on or after November 29, 2000, designated the United
+ States, and is published under **[PCT Article 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English
+ language. See **[MPEP §
+ 2136.03](s2136.html#d0e205924)**, subsection II. 
+ 
+
+
+
+
+# 2154.01(b) Determining When Subject Matter Was
+ Effectively Filed Under AIA 35 U.S.C. 102(d) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** provides that a U.S. patent, U.S. patent
+ application publication, or WIPO published application ("U.S. patent document") is
+ prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** with
+ respect to any subject matter described in the patent or published application as of
+ either its actual filing date (**[AIA 35 U.S.C. 102(d)(1)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1ee)**), or the
+ filing date of a prior application to which there is a priority or benefit claim
+ (**[AIA
+ 35 U.S.C. 102(d)(2)](mpep-9015-appx-l.html#al_d1d85b_11ecb_200)**). A U.S. patent document "is entitled to
+ claim" priority to, or the benefit of, a prior-filed application if it fulfills the
+ ministerial requirements of: (1) containing a priority or benefit claim to the
+ prior-filed application; (2) being filed within the applicable filing period
+ requirement (copending with or within twelve months of the earlier filing, as
+ applicable); and (3) having a common inventor or being by the same applicant. See
+ **[MPEP §
+ 211](s211.html#ch200_d1ff71_1bd25_18b)***et. seq.*
+
+
+The AIA draws a distinction between actually being
+ entitled to priority to, or the benefit of, a prior-filed application according to
+ the definition of "effective filing date" of a claimed invention in **[AIA 35 U.S.C.
+ 100(i)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e1a_3d4)**, and merely being entitled to claim priority to,
+ or the benefit of, a prior-filed application according to the use of "effectively
+ filed" in **[AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)**. As a result of this distinction, the
+ question of whether a patent or published application is actually entitled to
+ priority or benefit with respect to any of its claims is not at issue in determining
+ the date the patent or published application was "effectively filed" for prior art
+ purposes. Thus, there is no need to evaluate whether any claim of a U.S. patent
+ document is actually entitled to priority or benefit under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, **[365](mpep-9015-appx-l.html#d0e307034)**, or
+ **[386](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)** when applying such a document as prior art. See
+ **[MPEP §
+ 2136.03](s2136.html#d0e205924)** for the reference date under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** of U.S. patents, U.S. application publications, and
+ international application publications entitled to the benefit of the filing date of
+ prior application under **[35 U.S.C. 119(e)](mpep-9015-appx-l.html#d0e302951)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365(c)](mpep-9015-appx-l.html#d0e307053)**.
+ 
+
+
+**[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** requires that a prior-filed application to which
+ a priority or benefit claim is made must describe the subject matter from the U.S.
+ patent document relied upon in a rejection. However, **[AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** does not require that this description meet the
+ enablement requirements of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. As discussed
+ previously with respect to **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, the
+ Office does not view the AIA as changing the extent to which a claimed invention must
+ be described for a prior art document to anticipate the claimed invention under
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**.
+ 
+
+
+The AIA also eliminates the so-called
+ *Hilmer* doctrine. Under the Hilmer doctrine, **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** limited the effective filing date for U.S. patents (and
+ published applications) as prior art to their earliest U.S. filing date. *In
+ re Hilmer,* 359 F.2d 859, 149 USPQ 480 (CCPA 1966). In contrast,
+ **[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** provides that if the U.S. patent document claims
+ priority to one or more prior-filed foreign or international applications under
+ **[35 U.S.C.
+ 119](mpep-9015-appx-l.html#d0e302921)** or **[365](mpep-9015-appx-l.html#d0e307034)**, the patent or published
+ application was effectively filed on the filing date of the earliest such application
+ that describes the subject matter. Therefore, if the subject matter relied upon is
+ described in the application to which there is a priority or benefit claim, the U.S.
+ patent document is effective as prior art as of the filing date of the earliest such
+ application, regardless of where filed. When examining an application to which the
+ AIA changes in **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** do not apply, Office personnel will continue to apply the
+ *Hilmer* doctrine, and foreign priority dates may not be used in
+ determining **[pre-AIA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** prior art dates. Note that the international
+ filing date of a published PCT application may be the **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** prior art date under pre-AIA law under certain
+ circumstances. See **[MPEP § 2136](s2136.html#d0e205544)**.
+ 
+
+
+
+
+# 2154.01(c) Requirement Of "Names Another
+ Inventor" [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+To qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, the prior art U.S. patent, U.S. patent application
+ publication, or WIPO published application ("U.S. patent document") must "name[ ]
+ another inventor." This means that if there is any difference in inventive entity
+ between the prior art U.S. patent document and the application under examination or
+ patent under reexamination, the U.S. patent document satisfies the "names another
+ inventor" requirement of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Thus, in
+ the case of joint inventors, only one joint inventor needs to be different for the
+ inventive entities to be different. Even if there are one or more joint inventors in
+ common in a U.S. patent document and the later-filed application under examination or
+ patent under reexamination, the U.S. patent document qualifies as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** unless an exception in **[AIA 35 U.S.C.
+ 102(b)(2)](mpep-9015-appx-l.html#al_d1d85b_11e7d_19a)** is applicable.
+ 
+
+
+
+
+# 2154.01(d) Provisional Rejections Under 35 U.S.C.
+ 102(a)(2); Reference Is a Copending U.S. Patent Application [R-10.2019]
+
+
+If an earlier filed, copending, and unpublished U.S. patent
+ application discloses subject matter which would anticipate the claims in a later
+ filed pending U.S. application which has a different inventive entity, the examiner
+ should determine whether a provisional rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** of the later filed application can be made. In
+ addition, a provisional rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** may be made,
+ in the circumstances described below, if the earlier filed, pending application has
+ been published as redacted (**[37 CFR 1.217](mpep-9020-appx-r.html#d0e325410)**) and the subject
+ matter relied upon in the rejection is not supported in the redacted publication of
+ the patent application.
+ 
+
+**I.** **COPENDING U.S. APPLICATIONS HAVING AT LEAST ONE COMMON INVENTOR OR COMMON
+ APPLICANT OR ARE COMMONLY ASSIGNED**If (1) at least one common inventor or common applicant exists
+ between the applications or the applications are commonly assigned and (2) the
+ effective filing dates are different, then a provisional rejection of the later
+ filed application should be made. The provisional rejection is appropriate in
+ circumstances where if the earlier filed application is published or becomes a
+ patent it would constitute actual prior art under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. Since the earlier-filed application is not published at
+ the time of the rejection, the rejection must be provisionally made under
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+A provisional rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** can be overcome in the same manner that a
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** rejection can be overcome. See
+ **[MPEP § 2152.06](s2152.html#ch2100_d2c184_13ec5_303)**. The provisional rejection
+ can also be overcome by abandoning the applications and
+ filing a new application containing the subject matter of both.
+ 
+
+
+Form paragraph **[7.15.01.aia](#fp7.15.01.aia)** should be used when making a
+ provisional rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+ 
+
+**II.** **COPENDING APPLICATIONS HAVING NO COMMON INVENTOR, APPLICANT, OR
+ ASSIGNEE**If there is no common assignee, common applicant, or common
+ inventor and the application was not published pursuant to **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303054)**, the confidential status of applications under
+ **[35 U.S.C.
+ 122(a)](mpep-9015-appx-l.html#d0e303054)** must be maintained and no rejection can be made
+ relying on the earlier filed, unpublished application, or subject matter not
+ supported in a redacted application publication, as prior art under
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. For applications subject to
+ **[pre-AIA 35
+ U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302424)**, if the filing dates of the applications are
+ within 6 months of each other (3 months for simple subject matter) then
+ interference may be proper. See **[MPEP Chapter 2300](mpep-2300.html#d0e237627)**. If the
+ application with the earliest effective U.S. filing date will not be published
+ pursuant to **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303054)**, it must be allowed to issue once all the
+ statutory requirements are met. After the patent is published, it may be used as a
+ reference in a rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** in the
+ still pending application as appropriate. See **[MPEP §§
+ 2120.01](s2120.html#ch2100_d2c183_20d9a_21c)** and **[2154](s2154.html#ch2100_d20033_274f5_338)**.
+ 
+
+
+
+
+
+# 2154.02 Prior Art Exceptions Under 35 U.S.C. 102(b)(2) to
+ AIA 35 U.S.C. 102(a)(2) [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+See **[MPEP § 2154.02(a)](s2154.html#ch2100_d20034_13f89_241)** for prior art
+ exceptions to **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** under
+ **[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** based on the inventor-originated disclosure
+ exception. See **[MPEP § 2154.02(b)](s2154.html#ch2100_d20034_140df_1a6)** for prior art
+ exceptions to **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** based on
+ inventor or inventor-originated prior public disclosures as provided for in
+ **[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)**. See **[MPEP §
+ 2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** the prior art exception under **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** to **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** based on
+ common ownership or obligation of assignment.
+ 
+
+
+
+# 2154.02(a) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(A) to AIA 35 U.S.C. 102(a)(2) (Inventor-Originated Disclosure
+ Exception) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides an exception to the prior art
+ provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. This
+ exception limits the use of an inventor's own work as prior art, when the inventor's
+ own work is disclosed in a U.S. patent, U.S. patent application publication, or WIPO
+ published application ("U.S. patent document") by another who obtained the subject
+ matter directly or indirectly from the inventor or joint inventor.
+ 
+
+
+Specifically, **[AIA 35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides that a disclosure which would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** may be
+ excepted as prior art if the subject matter disclosed was obtained directly or
+ indirectly from the inventor or a joint inventor. Thus, if the subject matter in a
+ U.S. patent document upon which the rejection is based is by another who obtained the
+ subject matter from the inventor or a joint inventor, the applicant may establish by
+ way of an affidavit or declaration that a disclosure is not prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that the disclosure was by another who obtained the subject matter disclosed
+ directly or indirectly from the inventor or a joint inventor under the exception of
+ **[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** for an inventor-originated disclosure.
+ 
+
+
+
+
+# 2154.02(b) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(B) to AIA 35 U.S.C. 102(a)(2) (Inventor or Inventor-Originated Prior Public
+ Disclosure Exception) [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides additional exceptions to the prior
+ art provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. These
+ provisions except as prior art subject matter that was effectively filed by another
+ after the subject matter had been publicly disclosed by the inventor, a joint
+ inventor, or another who obtained the subject matter directly or indirectly from the
+ inventor or joint inventor.
+ 
+
+
+Specifically, **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides that a disclosure which would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** (a U.S.
+ patent, U.S. patent application publication, or WIPO published application ("U.S.
+ patent document")) may be excepted as prior art if the subject matter disclosed had
+ been previously publicly disclosed by the inventor, a joint inventor, or another who
+ obtained the subject matter directly or indirectly from the inventor or joint
+ inventor. The previous public disclosure of the subject matter by the inventor, a
+ joint inventor, or another who obtained the subject matter directly or indirectly
+ from the inventor or joint inventor must itself be a public disclosure (i.e., be
+ either an inventor disclosure by the inventor or a joint inventor or be an
+ inventor-originated disclosure by another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor). If a previous public disclosure by
+ the inventor or which originated with the inventor is not within the grace period of
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**, it would qualify as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, and could not be excepted under
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**. **[MPEP §
+ 2155.02](s2155.html#ch2100_d20034_173e3_369)** discusses the use of affidavits or declarations to
+ show that the subject matter disclosed had, before such disclosure, been publicly
+ disclosed by the inventor or a joint inventor, and **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that another who obtained the subject matter disclosed directly or indirectly
+ from the inventor or a joint inventor.
+ 
+
+
+Similar to the previous discussion of **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**, the exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** applies if the "subject matter disclosed [in the
+ intervening disclosure] had, before such [intervening] disclosure was effectively
+ filed under subsection (a)(2), been publicly disclosed by the inventor or a joint
+ inventor or another who obtained the subject matter directly or indirectly from the
+ inventor or joint inventor." The exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** focuses on the "subject matter" that had been
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor). There is
+ no requirement under **[35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** that the
+ mode of prior disclosure by the inventor or a joint inventor (or another who obtained
+ the subject matter directly or indirectly from the inventor or joint inventor) be the
+ same as the mode of disclosure of the intervening U.S. patent document(e.g.,
+ patenting, publication, public use, sale activity). There is also no requirement that
+ the prior disclosure by the inventor or a joint inventor be a verbatim or ipsissimis
+ verbis disclosure of the intervening U.S. patent document. What is required for
+ subject matter in the intervening U.S. patent document to be excepted under
+ **[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** is that the subject matter must have been
+ previously publicly disclosed by the inventor or a joint inventor (or another who
+ obtained the subject matter directly or indirectly from the inventor or joint
+ inventor).
+ 
+
+
+The exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** applies only to the subject matter in the
+ intervening U.S. patent document being relied upon for a rejection under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** that was also publicly disclosed by the
+ inventor or a joint inventor (or another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor) before the date the subject matter
+ relied upon was effectively filed. The subject matter of an intervening U.S. patent
+ document that was not previously publicly disclosed by the inventor or a joint
+ inventor (or by another who obtained the subject matter from the inventor or joint
+ inventor) is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. For example, if the inventor or a joint inventor had
+ publicly disclosed elements A, B, and C, and a subsequent intervening U.S. patent
+ document discloses elements A, B, C, and D, then only element D of the intervening
+ U.S. patent document is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. In other words, the exceptions in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** do not necessarily remove the entire disclosure in
+ the intervening reference from being prior art.
+ 
+
+
+In addition, if subject matter of an intervening U.S.
+ patent document is simply a more general description of the subject matter previously
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor), the
+ exception in **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**
+ applies to such subject matter of the intervening U.S. patent document. For example,
+ if the inventor or a joint inventor had publicly disclosed a species, and a
+ subsequent intervening U.S. patent document discloses a genus (i.e., provides a more
+ generic disclosure of the species), the disclosure of the genus in the intervening
+ U.S. patent document is not available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Conversely, if the inventor or a joint inventor had
+ publicly disclosed a genus, and a subsequent intervening U.S. patent document
+ discloses a species, the disclosure of the species in the subsequent intervening U.S.
+ patent document would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Likewise, if the inventor or a joint inventor had
+ publicly disclosed a species, and a subsequent intervening U.S. patent document
+ discloses an alternative species not also disclosed by the inventor or a joint
+ inventor, the disclosure of the alternative species in the intervening U.S. patent
+ document would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+Finally, **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** does
+ not discuss "the claimed invention" with respect to either the subject matter
+ disclosed by the inventor or a joint inventor, or the subject matter of the
+ subsequent intervening U.S. patent document. Any inquiry with respect to the claimed
+ invention is whether or not the subject matter in the prior art disclosure being
+ relied upon anticipates or renders obvious the claimed invention. A determination of
+ whether the exception in **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** is
+ applicable to subject matter in an intervening U.S. patent document does not involve
+ a comparison of the subject matter of the claimed invention to either the subject
+ matter disclosed by the inventor or a joint inventor, or to the subject matter of the
+ subsequent intervening U.S. patent document.
+ 
+
+
+
+
+# 2154.02(c) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(C) to AIA 35 U.S.C. 102(a)(2) (Common Ownership or Obligation of
+ Assignment) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** provides an additional exception to the
+ prior art provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. The
+ exception of **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**
+ excepts subject matter disclosed in a U.S. patent, U.S. patent application
+ publication, or WIPO published application ("U.S. patent document") from constituting
+ prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if the
+ subject matter disclosed and the claimed invention, not later than the effective
+ filing date of the claimed invention, "were owned by the same person or subject to an
+ obligation of assignment to the same person." **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** resembles **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in that
+ both concern common ownership, and offer an avenue by which an applicant may avoid
+ certain prior art. However, there are significant differences between
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** and **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+ 
+
+
+If the provisions of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** are met, a U.S. patent document that might
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** is not
+ available as prior art under either **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. This differs from **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in which
+ prior art can preclude patentability under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, even if
+ the conditions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** are met. The consequence of this
+ distinction is that a published application or an issued patent that falls under the
+ common ownership exception of **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** may
+ not be applied in either an anticipation or an obviousness rejection.
+ 
+
+
+It is important to note the circumstances in which the
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception does not remove a U.S. patent
+ document as a basis for a rejection. The **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception does not apply to a disclosure that
+ qualifies as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**
+ (disclosures made before the effective filing date of the claimed invention). Thus,
+ if the publication date or issue date of a U.S. patent document is before the
+ effective filing date of the claimed invention, it may be prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, regardless of common ownership or the
+ existence of an obligation to assign. Also, even if a U.S. patent or U.S. published
+ application is not prior art under **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as a result of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, a double patenting rejection (either statutory
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** or non-statutory, sometimes called obviousness-type) may
+ still be made on the basis of the U.S. patent or U.S. patent application publication.
+ Furthermore, the U.S. patent document that does not qualify as prior art as a result
+ of **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** may still be cited, in appropriate
+ situations, to indicate the state of the art when making a lack of enablement
+ rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. A document need
+ not qualify as prior art to be applied in the context of double patenting, see
+ **[MPEP §
+ 804.03](s804.html#d0e101750)** (prior art disqualified under the CREATE Act may be
+ the basis for a double patenting rejection), or enablement. See **[MPEP § 2124](s2124.html#d0e202094)**.
+ 
+
+
+The Office revised the rules of practice to include
+ provisions that pertain to commonly owned or joint research agreement subject matter
+ (**[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322181)** and **[(c)(5)](mpep-9020-appx-r.html#d0e322227)**). **[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322181)** applies to an application that is subject to
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, and
+ **[37 CFR
+ 1.104(c)(5)](mpep-9020-appx-r.html#d0e322227)** applies to an application that is subject to
+ **[pre-AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. Commonly owned subject
+ matter under **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is treated under **[37 CFR 1.104(c)(4)(i)](mpep-9020-appx-r.html#d0e322191)**, and
+ commonly owned subject matter under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)** is treated under **[37 CFR 1.104(c)(5)(i)](mpep-9020-appx-r.html#d0e322231)**. See
+ **[MPEP §
+ 2146.01](s2146.html#ch2100_d2c184_126fa_f3)**.
+ 
+
+
+A clear and conspicuous statement by the applicant (or
+ the applicant's representative of record) that the claimed invention of the
+ application under examination and the subject matter disclosed in the U.S. patent
+ document applied as prior art were owned by the same person or subject to an
+ obligation of assignment to the same person not later than the effective filing date
+ of the claimed invention will be sufficient to establish that the **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception applies. Likewise, when relying on the
+ provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**, the applicant (or the applicant's
+ representative of record) can provide a similar statement required to disqualify the
+ cited prior art. The applicant may present supporting evidence such as copies of
+ assignment documents, but is not required to do so. Furthermore, the Office will not
+ request corroborating evidence in the absence of independent evidence which raises
+ doubt as to the veracity of such a statement. The statement under **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** will generally be treated by Office personnel
+ analogously to statements made under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**. See
+ **[MPEP §
+ 2146.02](s2146.html#ch2100_d2c184_12765_27)**, subsection II.
+ 
+
+
+
+
+[[top]](#top)
+
+
+, 
+# 2154.01 Prior Art Under AIA 35 U.S.C. 102(a)(2) "U.S.
+ Patent Documents" [R-11.2013]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** sets forth three types of patent documents that
+ are available as prior art as of the date they were effectively filed with respect to
+ the subject matter relied upon in the document if they name another inventor: (1) U.S.
+ patents; (2) U.S. patent application publications; and (3) certain WIPO published
+ applications. These documents are referred to collectively as "U.S. patent documents."
+ These documents may have different prior art effects under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** than under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Note that a
+ U.S. patent document may also be prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if its issue or publication date is before the effective
+ filing date of the claimed invention in question.
+ 
+
+
+If the issue date of the U.S. patent or publication date
+ of the U.S. patent application publication or WIPO published application is not before
+ the effective filing date of the claimed invention, it may be applicable as prior art
+ under **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if it was "effectively filed" before the
+ effective filing date of the claimed invention in question with respect to the subject
+ matter relied upon to reject the claim. **[MPEP §
+ 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** discusses the "effective filing date" of a claimed
+ invention. **[AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** sets forth the criteria to determine when
+ subject matter described in a U.S. patent document was "effectively filed" for purposes
+ of **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+
+# 2154.01(a) WIPO Published Applications [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+The WIPO publication of a PCT international application
+ that designates the United States is an application for patent deemed published under
+ **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303063)** for purposes of **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** under **[35 U.S.C. 374](mpep-9015-appx-l.html#d0e307311313)**. Thus, under the
+ AIA, WIPO publications of PCT applications that designate the United States are
+ treated as U.S. patent application publications for prior art purposes, regardless of
+ the international filing date, whether they are published in English, or whether the
+ PCT international application enters the national stage in the United States.
+ Accordingly, a U.S. patent, a U.S. patent application publication, or a WIPO
+ published application that names another inventor and was effectively filed before
+ the effective filing date of the claimed invention, is prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. This differs from the treatment of a WIPO
+ published application under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, where a
+ WIPO published application is treated as a U.S. patent application publication only
+ if the PCT application was filed on or after November 29, 2000, designated the United
+ States, and is published under **[PCT Article 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English
+ language. See **[MPEP §
+ 2136.03](s2136.html#d0e205924)**, subsection II. 
+ 
+
+
+
+
+# 2154.01(b) Determining When Subject Matter Was
+ Effectively Filed Under AIA 35 U.S.C. 102(d) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** provides that a U.S. patent, U.S. patent
+ application publication, or WIPO published application ("U.S. patent document") is
+ prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** with
+ respect to any subject matter described in the patent or published application as of
+ either its actual filing date (**[AIA 35 U.S.C. 102(d)(1)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1ee)**), or the
+ filing date of a prior application to which there is a priority or benefit claim
+ (**[AIA
+ 35 U.S.C. 102(d)(2)](mpep-9015-appx-l.html#al_d1d85b_11ecb_200)**). A U.S. patent document "is entitled to
+ claim" priority to, or the benefit of, a prior-filed application if it fulfills the
+ ministerial requirements of: (1) containing a priority or benefit claim to the
+ prior-filed application; (2) being filed within the applicable filing period
+ requirement (copending with or within twelve months of the earlier filing, as
+ applicable); and (3) having a common inventor or being by the same applicant. See
+ **[MPEP §
+ 211](s211.html#ch200_d1ff71_1bd25_18b)***et. seq.*
+
+
+The AIA draws a distinction between actually being
+ entitled to priority to, or the benefit of, a prior-filed application according to
+ the definition of "effective filing date" of a claimed invention in **[AIA 35 U.S.C.
+ 100(i)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e1a_3d4)**, and merely being entitled to claim priority to,
+ or the benefit of, a prior-filed application according to the use of "effectively
+ filed" in **[AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)**. As a result of this distinction, the
+ question of whether a patent or published application is actually entitled to
+ priority or benefit with respect to any of its claims is not at issue in determining
+ the date the patent or published application was "effectively filed" for prior art
+ purposes. Thus, there is no need to evaluate whether any claim of a U.S. patent
+ document is actually entitled to priority or benefit under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, **[365](mpep-9015-appx-l.html#d0e307034)**, or
+ **[386](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)** when applying such a document as prior art. See
+ **[MPEP §
+ 2136.03](s2136.html#d0e205924)** for the reference date under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** of U.S. patents, U.S. application publications, and
+ international application publications entitled to the benefit of the filing date of
+ prior application under **[35 U.S.C. 119(e)](mpep-9015-appx-l.html#d0e302951)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365(c)](mpep-9015-appx-l.html#d0e307053)**.
+ 
+
+
+**[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** requires that a prior-filed application to which
+ a priority or benefit claim is made must describe the subject matter from the U.S.
+ patent document relied upon in a rejection. However, **[AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** does not require that this description meet the
+ enablement requirements of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. As discussed
+ previously with respect to **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, the
+ Office does not view the AIA as changing the extent to which a claimed invention must
+ be described for a prior art document to anticipate the claimed invention under
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**.
+ 
+
+
+The AIA also eliminates the so-called
+ *Hilmer* doctrine. Under the Hilmer doctrine, **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** limited the effective filing date for U.S. patents (and
+ published applications) as prior art to their earliest U.S. filing date. *In
+ re Hilmer,* 359 F.2d 859, 149 USPQ 480 (CCPA 1966). In contrast,
+ **[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** provides that if the U.S. patent document claims
+ priority to one or more prior-filed foreign or international applications under
+ **[35 U.S.C.
+ 119](mpep-9015-appx-l.html#d0e302921)** or **[365](mpep-9015-appx-l.html#d0e307034)**, the patent or published
+ application was effectively filed on the filing date of the earliest such application
+ that describes the subject matter. Therefore, if the subject matter relied upon is
+ described in the application to which there is a priority or benefit claim, the U.S.
+ patent document is effective as prior art as of the filing date of the earliest such
+ application, regardless of where filed. When examining an application to which the
+ AIA changes in **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** do not apply, Office personnel will continue to apply the
+ *Hilmer* doctrine, and foreign priority dates may not be used in
+ determining **[pre-AIA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** prior art dates. Note that the international
+ filing date of a published PCT application may be the **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** prior art date under pre-AIA law under certain
+ circumstances. See **[MPEP § 2136](s2136.html#d0e205544)**.
+ 
+
+
+
+
+# 2154.01(c) Requirement Of "Names Another
+ Inventor" [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+To qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, the prior art U.S. patent, U.S. patent application
+ publication, or WIPO published application ("U.S. patent document") must "name[ ]
+ another inventor." This means that if there is any difference in inventive entity
+ between the prior art U.S. patent document and the application under examination or
+ patent under reexamination, the U.S. patent document satisfies the "names another
+ inventor" requirement of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Thus, in
+ the case of joint inventors, only one joint inventor needs to be different for the
+ inventive entities to be different. Even if there are one or more joint inventors in
+ common in a U.S. patent document and the later-filed application under examination or
+ patent under reexamination, the U.S. patent document qualifies as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** unless an exception in **[AIA 35 U.S.C.
+ 102(b)(2)](mpep-9015-appx-l.html#al_d1d85b_11e7d_19a)** is applicable.
+ 
+
+
+
+
+# 2154.01(d) Provisional Rejections Under 35 U.S.C.
+ 102(a)(2); Reference Is a Copending U.S. Patent Application [R-10.2019]
+
+
+If an earlier filed, copending, and unpublished U.S. patent
+ application discloses subject matter which would anticipate the claims in a later
+ filed pending U.S. application which has a different inventive entity, the examiner
+ should determine whether a provisional rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** of the later filed application can be made. In
+ addition, a provisional rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** may be made,
+ in the circumstances described below, if the earlier filed, pending application has
+ been published as redacted (**[37 CFR 1.217](mpep-9020-appx-r.html#d0e325410)**) and the subject
+ matter relied upon in the rejection is not supported in the redacted publication of
+ the patent application.
+ 
+
+**I.** **COPENDING U.S. APPLICATIONS HAVING AT LEAST ONE COMMON INVENTOR OR COMMON
+ APPLICANT OR ARE COMMONLY ASSIGNED**If (1) at least one common inventor or common applicant exists
+ between the applications or the applications are commonly assigned and (2) the
+ effective filing dates are different, then a provisional rejection of the later
+ filed application should be made. The provisional rejection is appropriate in
+ circumstances where if the earlier filed application is published or becomes a
+ patent it would constitute actual prior art under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. Since the earlier-filed application is not published at
+ the time of the rejection, the rejection must be provisionally made under
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+A provisional rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** can be overcome in the same manner that a
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** rejection can be overcome. See
+ **[MPEP § 2152.06](s2152.html#ch2100_d2c184_13ec5_303)**. The provisional rejection
+ can also be overcome by abandoning the applications and
+ filing a new application containing the subject matter of both.
+ 
+
+
+Form paragraph **[7.15.01.aia](#fp7.15.01.aia)** should be used when making a
+ provisional rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+ 
+
+**II.** **COPENDING APPLICATIONS HAVING NO COMMON INVENTOR, APPLICANT, OR
+ ASSIGNEE**If there is no common assignee, common applicant, or common
+ inventor and the application was not published pursuant to **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303054)**, the confidential status of applications under
+ **[35 U.S.C.
+ 122(a)](mpep-9015-appx-l.html#d0e303054)** must be maintained and no rejection can be made
+ relying on the earlier filed, unpublished application, or subject matter not
+ supported in a redacted application publication, as prior art under
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. For applications subject to
+ **[pre-AIA 35
+ U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302424)**, if the filing dates of the applications are
+ within 6 months of each other (3 months for simple subject matter) then
+ interference may be proper. See **[MPEP Chapter 2300](mpep-2300.html#d0e237627)**. If the
+ application with the earliest effective U.S. filing date will not be published
+ pursuant to **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303054)**, it must be allowed to issue once all the
+ statutory requirements are met. After the patent is published, it may be used as a
+ reference in a rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** in the
+ still pending application as appropriate. See **[MPEP §§
+ 2120.01](s2120.html#ch2100_d2c183_20d9a_21c)** and **[2154](s2154.html#ch2100_d20033_274f5_338)**.
+ 
+
+
+
+, 
+# 2154.01(a) WIPO Published Applications [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+The WIPO publication of a PCT international application
+ that designates the United States is an application for patent deemed published under
+ **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303063)** for purposes of **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** under **[35 U.S.C. 374](mpep-9015-appx-l.html#d0e307311313)**. Thus, under the
+ AIA, WIPO publications of PCT applications that designate the United States are
+ treated as U.S. patent application publications for prior art purposes, regardless of
+ the international filing date, whether they are published in English, or whether the
+ PCT international application enters the national stage in the United States.
+ Accordingly, a U.S. patent, a U.S. patent application publication, or a WIPO
+ published application that names another inventor and was effectively filed before
+ the effective filing date of the claimed invention, is prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. This differs from the treatment of a WIPO
+ published application under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, where a
+ WIPO published application is treated as a U.S. patent application publication only
+ if the PCT application was filed on or after November 29, 2000, designated the United
+ States, and is published under **[PCT Article 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English
+ language. See **[MPEP §
+ 2136.03](s2136.html#d0e205924)**, subsection II. 
+ 
+
+
+, 
+# 2154.01(b) Determining When Subject Matter Was
+ Effectively Filed Under AIA 35 U.S.C. 102(d) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** provides that a U.S. patent, U.S. patent
+ application publication, or WIPO published application ("U.S. patent document") is
+ prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** with
+ respect to any subject matter described in the patent or published application as of
+ either its actual filing date (**[AIA 35 U.S.C. 102(d)(1)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1ee)**), or the
+ filing date of a prior application to which there is a priority or benefit claim
+ (**[AIA
+ 35 U.S.C. 102(d)(2)](mpep-9015-appx-l.html#al_d1d85b_11ecb_200)**). A U.S. patent document "is entitled to
+ claim" priority to, or the benefit of, a prior-filed application if it fulfills the
+ ministerial requirements of: (1) containing a priority or benefit claim to the
+ prior-filed application; (2) being filed within the applicable filing period
+ requirement (copending with or within twelve months of the earlier filing, as
+ applicable); and (3) having a common inventor or being by the same applicant. See
+ **[MPEP §
+ 211](s211.html#ch200_d1ff71_1bd25_18b)***et. seq.*
+
+
+The AIA draws a distinction between actually being
+ entitled to priority to, or the benefit of, a prior-filed application according to
+ the definition of "effective filing date" of a claimed invention in **[AIA 35 U.S.C.
+ 100(i)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e1a_3d4)**, and merely being entitled to claim priority to,
+ or the benefit of, a prior-filed application according to the use of "effectively
+ filed" in **[AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)**. As a result of this distinction, the
+ question of whether a patent or published application is actually entitled to
+ priority or benefit with respect to any of its claims is not at issue in determining
+ the date the patent or published application was "effectively filed" for prior art
+ purposes. Thus, there is no need to evaluate whether any claim of a U.S. patent
+ document is actually entitled to priority or benefit under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, **[365](mpep-9015-appx-l.html#d0e307034)**, or
+ **[386](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)** when applying such a document as prior art. See
+ **[MPEP §
+ 2136.03](s2136.html#d0e205924)** for the reference date under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** of U.S. patents, U.S. application publications, and
+ international application publications entitled to the benefit of the filing date of
+ prior application under **[35 U.S.C. 119(e)](mpep-9015-appx-l.html#d0e302951)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365(c)](mpep-9015-appx-l.html#d0e307053)**.
+ 
+
+
+**[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** requires that a prior-filed application to which
+ a priority or benefit claim is made must describe the subject matter from the U.S.
+ patent document relied upon in a rejection. However, **[AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** does not require that this description meet the
+ enablement requirements of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. As discussed
+ previously with respect to **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, the
+ Office does not view the AIA as changing the extent to which a claimed invention must
+ be described for a prior art document to anticipate the claimed invention under
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**.
+ 
+
+
+The AIA also eliminates the so-called
+ *Hilmer* doctrine. Under the Hilmer doctrine, **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** limited the effective filing date for U.S. patents (and
+ published applications) as prior art to their earliest U.S. filing date. *In
+ re Hilmer,* 359 F.2d 859, 149 USPQ 480 (CCPA 1966). In contrast,
+ **[AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** provides that if the U.S. patent document claims
+ priority to one or more prior-filed foreign or international applications under
+ **[35 U.S.C.
+ 119](mpep-9015-appx-l.html#d0e302921)** or **[365](mpep-9015-appx-l.html#d0e307034)**, the patent or published
+ application was effectively filed on the filing date of the earliest such application
+ that describes the subject matter. Therefore, if the subject matter relied upon is
+ described in the application to which there is a priority or benefit claim, the U.S.
+ patent document is effective as prior art as of the filing date of the earliest such
+ application, regardless of where filed. When examining an application to which the
+ AIA changes in **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** do not apply, Office personnel will continue to apply the
+ *Hilmer* doctrine, and foreign priority dates may not be used in
+ determining **[pre-AIA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** prior art dates. Note that the international
+ filing date of a published PCT application may be the **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** prior art date under pre-AIA law under certain
+ circumstances. See **[MPEP § 2136](s2136.html#d0e205544)**.
+ 
+
+
+, 
+# 2154.01(c) Requirement Of "Names Another
+ Inventor" [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+To qualify as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, the prior art U.S. patent, U.S. patent application
+ publication, or WIPO published application ("U.S. patent document") must "name[ ]
+ another inventor." This means that if there is any difference in inventive entity
+ between the prior art U.S. patent document and the application under examination or
+ patent under reexamination, the U.S. patent document satisfies the "names another
+ inventor" requirement of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Thus, in
+ the case of joint inventors, only one joint inventor needs to be different for the
+ inventive entities to be different. Even if there are one or more joint inventors in
+ common in a U.S. patent document and the later-filed application under examination or
+ patent under reexamination, the U.S. patent document qualifies as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** unless an exception in **[AIA 35 U.S.C.
+ 102(b)(2)](mpep-9015-appx-l.html#al_d1d85b_11e7d_19a)** is applicable.
+ 
+
+
+, 
+# 2154.01(d) Provisional Rejections Under 35 U.S.C.
+ 102(a)(2); Reference Is a Copending U.S. Patent Application [R-10.2019]
+
+
+If an earlier filed, copending, and unpublished U.S. patent
+ application discloses subject matter which would anticipate the claims in a later
+ filed pending U.S. application which has a different inventive entity, the examiner
+ should determine whether a provisional rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** of the later filed application can be made. In
+ addition, a provisional rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** may be made,
+ in the circumstances described below, if the earlier filed, pending application has
+ been published as redacted (**[37 CFR 1.217](mpep-9020-appx-r.html#d0e325410)**) and the subject
+ matter relied upon in the rejection is not supported in the redacted publication of
+ the patent application.
+ 
+
+**I.** **COPENDING U.S. APPLICATIONS HAVING AT LEAST ONE COMMON INVENTOR OR COMMON
+ APPLICANT OR ARE COMMONLY ASSIGNED**If (1) at least one common inventor or common applicant exists
+ between the applications or the applications are commonly assigned and (2) the
+ effective filing dates are different, then a provisional rejection of the later
+ filed application should be made. The provisional rejection is appropriate in
+ circumstances where if the earlier filed application is published or becomes a
+ patent it would constitute actual prior art under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. Since the earlier-filed application is not published at
+ the time of the rejection, the rejection must be provisionally made under
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+A provisional rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** can be overcome in the same manner that a
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** rejection can be overcome. See
+ **[MPEP § 2152.06](s2152.html#ch2100_d2c184_13ec5_303)**. The provisional rejection
+ can also be overcome by abandoning the applications and
+ filing a new application containing the subject matter of both.
+ 
+
+
+Form paragraph **[7.15.01.aia](#fp7.15.01.aia)** should be used when making a
+ provisional rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+ 
+
+**II.** **COPENDING APPLICATIONS HAVING NO COMMON INVENTOR, APPLICANT, OR
+ ASSIGNEE**If there is no common assignee, common applicant, or common
+ inventor and the application was not published pursuant to **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303054)**, the confidential status of applications under
+ **[35 U.S.C.
+ 122(a)](mpep-9015-appx-l.html#d0e303054)** must be maintained and no rejection can be made
+ relying on the earlier filed, unpublished application, or subject matter not
+ supported in a redacted application publication, as prior art under
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. For applications subject to
+ **[pre-AIA 35
+ U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302424)**, if the filing dates of the applications are
+ within 6 months of each other (3 months for simple subject matter) then
+ interference may be proper. See **[MPEP Chapter 2300](mpep-2300.html#d0e237627)**. If the
+ application with the earliest effective U.S. filing date will not be published
+ pursuant to **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303054)**, it must be allowed to issue once all the
+ statutory requirements are met. After the patent is published, it may be used as a
+ reference in a rejection under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** in the
+ still pending application as appropriate. See **[MPEP §§
+ 2120.01](s2120.html#ch2100_d2c183_20d9a_21c)** and **[2154](s2154.html#ch2100_d20033_274f5_338)**.
+ 
+
+
+, 
+# 2154.02 Prior Art Exceptions Under 35 U.S.C. 102(b)(2) to
+ AIA 35 U.S.C. 102(a)(2) [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+See **[MPEP § 2154.02(a)](s2154.html#ch2100_d20034_13f89_241)** for prior art
+ exceptions to **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** under
+ **[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** based on the inventor-originated disclosure
+ exception. See **[MPEP § 2154.02(b)](s2154.html#ch2100_d20034_140df_1a6)** for prior art
+ exceptions to **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** based on
+ inventor or inventor-originated prior public disclosures as provided for in
+ **[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)**. See **[MPEP §
+ 2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** the prior art exception under **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** to **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** based on
+ common ownership or obligation of assignment.
+ 
+
+
+
+# 2154.02(a) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(A) to AIA 35 U.S.C. 102(a)(2) (Inventor-Originated Disclosure
+ Exception) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides an exception to the prior art
+ provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. This
+ exception limits the use of an inventor's own work as prior art, when the inventor's
+ own work is disclosed in a U.S. patent, U.S. patent application publication, or WIPO
+ published application ("U.S. patent document") by another who obtained the subject
+ matter directly or indirectly from the inventor or joint inventor.
+ 
+
+
+Specifically, **[AIA 35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides that a disclosure which would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** may be
+ excepted as prior art if the subject matter disclosed was obtained directly or
+ indirectly from the inventor or a joint inventor. Thus, if the subject matter in a
+ U.S. patent document upon which the rejection is based is by another who obtained the
+ subject matter from the inventor or a joint inventor, the applicant may establish by
+ way of an affidavit or declaration that a disclosure is not prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that the disclosure was by another who obtained the subject matter disclosed
+ directly or indirectly from the inventor or a joint inventor under the exception of
+ **[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** for an inventor-originated disclosure.
+ 
+
+
+
+
+# 2154.02(b) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(B) to AIA 35 U.S.C. 102(a)(2) (Inventor or Inventor-Originated Prior Public
+ Disclosure Exception) [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides additional exceptions to the prior
+ art provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. These
+ provisions except as prior art subject matter that was effectively filed by another
+ after the subject matter had been publicly disclosed by the inventor, a joint
+ inventor, or another who obtained the subject matter directly or indirectly from the
+ inventor or joint inventor.
+ 
+
+
+Specifically, **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides that a disclosure which would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** (a U.S.
+ patent, U.S. patent application publication, or WIPO published application ("U.S.
+ patent document")) may be excepted as prior art if the subject matter disclosed had
+ been previously publicly disclosed by the inventor, a joint inventor, or another who
+ obtained the subject matter directly or indirectly from the inventor or joint
+ inventor. The previous public disclosure of the subject matter by the inventor, a
+ joint inventor, or another who obtained the subject matter directly or indirectly
+ from the inventor or joint inventor must itself be a public disclosure (i.e., be
+ either an inventor disclosure by the inventor or a joint inventor or be an
+ inventor-originated disclosure by another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor). If a previous public disclosure by
+ the inventor or which originated with the inventor is not within the grace period of
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**, it would qualify as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, and could not be excepted under
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**. **[MPEP §
+ 2155.02](s2155.html#ch2100_d20034_173e3_369)** discusses the use of affidavits or declarations to
+ show that the subject matter disclosed had, before such disclosure, been publicly
+ disclosed by the inventor or a joint inventor, and **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that another who obtained the subject matter disclosed directly or indirectly
+ from the inventor or a joint inventor.
+ 
+
+
+Similar to the previous discussion of **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**, the exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** applies if the "subject matter disclosed [in the
+ intervening disclosure] had, before such [intervening] disclosure was effectively
+ filed under subsection (a)(2), been publicly disclosed by the inventor or a joint
+ inventor or another who obtained the subject matter directly or indirectly from the
+ inventor or joint inventor." The exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** focuses on the "subject matter" that had been
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor). There is
+ no requirement under **[35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** that the
+ mode of prior disclosure by the inventor or a joint inventor (or another who obtained
+ the subject matter directly or indirectly from the inventor or joint inventor) be the
+ same as the mode of disclosure of the intervening U.S. patent document(e.g.,
+ patenting, publication, public use, sale activity). There is also no requirement that
+ the prior disclosure by the inventor or a joint inventor be a verbatim or ipsissimis
+ verbis disclosure of the intervening U.S. patent document. What is required for
+ subject matter in the intervening U.S. patent document to be excepted under
+ **[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** is that the subject matter must have been
+ previously publicly disclosed by the inventor or a joint inventor (or another who
+ obtained the subject matter directly or indirectly from the inventor or joint
+ inventor).
+ 
+
+
+The exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** applies only to the subject matter in the
+ intervening U.S. patent document being relied upon for a rejection under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** that was also publicly disclosed by the
+ inventor or a joint inventor (or another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor) before the date the subject matter
+ relied upon was effectively filed. The subject matter of an intervening U.S. patent
+ document that was not previously publicly disclosed by the inventor or a joint
+ inventor (or by another who obtained the subject matter from the inventor or joint
+ inventor) is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. For example, if the inventor or a joint inventor had
+ publicly disclosed elements A, B, and C, and a subsequent intervening U.S. patent
+ document discloses elements A, B, C, and D, then only element D of the intervening
+ U.S. patent document is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. In other words, the exceptions in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** do not necessarily remove the entire disclosure in
+ the intervening reference from being prior art.
+ 
+
+
+In addition, if subject matter of an intervening U.S.
+ patent document is simply a more general description of the subject matter previously
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor), the
+ exception in **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**
+ applies to such subject matter of the intervening U.S. patent document. For example,
+ if the inventor or a joint inventor had publicly disclosed a species, and a
+ subsequent intervening U.S. patent document discloses a genus (i.e., provides a more
+ generic disclosure of the species), the disclosure of the genus in the intervening
+ U.S. patent document is not available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Conversely, if the inventor or a joint inventor had
+ publicly disclosed a genus, and a subsequent intervening U.S. patent document
+ discloses a species, the disclosure of the species in the subsequent intervening U.S.
+ patent document would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Likewise, if the inventor or a joint inventor had
+ publicly disclosed a species, and a subsequent intervening U.S. patent document
+ discloses an alternative species not also disclosed by the inventor or a joint
+ inventor, the disclosure of the alternative species in the intervening U.S. patent
+ document would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+Finally, **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** does
+ not discuss "the claimed invention" with respect to either the subject matter
+ disclosed by the inventor or a joint inventor, or the subject matter of the
+ subsequent intervening U.S. patent document. Any inquiry with respect to the claimed
+ invention is whether or not the subject matter in the prior art disclosure being
+ relied upon anticipates or renders obvious the claimed invention. A determination of
+ whether the exception in **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** is
+ applicable to subject matter in an intervening U.S. patent document does not involve
+ a comparison of the subject matter of the claimed invention to either the subject
+ matter disclosed by the inventor or a joint inventor, or to the subject matter of the
+ subsequent intervening U.S. patent document.
+ 
+
+
+
+
+# 2154.02(c) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(C) to AIA 35 U.S.C. 102(a)(2) (Common Ownership or Obligation of
+ Assignment) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** provides an additional exception to the
+ prior art provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. The
+ exception of **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**
+ excepts subject matter disclosed in a U.S. patent, U.S. patent application
+ publication, or WIPO published application ("U.S. patent document") from constituting
+ prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if the
+ subject matter disclosed and the claimed invention, not later than the effective
+ filing date of the claimed invention, "were owned by the same person or subject to an
+ obligation of assignment to the same person." **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** resembles **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in that
+ both concern common ownership, and offer an avenue by which an applicant may avoid
+ certain prior art. However, there are significant differences between
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** and **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+ 
+
+
+If the provisions of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** are met, a U.S. patent document that might
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** is not
+ available as prior art under either **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. This differs from **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in which
+ prior art can preclude patentability under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, even if
+ the conditions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** are met. The consequence of this
+ distinction is that a published application or an issued patent that falls under the
+ common ownership exception of **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** may
+ not be applied in either an anticipation or an obviousness rejection.
+ 
+
+
+It is important to note the circumstances in which the
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception does not remove a U.S. patent
+ document as a basis for a rejection. The **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception does not apply to a disclosure that
+ qualifies as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**
+ (disclosures made before the effective filing date of the claimed invention). Thus,
+ if the publication date or issue date of a U.S. patent document is before the
+ effective filing date of the claimed invention, it may be prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, regardless of common ownership or the
+ existence of an obligation to assign. Also, even if a U.S. patent or U.S. published
+ application is not prior art under **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as a result of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, a double patenting rejection (either statutory
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** or non-statutory, sometimes called obviousness-type) may
+ still be made on the basis of the U.S. patent or U.S. patent application publication.
+ Furthermore, the U.S. patent document that does not qualify as prior art as a result
+ of **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** may still be cited, in appropriate
+ situations, to indicate the state of the art when making a lack of enablement
+ rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. A document need
+ not qualify as prior art to be applied in the context of double patenting, see
+ **[MPEP §
+ 804.03](s804.html#d0e101750)** (prior art disqualified under the CREATE Act may be
+ the basis for a double patenting rejection), or enablement. See **[MPEP § 2124](s2124.html#d0e202094)**.
+ 
+
+
+The Office revised the rules of practice to include
+ provisions that pertain to commonly owned or joint research agreement subject matter
+ (**[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322181)** and **[(c)(5)](mpep-9020-appx-r.html#d0e322227)**). **[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322181)** applies to an application that is subject to
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, and
+ **[37 CFR
+ 1.104(c)(5)](mpep-9020-appx-r.html#d0e322227)** applies to an application that is subject to
+ **[pre-AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. Commonly owned subject
+ matter under **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is treated under **[37 CFR 1.104(c)(4)(i)](mpep-9020-appx-r.html#d0e322191)**, and
+ commonly owned subject matter under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)** is treated under **[37 CFR 1.104(c)(5)(i)](mpep-9020-appx-r.html#d0e322231)**. See
+ **[MPEP §
+ 2146.01](s2146.html#ch2100_d2c184_126fa_f3)**.
+ 
+
+
+A clear and conspicuous statement by the applicant (or
+ the applicant's representative of record) that the claimed invention of the
+ application under examination and the subject matter disclosed in the U.S. patent
+ document applied as prior art were owned by the same person or subject to an
+ obligation of assignment to the same person not later than the effective filing date
+ of the claimed invention will be sufficient to establish that the **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception applies. Likewise, when relying on the
+ provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**, the applicant (or the applicant's
+ representative of record) can provide a similar statement required to disqualify the
+ cited prior art. The applicant may present supporting evidence such as copies of
+ assignment documents, but is not required to do so. Furthermore, the Office will not
+ request corroborating evidence in the absence of independent evidence which raises
+ doubt as to the veracity of such a statement. The statement under **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** will generally be treated by Office personnel
+ analogously to statements made under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**. See
+ **[MPEP §
+ 2146.02](s2146.html#ch2100_d2c184_12765_27)**, subsection II.
+ 
+
+
+
+, 
+# 2154.02(a) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(A) to AIA 35 U.S.C. 102(a)(2) (Inventor-Originated Disclosure
+ Exception) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides an exception to the prior art
+ provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. This
+ exception limits the use of an inventor's own work as prior art, when the inventor's
+ own work is disclosed in a U.S. patent, U.S. patent application publication, or WIPO
+ published application ("U.S. patent document") by another who obtained the subject
+ matter directly or indirectly from the inventor or joint inventor.
+ 
+
+
+Specifically, **[AIA 35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides that a disclosure which would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** may be
+ excepted as prior art if the subject matter disclosed was obtained directly or
+ indirectly from the inventor or a joint inventor. Thus, if the subject matter in a
+ U.S. patent document upon which the rejection is based is by another who obtained the
+ subject matter from the inventor or a joint inventor, the applicant may establish by
+ way of an affidavit or declaration that a disclosure is not prior art under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that the disclosure was by another who obtained the subject matter disclosed
+ directly or indirectly from the inventor or a joint inventor under the exception of
+ **[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** for an inventor-originated disclosure.
+ 
+
+
+, 
+# 2154.02(b) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(B) to AIA 35 U.S.C. 102(a)(2) (Inventor or Inventor-Originated Prior Public
+ Disclosure Exception) [R-10.2019]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides additional exceptions to the prior
+ art provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. These
+ provisions except as prior art subject matter that was effectively filed by another
+ after the subject matter had been publicly disclosed by the inventor, a joint
+ inventor, or another who obtained the subject matter directly or indirectly from the
+ inventor or joint inventor.
+ 
+
+
+Specifically, **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides that a disclosure which would otherwise
+ qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** (a U.S.
+ patent, U.S. patent application publication, or WIPO published application ("U.S.
+ patent document")) may be excepted as prior art if the subject matter disclosed had
+ been previously publicly disclosed by the inventor, a joint inventor, or another who
+ obtained the subject matter directly or indirectly from the inventor or joint
+ inventor. The previous public disclosure of the subject matter by the inventor, a
+ joint inventor, or another who obtained the subject matter directly or indirectly
+ from the inventor or joint inventor must itself be a public disclosure (i.e., be
+ either an inventor disclosure by the inventor or a joint inventor or be an
+ inventor-originated disclosure by another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor). If a previous public disclosure by
+ the inventor or which originated with the inventor is not within the grace period of
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**, it would qualify as prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, and could not be excepted under
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**. **[MPEP §
+ 2155.02](s2155.html#ch2100_d20034_173e3_369)** discusses the use of affidavits or declarations to
+ show that the subject matter disclosed had, before such disclosure, been publicly
+ disclosed by the inventor or a joint inventor, and **[MPEP §
+ 2155.03](s2155.html#ch2100_d20034_1891a_11)** discusses the use of affidavits or declarations to
+ show that another who obtained the subject matter disclosed directly or indirectly
+ from the inventor or a joint inventor.
+ 
+
+
+Similar to the previous discussion of **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**, the exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** applies if the "subject matter disclosed [in the
+ intervening disclosure] had, before such [intervening] disclosure was effectively
+ filed under subsection (a)(2), been publicly disclosed by the inventor or a joint
+ inventor or another who obtained the subject matter directly or indirectly from the
+ inventor or joint inventor." The exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** focuses on the "subject matter" that had been
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor). There is
+ no requirement under **[35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** that the
+ mode of prior disclosure by the inventor or a joint inventor (or another who obtained
+ the subject matter directly or indirectly from the inventor or joint inventor) be the
+ same as the mode of disclosure of the intervening U.S. patent document(e.g.,
+ patenting, publication, public use, sale activity). There is also no requirement that
+ the prior disclosure by the inventor or a joint inventor be a verbatim or ipsissimis
+ verbis disclosure of the intervening U.S. patent document. What is required for
+ subject matter in the intervening U.S. patent document to be excepted under
+ **[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** is that the subject matter must have been
+ previously publicly disclosed by the inventor or a joint inventor (or another who
+ obtained the subject matter directly or indirectly from the inventor or joint
+ inventor).
+ 
+
+
+The exception in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** applies only to the subject matter in the
+ intervening U.S. patent document being relied upon for a rejection under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** that was also publicly disclosed by the
+ inventor or a joint inventor (or another who obtained the subject matter directly or
+ indirectly from the inventor or joint inventor) before the date the subject matter
+ relied upon was effectively filed. The subject matter of an intervening U.S. patent
+ document that was not previously publicly disclosed by the inventor or a joint
+ inventor (or by another who obtained the subject matter from the inventor or joint
+ inventor) is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. For example, if the inventor or a joint inventor had
+ publicly disclosed elements A, B, and C, and a subsequent intervening U.S. patent
+ document discloses elements A, B, C, and D, then only element D of the intervening
+ U.S. patent document is available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. In other words, the exceptions in **[AIA 35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** do not necessarily remove the entire disclosure in
+ the intervening reference from being prior art.
+ 
+
+
+In addition, if subject matter of an intervening U.S.
+ patent document is simply a more general description of the subject matter previously
+ publicly disclosed by the inventor or a joint inventor (or another who obtained the
+ subject matter directly or indirectly from the inventor or joint inventor), the
+ exception in **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**
+ applies to such subject matter of the intervening U.S. patent document. For example,
+ if the inventor or a joint inventor had publicly disclosed a species, and a
+ subsequent intervening U.S. patent document discloses a genus (i.e., provides a more
+ generic disclosure of the species), the disclosure of the genus in the intervening
+ U.S. patent document is not available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Conversely, if the inventor or a joint inventor had
+ publicly disclosed a genus, and a subsequent intervening U.S. patent document
+ discloses a species, the disclosure of the species in the subsequent intervening U.S.
+ patent document would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Likewise, if the inventor or a joint inventor had
+ publicly disclosed a species, and a subsequent intervening U.S. patent document
+ discloses an alternative species not also disclosed by the inventor or a joint
+ inventor, the disclosure of the alternative species in the intervening U.S. patent
+ document would be available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+Finally, **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** does
+ not discuss "the claimed invention" with respect to either the subject matter
+ disclosed by the inventor or a joint inventor, or the subject matter of the
+ subsequent intervening U.S. patent document. Any inquiry with respect to the claimed
+ invention is whether or not the subject matter in the prior art disclosure being
+ relied upon anticipates or renders obvious the claimed invention. A determination of
+ whether the exception in **[AIA 35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** is
+ applicable to subject matter in an intervening U.S. patent document does not involve
+ a comparison of the subject matter of the claimed invention to either the subject
+ matter disclosed by the inventor or a joint inventor, or to the subject matter of the
+ subsequent intervening U.S. patent document.
+ 
+
+
+, 
+# 2154.02(c) Prior Art Exception Under AIA 35 U.S.C.
+ 102(b)(2)(C) to AIA 35 U.S.C. 102(a)(2) (Common Ownership or Obligation of
+ Assignment) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to
+ applications subject to examination under the first inventor to file (FITF)
+ provisions of the AIA as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application
+ is subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** provides an additional exception to the
+ prior art provisions of **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. The
+ exception of **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**
+ excepts subject matter disclosed in a U.S. patent, U.S. patent application
+ publication, or WIPO published application ("U.S. patent document") from constituting
+ prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if the
+ subject matter disclosed and the claimed invention, not later than the effective
+ filing date of the claimed invention, "were owned by the same person or subject to an
+ obligation of assignment to the same person." **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** resembles **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in that
+ both concern common ownership, and offer an avenue by which an applicant may avoid
+ certain prior art. However, there are significant differences between
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** and **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+ 
+
+
+If the provisions of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** are met, a U.S. patent document that might
+ otherwise qualify as prior art under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** is not
+ available as prior art under either **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. This differs from **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in which
+ prior art can preclude patentability under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, even if
+ the conditions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** are met. The consequence of this
+ distinction is that a published application or an issued patent that falls under the
+ common ownership exception of **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** may
+ not be applied in either an anticipation or an obviousness rejection.
+ 
+
+
+It is important to note the circumstances in which the
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception does not remove a U.S. patent
+ document as a basis for a rejection. The **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception does not apply to a disclosure that
+ qualifies as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**
+ (disclosures made before the effective filing date of the claimed invention). Thus,
+ if the publication date or issue date of a U.S. patent document is before the
+ effective filing date of the claimed invention, it may be prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, regardless of common ownership or the
+ existence of an obligation to assign. Also, even if a U.S. patent or U.S. published
+ application is not prior art under **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as a result of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, a double patenting rejection (either statutory
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** or non-statutory, sometimes called obviousness-type) may
+ still be made on the basis of the U.S. patent or U.S. patent application publication.
+ Furthermore, the U.S. patent document that does not qualify as prior art as a result
+ of **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** may still be cited, in appropriate
+ situations, to indicate the state of the art when making a lack of enablement
+ rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. A document need
+ not qualify as prior art to be applied in the context of double patenting, see
+ **[MPEP §
+ 804.03](s804.html#d0e101750)** (prior art disqualified under the CREATE Act may be
+ the basis for a double patenting rejection), or enablement. See **[MPEP § 2124](s2124.html#d0e202094)**.
+ 
+
+
+The Office revised the rules of practice to include
+ provisions that pertain to commonly owned or joint research agreement subject matter
+ (**[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322181)** and **[(c)(5)](mpep-9020-appx-r.html#d0e322227)**). **[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322181)** applies to an application that is subject to
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, and
+ **[37 CFR
+ 1.104(c)(5)](mpep-9020-appx-r.html#d0e322227)** applies to an application that is subject to
+ **[pre-AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. Commonly owned subject
+ matter under **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is treated under **[37 CFR 1.104(c)(4)(i)](mpep-9020-appx-r.html#d0e322191)**, and
+ commonly owned subject matter under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)** is treated under **[37 CFR 1.104(c)(5)(i)](mpep-9020-appx-r.html#d0e322231)**. See
+ **[MPEP §
+ 2146.01](s2146.html#ch2100_d2c184_126fa_f3)**.
+ 
+
+
+A clear and conspicuous statement by the applicant (or
+ the applicant's representative of record) that the claimed invention of the
+ application under examination and the subject matter disclosed in the U.S. patent
+ document applied as prior art were owned by the same person or subject to an
+ obligation of assignment to the same person not later than the effective filing date
+ of the claimed invention will be sufficient to establish that the **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception applies. Likewise, when relying on the
+ provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**, the applicant (or the applicant's
+ representative of record) can provide a similar statement required to disqualify the
+ cited prior art. The applicant may present supporting evidence such as copies of
+ assignment documents, but is not required to do so. Furthermore, the Office will not
+ request corroborating evidence in the absence of independent evidence which raises
+ doubt as to the veracity of such a statement. The statement under **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** will generally be treated by Office personnel
+ analogously to statements made under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**. See
+ **[MPEP §
+ 2146.02](s2146.html#ch2100_d2c184_12765_27)**, subsection II.
+ 
+
+
+]

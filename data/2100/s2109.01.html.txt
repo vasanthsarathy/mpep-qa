@@ -1,0 +1,146 @@
+[
+# 2109.01 Joint Inventorship [R-10.2019]
+
+
+
+#### *35 U.S.C. 116   
+ Inventors.*
+
+
+*[Editor Note: Applicable to proceedings commenced on or after Sept. 16, 2012.
+ See **[35 U.S.C. 116
+ (pre‑AIA)](mpep-9015-appx-l.html#d0e302886)** for the law otherwise applicable.]*
+
+
+* (a) JOINT INVENTIONS.—When an invention is made by two
+ or more persons jointly, they shall apply for patent jointly and each make the
+ required oath, except as otherwise provided in this title. Inventors may apply for
+ a patent jointly even though (1) they did not physically work together or at the
+ same time, (2) each did not make the same type or amount of contribution, or (3)
+ each did not make a contribution to the subject matter of every claim of the
+ patent.
+* (b) OMITTED INVENTOR.—If a joint inventor refuses to join in
+ an application for patent or cannot be found or reached after diligent effort, the
+ application may be made by the other inventor on behalf of himself and the omitted
+ inventor. The Director, on proof of the pertinent facts and after such notice to
+ the omitted inventor as he prescribes, may grant a patent to the inventor making
+ the application, subject to the same rights which the omitted inventor would have
+ had if he had been joined. The omitted inventor may subsequently join in the
+ application.
+* (c) CORRECTION OF ERRORS IN APPLICATION.—Whenever through
+ error a person is named in an application for patent as the inventor, or through
+ an error an inventor is not named in an application, the Director may permit the
+ application to be amended accordingly, under such terms as he prescribes.
+
+
+
+
+#### *35 U.S.C. 116 (pre‑AIA)  
+ Inventors.*
+
+
+*[Editor Note: **Not applicable** to proceedings commenced on or after
+ September 16, 2012. See **[35 U.S.C. 116](mpep-9015-appx-l.html#d0e302886912)** for the law
+ otherwise applicable.]*
+
+
+When an invention is made by two or more persons jointly, they
+ shall apply for patent jointly and each make the required oath, except as otherwise
+ provided in this title. Inventors may apply for a patent jointly even though (1) they
+ did not physically work together or at the same time, (2) each did not make the same
+ type or amount of contribution, or (3) each did not make a contribution to the subject
+ matter of every claim of the patent.
+ 
+
+
+If a joint inventor refuses to join in an application for patent or
+ cannot be found or reached after diligent effort, the application may be made by the
+ other inventor on behalf of himself and the omitted inventor. The Director, on proof of
+ the pertinent facts and after such notice to the omitted inventor as he prescribes, may
+ grant a patent to the inventor making the application, subject to the same rights which
+ the omitted inventor would have had if he had been joined. The omitted inventor may
+ subsequently join in the application.
+ 
+
+
+Whenever through error a person is named in an application for
+ patent as the inventor, or through an error an inventor is not named in an application,
+ and such error arose without any deceptive intention on his part, the Director may
+ permit the application to be amended accordingly, under such terms as he prescribes.
+ 
+
+
+
+A person who shares in the conception of a claimed
+ invention is a joint inventor of that invention. *In re VerHoef,* 888 F.3d
+ 1362, 1366-67, 126 F.2d 1561, 1564-65 (Fed. Cir. 2018)(person who contributed the idea of a
+ figure eight loop in the claimed dog harness, which figure eight loop is an essential
+ feature of the invention not insignificant in quality or well-known in the art, should have
+ been named as a joint inventor). 
+ 
+
+
+"Inventors may apply for a patent jointly even though (1) they did not
+ physically work together or at the same time, (2) each did not make the same type or amount
+ of contribution, or (3) each did not make a contribution to the subject matter of every
+ claim of the patent." **[35
+ U.S.C. 116](mpep-9015-appx-l.html#d0e302886)**. 
+ 
+
+
+It is not necessary that joint inventors physically work
+ together on a project, and it is permissible for one inventor to "take a step at one time,
+ the other an approach at different times." (*Monsanto Co. v. Kamp,* 269 F.
+ Supp. 818, 824, 154 USPQ 259, 262 (D.D.C. 1967)). However, "the statute neither states nor
+ implies that two inventors can be ‘joint inventors’ if they have had no contact whatsoever
+ and are completely unaware of each other's work." What is required is some "quantum of
+ collaboration or connection." In other words, "[f]or persons to be joint inventors under
+ **[Section
+ 116](mpep-9015-appx-l.html#d0e302886)**, there must be some element of joint behavior, such as
+ collaboration or working under common direction, one inventor seeing a relevant report and
+ building upon it or hearing another’s suggestion at a meeting." *Kimberly-Clark
+ Corp.**v.**Procter & Gamble Distrib. Co.,* 973 F.2d 911, 916-17, 23 USPQ2d 1921,
+ 1925-26 (Fed. Cir. 1992); *Moler v. Purdy,* 131 USPQ 276, 279 (Bd. Pat.
+ Inter. 1960) ("it is not necessary that the inventive concept come to both [joint
+ inventors] at the same time").
+ 
+
+
+While each joint inventor must generally contribute to the
+ conception of the invention, each joint inventor does not have to "make the same type or
+ amount of contribution" to the invention. "The fact that each of the inventors play a
+ different role and that the contribution of one may not be as great as that of another does
+ not detract from the fact that the invention is joint, if each makes some original
+ contribution, though partial, to the final solution of the problem." *Monsanto Co.
+ v. Kamp,* 269 F. Supp. at 824, 154 USPQ at 262. 
+ 
+
+
+A joint inventor or coinventor need not make a contribution
+ to every claim of a patent; a contribution to one claim is enough. "The contributor of any
+ disclosed means of a means-plus-function claim element is a joint inventor as to that
+ claim, unless one asserting sole inventorship can show that the contribution of that means
+ was simply a reduction to practice of the sole inventor’s broader concept."
+ *Ethicon Inc. v. United States Surgical Corp.,* 135 F.3d 1456, 1460-63,
+ 45 USPQ2d 1545, 1548-1551 (Fed. Cir. 1998) (The electronics technician who contributed to
+ one of the two alternative structures in the specification to define "the means for
+ detaining" in a claim limitation was held to be a joint inventor.). In addition, there is
+ no requirement that all the inventors be joint inventors of the subject matter of any one
+ claim.
+ 
+
+
+See **[MPEP § 602.09](s602.html#ch600_d1ff6a_1ba4a_ff)** regarding inquiries about
+ the inventorship of each claimed invention and regarding correction of inventorship when an
+ application is amended such that one (or more) of the named joint inventors is no longer a
+ joint inventor of the subject matter of any claim remaining in the application. See
+ **[MPEP §
+ 602.01(c)](s602.html#d0e4830ss602)***et seq.* for additional information pertaining to the correction of
+ inventorship.
+ 
+
+
+[[top]](#top)
+
+
+]

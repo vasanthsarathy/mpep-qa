@@ -1,0 +1,79 @@
+[
+# 2129 Admissions as Prior Art [R-10.2019]
+
+**I.** **ADMISSIONS BY APPLICANT CONSTITUTE PRIOR ART**A statement by an applicant in the specification or made during
+ prosecution identifying the work of another as "prior art" is an
+ admission which can be relied upon for both anticipation and obviousness determinations,
+ regardless of whether the admitted prior art would otherwise qualify as prior art under
+ the statutory categories of **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. *Riverwood
+ Int’l Corp. v. R.A. Jones & Co.,* 324 F.3d 1346, 1354, 66 USPQ2d 1331,
+ 1337 (Fed. Cir. 2003); *Constant v. Advanced Micro-Devices Inc.,* 848
+ F.2d 1560, 1570, 7 USPQ2d 1057, 1063 (Fed. Cir. 1988). Where the admitted prior art
+ anticipates the claim but does not qualify as prior art under any of the paragraphs of
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, the claim may be rejected as being anticipated by the
+ admitted prior art without citing to **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**. 
+ 
+
+
+However, even if labeled as "prior art," the
+ work of the same inventive entity may not be considered prior
+ art against the claims unless it falls under one of the statutory categories.
+ *Id.*; see also *Reading & Bates Construction Co. v.
+ Baker Energy Resources Corp.,* 748 F.2d 645, 650, 223 USPQ 1168, 1172 (Fed.
+ Cir. 1984) ("[W]here the inventor continues to improve upon his own work product, his
+ foundational work product should not, without a statutory basis, be treated as prior art
+ solely because he admits knowledge of his own work. It is common sense that an inventor,
+ regardless of an admission, has knowledge of his own work."). 
+ 
+
+
+Consequently, the examiner must determine whether the subject matter
+ identified as "prior art" is applicant’s own work, or the work of another. In the
+ absence of another credible explanation, examiners should treat such subject matter as
+ the work of another. 
+ 
+
+**II.** **DISCUSSION OF PRIOR ART IN SPECIFICATION**Where the specification identifies work done by another as "prior art,"
+ the subject matter so identified is treated as admitted prior art. *In re
+ Nomiya,* 509 F.2d 566, 571, 184 USPQ 607, 611 (CCPA 1975) (holding
+ applicant’s labeling of two figures in the application drawings as "prior art" to be an
+ admission that what was pictured was prior art relative to applicant’s improvement).
+ 
+
+**III.** ***JEPSON* CLAIMS**Drafting a claim in *Jepson* format (i.e., the format
+ described in **[37 CFR
+ 1.75(e)](mpep-9020-appx-r.html#d0e320269)**; see **[MPEP § 608.01(m)](s608.html#d0e45061)**) is taken as an
+ implied admission that the subject matter of the preamble is the prior art work of
+ another. *In re Fout,* 675 F.2d 297, 301, 213 USPQ 532, 534 (CCPA 1982)
+ (holding preamble of *Jepson*-type claim to be admitted prior art where
+ applicant’s specification credited another as the inventor of the subject matter of the
+ preamble). However, this implication may be overcome where applicant gives another
+ credible reason for drafting the claim in *Jepson* format. *In
+ re Ehrreich,* 590 F.2d 902, 909-910, 200 USPQ 504, 510 (CCPA 1979) (holding
+ preamble not to be admitted prior art where applicant explained that the
+ *Jepson* format was used to avoid a double patenting rejection in a
+ co-pending application and the examiner cited no art showing the subject matter of the
+ preamble). Moreover, where the preamble of a *Jepson* claim describes
+ applicant’s own work, such may not be used against the claims. *Reading &
+ Bates Construction Co. v. Baker Energy Resources Corp.,* 748 F.2d 645, 650,
+ 223 USPQ 1168, 1172 (Fed. Cir. 1984); *Ehrreich,* 590 F.2d at 909-910,
+ 200 USPQ at 510.
+ 
+
+**IV.** **INFORMATION DISCLOSURE STATEMENT (IDS)**Mere listing of a reference in an information disclosure statement is
+ not taken as an admission that the reference is prior art against the claims.
+ *Riverwood Int’l Corp. v. R.A. Jones & Co.,* 324 F.3d 1346,
+ 1354-55, 66 USPQ2d 1331, 1337-38 (Fed Cir. 2003) (listing of applicant’s own prior
+ patent in an IDS does not make it available as prior art absent a statutory basis);
+ *see also* **[37 CFR
+ 1.97(h)](mpep-9020-appx-r.html#d0e321609)** ("The filing of an information disclosure statement shall
+ not be construed to be an admission that the information cited in the statement is, or
+ is considered to be, material to patentability as defined in **[§ 1.56(b)](mpep-9020-appx-r.html#d0e319407)**.").
+ 
+
+
+[[top]](#top)
+
+
+]

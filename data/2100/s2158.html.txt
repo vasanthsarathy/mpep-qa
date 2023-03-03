@@ -1,0 +1,1269 @@
+[
+# 2158 AIA 35 U.S.C. 103 [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP § 2141](s2141.html#d0e208143)**-**[MPEP § 2146](s2146.html#d0e213206)** for
+ information on **[pre-AIA
+ 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** and **[AIA 35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**.]*
+
+
+**[AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** continues to set forth the nonobviousness requirement for
+ patentability. There are, however, some important changes from **[pre-AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+The most significant difference between the
+ **[AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** and **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** is that
+ **[AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** determines obviousness as of the effective filing date of the
+ claimed invention, rather than as of the time that the claimed invention was made. Under
+ pre-AIA examination practice, the Office uses the effective filing date as a proxy for the
+ invention date, unless there is evidence of record to establish an earlier date of
+ invention. Thus, as a practical matter during examination, this distinction between the
+ **[AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** and **[pre-AIA 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** will result in a
+ difference in practice only when the case under examination is subject to **[pre-AIA 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ , and there is evidence in the case concerning a date of invention prior to the effective
+ filing date. Such evidence is ordinarily presented by way of an affidavit or declaration
+ under **[37 CFR
+ 1.131](mpep-9020-appx-r.html#aia_d0e323504)**.
+ 
+
+
+Next, **[AIA 35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** differs from that of
+ **[pre-AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** in that **[AIA 35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** requires
+ consideration of "the differences between the claimed invention and the prior art," while
+ **[pre-AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** refers to "the differences between the subject matter sought to
+ be patented and the prior art." This difference in terminology does not indicate the need
+ for any difference in approach to the question of obviousness. As pointed out by the
+ Federal Circuit, "[t]he term ‘claims' has been used in patent legislation since the Patent
+ Act of 1836 to define the invention that an applicant believes is patentable."
+ *Hoechst-Roussel Pharms., Inc. v. Lehman,* 109 F.3d 756, 758, 42 USPQ2d
+ 1220, 1222 (Fed. Cir. 1997) (citing Act of July 4, 1836, ch. 357, § 6, 5 Stat. 117).
+ Furthermore, in *Graham v. John Deere,* the second of the Supreme Court's
+ factual inquiries (the "Graham factors") is that the "differences between the prior art and
+ the claims at issue are to be ascertained." 383 U.S. 1, 17, 148 USPQ 459, 467. Thus, in
+ interpreting **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** as enacted in the 1952 Patent Act—language that remained
+ unchanged until enactment of the AIA—the Court equated "the subject matter sought to be
+ patented" with the claims.
+ 
+
+
+Further, **[AIA 35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** does not contain any
+ provision similar to **[pre-AIA 35 U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302462)**. **[Pre-AIA 35 U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302462)** is narrowly
+ drawn, applying only to nonobviousness of biotechnological inventions, and even then, only
+ when specifically invoked by the patent applicant. **[Pre-AIA 35 U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302462)** provides that
+ under certain conditions, "a biotechnological process using or resulting in a composition
+ of matter that is novel under **[section 102](mpep-9015-appx-l.html#d0e302383)** and nonobvious under
+ subsection [**[103(a)](mpep-9015-appx-l.html#d0e302450)**] of this section shall be considered nonobvious." In view of
+ the case law since 1995, the need to invoke **[pre-AIA 35 U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302462)** has been rare.
+ As stated in **[MPEP § 2147](s2147.html#ch2100_d2c184_13897_1d)**, in view of the Federal Circuit's decisions in
+ *In re Ochiai,* 71 F.3d 1565, 37 USPQ2d 1127 (Fed. Cir. 1995) and
+ *In re Brouwer,* 77 F.3d 422, 37 USPQ2d 1663 (Fed. Cir. 1996), the need
+ to invoke **[pre-AIA 35
+ U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302462)** rarely arose. Those cases continue to retain their
+ validity under the AIA.
+ 
+
+
+Finally, **[AIA 35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** eliminates
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)**, but corresponding provisions have been introduced in
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** and **[102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)**. **[Pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)** applied if subject matter qualified as prior art only under
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, **[(f)](mpep-9015-appx-l.html#d0e302420)**, and/or **[(g)](mpep-9015-appx-l.html#d0e302424)**, and only in the
+ context of obviousness under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**. If subject
+ matter developed by another person was commonly owned with the claimed invention, or if the
+ subject matter was subject to an obligation of assignment to the same person, at the time
+ the claimed invention was made, then **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** did not
+ preclude patentability. Furthermore, under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**, if a joint
+ research agreement was in place on or before the date that the claimed invention was made,
+ the claimed invention was made as a result of activities undertaken within the scope of the
+ joint research agreement, and the application for patent disclosed or was amended to
+ disclose the names of the parties to the joint research agreement, common ownership or an
+ obligation to assign was deemed to exist. As discussed previously, **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** and **[102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** expand on this concept. Under
+ the AIA, the common ownership, obligation to assign, or joint research agreement must exist
+ on or before the effective filing date of the claimed invention, rather than on or before
+ the date the invention was made. If the provisions of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** are met, a disclosure is not prior art at all, whereas
+ under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)** , certain prior art merely was defined as not precluding
+ patentability. Finally, disclosures excepted as prior art under **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** and **[102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** may not be applied in either an
+ anticipation or an obviousness rejection. However, such disclosures could be the basis for
+ statutory double patenting or non-statutory (sometimes referred to as obviousness-type)
+ double patenting rejections.
+ 
+
+
+Generally speaking, and with the exceptions noted herein,
+ pre-AIA notions of obviousness will continue to apply under the AIA. **[AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** defines what is prior art both for purposes of novelty under
+ **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** as well as for purposes of obviousness under **[AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. See *Hazeltine Res., Inc. v. Brenner,* 382 U.S.
+ 252, 256, 147 USPQ 429, 430 (1965) (a previously filed patent application to another
+ pending in the Office, but not patented or published, at the time an application is filed
+ constitutes part of the "prior art" within the meaning of **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**). Thus,
+ if a document qualifies as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** or
+ **[(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, and is not subject to an exception under **[AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#al_d1d85b_11e7d_156)**, it may be applied for what it describes or teaches to those
+ skilled in the art in a rejection under **[AIA 35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. This is in
+ accordance with pre-AIA case law indicating that in making determinations under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**, "it must be known whether a patent or publication is in the
+ prior art under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**." *Panduit Corp. v. Dennison Mfg. Co.,* 810 F.2d
+ 1561, 1568, 1 USPQ2d 1593, 1597 (Fed. Cir. 1987). However, while a disclosure must enable
+ those skilled in the art to make the invention in order to anticipate under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**, a non-enabling disclosure is prior art for all it teaches for
+ purposes of determining obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** . *Symbol Techs.
+ Inc. v. Opticon Inc.,* 935 F.2d 1569, 1578, 19 USPQ2d 1241, 1247 (Fed. Cir.
+ 1991); *Beckman Instruments v. LKB Produkter AB,* 892 F.2d 1547, 1551, 13
+ USPQ2d 1301, 1304 (Fed. Cir. 1989) ("Even if a reference discloses an inoperative device,
+ it is prior art for all that it teaches."). Office personnel should continue to follow
+ guidance for formulating an appropriate rationale to support any conclusion of obviousness.
+ See **[MPEP §
+ 2141](s2141.html#d0e208143)** *et seq.* and the guidance documents available at **[www.uspto.gov/patents/ law/exam/ksr\_training\_materials.jsp](https://www.uspto.gov/patents/law/exam/ksr_training_materials.jsp)**.
+ 
+
+
+
+# 2158.01 Form Paragraphs for Use in Rejections Under AIA
+ 35 U.S.C. 103 [R-10.2019]
+
+
+The following form paragraphs should be used in making
+ the appropriate rejections under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**.
+ 
+
+
+# ¶ 7.06 Notice re prior art available under both pre-AIA and
+ AIA
+
+
+In the event the determination of the status of the application as subject
+ to AIA **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** (or as subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**)
+ is incorrect, any correction of the statutory basis for the rejection will not be considered a
+ new ground of rejection if the prior art relied upon, and the rationale supporting the
+ rejection, would be the same under either status.
+ 
+
+
+### Examiner Note:
+
+ * 1.  This form paragraph must be used in all Office
+ Actions when a prior art rejection is made in an application with an actual filing
+ date on or after March 16, 2013, that claims priority to, or the benefit of, an
+ application filed before March 16, 2013.
+* 2.  This form paragraph should only be used ONCE in an
+ Office action.
+
+
+
+# ¶ 7.20.aia Statement of Statutory Basis, 35 U.S.C. 103
+
+
+The following is a quotation of **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ which forms the basis for all obviousness rejections set forth in this Office
+ action:
+ 
+
+
+
+> 
+> A patent for a claimed invention may not be obtained,
+>  notwithstanding that the claimed invention is not identically disclosed as set forth in
+>  section **[102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, if the differences between the claimed invention and the prior
+>  art are such that the claimed invention as a whole would have been obvious before the
+>  effective filing date of the claimed invention to a person having ordinary skill in the art
+>  to which the claimed invention pertains. Patentability shall not be negated by the manner
+>  in which the invention was made.
+>  
+> 
+> 
+> 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. The statute is not to be cited in
+ all Office actions. It is only required in first actions on
+ the merits employing **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** and final rejections.
+ Where the statute is being applied, but is not cited in an action on the merits, use
+ paragraph **[7.103](#fp7.103)**.
+* 3. This form paragraph should only be used ONCE in a
+ given Office action.
+* 4. This form paragraph must precede any of form
+ paragraphs **[7.20.01.aia](#fp7.20.01.aia)**, **[7.20.02.aia](#fp7.20.02.aia)**,
+ **[7.20.04.aia](#fp7.20.04.aia)**, **[7.20.05.aia](#fp7.20.05.aia)**,
+ **[7.21.aia](#fp7.21.aia)**,
+ **[7.21.01.aia](#fp7.21.01.aia)**, **[7.21.02.aia](#fp7.21.02.aia)**, and
+ **[7.22.aia](#fp7.22.aia)**
+ when this form paragraph is used to cite the statute in first actions and final
+ rejections.
+
+
+
+# ¶ 7.20.01.aia 103 Rejection Using Prior Art Excepted Under 102(b)(2)(C)
+ Because Reference is Prior Art Under 102(a)(1)
+
+
+Applicant has provided a submission in this file that the claimed
+ invention and the subject matter disclosed in the prior art reference were owned by, or
+ subject to an obligation of assignment to, the same entity as **[1]** not later than
+ the effective filing date of the claimed invention, or the subject matter disclosed in the
+ prior art reference was developed and the claimed invention was made by, or on behalf of one
+ or more parties to a joint research agreement not later than the effective filing date of the
+ claimed invention. However, although subject matter disclosed in the reference
+ **[2]** has been excepted as prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, it is still applicable as prior art under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** that cannot be excepted under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**.
+ 
+
+
+Applicant may overcome this rejection under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** by a showing under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter
+ disclosed in the reference was obtained directly or indirectly from the inventor or a joint
+ inventor of this application, and is therefore, not prior art as set forth in
+ **[35 U.S.C.
+ 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)**. Alternatively, applicant may rely on the exception under
+ **[35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** by providing evidence of a prior public disclosure via an
+ affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be included following form paragraph
+ **[7.20.aia](#fp7.20.aia)**
+ or **[7.15.aia](#fp7.15.aia)**
+ where the **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection is based on subject matter disclosed in a reference
+ that has since been excepted under **[102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, but still qualifies as
+ prior art under **[35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**.
+* 3. In bracket 1, identify the common assignee.
+* 4. In bracket 2, identify the reference which discloses the subject
+ matter that has been excepted.
+
+
+
+# ¶ 7.20.02.aia Joint Inventors, Common Ownership Presumed
+
+
+This application currently names joint inventors. In
+ considering patentability of the claims the examiner presumes that the subject matter of the
+ various claims was commonly owned at the time any inventions covered therein were effectively
+ filed absent any evidence to the contrary. Applicant is advised of the obligation under
+ **[37 CFR
+ 1.56](mpep-9020-appx-r.html#aia_d0e319407)** to point out the inventor and effective filing dates of each claim
+ that was not commonly owned at the time a later invention was effectively filed in order for
+ the examiner to consider the applicability of **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** for any potential **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** prior art against the later invention.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This paragraph must be used
+ in all applications with joint inventors (unless the claims are
+ clearly restricted to only one claimed invention, e.g., only a single claim is presented
+ in the application).
+
+
+
+# ¶ 7.20.04.aia 102 or 103 Rejection Using Prior Art Under 102(a)(2) That Is
+ Attempted To Be Excepted Under 35 U.S.C. 102(b)(2)(C) Using the Common Ownership or Assignment
+ Provision
+
+
+Applicant has attempted to show that subject matter disclosed in the
+ reference **[1]** is excepted as prior art under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** by showing that the claimed invention was owned by, or
+ subject to an obligation of assignment to, the same entity as **[2]** at the time the
+ claimed invention was effectively filed. However, applicant has failed to provide a statement
+ that the claimed invention and the subject matter disclosed were owned by, or subject to an
+ obligation of assignment to, the same person no later than the effective filing date of the
+ claimed invention in a conspicuous manner, and therefore, the subject matter disclosed in the
+ reference is not excepted as prior art under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Applicant must file
+ the required submission in order to properly except the subject matter under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**. See **[MPEP § 2154.02(c)](s2154.html#ch2100_d20034_145f0_210)**.
+ 
+
+
+In addition, applicant may rely upon the exception under
+ **[35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** to overcome the rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** either by a showing under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter
+ disclosed in the reference was obtained directly or indirectly from the inventor or a joint
+ inventor of this application, and is therefore not prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Alternatively, applicant may rely on the exception under
+ **[35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** by providing evidence of a prior public disclosure via an
+ affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form
+ paragraph**[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph should be included in all actions containing
+ rejections using **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** prior art,
+ whether anticipation or obviousness rejections, where an attempt has been made to except
+ subject matter disclosed in the reference under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, but where the applicant has not provided a proper
+ statement indicating common ownership or assignment **not later than the effective
+ filing date of the claimed invention**.
+* 3. In bracket 1, identify the commonly owned applied art (e.g.,
+ patent or co-pending application).
+* 4. In bracket 2, identify the common assignee.
+
+
+
+# ¶ 7.20.05.aia 102 or 103 Rejection Using Prior Art Under 102(a)(2) That Is
+ Attempted To Be Excepted Under 35 U.S.C. 102(b)(2)(C) Using the Joint Research Agreement
+ Provisions of 35 U.S.C. 102(c)
+
+
+Applicant has attempted to show that subject matter disclosed in the
+ reference **[1]** is excepted as prior art under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** by showing that the claimed invention was subject to a
+ joint research agreement in effect not later than the effective filing date of the claimed
+ invention. However, applicant has failed to **[2]**. Applicant must file the missing
+ requirements in order to properly except the subject matter disclosed in the reference under
+ **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**. See **[37 CFR 1.71(g)(1)](mpep-9020-appx-r.html#d0e320174)** and **[1.104(c)(4)(ii)](mpep-9020-appx-r.html#d0e322207)**.
+ 
+
+
+In addition, applicant may overcome the rejection either by a showing
+ under **[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter disclosed in the reference was
+ obtained, either directly or indirectly from the inventor or a joint inventor of this
+ application, and is therefore, not prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Alternatively, applicant may rely on the exception under
+ **[35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** by providing evidence of a prior public disclosure via an
+ affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be included in all actions containing
+ obviousness or anticipation rejections where an attempt has been made to except subject
+ matter disclosed in the **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** prior art
+ reference under **[35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** using the
+ joint research agreement provisions but the attempt is ineffective.
+* 3. In bracket 1, identify the reference which discloses subject
+ matter that is sought to be excepted via **[35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**.
+* 4. In bracket 2, identify the reason(s) why the attempt is
+ ineffective. The reason(s) could be noncompliance with the statutory requirements of
+ **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** or rule requirements relating to the CREATE Act, such
+ as failure to submit the required statement or failure to amend the specification to
+ include the names of the parties to the joint research agreement. See **[37 CFR 1.71(g)(1)](mpep-9020-appx-r.html#d0e320174)**
+ and **[1.104(c)(4)(ii)](mpep-9020-appx-r.html#d0e322207)**.
+
+
+
+# ¶ 7.21.aia Rejection, 35 U.S.C. 103
+
+
+Claim **[1]** is/are rejected under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ as being unpatentable over **[2]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be preceded by either form
+ paragraph **[7.20.aia](#fp7.20.aia)** or form paragraph **[7.103](#fp7.103)**.
+* 3. An explanation of the rejection must follow this form paragraph.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+* 4. If this rejection is a provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection based upon a copending application that would
+ constitute prior art under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if patented or
+ published, use form paragraph **[7.21.01.aia](#fp7.21.01.aia)** instead of this paragraph.
+* 5. In bracket 1, insert the claim numbers which are
+ under rejection.
+* 6. In bracket 2, insert the prior art relied
+ upon.
+* 7. For applications claiming priority to, or the benefit
+ of, an application filed before March 16, 2013, this form paragraph must be preceded by
+ form paragraph **[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.21.01.aia Provisional Rejection, 35 U.S.C. 103, Common Assignee, Common
+ Applicant, or at Least One Common Joint Inventor
+
+
+Claim **[1]** is/are provisionally rejected under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as being obvious over copending Application No. **[2]** which has a common **[3]** with the instant application. Based upon the
+ earlier effectively filed date of the copending application, it would constitute prior art
+ under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if published or patented. This provisional rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is based upon a presumption of future publication or patenting of
+ the copending application. **[4]**
+
+
+This provisional rejection might be overcome by: (1) a showing under
+ **[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter disclosed in the copending application
+ was obtained directly or indirectly from the inventor or a joint inventor of this application
+ and is thus not prior art in accordance with **[35 U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)**; (2) a showing
+ under **[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)** of a prior public disclosure under **[35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)**; or (3) a statement pursuant to **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** establishing that, not later than the effective filing date
+ of the claimed invention, the subject matter disclosed in the copending application and the
+ claimed invention either were owned by the same person or subject to an obligation of
+ assignment to the same person or subject to a joint research agreement. See generally
+ **[MPEP §
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This paragraph is used to provisionally reject
+ claims not patentably distinct from the disclosure in a copending application having an
+ earlier effectively filed date and also having either a common assignee, a common
+ applicant (**[35 U.S.C. 118](mpep-9015-appx-l.html#d0e302910912)**), or at least one common joint inventor.
+* 3. If the claimed invention is fully disclosed in the copending
+ application, use form paragraph **[7.15.01.aia](#fp7.15.01.aia)**.
+* 4. In bracket 1, insert the claim number(s) which
+ is/are under rejection.
+* 5. In bracket 2, insert the application
+ number.
+* 6. In bracket 3, insert --assignee--, --applicant--, or
+ --joint inventor--.
+* 7. In bracket 4, insert an explanation of obviousness.
+ See **[MPEP § 2144](s2144.html#d0e210576)**.
+* 8. If the claimed invention is not patentably distinct
+ from the invention claimed in the copending application, a provisional nonstatutory
+ double patenting rejection should additionally be made using form paragraphs
+ **[8.33](#fp8.33)** and
+ **[8.37](#fp8.37)**.
+
+
+
+# ¶ 7.21.02.aia Rejection, 35 U.S.C. 103, Common Assignee, Common Applicant,
+ or at Least One Common Joint Inventor
+
+
+Claim **[1]** is/are rejected under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ as being obvious over **[2]**.
+ 
+
+
+The applied reference has a common **[3]** with
+ the instant application. Based upon the earlier effectively filed date of the reference, it
+ constitutes prior art under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. **[4]**
+
+
+This rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ might be overcome by: (1) a showing under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter
+ disclosed in the reference was obtained directly or indirectly from the inventor or a joint
+ inventor of this application and is thus not prior art in accordance with **[35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)**; (2) a showing under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)** of a
+ prior public disclosure under **[35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)**; or (3) a statement
+ pursuant to **[35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** establishing that, not later than the effective
+ filing date of the claimed invention, the subject matter disclosed and the claimed invention
+ were either owned by the same person or subject to an obligation of assignment to the same
+ person or subject to a joint research agreement. See generally **[MPEP § 717.02](s717.html#ch700_d1ffd5_1b424_139)**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This paragraph is used to reject over a reference
+ (patent or published application) with an earlier effectively filed date that discloses
+ the claimed invention, and that ONLY qualifies as prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. If the reference qualifies as prior art under
+ **[35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, then this form paragraph should not be used
+ (form paragraph **[7.21.aia](#fp7.21.aia)** should be used instead). The reference must
+ have either a common assignee, a common applicant (**[35 U.S.C. 118](mpep-9015-appx-l.html#d0e302910912)**
+ ), or at least one
+ common joint inventor. This form paragraph should **not** be used in
+ applications when the reference is not prior art in view of the **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception.
+* 3. In bracket 3, insert --assignee--, --applicant--, or
+ --joint inventor--.
+* 4. In bracket 4, insert an explanation of obviousness.
+ See **[MPEP § 2144](s2144.html#d0e210576)**.
+
+
+
+# ¶ 7.22.aia Rejection, 35 U.S.C. 103, Further in View Of
+
+
+Claim **[1]** is/are rejected under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ as being unpatentable over **[2]** as applied to claim **[3]** above, and
+ further in view of **[4]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be preceded by form
+ paragraph **[7.21.aia](#fp7.21.aia)**.
+* 3. An explanation of the rejection must follow this form paragraph.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+
+
+
+# ¶ 7.23.aia Test for Obviousness
+
+
+The factual inquiries for establishing a background for determining
+ obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** are summarized as follows:
+ 
+
+
+* 1. Determining the scope and contents of the prior art.
+* 2. Ascertaining the differences between the prior art and the claims
+ at issue.
+* 3. Resolving the level of ordinary skill in the pertinent art.
+* 4. Considering objective evidence present in the application
+ indicating obviousness or nonobviousness.
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph may be used, if appropriate, in response to
+ an argument regarding the applicability of the factors for determining obviousness.
+
+
+
+# ¶ 7.27.aia Rejection, 35 U.S.C. 102 or 103
+
+
+Claim(s) **[1]** is/are rejected under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**(**[2]**) as anticipated by or, in the alternative, under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as obvious over **[3]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph is NOT intended to be commonly
+ used as a substitute for a rejection under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**. In other words, a single rejection under either
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** should be made
+ whenever possible. Examples of circumstances where this paragraph may be used are as
+ follows:
+	+ When the interpretation of the claim(s) is or may
+	 be in dispute, i.e., given one interpretation, a rejection under **[35 U.S.C.
+	 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** is appropriate and given another interpretation, a
+	 rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is appropriate. See
+	 **[MPEP §§
+	 2111](s2111.html#d0e200352)** - **[2116.01](s2116.html#d0e201660)** for guidelines on claim
+	 interpretation.
+	+ When the reference discloses all the limitations
+	 of a claim except a property or function, and the examiner cannot determine whether
+	 or not the reference inherently possesses properties which anticipate or render
+	 obvious the claimed invention but has basis for shifting the burden of proof to
+	 applicant as in *In re Fitzgerald*, 619 F.2d 67, 205 USPQ 594 (CCPA
+	 1980). See **[MPEP
+	 §§ 2112](s2112.html#d0e201036)** - **[2112.02](s2112.html#d0e201360)**.
+	+ When the reference teaches a small genus which
+	 places a claimed species in the possession of the public as in *In re
+	 Schaumann*, 572 F.2d 312, 197 USPQ 5 (CCPA 1978), and the species would
+	 have been obvious even if the genus were not sufficiently small to justify a
+	 rejection under **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**. See
+	 **[MPEP §§
+	 2131.02](s2131.html#d0e203166)** and **[2144.08](s2144.html#d0e211596)** for more information on
+	 anticipation and obviousness of species by a disclosure of a genus.
+	+ When the reference teaches a product that appears
+	 to be the same as, or an obvious variant of, the product set forth in a
+	 product-by-process claim although produced by a different process. See *In re
+	 Marosi*, 710 F.2d 799, 218 USPQ 289 (Fed. Cir. 1983) and *In re
+	 Thorpe*, 777 F.2d 695, 227 USPQ 964 (Fed. Cir. 1985). See also
+	 **[MPEP §
+	 2113](s2113.html#d0e201450)**.
+	+ When the reference teaches all claim limitations except a
+	 means plus function limitation and the examiner is not certain whether the element
+	 disclosed in the reference is an equivalent of the claimed element and therefore
+	 anticipatory, or whether the prior art element is an obvious variant of the claimed
+	 element. See **[MPEP §§
+	 2183](s2183.html#d0e220121)** - **[2184](s2184.html#d0e220302)**.
+	+ When the ranges disclosed in the reference and
+	 claimed by applicant overlap in scope but the reference does not contain a specific
+	 example within the claimed range. See the concurring opinion in *Ex parte
+	 Lee*, 31 USPQ2d 1105 (Bd. Pat. App. & Inter. 1993). See
+	 **[MPEP §
+	 2131.03](s2131.html#d0e203269)**.
+* 3. If the interpretation of the claim(s) renders the
+ claim(s) indefinite, a rejection under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** may be appropriate.
+* 4. In bracket 1, insert the claim number(s) which is/are
+ under rejection.
+* 5. In bracket 2, insert the appropriate paragraph letter(s) in
+ parenthesis.
+* 6. In bracket 3, insert the prior art reference relied upon
+ for the rejection.
+* 7. A full explanation must follow this form paragraph, i.e., the
+ examiner must provide an explanation of how the claims at issue could be considered to
+ be anticipated, as well as how they could be considered to be obvious.
+* 8. This form paragraph must be preceded by
+ **[7.07.aia](#fp7.07.aia)** and **[7.08.aia](#fp7.08.aia)** and/or **[7.12.aia](#fp7.12.aia)** or by form paragraph
+ **[7.103](#fp7.103)**.
+* 9. For applications claiming priority to, or the benefit of, an
+ application filed before March 16, 2013, this form paragraph must be preceded by form
+ paragraph **[7.06](#fp7.06)**.
+
+
+
+
+[[top]](#top)
+
+
+, 
+# 2158.01 Form Paragraphs for Use in Rejections Under AIA
+ 35 U.S.C. 103 [R-10.2019]
+
+
+The following form paragraphs should be used in making
+ the appropriate rejections under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**.
+ 
+
+
+# ¶ 7.06 Notice re prior art available under both pre-AIA and
+ AIA
+
+
+In the event the determination of the status of the application as subject
+ to AIA **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** (or as subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**)
+ is incorrect, any correction of the statutory basis for the rejection will not be considered a
+ new ground of rejection if the prior art relied upon, and the rationale supporting the
+ rejection, would be the same under either status.
+ 
+
+
+### Examiner Note:
+
+ * 1.  This form paragraph must be used in all Office
+ Actions when a prior art rejection is made in an application with an actual filing
+ date on or after March 16, 2013, that claims priority to, or the benefit of, an
+ application filed before March 16, 2013.
+* 2.  This form paragraph should only be used ONCE in an
+ Office action.
+
+
+
+# ¶ 7.20.aia Statement of Statutory Basis, 35 U.S.C. 103
+
+
+The following is a quotation of **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ which forms the basis for all obviousness rejections set forth in this Office
+ action:
+ 
+
+
+
+> 
+> A patent for a claimed invention may not be obtained,
+>  notwithstanding that the claimed invention is not identically disclosed as set forth in
+>  section **[102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, if the differences between the claimed invention and the prior
+>  art are such that the claimed invention as a whole would have been obvious before the
+>  effective filing date of the claimed invention to a person having ordinary skill in the art
+>  to which the claimed invention pertains. Patentability shall not be negated by the manner
+>  in which the invention was made.
+>  
+> 
+> 
+> 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. The statute is not to be cited in
+ all Office actions. It is only required in first actions on
+ the merits employing **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** and final rejections.
+ Where the statute is being applied, but is not cited in an action on the merits, use
+ paragraph **[7.103](#fp7.103)**.
+* 3. This form paragraph should only be used ONCE in a
+ given Office action.
+* 4. This form paragraph must precede any of form
+ paragraphs **[7.20.01.aia](#fp7.20.01.aia)**, **[7.20.02.aia](#fp7.20.02.aia)**,
+ **[7.20.04.aia](#fp7.20.04.aia)**, **[7.20.05.aia](#fp7.20.05.aia)**,
+ **[7.21.aia](#fp7.21.aia)**,
+ **[7.21.01.aia](#fp7.21.01.aia)**, **[7.21.02.aia](#fp7.21.02.aia)**, and
+ **[7.22.aia](#fp7.22.aia)**
+ when this form paragraph is used to cite the statute in first actions and final
+ rejections.
+
+
+
+# ¶ 7.20.01.aia 103 Rejection Using Prior Art Excepted Under 102(b)(2)(C)
+ Because Reference is Prior Art Under 102(a)(1)
+
+
+Applicant has provided a submission in this file that the claimed
+ invention and the subject matter disclosed in the prior art reference were owned by, or
+ subject to an obligation of assignment to, the same entity as **[1]** not later than
+ the effective filing date of the claimed invention, or the subject matter disclosed in the
+ prior art reference was developed and the claimed invention was made by, or on behalf of one
+ or more parties to a joint research agreement not later than the effective filing date of the
+ claimed invention. However, although subject matter disclosed in the reference
+ **[2]** has been excepted as prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, it is still applicable as prior art under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** that cannot be excepted under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**.
+ 
+
+
+Applicant may overcome this rejection under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** by a showing under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter
+ disclosed in the reference was obtained directly or indirectly from the inventor or a joint
+ inventor of this application, and is therefore, not prior art as set forth in
+ **[35 U.S.C.
+ 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)**. Alternatively, applicant may rely on the exception under
+ **[35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** by providing evidence of a prior public disclosure via an
+ affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be included following form paragraph
+ **[7.20.aia](#fp7.20.aia)**
+ or **[7.15.aia](#fp7.15.aia)**
+ where the **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection is based on subject matter disclosed in a reference
+ that has since been excepted under **[102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, but still qualifies as
+ prior art under **[35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**.
+* 3. In bracket 1, identify the common assignee.
+* 4. In bracket 2, identify the reference which discloses the subject
+ matter that has been excepted.
+
+
+
+# ¶ 7.20.02.aia Joint Inventors, Common Ownership Presumed
+
+
+This application currently names joint inventors. In
+ considering patentability of the claims the examiner presumes that the subject matter of the
+ various claims was commonly owned at the time any inventions covered therein were effectively
+ filed absent any evidence to the contrary. Applicant is advised of the obligation under
+ **[37 CFR
+ 1.56](mpep-9020-appx-r.html#aia_d0e319407)** to point out the inventor and effective filing dates of each claim
+ that was not commonly owned at the time a later invention was effectively filed in order for
+ the examiner to consider the applicability of **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** for any potential **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** prior art against the later invention.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This paragraph must be used
+ in all applications with joint inventors (unless the claims are
+ clearly restricted to only one claimed invention, e.g., only a single claim is presented
+ in the application).
+
+
+
+# ¶ 7.20.04.aia 102 or 103 Rejection Using Prior Art Under 102(a)(2) That Is
+ Attempted To Be Excepted Under 35 U.S.C. 102(b)(2)(C) Using the Common Ownership or Assignment
+ Provision
+
+
+Applicant has attempted to show that subject matter disclosed in the
+ reference **[1]** is excepted as prior art under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** by showing that the claimed invention was owned by, or
+ subject to an obligation of assignment to, the same entity as **[2]** at the time the
+ claimed invention was effectively filed. However, applicant has failed to provide a statement
+ that the claimed invention and the subject matter disclosed were owned by, or subject to an
+ obligation of assignment to, the same person no later than the effective filing date of the
+ claimed invention in a conspicuous manner, and therefore, the subject matter disclosed in the
+ reference is not excepted as prior art under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Applicant must file
+ the required submission in order to properly except the subject matter under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**. See **[MPEP § 2154.02(c)](s2154.html#ch2100_d20034_145f0_210)**.
+ 
+
+
+In addition, applicant may rely upon the exception under
+ **[35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** to overcome the rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** either by a showing under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter
+ disclosed in the reference was obtained directly or indirectly from the inventor or a joint
+ inventor of this application, and is therefore not prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Alternatively, applicant may rely on the exception under
+ **[35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** by providing evidence of a prior public disclosure via an
+ affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form
+ paragraph**[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph should be included in all actions containing
+ rejections using **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** prior art,
+ whether anticipation or obviousness rejections, where an attempt has been made to except
+ subject matter disclosed in the reference under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, but where the applicant has not provided a proper
+ statement indicating common ownership or assignment **not later than the effective
+ filing date of the claimed invention**.
+* 3. In bracket 1, identify the commonly owned applied art (e.g.,
+ patent or co-pending application).
+* 4. In bracket 2, identify the common assignee.
+
+
+
+# ¶ 7.20.05.aia 102 or 103 Rejection Using Prior Art Under 102(a)(2) That Is
+ Attempted To Be Excepted Under 35 U.S.C. 102(b)(2)(C) Using the Joint Research Agreement
+ Provisions of 35 U.S.C. 102(c)
+
+
+Applicant has attempted to show that subject matter disclosed in the
+ reference **[1]** is excepted as prior art under **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** by showing that the claimed invention was subject to a
+ joint research agreement in effect not later than the effective filing date of the claimed
+ invention. However, applicant has failed to **[2]**. Applicant must file the missing
+ requirements in order to properly except the subject matter disclosed in the reference under
+ **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**. See **[37 CFR 1.71(g)(1)](mpep-9020-appx-r.html#d0e320174)** and **[1.104(c)(4)(ii)](mpep-9020-appx-r.html#d0e322207)**.
+ 
+
+
+In addition, applicant may overcome the rejection either by a showing
+ under **[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter disclosed in the reference was
+ obtained, either directly or indirectly from the inventor or a joint inventor of this
+ application, and is therefore, not prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Alternatively, applicant may rely on the exception under
+ **[35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** by providing evidence of a prior public disclosure via an
+ affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be included in all actions containing
+ obviousness or anticipation rejections where an attempt has been made to except subject
+ matter disclosed in the **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** prior art
+ reference under **[35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** using the
+ joint research agreement provisions but the attempt is ineffective.
+* 3. In bracket 1, identify the reference which discloses subject
+ matter that is sought to be excepted via **[35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**.
+* 4. In bracket 2, identify the reason(s) why the attempt is
+ ineffective. The reason(s) could be noncompliance with the statutory requirements of
+ **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** or rule requirements relating to the CREATE Act, such
+ as failure to submit the required statement or failure to amend the specification to
+ include the names of the parties to the joint research agreement. See **[37 CFR 1.71(g)(1)](mpep-9020-appx-r.html#d0e320174)**
+ and **[1.104(c)(4)(ii)](mpep-9020-appx-r.html#d0e322207)**.
+
+
+
+# ¶ 7.21.aia Rejection, 35 U.S.C. 103
+
+
+Claim **[1]** is/are rejected under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ as being unpatentable over **[2]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be preceded by either form
+ paragraph **[7.20.aia](#fp7.20.aia)** or form paragraph **[7.103](#fp7.103)**.
+* 3. An explanation of the rejection must follow this form paragraph.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+* 4. If this rejection is a provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection based upon a copending application that would
+ constitute prior art under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if patented or
+ published, use form paragraph **[7.21.01.aia](#fp7.21.01.aia)** instead of this paragraph.
+* 5. In bracket 1, insert the claim numbers which are
+ under rejection.
+* 6. In bracket 2, insert the prior art relied
+ upon.
+* 7. For applications claiming priority to, or the benefit
+ of, an application filed before March 16, 2013, this form paragraph must be preceded by
+ form paragraph **[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.21.01.aia Provisional Rejection, 35 U.S.C. 103, Common Assignee, Common
+ Applicant, or at Least One Common Joint Inventor
+
+
+Claim **[1]** is/are provisionally rejected under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as being obvious over copending Application No. **[2]** which has a common **[3]** with the instant application. Based upon the
+ earlier effectively filed date of the copending application, it would constitute prior art
+ under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if published or patented. This provisional rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is based upon a presumption of future publication or patenting of
+ the copending application. **[4]**
+
+
+This provisional rejection might be overcome by: (1) a showing under
+ **[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter disclosed in the copending application
+ was obtained directly or indirectly from the inventor or a joint inventor of this application
+ and is thus not prior art in accordance with **[35 U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)**; (2) a showing
+ under **[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)** of a prior public disclosure under **[35 U.S.C.
+ 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)**; or (3) a statement pursuant to **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** establishing that, not later than the effective filing date
+ of the claimed invention, the subject matter disclosed in the copending application and the
+ claimed invention either were owned by the same person or subject to an obligation of
+ assignment to the same person or subject to a joint research agreement. See generally
+ **[MPEP §
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This paragraph is used to provisionally reject
+ claims not patentably distinct from the disclosure in a copending application having an
+ earlier effectively filed date and also having either a common assignee, a common
+ applicant (**[35 U.S.C. 118](mpep-9015-appx-l.html#d0e302910912)**), or at least one common joint inventor.
+* 3. If the claimed invention is fully disclosed in the copending
+ application, use form paragraph **[7.15.01.aia](#fp7.15.01.aia)**.
+* 4. In bracket 1, insert the claim number(s) which
+ is/are under rejection.
+* 5. In bracket 2, insert the application
+ number.
+* 6. In bracket 3, insert --assignee--, --applicant--, or
+ --joint inventor--.
+* 7. In bracket 4, insert an explanation of obviousness.
+ See **[MPEP § 2144](s2144.html#d0e210576)**.
+* 8. If the claimed invention is not patentably distinct
+ from the invention claimed in the copending application, a provisional nonstatutory
+ double patenting rejection should additionally be made using form paragraphs
+ **[8.33](#fp8.33)** and
+ **[8.37](#fp8.37)**.
+
+
+
+# ¶ 7.21.02.aia Rejection, 35 U.S.C. 103, Common Assignee, Common Applicant,
+ or at Least One Common Joint Inventor
+
+
+Claim **[1]** is/are rejected under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ as being obvious over **[2]**.
+ 
+
+
+The applied reference has a common **[3]** with
+ the instant application. Based upon the earlier effectively filed date of the reference, it
+ constitutes prior art under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. **[4]**
+
+
+This rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ might be overcome by: (1) a showing under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** that the subject matter
+ disclosed in the reference was obtained directly or indirectly from the inventor or a joint
+ inventor of this application and is thus not prior art in accordance with **[35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)**; (2) a showing under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)** of a
+ prior public disclosure under **[35 U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)**; or (3) a statement
+ pursuant to **[35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** establishing that, not later than the effective
+ filing date of the claimed invention, the subject matter disclosed and the claimed invention
+ were either owned by the same person or subject to an obligation of assignment to the same
+ person or subject to a joint research agreement. See generally **[MPEP § 717.02](s717.html#ch700_d1ffd5_1b424_139)**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This paragraph is used to reject over a reference
+ (patent or published application) with an earlier effectively filed date that discloses
+ the claimed invention, and that ONLY qualifies as prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. If the reference qualifies as prior art under
+ **[35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, then this form paragraph should not be used
+ (form paragraph **[7.21.aia](#fp7.21.aia)** should be used instead). The reference must
+ have either a common assignee, a common applicant (**[35 U.S.C. 118](mpep-9015-appx-l.html#d0e302910912)**
+ ), or at least one
+ common joint inventor. This form paragraph should **not** be used in
+ applications when the reference is not prior art in view of the **[35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception.
+* 3. In bracket 3, insert --assignee--, --applicant--, or
+ --joint inventor--.
+* 4. In bracket 4, insert an explanation of obviousness.
+ See **[MPEP § 2144](s2144.html#d0e210576)**.
+
+
+
+# ¶ 7.22.aia Rejection, 35 U.S.C. 103, Further in View Of
+
+
+Claim **[1]** is/are rejected under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ as being unpatentable over **[2]** as applied to claim **[3]** above, and
+ further in view of **[4]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph must be preceded by form
+ paragraph **[7.21.aia](#fp7.21.aia)**.
+* 3. An explanation of the rejection must follow this form paragraph.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+
+
+
+# ¶ 7.23.aia Test for Obviousness
+
+
+The factual inquiries for establishing a background for determining
+ obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** are summarized as follows:
+ 
+
+
+* 1. Determining the scope and contents of the prior art.
+* 2. Ascertaining the differences between the prior art and the claims
+ at issue.
+* 3. Resolving the level of ordinary skill in the pertinent art.
+* 4. Considering objective evidence present in the application
+ indicating obviousness or nonobviousness.
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph may be used, if appropriate, in response to
+ an argument regarding the applicability of the factors for determining obviousness.
+
+
+
+# ¶ 7.27.aia Rejection, 35 U.S.C. 102 or 103
+
+
+Claim(s) **[1]** is/are rejected under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**(**[2]**) as anticipated by or, in the alternative, under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as obvious over **[3]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used in an
+ application filed on or after March 16, 2013, where the claims are being examined under
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 2. This form paragraph is NOT intended to be commonly
+ used as a substitute for a rejection under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**. In other words, a single rejection under either
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** should be made
+ whenever possible. Examples of circumstances where this paragraph may be used are as
+ follows:
+	+ When the interpretation of the claim(s) is or may
+	 be in dispute, i.e., given one interpretation, a rejection under **[35 U.S.C.
+	 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** is appropriate and given another interpretation, a
+	 rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is appropriate. See
+	 **[MPEP §§
+	 2111](s2111.html#d0e200352)** - **[2116.01](s2116.html#d0e201660)** for guidelines on claim
+	 interpretation.
+	+ When the reference discloses all the limitations
+	 of a claim except a property or function, and the examiner cannot determine whether
+	 or not the reference inherently possesses properties which anticipate or render
+	 obvious the claimed invention but has basis for shifting the burden of proof to
+	 applicant as in *In re Fitzgerald*, 619 F.2d 67, 205 USPQ 594 (CCPA
+	 1980). See **[MPEP
+	 §§ 2112](s2112.html#d0e201036)** - **[2112.02](s2112.html#d0e201360)**.
+	+ When the reference teaches a small genus which
+	 places a claimed species in the possession of the public as in *In re
+	 Schaumann*, 572 F.2d 312, 197 USPQ 5 (CCPA 1978), and the species would
+	 have been obvious even if the genus were not sufficiently small to justify a
+	 rejection under **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**. See
+	 **[MPEP §§
+	 2131.02](s2131.html#d0e203166)** and **[2144.08](s2144.html#d0e211596)** for more information on
+	 anticipation and obviousness of species by a disclosure of a genus.
+	+ When the reference teaches a product that appears
+	 to be the same as, or an obvious variant of, the product set forth in a
+	 product-by-process claim although produced by a different process. See *In re
+	 Marosi*, 710 F.2d 799, 218 USPQ 289 (Fed. Cir. 1983) and *In re
+	 Thorpe*, 777 F.2d 695, 227 USPQ 964 (Fed. Cir. 1985). See also
+	 **[MPEP §
+	 2113](s2113.html#d0e201450)**.
+	+ When the reference teaches all claim limitations except a
+	 means plus function limitation and the examiner is not certain whether the element
+	 disclosed in the reference is an equivalent of the claimed element and therefore
+	 anticipatory, or whether the prior art element is an obvious variant of the claimed
+	 element. See **[MPEP §§
+	 2183](s2183.html#d0e220121)** - **[2184](s2184.html#d0e220302)**.
+	+ When the ranges disclosed in the reference and
+	 claimed by applicant overlap in scope but the reference does not contain a specific
+	 example within the claimed range. See the concurring opinion in *Ex parte
+	 Lee*, 31 USPQ2d 1105 (Bd. Pat. App. & Inter. 1993). See
+	 **[MPEP §
+	 2131.03](s2131.html#d0e203269)**.
+* 3. If the interpretation of the claim(s) renders the
+ claim(s) indefinite, a rejection under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** may be appropriate.
+* 4. In bracket 1, insert the claim number(s) which is/are
+ under rejection.
+* 5. In bracket 2, insert the appropriate paragraph letter(s) in
+ parenthesis.
+* 6. In bracket 3, insert the prior art reference relied upon
+ for the rejection.
+* 7. A full explanation must follow this form paragraph, i.e., the
+ examiner must provide an explanation of how the claims at issue could be considered to
+ be anticipated, as well as how they could be considered to be obvious.
+* 8. This form paragraph must be preceded by
+ **[7.07.aia](#fp7.07.aia)** and **[7.08.aia](#fp7.08.aia)** and/or **[7.12.aia](#fp7.12.aia)** or by form paragraph
+ **[7.103](#fp7.103)**.
+* 9. For applications claiming priority to, or the benefit of, an
+ application filed before March 16, 2013, this form paragraph must be preceded by form
+ paragraph **[7.06](#fp7.06)**.
+
+
+
+]

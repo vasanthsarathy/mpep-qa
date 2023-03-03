@@ -1,0 +1,2575 @@
+[
+# 2163 Guidelines for the Examination of Patent Applications Under the 35
+ U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, first paragraph, "Written Description"
+ Requirement [R-10.2019]
+
+
+The following Guidelines establish the policies and procedures to be
+ followed by Office personnel in the evaluation of any patent application for compliance
+ with the written description requirement of **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**. These Guidelines are
+ based on the Office’s current understanding of the law and are believed to be fully
+ consistent with binding precedent of the U.S. Supreme Court, as well as the U.S. Court of
+ Appeals for the Federal Circuit and its predecessor courts. 
+ 
+
+
+The Guidelines do not constitute substantive rulemaking and hence do not
+ have the force and effect of law. They are designed to assist Office personnel in analyzing
+ claimed subject matter for compliance with substantive law. Rejections will be based upon
+ the substantive law, and it is these rejections that are appealable. Consequently, any
+ perceived failure by Office personnel to follow these Guidelines is neither appealable nor
+ petitionable.
+ 
+
+
+These Guidelines are intended to form part of the normal examination
+ process. Thus, where Office personnel establish a *prima facie* case of
+ lack of written description for a claim, a thorough review of the prior art and examination
+ on the merits for compliance with the other statutory requirements, including those of
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**, **[102](mpep-9015-appx-l.html#d0e302383)**, **[103](mpep-9015-appx-l.html#d0e302450)**, and
+ **[112](mpep-9015-appx-l.html#d0e302824)**, is to be conducted prior to completing an Office action that
+ includes a rejection for lack of written description. 
+ 
+
+**I.** **GENERAL PRINCIPLES GOVERNING COMPLIANCE WITH THE "WRITTEN DESCRIPTION"
+ REQUIREMENT FOR APPLICATIONS****[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** and the first paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** require that the "specification shall contain a written
+ description of the invention ...." This requirement is separate and distinct from the
+ enablement requirement. *Ariad Pharm., Inc. v. Eli Lilly & Co.,*
+ 598 F.3d 1336, 1340, 94 USPQ2d 1161, 1167 (Fed. Cir. 2010) (en banc); *Vas-Cath,
+ Inc. v. Mahurkar,* 935 F.2d 1555, 1560, 19 USPQ2d 1111, 1114 (Fed. Cir.
+ 1991); see also *Univ. of Rochester v. G.D. Searle & Co.,* 358 F.3d
+ 916, 920-23, 69 USPQ2d 1886, 1890-93 (Fed. Cir. 2004) (discussing the history and
+ purpose of the written description requirement); *In re Curtis,* 354
+ F.3d 1347, 1357, 69 USPQ2d 1274, 1282 (Fed. Cir. 2004) ("conclusive evidence of a
+ claim’s enablement is not equally conclusive of that claim’s satisfactory written
+ description"). The written description requirement has several policy objectives. "[T]he
+ ‘essential goal’ of the description of the invention requirement is to clearly convey
+ the information that an applicant has invented the subject matter which is claimed."
+ *In re Barker,* 559 F.2d 588, 592 n.4, 194 USPQ 470, 473 n.4 (CCPA
+ 1977). Another objective is to convey to the public what the applicant claims as the
+ invention. See *Regents of the Univ. of Cal. v. Eli Lilly,* 119 F.3d
+ 1559, 1566, 43 USPQ2d 1398, 1404 (Fed. Cir. 1997), *cert. denied,* 523
+ U.S. 1089 (1998). "The ‘written description’ requirement implements the principle that a
+ patent must describe the technology that is sought to be patented; the requirement
+ serves both to satisfy the inventor’s obligation to disclose the technologic knowledge
+ upon which the patent is based, and to demonstrate that the patentee was in possession
+ of the invention that is claimed." *Capon v. Eshhar,* 418 F.3d 1349,
+ 1357, 76 USPQ2d 1078, 1084 (Fed. Cir. 2005). Further, the written description
+ requirement promotes the progress of the useful arts by ensuring that patentees
+ adequately describe their inventions in their patent specifications in exchange for the
+ right to exclude others from practicing the invention for the duration of the patent’s
+ term.
+ 
+
+
+To satisfy the written description requirement, a patent specification
+ must describe the claimed invention in sufficient detail that one skilled in the art can
+ reasonably conclude that the inventor had possession of the claimed invention. See,
+ e.g., *Moba, B.V. v. Diamond Automation, Inc.,* 325 F.3d 1306, 1319, 66
+ USPQ2d 1429, 1438 (Fed. Cir. 2003); *Vas-Cath, Inc. v. Mahurkar,* 935
+ F.2d at 1563, 19 USPQ2d at 1116. However, a showing of possession alone does not cure
+ the lack of a written description. *Enzo Biochem, Inc. v. Gen-Probe,
+ Inc.,* 323 F.3d 956, 969-70, 63 USPQ2d 1609, 1617 (Fed. Cir. 2002). For
+ example, it is now well accepted that a satisfactory description may be found in
+ originally-filed claims or any other portion of the originally-filed specification. See
+ *In re Koller,* 613 F.2d 819, 204 USPQ 702 (CCPA 1980); *In
+ re Gardner,* 475 F.2d 1389, 177 USPQ 396 (CCPA 1973); *In re
+ Wertheim,* 541 F.2d 257, 191 USPQ 90 (CCPA 1976). However, that does not
+ mean that all originally-filed claims have adequate written support. The specification
+ must still be examined to assess whether an originally-filed claim has adequate support
+ in the written disclosure and/or the drawings. 
+ 
+
+
+An applicant shows possession of the claimed invention by describing
+ the claimed invention with all of its limitations using such descriptive means as words,
+ structures, figures, diagrams, and formulas that fully set forth the claimed invention.
+ *Lockwood v. Amer. Airlines, Inc.,* 107 F.3d 1565, 1572, 41 USPQ2d
+ 1961, 1966 (Fed. Cir. 1997). Possession may be shown in a variety of ways including
+ description of an actual reduction to practice, or by showing that the invention was
+ "ready for patenting" such as by the disclosure of drawings or structural chemical
+ formulas that show that the invention was complete, or by describing distinguishing
+ identifying characteristics sufficient to show that the applicant was in possession of
+ the claimed invention. See, e.g., *Pfaff v. Wells Elecs., Inc.,* 525
+ U.S. 55, 68, 119 S.Ct. 304, 312, 48 USPQ2d 1641, 1647 (1998); *Eli
+ Lilly,* 119 F.3d at 1568, 43 USPQ2d at 1406; *Amgen, Inc. v. Chugai
+ Pharm.,* 927 F.2d 1200, 1206, 18 USPQ2d 1016, 1021 (Fed. Cir. 1991) (one
+ must define a compound by "whatever characteristics sufficiently distinguish it").
+ "Compliance with the written description requirement is essentially a fact-based inquiry
+ that will ‘necessarily vary depending on the nature of the invention claimed.’"
+ *Enzo Biochem,* 323 F.3d at 963, 63 USPQ2d at 1612. An application
+ specification may show actual reduction to practice by describing testing of the claimed
+ invention or, in the case of certain biological materials, by specifically describing a
+ deposit made in accordance with **[37 CFR 1.801](mpep-9020-appx-r.html#d0e333189)***et seq.* See *Enzo Biochem,* 323 F.3d at 965, 63
+ USPQ2d at 1614 ("reference in the specification to a deposit may also satisfy the
+ written description requirement with respect to a claimed material"); see also Deposit
+ of Biological Materials for Patent Purposes, Final Rule, 54 Fed. Reg. 34,864 (August 22,
+ 1989) ("The requirement for a specific identification is consistent with the description
+ requirement of the first paragraph of **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, and to provide an
+ antecedent basis for the biological material which either has been or will be deposited
+ before the patent is granted." *Id.* at 34,876. "The description must
+ be sufficient to permit verification that the deposited biological material is in fact
+ that disclosed. Once the patent issues, the description must be sufficient to aid in the
+ resolution of questions of infringement." *Id.* at 34,880.) Such a
+ deposit is not a substitute for a written description of the claimed invention. The
+ written description of the deposited material needs to be as complete as possible
+ because the examination for patentability proceeds solely on the basis of the written
+ description. See, e.g., *In re Lundak,* 773 F.2d 1216, 227 USPQ 90
+ (Fed. Cir. 1985); see also 54 Fed. Reg. at 34,880 ("As a general rule, the more
+ information that is provided about a particular deposited biological material, the
+ better the examiner will be able to compare the identity and characteristics of the
+ deposited biological material with the prior art.").
+ 
+
+
+A question as to whether a specification provides an adequate written
+ description may arise in the context of determining whether an original claim is
+ described sufficiently (see, e.g., *LizardTech, Inc. v. Earth Resource Mapping,
+ Inc.,* 424 F.3d 1336, 1345, 76 USPQ2d 1724, 1733 (Fed. Cir. 2005);
+ *Enzo Biochem,* 323 F.3d at 968, 63 USPQ2d at 1616 (Fed. Cir. 2002);
+ *Eli Lilly,* 119 F.3d 1559, 43 USPQ2d 1398)), whether new or amended
+ claims are supported by the description of the invention in the application as filed
+ (see, e.g., *In re Wright,* 866 F.2d 422, 9 USPQ2d 1649 (Fed. Cir.
+ 1989)), whether a claimed invention is entitled to the benefit of an earlier priority
+ date or effective filing date under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**, **[120](mpep-9015-appx-l.html#d0e303023313)**,
+ **[365](mpep-9015-appx-l.html#d0e307034)**, or **[386](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)** (see, e.g., *New
+ Railhead Mfg. L.L.C. v. Vermeer Mfg. Co.,* 298 F.3d 1290, 63 USPQ2d 1843
+ (Fed. Cir. 2002); *Tronzo v. Biomet, Inc.,* 156 F.3d 1154, 47 USPQ2d
+ 1829 (Fed. Cir. 1998); *Fiers v. Revel,* 984 F.2d 1164, 25 USPQ2d 1601
+ (Fed. Cir. 1993); *In re Ziegler,* 992 F.2d 1197, 1200, 26 USPQ2d 1600,
+ 1603 (Fed. Cir. 1993)), or whether a specification provides support for a claim
+ corresponding to a count in an interference (see, e.g., *Martin v.
+ Mayer,* 823 F.2d 500, 503, 3 USPQ2d 1333, 1335 (Fed. Cir. 1987);
+ *Fields v. Conover,* 443 F.2d 1386, 170 USPQ 276 (CCPA 1971)).
+ Compliance with the written description requirement is a question of fact which must be
+ resolved on a case-by-case basis. *Vas-Cath, Inc. v. Mahurkar,* 935
+ F.2d at 1563, 19 USPQ2d at 1116 (Fed. Cir. 1991).
+ 
+
+***A.******Original Claims***There is a presumption that an adequate written description of the
+ claimed invention is present when the application is filed. *In re
+ Wertheim,* 541 F.2d 257, 263, 191 USPQ 90, 97 (CCPA 1976) ("[W]e are of
+ the opinion that the PTO has the initial burden of presenting evidence or reasons why
+ persons skilled in the art would not recognize in the disclosure a description of the
+ invention defined by the claims."). However, as discussed in subsection I,
+ *supra,* issues of adequate written description may arise even
+ for original claims, for example, when an aspect of the claimed invention has not
+ been described with sufficient particularity such that one skilled in the art would
+ recognize that the applicant had possession of the claimed invention at the time of
+ filing. The claimed invention as a whole may not be adequately described if the
+ claims require an essential or critical feature which is not adequately described in
+ the specification and which is not conventional or known in the art. Consider the
+ claim "A gene comprising SEQ ID NO:1." The claim may be construed to include specific
+ structures in addition to SEQ ID NO:1, such as a promoter, a coding region, or other
+ elements. Although SEQ ID NO:1 is fully disclosed, there may be insufficient
+ description of other structures embraced by the claim (e.g., promoters, enhancers,
+ coding regions, and other regulatory elements). For guidance on subject matter
+ eligibility of such claims, see **[MPEP § 2106](s2106.html#d0e197244)**.
+ 
+
+
+An invention described solely in terms of a method of making and/or
+ its function may lack written descriptive support where there is no described or
+ art-recognized correlation between the disclosed function and the structure(s)
+ responsible for the function. For example, the amino acid sequence of a protein along
+ with knowledge of the genetic code might put an inventor in possession of the genus
+ of nucleic acids capable of encoding the protein, but the same information would not
+ place the inventor in possession of the naturally-occurring DNA or mRNA encoding the
+ protein. See *In re Bell,* 991 F.2d 781, 26 USPQ2d 1529 (Fed. Cir.
+ 1993); *In re Deuel,* 51 F.3d 1552, 34 USPQ2d 1210 (Fed. Cir. 1995)
+ (holding that a process could not render the product of that process obvious under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**). (For guidance on subject matter eligibility of claims to
+ naturally-occurring compositions, see **[MPEP § 2106](s2106.html#d0e197244)**.) The Federal Circuit
+ has pointed out that, under United States law, a description that merely renders a
+ claimed invention obvious may not sufficiently describe the invention for the
+ purposes of the written description requirement of **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**.
+ See *Eli Lilly,* 119 F.3d at 1567, 43 USPQ2d at 1405; compare
+ *Fonar Corp. v. Gen. Elec. Co.,* 107 F.3d 1543, 1549, 41 USPQ2d
+ 1801, 1805 (Fed. Cir. 1997) ("As a general rule, where software constitutes part of a
+ best mode of carrying out an invention, description of such a best mode is satisfied
+ by a disclosure of the functions of the software. This is because, normally, writing
+ code for such software is within the skill of the art, not requiring undue
+ experimentation, once its functions have been disclosed.... Thus, flow charts or
+ source code listings are not a requirement for adequately disclosing the functions of
+ software.").
+ 
+
+
+Written description issues may also arise if the knowledge and level
+ of skill in the art would not have permitted the ordinary artisan to immediately
+ envisage the claimed product arising from the disclosed process. See, e.g.,*Fujikawa v. Wattanasin,* 93 F.3d 1559, 1571, 39 USPQ2d 1895, 1905 (Fed.
+ Cir. 1996) (a "laundry list" disclosure of every possible moiety does not necessarily
+ constitute a written description of every species in a genus because it would not
+ "reasonably lead" those skilled in the art to any particular species); *In re
+ Ruschig,* 379 F.2d 990, 995, 154 USPQ 118, 123 (CCPA 1967)
+ ("*If* n-propylamine had been used in making the compound instead
+ of n-butylamine, the compound of claim 13 would have resulted. Appellants submit to
+ us, as they did to the board, an imaginary specific example patterned on specific
+ example 6 by which the above butyl compound is made so that we can see what a simple
+ change would have resulted in a specific supporting disclosure being present in the
+ present specification. The trouble is that there is no such disclosure, easy though
+ it is to imagine it." (emphasis in original)); *Purdue Pharma L.P. v.
+ Faulding Inc.,* 230 F.3d 1320, 1328, 56 USPQ2d 1481, 1487 (Fed. Cir.
+ 2000) ("[T]he specification does not clearly disclose to the skilled artisan that the
+ inventors ... considered the ratio... to be part of their invention .... There is
+ therefore no force to Purdue’s argument that the written description requirement was
+ satisfied because the disclosure revealed a broad invention from which the
+ [later-filed] claims carved out a patentable portion").
+ 
+
+***B.******New or Amended Claims***The proscription against the introduction of new matter in a patent
+ application (**[35
+ U.S.C. 132](mpep-9015-appx-l.html#d0e303187)** and **[251](mpep-9015-appx-l.html#d0e305345)**) serves to prevent an
+ applicant from adding information that goes beyond the subject matter originally
+ filed. See *In re Rasmussen,* 650 F.2d 1212, 1214, 211 USPQ 323, 326
+ (CCPA 1981); see also **[MPEP §§ 2163.06](s2163.html#d0e215023)** through **[2163.07](s2163.html#d0e215099)** for a more
+ detailed discussion of the written description requirement and its relationship to
+ new matter. The claims as filed in the original specification are part of the
+ disclosure and, therefore, if an application as originally filed contains a claim
+ disclosing material not found in the remainder of the specification, the applicant
+ may amend the specification to include the claimed subject matter. *In re
+ Benno,* 768 F.2d 1340, 226 USPQ 683 (Fed. Cir. 1985). Thus, the written
+ description requirement prevents an applicant from claiming subject matter that was
+ not adequately described in the specification as filed. New or amended claims which
+ introduce elements or limitations that are not supported by the as-filed disclosure
+ violate the written description requirement. See, e.g., *In re
+ Lukach,* 442 F.2d 967, 169 USPQ 795 (CCPA 1971) (subgenus range was not
+ supported by generic disclosure and specific example within the subgenus range);
+ *In re Smith,* 458 F.2d 1389, 1395, 173 USPQ 679, 683 (CCPA 1972)
+ (an adequate description of a genus may not support claims to a subgenus or species
+ within the genus).
+ 
+
+
+While there is no *in haec verba* requirement,
+ newly added claims or claim limitations must be supported in the specification
+ through express, implicit, or inherent disclosure. An amendment to correct an obvious
+ error does not constitute new matter where the ordinary artisan would not only
+ recognize the existence of the error in the specification, but also recognize the
+ appropriate correction. *In re Oda,* 443 F.2d 1200, 170 USPQ 268
+ (CCPA 1971). With respect to the correction of sequencing errors in applications
+ disclosing nucleic acid and/or amino acid sequences, it is well known that sequencing
+ errors are a common problem in molecular biology. See, e.g., David Laehnemann
+ *et al.,* Denoising DNA deep sequencing data—high-throughput
+ sequencing errors and their correction, 17 *Briefings in
+ Bioinformatics* 154–1791 (2016); Peter Richterich, Estimation of Errors
+ in ‘Raw’ DNA Sequences: A Validation Study, 8 *Genome Research*
+ 251-59 (1998). For example, if an application as filed includes incorrect nucleic
+ acid sequence information and references a deposit of the sequenced material made in
+ accordance with the requirements of **[37 CFR 1.801](mpep-9020-appx-r.html#d0e333189)***et seq.,* an amendment to correct the nucleic acid sequence may be
+ permissible where the amendment conforms the sequence information to the compound
+ described in the specification and covered by the claims. See *Cubist Pharm.,
+ Inc. v. Hospira, Inc.,* 805 F.3d 1112, 1118, 117 USPQ2d 1054, 1059 (Fed.
+ Cir. 2015)( "The fact that the inventors were mistaken as to one aspect of the
+ structure of daptomycin at the time the application [ ] was filed does not render the
+ specification inadequate to satisfy the written description requirement. It was
+ enough that the specification disclosed relevant identifying characteristics that
+ distinguished daptomycin from other compounds and thus showed that the inventors had
+ possession of daptomycin, even though they may not have had an accurate picture of
+ the entire chemical structure of that compound." *Id.* at 1120, 117
+ USPQ2d at 1060.) Deposits made after the filing date may be relied upon to provide
+ support for the correction of sequence information only if applicant submits a
+ statement in compliance with **[37 CFR 1.804](mpep-9020-appx-r.html#d0e333323)** stating that the
+ biological material which is deposited is the biological material specifically
+ defined in the application as filed.
+ 
+
+
+Under certain circumstances, omission of a limitation can raise an
+ issue regarding whether the inventor had possession of a broader, more generic
+ invention. See, e.g., *PIN/NIP, Inc. v. Platte Chem. Co.,* 304 F.3d
+ 1235, 1248, 64 USPQ2d 1344, 1353 (Fed. Cir. 2002) (Claim for a method of inhibiting
+ sprout growth on tubers by treating them with spaced, *sequential* application of two chemicals was held invalid for lack of adequate written
+ description where the specification indicated that invention was a method of applying
+ a *"composition"* containing the two chemicals.); *Gentry
+ Gallery, Inc. v. Berkline Corp.,* 134 F.3d 1473, 45 USPQ2d 1498 (Fed.
+ Cir. 1998) (claims to a sectional sofa comprising, *inter alia,* a
+ console and a control means were held invalid for failing to satisfy the written
+ description requirement where the claims were broadened by removing the location of
+ the control means); *Johnson Worldwide Assoc. v. Zebco Corp.,* 175
+ F.3d 985, 993, 50 USPQ2d 1607, 1613 (Fed. Cir. 1999) (stating that, in
+ *Gentry Gallery,* the "court’s determination that the patent
+ disclosure did not support a broad meaning for the disputed claim terms was premised
+ on clear statements in the written description that described the location of a claim
+ element--the ‘control means’ --as ‘the only possible location’ and that variations
+ were ‘outside the stated purpose of the invention.’ … *Gentry
+ Gallery,* then, considers the situation where the patent’s disclosure
+ makes crystal clear that a particular (i.e., narrow) understanding of a claim term is
+ an ‘essential element of [the inventor’s] invention.’"); see also *Tronzo v.
+ Biomet,* 156 F.3d at 1158-59, 47 USPQ2d at 1833 (Fed. Cir. 1998) (claims
+ to generic cup shape were not entitled to filing date of parent application which
+ disclosed "conical cup" in view of the disclosure of the parent application stating
+ the advantages and importance of the conical shape.). A claim that omits an element
+ that applicant describes as an essential or critical feature of the invention
+ originally disclosed does not comply with the written description requirement. See
+ *Gentry Gallery,* 134 F.3d at 1480, 45 USPQ2d at 1503;
+ *In re Sus,* 306 F.2d 494, 504, 134 USPQ 301, 309 (CCPA 1962)
+ ("[O]ne skilled in this art would not be taught by the written description of the
+ invention in the specification that any ‘aryl or substituted aryl radical’ would be
+ suitable for the purposes of the invention but rather that only *certain aryl
+ radicals* and certain specifically substituted aryl radicals [i.e., aryl
+ azides] would be suitable for such purposes."(emphasis in original)). A claim which
+ omits matter disclosed to be essential to the invention as described in the
+ specification or in other statements of record may also be subject to rejection under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, as not enabling, or under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph. See *In re
+ Mayhew,* 527 F.2d 1229, 188 USPQ 356 (CCPA 1976); *In re
+ Venezia,* 530 F.2d 956, 189 USPQ 149 (CCPA 1976); and *In re
+ Collier,* 397 F.2d 1003, 158 USPQ 266 (CCPA 1968). See also
+ **[MPEP
+ § 2172.01](s2172.html#d0e217526)**.
+ 
+
+
+The fundamental factual inquiry is whether the specification conveys
+ with reasonable clarity to those skilled in the art that, as of the filing date
+ sought, applicant was in possession of the invention as now claimed. See, e.g.,
+ *Vas-Cath, Inc.,* 935 F.2d at 1563-64, 19 USPQ2d at 1117.
+ 
+
+**II.** **METHODOLOGY FOR DETERMINING ADEQUACY OF WRITTEN DESCRIPTION*** 
+
+***A.******Read and Analyze the Specification for Compliance with 35 U.S.C. 112(a)
+ or Pre-AIA 35 U.S.C. 112, first paragraph***Office personnel should adhere to the following procedures when
+ reviewing patent applications for compliance with the written description requirement
+ of **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. There is a presumption that an adequate written description of the claimed
+ invention is present in the specification as filed, *Wertheim,* 541
+ F.2d at 262, 191 USPQ at 96, thus the examiner has the initial burden, after a
+ thorough reading and evaluation of the content of the application, of presenting
+ evidence or reasons why a person skilled in the art would not recognize the written
+ description of the invention as providing adequate support for the claimed invention.
+ To make a *prima facie* case, it is necessary to identify the claim
+ limitations that are not adequately supported, and explain why the claim is not fully
+ supported by the disclosure. For example, in *Hyatt v. Dudas,* 492
+ F.3d 1365, 1371, 83 USPQ2d 1373, 1376-1377 (Fed. Cir. 2007), the examiner made a
+ *prima facie* case by clearly and specifically explaining why
+ applicant’s specification did not support the particular claimed combination of
+ elements, even though applicant’s specification listed each and every element in the
+ claimed combination. The court found the "examiner was explicit that while each
+ element may be individually described in the specification, the deficiency was lack
+ of adequate description of their combination" and, thus, "[t]he burden was then
+ properly shifted to [inventor] to cite to the examiner where adequate written
+ description could be found or to make an amendment to address the deficiency."
+ *Id.;* see also *Stored Value Solutions, Inc. v. Card
+ Activation Techs.,* 499 Fed.App’x 5, 13-14 (Fed. Cir. 2012)
+ (non-precedential) (Finding inadequate written support for claims drawn to a method
+ of processing debit purchase transactions requiring three separate authorization
+ codes because "the written description [did] not contain a method that include[d] all
+ three codes" and "[e]ach authorization code is an important claim limitation, and the
+ presence of multiple authorization codes in [the claim] was essential".). 
+ 
+
+
+With respect to newly added or amended claims,
+ applicant should show support in the original disclosure for the new or amended
+ claims. See, e.g., *Hyatt v. Dudas,* 492 F.3d 1365, 1370, n.4 (Fed.
+ Cir. 2007) (citing **[MPEP § 2163.04](s2163.html#d0e214731)** which provides that a "simple statement
+ such as ‘applicant has not pointed out where the new (or amended) claim is supported,
+ nor does there appear to be a written description of the claim limitation ‘\_\_\_’ in
+ the application as filed’ may be sufficient where the claim is a new or amended
+ claim, the support for the limitation is not apparent, and applicant has not pointed
+ out where the limitation is supported."); see also **[MPEP §§ 714.02](s714.html#d0e86906)** and
+ **[2163.06](s2163.html#d0e215023)** ("Applicant should ... specifically point out the
+ support for any amendments made to the disclosure."); and **[MPEP § 2163.04](s2163.html#d0e214731)**
+ ("If applicant amends the claims and points out where and/or how the originally filed
+ disclosure supports the amendment(s), and the examiner finds that the disclosure does
+ not reasonably convey that the inventor had possession of the subject matter of the
+ amendment at the time of the filing of the application, the examiner has the initial
+ burden of presenting evidence or reasoning to explain why persons skilled in the art
+ would not recognize in the disclosure a description of the invention defined by the
+ claims."). The inquiry into whether the description requirement is met is a question
+ of fact that must be determined on a case-by-case basis. *AbbVie Deutschland
+ GmbH & Co., KG v. Janssen Biotech, Inc.,* 759 F.3d 1285, 1297, 111
+ USPQ2d 1780, 1788 (Fed. Cir. 2014) ("Whether a patent claim is supported by an
+ adequate written description is a question of fact."); *In re
+ Smith,* 458 F.2d 1389, 1395, 173 USPQ 679, 683 (CCPA 1972) ("Precisely
+ how close [to the claimed invention] the description must come to comply with Sec.
+ 112 must be left to case-by-case development."); *In re Wertheim,*
+ 541 F.2d at 262, 191 USPQ at 96 (inquiry is primarily factual and depends on the
+ nature of the invention and the amount of knowledge imparted to those skilled in the
+ art by the disclosure).
+ 
+
+**1.** **For Each Claim, Determine What the Claim as a Whole Covers** Claim construction is an essential part of the examination
+ process. Each claim must be separately analyzed and given its broadest reasonable
+ interpretation in light of and consistent with the written description. See, e.g.,
+ *In re Katz Interactive Call Processing Patent Litigation,*
+ 639 F.3d 1303, 1319-1320, 97 USPQ2d 1737, 1750 (Fed. Cir. 2011) (stating that
+ "[t]he construction of the claims [is] important to the written description
+ analysis" and patent holder’s failure "to point to a genuine factual dispute over
+ whether the specification disclosed" the claimed subject matter made summary
+ judgment proper on that issue.); *In re Morris,* 127 F.3d 1048,
+ 1053-54, 44 USPQ2d 1023, 1027 (Fed. Cir. 1997). The entire claim must be
+ considered, including the preamble language and the transitional phrase. "Preamble
+ language" is that language in a claim appearing before the transitional phase,
+ e.g., before "comprising," "consisting essentially of," or "consisting of." The
+ transitional term "comprising" (and other comparable terms, e.g., "containing,"
+ and "including") is "open-ended" in that it covers the expressly recited subject
+ matter, alone or in combination with unrecited subject matter. See, e.g.,
+ *Genentech, Inc. v. Chiron Corp.,* 112 F.3d 495, 501, 42
+ USPQ2d 1608, 1613 (Fed. Cir. 1997) ("‘Comprising’ is a term of art used in claim
+ language which means that the named elements are essential, but other elements may
+ be added and still form a construct within the scope of the claim."); *Ex
+ parte Davis,* 80 USPQ 448, 450 (Bd. App. 1948) ("comprising" leaves
+ the "claim open for the inclusion of unspecified ingredients even in major
+ amounts"); see also **[MPEP § 2111.03](s2111.html#d0e200824)**. "By using the term ‘consisting
+ essentially of,’ the drafter signals that the invention necessarily includes the
+ listed ingredients and is open to unlisted ingredients that do not materially
+ affect the basic and novel properties of the invention. A ‘consisting essentially
+ of’ claim occupies a middle ground between closed claims that are written in a
+ ‘consisting of’ format and fully open claims that are drafted in a ‘comprising’
+ format." *PPG Indus. v. Guardian Indus.,* 156 F.3d 1351, 1354, 48
+ USPQ2d 1351, 1353-54 (Fed. Cir. 1998). For the purposes of searching for and
+ applying prior art under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)**, absent a clear indication in the specification or
+ claims of what the basic and novel characteristics actually are, "consisting
+ essentially of" will be construed as equivalent to "comprising." See, e.g.,
+ *PPG,* 156 F.3d at 1355, 48 USPQ2d at 1355 ("PPG could have
+ defined the scope of the phrase ‘consisting essentially of’ for purposes of its
+ patent by making clear in its specification what it regarded as constituting a
+ material change in the basic and novel characteristics of the invention."); see
+ also *AK Steel Corp. v. Sollac,* 344 F3.d 1234, 1239-1240, 68
+ USPQ2d 1280, 1283-84 (Fed. Cir. 2003); *In re Janakirama-Rao,*
+ 317 F.2d 951, 954, 137 USPQ 893, 895-96 (CCPA 1963). If an applicant contends that
+ additional steps or materials in the prior art are excluded by the recitation of
+ "consisting essentially of," applicant has the burden of showing that the
+ introduction of additional steps or components would materially change the
+ characteristics of applicant’s invention. *In re De Lajarte,* 337
+ F.2d 870, 143 USPQ 256 (CCPA 1964); see also **[MPEP § 2111.03](s2111.html#d0e200824)**.
+ The claim as a whole, including all limitations found in the preamble (see
+ *Pac-Tec Inc. v. Amerace Corp.,* 903 F.2d 796, 801, 14 USPQ2d
+ 1871, 1876 (Fed. Cir. 1990) (determining that preamble language that constitutes a
+ structural limitation is actually part of the claimed invention)), the
+ transitional phrase, and the body of the claim, must be sufficiently supported to
+ satisfy the written description requirement. An applicant shows possession of the
+ claimed invention by describing the claimed invention with all of its limitations.
+ *Lockwood,* 107 F.3d at 1572, 41 USPQ2d at 1966.
+ 
+
+
+The examiner should evaluate each claim to determine if
+ sufficient structures, acts, or functions are recited to make clear the scope and
+ meaning of the claim, including the weight to be given the preamble. See, e.g.,
+ *Bell Communications Research, Inc. v. Vitalink Communications
+ Corp.,* 55 F.3d 615, 620, 34 USPQ2d 1816, 1820 (Fed. Cir. 1995) ("[A]
+ claim preamble has the import that the claim as a whole suggests for it.");
+ *Corning Glass Works v. Sumitomo Elec. U.S.A., Inc.,* 868 F.2d
+ 1251, 1257, 9 USPQ2d 1962, 1966 (Fed. Cir. 1989) (The determination of whether
+ preamble recitations are structural limitations can be resolved only on review of
+ the entirety of the application "to gain an understanding of what the inventors
+ actually invented and intended to encompass by the claim."). The absence of
+ definitions or details for well-established terms or procedures should not be the
+ basis of a rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, for lack of adequate written
+ description. Limitations may not, however, be imported into the claims from the
+ specification.
+ 
+
+**2.** **Review the Entire Application to Understand How Applicant Provides Support
+ for the Claimed Invention Including Each Element and/or Step**Prior to determining whether the disclosure provides adequate
+ written description for the claimed subject matter, the examiner should review the
+ claims and the entire specification, including the specific embodiments, figures,
+ and sequence listings, to understand how applicant provides support for the
+ various features of the claimed invention. The disclosure of an element may be
+ critical where those of ordinary skill in the art would require it to understand
+ that applicant was in possession of the invention. Compare
+ *Rasmussen,* 650 F.2d at 1215, 211 USPQ at 327 ("one skilled
+ in the art who read Rasmussen’s specification would understand that it is
+ unimportant how the layers are adhered, so long as they are adhered") (emphasis in
+ original), with *Amgen, Inc. v. Chugai Pharm.Co., Ltd.,* 927 F.2d
+ 1200, 1206, 18 USPQ2d 1016, 1021 (Fed. Cir. 1991) ("it is well established in our
+ law that conception of a chemical compound requires that the inventor be able to
+ define it so as to distinguish it from other materials, and to describe how to
+ obtain it"). The analysis of whether the specification complies with the written
+ description requirement calls for the examiner to compare the scope of the claim
+ with the scope of the description to determine whether applicant has demonstrated
+ possession of the claimed invention. Such a review is conducted from the
+ standpoint of one of ordinary skill in the art at the time the application was
+ filed (see, e.g., *Wang Labs., Inc. v. Toshiba Corp.,* 993 F.2d
+ 858, 865, 26 USPQ2d 1767, 1774 (Fed. Cir. 1993)) and should include a
+ determination of the field of the invention and the level of skill and knowledge
+ in the art. For some arts, there is an inverse correlation between the level of
+ skill and knowledge in the art and the specificity of disclosure necessary to
+ satisfy the written description requirement. Information which is well known in
+ the art need not be described in detail in the specification. See, e.g.,
+ *Hybritech, Inc. v. Monoclonal Antibodies, Inc.,* 802 F.2d
+ 1367, 1379-80, 231 USPQ 81, 90 (Fed. Cir. 1986). However, sufficient information
+ must be provided to show that the inventor had possession of the invention as
+ claimed.
+ 
+
+**3.** **Determine Whether There is Sufficient Written Description to Inform a
+ Skilled Artisan That Applicant was in Possession of the Claimed Invention as a
+ Whole at the Time the Application Was Filed*** 
+
+**(a)** **Original claims** Possession may be shown in many ways. For example, possession
+ may be shown by describing an actual reduction to practice of the claimed
+ invention. Possession may also be shown by a clear depiction of the invention
+ in detailed drawings or in structural chemical formulas which permit a person
+ skilled in the art to clearly recognize that applicant had possession of the
+ claimed invention. An adequate written description of the invention may be
+ shown by any description of sufficient, relevant, identifying characteristics
+ so long as a person skilled in the art would recognize that the inventor had
+ possession of the claimed invention. See, e.g., *Purdue Pharma L.P. v.
+ Faulding Inc.,* 230 F.3d 1320, 1323, 56 USPQ2d 1481, 1483 (Fed.
+ Cir. 2000) (the written description "inquiry is a factual one and must be
+ assessed on a case-by-case basis"); see also *Pfaff v. Wells Elec.,
+ Inc.,* 55 U.S. at 66, 119 S.Ct. at 311, 48 USPQ2d at 1646 ("The
+ word ‘invention’ must refer to a concept that is complete, rather than merely
+ one that is ‘substantially complete.’ It is true that reduction to practice
+ ordinarily provides the best evidence that an invention is complete. But just
+ because reduction to practice is sufficient evidence of completion, it does not
+ follow that proof of reduction to practice is necessary in every case. Indeed,
+ both the facts of the Telephone Cases and the facts of this case demonstrate
+ that one can prove that an invention is complete and ready for patenting before
+ it has actually been reduced to practice.").
+ 
+
+
+A specification may describe an actual reduction to practice
+ by showing that the inventor constructed an embodiment or performed a process
+ that met all the limitations of the claim and determined that the invention
+ would work for its intended purpose. *Cooper v. Goldfarb,* 154
+ F.3d 1321, 1327, 47 USPQ2d 1896, 1901 (Fed. Cir. 1998). See also *UMC
+ Elecs. Co. v. United States,* 816 F.2d 647, 652, 2 USPQ2d 1465,
+ 1468 (Fed. Cir. 1987) ("[T]here cannot be a reduction to practice of the
+ invention ... without a physical embodiment which includes all limitations of
+ the claim."); *Estee Lauder Inc. v. L’Oreal, S.A.,* 129 F.3d
+ 588, 593, 44 USPQ2d 1610, 1614 (Fed. Cir. 1997) ("[A] reduction to practice
+ does not occur until the inventor has determined that the invention will work
+ for its intended purpose."); *Mahurkar v. C.R. Bard, Inc.,* 79
+ F.3d 1572, 1578, 38 USPQ2d 1288, 1291 (Fed. Cir. 1996) (determining that the
+ invention will work for its intended purpose may require testing depending on
+ the character of the invention and the problem it solves). Description of an
+ actual reduction to practice of a biological material may be shown by
+ specifically describing a deposit made in accordance with the requirements of
+ **[37 CFR
+ 1.801](mpep-9020-appx-r.html#d0e333189)***et seq.,* especially **[37 CFR 1.804](mpep-9020-appx-r.html#d0e333323)** and
+ **[1.809](mpep-9020-appx-r.html#d0e333576)**; see also subsection I. *supra.*
+
+
+An applicant may show possession of an invention by disclosure
+ of drawings or structural chemical formulas that are sufficiently detailed to
+ show that applicant was in possession of the claimed invention as a whole. See,
+ e.g., *Vas-Cath,* 935 F.2d at 1565, 19 USPQ2d at 1118
+ ("drawings alone may provide a ‘written description’ of an invention as
+ required by **[Sec. 112](mpep-9015-appx-l.html#d0e302824912)**"); *In re
+ Wolfensperger,* 302 F.2d 950, 133 USPQ 537 (CCPA 1962) (the
+ drawings of applicant’s specification provided sufficient written descriptive
+ support for the claim limitation at issue); *Autogiro Co. of Am. v.
+ United States,* 384 F.2d 391, 398, 155 USPQ 697, 703 (Ct. Cl. 1967)
+ ("In those instances where a visual representation can flesh out words,
+ drawings may be used in the same manner and with the same limitations as the
+ specification."); *Eli Lilly,* 119 F.3d at 1568, 43 USPQ2d at
+ 1406 ("In claims involving chemical materials, generic formulae usually
+ indicate with specificity what the generic claims encompass. One skilled in the
+ art can distinguish such a formula from others and can identify many of the
+ species that the claims encompass. Accordingly, such a formula is normally an
+ adequate description of the claimed genus."). The description need only
+ describe in detail that which is new or not conventional. See
+ *Hybritech v. Monoclonal Antibodies,* 802 F.2d at 1384, 231
+ USPQ at 94. This is equally true whether the claimed invention is directed to a
+ product or a process.
+ 
+
+
+An applicant may also show that an invention is complete by
+ disclosure of sufficiently detailed, relevant identifying characteristics which
+ provide evidence that applicant was in possession of the claimed invention,
+ i.e., complete or partial structure, other physical and/or chemical properties,
+ functional characteristics when coupled with a known or disclosed correlation
+ between function and structure, or some combination of such characteristics.
+ *Enzo Biochem,* 323 F.3d at 964, 63 USPQ2d at 1613 (quoting
+ the Written Description Guidelines, 66 Fed. Reg. at 1106, n. 49, stating that
+ "if the art has established a strong correlation between structure and
+ function, one skilled in the art would be able to predict with a reasonable
+ degree of confidence the structure of the claimed invention from a recitation
+ of its function".). "Thus, the written description requirement may be satisfied
+ through disclosure of function and minimal structure when there is a
+ well-established correlation between structure and function."
+ *Id.*
+
+
+For some biomolecules, examples of identifying characteristics
+ include a sequence, structure, binding affinity, binding specificity, molecular
+ weight, and length. Although structural formulas provide a convenient method of
+ demonstrating possession of specific molecules, other identifying
+ characteristics or combinations of characteristics may demonstrate the
+ requisite possession. As explained by the Federal Circuit, "(1) examples are
+ not necessary to support the adequacy of a written description; (2) the written
+ description standard may be met … even where actual reduction to practice of an
+ invention is absent; and (3) there is no per se rule that an adequate written
+ description of an invention that involves a biological macromolecule must
+ contain a recitation of known structure." *Falkner v. Inglis,*
+ 448 F.3d 1357, 1366, 79 USPQ2d 1001, 1007 (Fed. Cir. 2006); see also
+ *Capon v. Eshhar,* 418 F.3d at 1358, 76 USPQ2d at 1084
+ ("The Board erred in holding that the specifications do not meet the written
+ description requirement because they do not reiterate the structure or formula
+ or chemical name for the nucleotide sequences of the claimed chimeric genes"
+ where the genes were novel combinations of known DNA segments.). However, the
+ claimed invention itself must be adequately described in the written disclosure
+ and/or the drawings. For example, disclosure of an antigen fully characterized
+ by its structure, formula, chemical name, physical properties, or deposit in a
+ public depository does not, without more, provide an adequate written
+ description of an antibody claimed by its binding affinity to that antigen,
+ even when preparation of such an antibody is routine and conventional. See
+ *Amgen Inc. v. Sanofi,* 872 F.3d 1367, 1378, 124 USPQ2d
+ 1354, 1361 (Fed. Cir. 2017)("knowledge of the chemical structure of an antigen
+ [does not give] the required kind of structure-identifying information about
+ the corresponding antibodies"); see also *Centocor Ortho Biotech, Inc.
+ v. Abbott Labs.,* 636 F.3d 1341, 1351-52, 97 USPQ2d 1870, 1877
+ (Fed. Cir. 2011)(patent disclosed the antigen the claimed antibody was supposed
+ to bind, but did not disclose any antibodies with the specific claimed
+ properties). 
+ 
+
+
+Other ways of establishing possession of a
+ claimed invention may include unique cleavage by particular enzymes,
+ isoelectric points of fragments, detailed restriction enzyme maps, a comparison
+ of enzymatic activities, or antibody cross-reactivity. See
+ *Lockwood,* 107 F.3d at 1572, 41 USPQ2d at 1966 (Stating
+ that the written description requirement may be satisfied by using "such
+ descriptive means as words, structures, figures, diagrams, formulas, etc., that
+ fully set forth the claimed invention."). Conversely, describing a composition
+ by its function alone typically will not suffice to sufficiently describe the
+ composition. See *Eli Lilly,* 119 F.3 at 1568, 43 USPQ2d at
+ 1406 (Holding that description of a gene’s function will not enable claims to
+ the gene "because it is only an indication of what the gene does, rather than
+ what it is."); see also *Fiers,* 984 F.2d at 1169-71, 25
+ USPQ2d at 1605-06 (discussing *Amgen Inc. v. Chugai Pharm.
+ Co.,* 927 F.2d 1200, 18 USPQ2d 1016 (Fed. Cir. 1991)). An adequate
+ written description of a chemical invention also requires a precise definition,
+ such as by structure, formula, chemical name, or physical properties, and not
+ merely a wish or plan for obtaining the chemical invention claimed. See, e.g.,
+ *Univ. of Rochester v. G.D. Searle & Co.,* 358 F.3d
+ 916, 927, 69 USPQ2d 1886, 1894-95 (Fed. Cir. 2004) (The patent at issue claimed
+ a method of selectively inhibiting PGHS-2 activity by administering a
+ non-steroidal compound that selectively inhibits activity of the PGHS-2 gene
+ product, however the patent did not disclose any compounds that can be used in
+ the claimed methods. While there was a description of assays for screening
+ compounds to identify those that inhibit the expression or activity of the
+ PGHS-2 gene product, there was no disclosure of which peptides,
+ polynucleotides, and small organic molecules selectively inhibit PGHS-2. The
+ court held that "[w]ithout such disclosure, the claimed methods cannot be said
+ to have been described.").
+ 
+
+
+If a claim limitation invokes **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ sixth paragraph, it must be interpreted to cover the corresponding structure,
+ materials, or acts in the specification and "equivalents thereof." See
+ **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ sixth paragraph. See also *B. Braun Medical, Inc. v. Abbott
+ Labs.,* 124 F.3d 1419, 1424, 43 USPQ2d 1896, 1899 (Fed. Cir. 1997).
+ In considering whether there is **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, support for a means- (or
+ step) plus- function claim limitation, the examiner must consider not only the
+ original disclosure contained in the summary and detailed description of the
+ invention portions of the specification, but also the original claims,
+ abstract, and drawings. A means- (or step-) plus- function claim limitation is
+ adequately described under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, if: (1) The written
+ description adequately links or associates adequately described particular
+ structure, material, or acts to perform the function recited in a means- (or
+ step-) plus- function claim limitation; or (2) it is clear based on the facts
+ of the application that one skilled in the art would have known what structure,
+ material, or acts disclosed in the specification perform the function recited
+ in a means- (or step-) plus- function limitation. See *Aristocrat
+ Techs. Australia PTY Ltd. v. Int’l Game Tech.,* 521 F.3d 1328,
+ 1336-37, 86 USPQ2d 1235, 1242 (Fed. Cir. 2008) ("'consideration of the
+ understanding of one skilled in the art in no way relieves the patentee of
+ adequately disclosing sufficient structure in the specification.' It is not
+ enough for the patentee simply to state or later argue that persons of ordinary
+ skill in the art would know what structures to use to accomplish the claimed
+ function."), quoting *Atmel Corp. v. Information Storage Devices,
+ Inc.,* 198 F.3d 1374, 1380, 53 USPQ2d 1225, 1229 (Fed. Cir. 1999);
+ *Biomedino, LLC v. Waters Technologies Corp.,* 490 F.3d
+ 946, 953, 83 USPQ2d 1118, 1123 (Fed. Cir. 2007) ("The inquiry is whether one of
+ skill in the art would understand the specification itself to disclose a
+ structure, not simply whether that person would be capable of implementing a
+ structure."). Note also that a rejection under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ second paragraph, "cannot stand where there is adequate description in the
+ specification to satisfy **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, regarding
+ means-plus-function recitations that are not, per se, challenged for being
+ unclear." *In re Noll,* 545 F.2d 141, 149, 191 USPQ 721, 727
+ (CCPA 1976). See "Supplemental Examination Guidelines for Determining the
+ Applicability of **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 6,"
+ 65 Fed. Reg. 38510, June 21, 2000; see also **[MPEP § 2181](s2181.html#d0e219279)**.
+ However, when a means- (or step-) plus-function claim limitation is found to be
+ indefinite based on failure of the specification to disclose sufficient
+ corresponding structure, materials, or acts that perform the entire claimed
+ function, then the claim limitation necessarily lacks an adequate written
+ description. Thus, when a claim is rejected as indefinite under
+ **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ second paragraph because there is no corresponding structure, materials, or
+ acts, or an inadequate disclosure of corresponding structure, materials, or
+ acts, for a means- (or step-) plus-function claim limitation, then the claim
+ must also be rejected under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, for lack of an adequate
+ written description. 
+ 
+
+
+What is conventional or well known to one of ordinary skill in
+ the art need not be disclosed in detail. See *Hybritech Inc. v.
+ Monoclonal Antibodies, Inc.,* 802 F.2d at 1384, 231 USPQ at 94. See
+ also *Capon v. Eshhar,* 418 F.3d 1349, 1357, 76 USPQ2d 1078,
+ 1085 (Fed. Cir. 2005) ("The ‘written description’ requirement must be applied
+ in the context of the particular invention and the state of the knowledge…. As
+ each field evolves, the balance also evolves between what is known and what is
+ added by each inventive contribution."). If a skilled artisan would have
+ understood the inventor to be in possession of the claimed invention at the
+ time of filing, even if every nuance of the claims is not explicitly described
+ in the specification, then the adequate description requirement is met. See,
+ e.g., *Vas-Cath,* 935 F.2d at 1563, 19 USPQ2d at 1116;
+ *Martin v. Johnson,* 454 F.2d 746, 751, 172 USPQ 391, 395
+ (CCPA 1972) (stating "the description need not be in *ipsis
+ verbis* [i.e., "in the same words"] to be sufficient").
+ 
+
+
+A claim which is limited to a single disclosed embodiment or
+ species is analyzed as a claim drawn to a single embodiment or species, whereas
+ a claim which encompasses two or more embodiments or species within the scope
+ of the claim is analyzed as a claim drawn to a genus. See also
+ **[MPEP §
+ 806.04(e)](s806.html#d0e103749)**.
+ 
+
+**i)** **For Each Claim Drawn to a Single Embodiment or Species:** * (A) Determine whether the application describes an actual
+ reduction to practice of the claimed invention.
+
+
+* (B) If the application does not describe an actual
+ reduction to practice, determine whether the invention is complete as
+ evidenced by a reduction to drawings or structural chemical formulas
+ that are sufficiently detailed to show that applicant was in
+ possession of the claimed invention as a whole.
+
+
+* (C) If the application does not describe an actual
+ reduction to practice or reduction to drawings or structural chemical
+ formula as discussed above, determine whether the invention has been
+ set forth in terms of distinguishing identifying characteristics as
+ evidenced by other descriptions of the invention that are sufficiently
+ detailed to show that applicant was in possession of the claimed
+ invention.
+	+ (1) Determine whether the application as filed
+	 describes the complete structure (or acts of a process) of the
+	 claimed invention as a whole. The complete structure of a
+	 species or embodiment typically satisfies the requirement that
+	 the description be set forth "in such full, clear, concise, and
+	 exact terms" to show possession of the claimed invention.
+	 **[35 U.S.C.
+	 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35
+	 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph;
+	 *cf.**Fields v. Conover,* 443 F.2d 1386, 1392, 170
+	 USPQ 276, 280 (CCPA 1971) (finding a lack of written description
+	 because the specification lacked the "full, clear, concise, and
+	 exact written description" which is necessary to support the
+	 claimed invention). If a complete structure is disclosed, the
+	 written description requirement is satisfied for that species or
+	 embodiment, and a rejection under **[35
+	 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35
+	 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, for lack of
+	 written description must not be made.
+	+ (2) If the application as filed does not disclose
+	 the complete structure (or acts of a process) of the claimed
+	 invention as a whole, determine whether the specification
+	 discloses other relevant identifying characteristics sufficient
+	 to describe the claimed invention in such full, clear, concise,
+	 and exact terms that a skilled artisan would recognize applicant
+	 was in possession of the claimed invention. For example, in the
+	 biotech art, if a strong correlation has been established
+	 between structure and function, one skilled in the art would be
+	 able to predict with a reasonable degree of confidence the
+	 structure of the claimed invention from a recitation of its
+	 function. Thus, the written description requirement may be
+	 satisfied through disclosure of function and minimal structure
+	 when there is a well-established correlation between structure
+	 and function. In contrast, without such a correlation, the
+	 capability to recognize or understand the structure from the
+	 mere recitation of function and minimal structure is highly
+	 unlikely. In this latter case, disclosure of function alone is
+	 little more than a wish for possession; it does not satisfy the
+	 written description requirement. See *Eli
+	 Lilly,* 119 F.3d at 1568, 43 USPQ2d at 1406 (written
+	 description requirement not satisfied by merely providing "a
+	 result that one might achieve if one made that invention");
+	 *In re Wilder,* 736 F.2d 1516, 1521, 222
+	 USPQ 369, 372-73 (Fed. Cir. 1984) (affirming a rejection for
+	 lack of written description because the specification does
+	 "little more than outline goals appellants hope the claimed
+	 invention achieves and the problems the invention will hopefully
+	 ameliorate").
+
+
+ Whether the specification shows that applicant was in
+ possession of the claimed invention is not a single, simple determination,
+ but rather is a factual determination reached by considering a number of
+ factors. Factors to be considered in determining whether there is sufficient
+ evidence of possession include the level of skill and knowledge in the art,
+ partial structure, physical and/or chemical properties, functional
+ characteristics alone or coupled with a known or disclosed correlation
+ between structure and function, and the method of making the claimed
+ invention. Disclosure of any combination of such identifying characteristics
+ that distinguish the claimed invention from other materials and would lead
+ one of skill in the art to the conclusion that the applicant was in
+ possession of the claimed species is sufficient. See *Eli
+ Lilly,* 119 F.3d at 1568, 43 USPQ2d at 1406. The description
+ needed to satisfy the requirements of **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** "varies
+ with the nature and scope of the invention at issue, and with the scientific
+ and technologic knowledge already in existence." *Capon v.
+ Eshhar,* 418 F.3d at 1357, 76 USPQ2d at 1084. Patents and
+ printed publications in the art should be relied upon to determine whether
+ an art is mature and what the level of knowledge and skill is in the art. In
+ most technologies which are mature, and wherein the knowledge and level of
+ skill in the art is high, a written description question should not be
+ raised for claims present in the application when originally filed, even if
+ the specification discloses only a method of making the invention and the
+ function of the invention. 
+ 
+
+
+In contrast, for inventions in emerging and unpredictable
+ technologies, or for inventions characterized by factors not reasonably
+ predictable which are known to one of ordinary skill in the art, more
+ evidence is required to show possession. For example, disclosure of only a
+ method of making the invention and the function may not be sufficient to
+ support a product claim other than a product-by-process claim. See, e.g.,
+ *Fiers v. Revel,* 984 F.2d at 1169, 25 USPQ2d at 1605;
+ *Amgen,* 927 F.2d at 1206, 18 USPQ2d at 1021. Where the
+ process has actually been used to produce the product, the written
+ description requirement for a product-by-process claim is clearly satisfied;
+ however, the requirement may not be satisfied where it is not clear that the
+ acts set forth in the specification can be performed, or that the product is
+ produced by that process. Furthermore, disclosure of a partial structure
+ without additional characterization of the product may not be sufficient to
+ evidence possession of the claimed invention. See, e.g.,
+ *Amgen,* 927 F.2d at 1206, 18 USPQ2d at 1021 ("A gene is
+ a chemical compound, albeit a complex one, and it is well established in our
+ law that conception of a chemical compound requires that the inventor be
+ able to define it so as to distinguish it from other materials, and to
+ describe how to obtain it. Conception does not occur unless one has a mental
+ picture of the structure of the chemical, or is able to define it by its
+ method of preparation, its physical or chemical properties, or whatever
+ characteristics sufficiently distinguish it. It is not sufficient to define
+ it solely by its principal biological property, e.g., encoding human
+ erythropoietin, because an alleged conception having no more specificity
+ than that is simply a wish to know the identity of any material with that
+ biological property. We hold that when an inventor is unable to envision the
+ detailed constitution of a gene so as to distinguish it from other
+ materials, as well as a method for obtaining it, conception has not been
+ achieved until reduction to practice has occurred, i.e., until after the
+ gene has been isolated." (citations omitted)). In such instances the alleged
+ conception fails not merely because the field is unpredictable or because of
+ the general uncertainty surrounding experimental sciences, but because the
+ conception is incomplete due to factual uncertainty that undermines the
+ specificity of the inventor’s idea of the invention. *Burroughs
+ Wellcome Co. v. Barr Labs. Inc.,* 40 F.3d 1223, 1229, 32 USPQ2d
+ 1915, 1920 (Fed. Cir. 1994). Reduction to practice in effect provides the
+ only evidence to corroborate conception (and therefore possession) of the
+ invention. *Id.*
+
+
+Any claim to a species that does not meet the test
+ described under at least one of (a), (b), or (c) must be rejected as lacking
+ adequate written description under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ first paragraph.
+ 
+
+**ii)** **For each claim drawn to a genus:** The written description requirement for a claimed genus
+ may be satisfied through sufficient description of a representative number
+ of species by actual reduction to practice (see i)(A) above), reduction to
+ drawings (see i)(B) above), or by disclosure of relevant, identifying
+ characteristics, i.e., structure or other physical and/or chemical
+ properties, by functional characteristics coupled with a known or disclosed
+ correlation between function and structure, or by a combination of such
+ identifying characteristics, sufficient to show the applicant was in
+ possession of the claimed genus (see i)(C) above). See *Eli
+ Lilly,* 119 F.3d at 1568, 43 USPQ2d at 1406.
+ 
+
+
+ A "representative number of species" means that the
+ species which are adequately described are representative of the entire
+ genus. Thus, when there is substantial variation within the genus, one must
+ describe a sufficient variety of species to reflect the variation within the
+ genus. See *AbbVie Deutschland GmbH & Co., KG v. Janssen
+ Biotech, Inc.,* 759 F.3d 1285, 1300, 111 USPQ2d 1780, 1790 (Fed.
+ Cir. 2014) (Claims directed to a functionally defined genus of antibodies
+ were not supported by a disclosure that "only describe[d] one type of
+ structurally similar antibodies" that "are not representative of the full
+ variety or scope of the genus."). The disclosure of only one species
+ encompassed within a genus adequately describes a claim directed to that
+ genus only if the disclosure "indicates that the patentee has invented
+ species sufficient to constitute the gen[us]." See *Enzo
+ Biochem,* 323 F.3d at 966, 63 USPQ2d at 1615; *Noelle v.
+ Lederman,* 355 F.3d 1343, 1350, 69 USPQ2d 1508, 1514 (Fed. Cir.
+ 2004) (Fed. Cir. 2004) ("[A] patentee of a biotechnological invention cannot
+ necessarily claim a genus after only describing a limited number of species
+ because there may be unpredictability in the results obtained from species
+ other than those specifically enumerated."). "A patentee will not be deemed
+ to have invented species sufficient to constitute the genus by virtue of
+ having disclosed a single species when … the evidence indicates ordinary
+ artisans could not predict the operability in the invention of any species
+ other than the one disclosed." *In re Curtis,* 354 F.3d
+ 1347, 1358, 69 USPQ2d 1274, 1282 (Fed. Cir. 2004) (Claims directed to PTFE
+ dental floss with a friction-enhancing coating were not supported by a
+ disclosure of a microcrystalline wax coating where there was no evidence in
+ the disclosure or anywhere else in the record showing applicant conveyed
+ that any other coating was suitable for a PTFE dental floss.) On the other
+ hand, there may be situations where one species adequately supports a genus.
+ See, e.g., *Rasmussen,* 650 F.2d at 1214, 211 USPQ at
+ 326-27 (disclosure of a single method of adheringly applying one layer to
+ another was sufficient to support a generic claim to "adheringly applying"
+ because one skilled in the art reading the specification would understand
+ that it is unimportant how the layers are adhered, so long as they are
+ adhered); *In re Herschler,* 591 F.2d 693, 697, 200 USPQ
+ 711, 714 (CCPA 1979) (disclosure of corticosteroid in DMSO sufficient to
+ support claims drawn to a method of using a mixture of a "physiologically
+ active steroid" and DMSO because "use of known chemical compounds in a
+ manner auxiliary to the invention must have a corresponding written
+ description only so specific as to lead one having ordinary skill in the art
+ to that class of compounds. Occasionally, a functional recitation of those
+ known compounds in the specification may be sufficient as that
+ description."); *In re Smythe,* 480 F.2d 1376, 1383, 178
+ USPQ 279, 285 (CCPA 1973) (the phrase "air or other gas which is inert to
+ the liquid" was sufficient to support a claim to "inert fluid media" because
+ the description of the properties and functions of the air or other gas
+ segmentizing medium would suggest to a person skilled in the art that
+ appellant’s invention includes the use of "inert fluid" broadly.). 
+ 
+
+
+The Federal Circuit has explained that a specification
+ cannot always support expansive claim language and satisfy the requirements
+ of **[35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** "merely by clearly describing one
+ embodiment of the thing claimed." *LizardTech v. Earth Resource
+ Mapping, Inc.,* 424 F.3d 1336, 1346, 76 USPQ2d 1731, 1733 (Fed.
+ Cir. 2005). The issue is whether a person skilled in the art would
+ understand applicant to have invented, and been in possession of, the
+ invention as broadly claimed. In *LizardTech,* claims to a
+ generic method of making a seamless discrete wavelet transformation (DWT)
+ were held invalid under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, because the specification taught only one particular method for
+ making a seamless DWT and there was no evidence that the specification
+ contemplated a more generic method. *Id.*; see also
+ *Tronzo v. Biomet,* 156 F.3d at 1159, 47 USPQ2d at 1833
+ (Fed. Cir. 1998)(holding that the disclosure of a species in a parent
+ application did not provide adequate written description support for claims
+ to a genus in a child application where the specification taught against
+ other species). 
+ 
+
+
+Satisfactory disclosure of a "representative number"
+ depends on whether one of skill in the art would recognize that the
+ applicant was in possession of the necessary common attributes or features
+ possessed by the members of the genus in view of the species disclosed. For
+ inventions in an unpredictable art, adequate written description of a genus
+ which embraces widely variant species cannot be achieved by disclosing only
+ one species within the genus. See, e.g., *Eli Lilly,*
+ 119 F.3d at 1568, 43 USPQ2d at 1406. Instead, the disclosure must adequately
+ reflect the structural diversity of the claimed genus, either through the
+ disclosure of sufficient species that are "representative of the full
+ variety or scope of the genus," or by the establishment of "a reasonable
+ structure-function correlation." Such correlations may be established "by
+ the inventor as described in the specification," or they may be "known in
+ the art at the time of the filing date." See *AbbVie,* 759
+ F.3d at 1300-01, 111 USPQ2d 1780, 1790-91 (Fed. Cir. 2014) (Holding that
+ claims to all human antibodies that bind IL-12 with a particular binding
+ affinity rate constant (i.e., koff) were not
+ adequately supported by a specification describing only a single type of
+ human antibody having the claimed features because the disclosed antibody
+ was not representative of other types of antibodies in the claimed genus, as
+ demonstrated by the fact that other disclosed antibodies had different types
+ of heavy and light chains, and shared only a 50% sequence similarity in
+ their variable regions with the disclosed antibodies.). Description of a
+ representative number of species does not require the description to be of
+ such specificity that it would provide individual support for each species
+ that the genus embraces. For example, in the molecular biology arts, if an
+ applicant disclosed an amino acid sequence, it would be unnecessary to
+ provide an explicit disclosure of nucleic acid sequences that encoded the
+ amino acid sequence. Since the genetic code is widely known, a disclosure of
+ an amino acid sequence would provide sufficient information such that one
+ would accept that an applicant was in possession of the full genus of
+ nucleic acids encoding a given amino acid sequence, but not necessarily any
+ particular species. Cf. *In re Bell,* 991 F.2d 781, 785, 26
+ USPQ2d 1529, 1532 (Fed. Cir. 1993) and *In re Baird,* 16
+ F.3d 380, 382, 29 USPQ2d 1550, 1552 (Fed. Cir. 1994). If a representative
+ number of adequately described species are not disclosed for a genus, the
+ claim to that genus must be rejected as lacking adequate written description
+ under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph.
+ 
+
+**(b)** **New Claims, Amended Claims, or Claims Asserting Entitlement to the
+ Benefit of an Earlier Priority Date or Filing Date under 35 U.S.C. 119, 120,
+ 365, or 386** The examiner has the initial burden of presenting evidence or
+ reasoning to explain why persons skilled in the art would not recognize in the
+ original disclosure a description of the invention defined by the claims. See
+ *Wertheim,* 541 F.2d at 263, 191 USPQ at 97 ("[T]he PTO has
+ the initial burden of presenting evidence or reasons why persons skilled in the
+ art would not recognize in the disclosure a description of the invention
+ defined by the claims."). However, when filing an amendment an applicant should
+ show support in the original disclosure for new or amended claims. See
+ **[MPEP §§
+ 714.02](s714.html#d0e86906)** and **[2163.06](s2163.html#d0e215023)** ("Applicant should ...
+ specifically point out the support for any amendments made to the
+ disclosure."). 
+ 
+
+
+To comply with the written description requirement of
+ **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ first paragraph, or to be entitled to an earlier priority date or filing date
+ under **[35
+ U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**, **[120](mpep-9015-appx-l.html#d0e303023313)**, **[365](mpep-9015-appx-l.html#d0e307034)**, or
+ **[386](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)**, each claim limitation must be expressly,
+ implicitly, or inherently supported in the originally filed disclosure. When an
+ explicit limitation in a claim "is not present in the written description whose
+ benefit is sought it must be shown that a person of ordinary skill would have
+ understood, at the time the patent application was filed, that the description
+ requires that limitation." *Hyatt v. Boone,* 146 F.3d 1348,
+ 1353, 47 USPQ2d 1128, 1131 (Fed. Cir. 1998); see also *In re
+ Wright,* 866 F.2d 422, 425, 9 USPQ2d 1649, 1651 (Fed. Cir. 1989)
+ (Original specification for method of forming images using photosensitive
+ microcapsules which describes removal of microcapsules from surface and warns
+ that capsules not be disturbed prior to formation of image, unequivocally
+ teaches absence of permanently fixed microcapsules and supports amended
+ language of claims requiring that microcapsules be "not permanently fixed" to
+ underlying surface, and therefore meets description requirement of
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**.); *In re Robins,* 429 F.2d 452,
+ 456-57, 166 USPQ 552, 555 (CCPA 1970) ("[W]here no explicit description of a
+ generic invention is to be found in the specification[,] ... mention of
+ representative compounds may provide an implicit description upon which to base
+ generic claim language."); *In re Smith,* 458 F.2d 1389, 1395,
+ 173 USPQ 679, 683 (CCPA 1972) (a subgenus is not necessarily implicitly
+ described by a genus encompassing it and a species upon which it reads);
+ *In re Robertson,* 169 F.3d 743, 745, 49 USPQ2d 1949,
+ 1950-51 (Fed. Cir. 1999) ("To establish inherency, the extrinsic evidence ‘must
+ make clear that the missing descriptive matter is necessarily present in the
+ thing described in the reference, and that it would be so recognized by persons
+ of ordinary skill. Inherency, however, may not be established by probabilities
+ or possibilities. The mere fact that a certain thing may result from a given
+ set of circumstances is not sufficient.’" (citations omitted)); *Yeda
+ Research and Dev. Co. v. Abbott GMBH & Co.,* 837 F.3d 1341, 120
+ USPQ2d 1299 (Fed. Cir. 2016) ("Under the doctrine of inherent disclosure, when
+ a specification describes an invention that has certain undisclosed yet
+ inherent properties, that specification serves as adequate written description
+ to support a subsequent patent application that explicitly recites the
+ invention’s inherent properties.") (citing *Kennecott Corp. v. Kyocera
+ Int’l, Inc.,* 835 F.2d 1419, 1423 (Fed. Cir. 1987)). Furthermore,
+ each claim must include all elements which applicant has described as
+ essential. See, e.g., *Johnson Worldwide Assoc. Inc. v. Zebco
+ Corp.,* 175 F.3d at 993, 50 USPQ2d at 1613; *Gentry
+ Gallery, Inc. v. Berkline Corp.,* 134 F.3d at 1479, 45 USPQ2d at
+ 1503; *Tronzo v. Biomet,* 156 F.3d at 1159, 47 USPQ2d at
+ 1833.
+ 
+
+
+If the originally filed disclosure does not provide support
+ for each claim limitation, or if an element which applicant describes as
+ essential or critical is not claimed, a new or amended claim must be rejected
+ under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as lacking adequate written
+ description, or in the case of a priority or benefit claim under
+ **[35 U.S.C.
+ 119](mpep-9015-appx-l.html#d0e302921)**, **[120](mpep-9015-appx-l.html#d0e303023313)**, **[365](mpep-9015-appx-l.html#d0e307034)**, or
+ **[386](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)**, the priority or benefit claim must be denied.
+ 
+
+**III.** **COMPLETE PATENTABILITY DETERMINATION UNDER ALL STATUTORY REQUIREMENTS AND CLEARLY
+ COMMUNICATE FINDINGS, CONCLUSIONS, AND THEIR BASES**The above only describes how to determine whether the written
+ description requirement of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, is satisfied. Regardless of the outcome of
+ that determination, Office personnel must complete the patentability determination under
+ all the relevant statutory provisions of title 35 of the U.S. Code.
+ 
+
+
+Once Office personnel have concluded analysis of the claimed invention
+ under all the statutory provisions, including **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, **[112](mpep-9015-appx-l.html#d0e302824)**,
+ **[102](mpep-9015-appx-l.html#d0e302383)**, and **[103](mpep-9015-appx-l.html#d0e302450)**, they should review all the
+ proposed rejections and their bases to confirm their correctness. Only then should any
+ rejection be imposed in an Office action. The Office action should clearly communicate
+ the findings, conclusions, and reasons which support them. When possible, the Office
+ action should offer helpful suggestions on how to overcome rejections.
+ 
+
+***A.******For Each Claim Lacking Written Description Support, Reject the Claim
+ Under 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, first paragraph, for Lack of
+ Adequate Written Description***A description as filed is presumed to be adequate, unless or until
+ sufficient evidence or reasoning to the contrary has been presented by the examiner
+ to rebut the presumption. See, e.g., *In re Marzocchi,* 439 F.2d
+ 220, 224, 169 USPQ 367, 370 (CCPA 1971). The examiner, therefore, must have a
+ reasonable basis to challenge the adequacy of the written description. The examiner
+ has the initial burden of presenting by a preponderance of evidence why a person
+ skilled in the art would not recognize in an applicant’s disclosure a description of
+ the invention defined by the claims. *Wertheim,* 541 F.2d at 263,
+ 191 USPQ at 97. In rejecting a claim, the examiner must set forth express findings of
+ fact regarding the above analysis which support the lack of written description
+ conclusion. These findings should:
+ 
+
+
+* (A) Identify the claim limitation at issue; and
+* (B) Establish a *prima facie* case by providing
+ reasons why a person skilled in the art at the time the application was filed
+ would not have recognized that the inventor was in possession of the invention
+ as claimed in view of the disclosure of the application as filed. A general
+ allegation of "unpredictability in the art" is not a sufficient reason to
+ support a rejection for lack of adequate written description.
+
+
+ When appropriate, suggest amendments to the claims which can be
+ supported by the application’s written description, being mindful of the prohibition
+ against the addition of new matter in the claims or description. See
+ *Rasmussen,* 650 F.2d at 1214, 211 USPQ at 326.
+ 
+
+***B.******Upon Reply by Applicant, Again Determine the Patentability of the Claimed
+ Invention, Including Whether the Written Description Requirement Is Satisfied
+ by Reperforming the Analysis Described Above in View of the Whole
+ Record*** Upon reply by applicant, before repeating any rejection under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, for lack of written description, review the basis for the rejection in
+ view of the record as a whole, including amendments, arguments, and any evidence
+ submitted by applicant. If the whole record now demonstrates that the written
+ description requirement is satisfied, do not repeat the rejection in the next Office
+ action. If the record still does not demonstrate that the written description is
+ adequate to support the claim(s), repeat the rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, fully respond to applicant’s rebuttal arguments, and properly treat any
+ further showings submitted by applicant in the reply. When a rejection is maintained,
+ any affidavits relevant to the **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, written description requirement,
+ must be thoroughly analyzed and discussed in the next Office action. See *In
+ re Alton,* 76 F.3d 1168, 1176, 37 USPQ2d 1578, 1584 (Fed. Cir. 1996).
+ 
+
+
+
+# 2163.01 Support for the Claimed Subject Matter in
+ Disclosure [R-11.2013]
+
+
+A written description requirement issue generally involves the question
+ of whether the subject matter of a claim is supported by [conforms to] the disclosure of
+ an application as filed. If the examiner concludes that the claimed subject matter is
+ not supported [described] in an application as filed, this would result in a rejection
+ of the claim on the ground of a lack of written description under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, or denial of the benefit of the filing date of a previously filed
+ application. The claim should not be rejected or objected to on the ground of new
+ matter. As framed by the court in *In re Rasmussen,* 650 F.2d 1212, 211
+ USPQ 323 (CCPA 1981), the concept of new matter is properly employed as a basis for
+ objection to amendments to the abstract, specification or drawings attempting to add new
+ disclosure to that originally presented. While the test or analysis of description
+ requirement and new matter issues is the same, the examining procedure and statutory
+ basis for addressing these issues differ. See **[MPEP § 2163.06](s2163.html#d0e215023)**.
+ 
+
+
+
+
+# 2163.02 Standard for Determining Compliance With the Written
+ Description Requirement [R-11.2013]
+
+
+The courts have described the essential question to be addressed in a
+ description requirement issue in a variety of ways. An objective standard for
+ determining compliance with the written description requirement is, "does the
+ description clearly allow persons of ordinary skill in the art to recognize that he or
+ she invented what is claimed." *In re**Gosteli,* 872 F.2d 1008, 1012, 10 USPQ2d 1614, 1618 (Fed. Cir. 1989).
+ Under *Vas-Cath, Inc.**v.* *Mahurkar,* 935 F.2d 1555, 1563-64, 19 USPQ2d 1111, 1117 (Fed. Cir.
+ 1991), to satisfy the written description requirement, an applicant must convey with
+ reasonable clarity to those skilled in the art that, as of the filing date sought, he or
+ she was in possession of the invention, and that the invention, in that context, is
+ whatever is now claimed. The test for sufficiency of support in a parent application is
+ whether the disclosure of the application relied upon "reasonably conveys to the artisan
+ that the inventor had possession at that time of the later claimed subject matter."
+ *Ralston Purina Co.**v.**Far-Mar-Co., Inc.,* 772 F.2d 1570, 1575, 227 USPQ 177, 179 (Fed. Cir.
+ 1985) (quoting *In re**Kaslow,* 707 F.2d 1366, 1375, 217 USPQ 1089, 1096 (Fed. Cir.
+ 1983)).
+ 
+
+
+Whenever the issue arises, the fundamental factual inquiry is whether
+ the specification conveys with reasonable clarity to those skilled in the art that, as
+ of the filing date sought, applicant was in possession of the invention as now claimed.
+ See, e.g., *Vas-Cath, Inc. v. Mahurkar,* 935 F.2d 1555, 1563-64, 19
+ USPQ2d 1111, 1117 (Fed. Cir. 1991). An applicant shows possession of the claimed
+ invention by describing the claimed invention with all of its limitations using such
+ descriptive means as words, structures, figures, diagrams, and formulas that fully set
+ forth the claimed invention. *Lockwood v. Am. Airlines, Inc.,* 107 F.3d
+ 1565, 1572, 41 USPQ2d 1961, 1966 (Fed. Cir. 1997). Possession may be shown in a variety
+ of ways including description of an actual reduction to practice, or by showing that the
+ invention was "ready for patenting" such as by the disclosure of drawings or structural
+ chemical formulas that show that the invention was complete, or by describing
+ distinguishing identifying characteristics sufficient to show that the applicant was in
+ possession of the claimed invention. See, e.g., *Pfaff v. Wells Elecs.,
+ Inc.,* 525 U.S. 55, 68, 119 S.Ct. 304, 312, 48 USPQ2d 1641, 1647 (1998);
+ *Regents of the Univ. of Cal. v. Eli Lilly,* 119 F.3d 1559, 1568, 43
+ USPQ2d 1398, 1406 (Fed. Cir. 1997); *Amgen, Inc. v. Chugai Pharm.,* 927
+ F.2d 1200, 1206, 18 USPQ2d 1016, 1021 (Fed. Cir. 1991) (one must define a compound by
+ "whatever characteristics sufficiently distinguish it").
+ 
+
+
+The subject matter of the claim need not be described literally (i.e.,
+ using the same terms or *in haec verba*) in order for the disclosure to
+ satisfy the description requirement. If a claim is amended to include subject matter,
+ limitations, or terminology not present in the application as filed, involving a
+ departure from, addition to, or deletion from the disclosure of the application as
+ filed, the examiner should conclude that the claimed subject matter is not described in
+ that application. This conclusion will result in the rejection of the claims affected
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C.112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph - description requirement, or denial of the benefit of the filing date of a
+ previously filed application, as appropriate.
+ 
+
+
+See **[MPEP
+ § 2163](s2163.html#d0e213583)** for examination guidelines pertaining to the written
+ description requirement.
+ 
+
+
+
+
+# 2163.03 Typical Circumstances Where Adequate Written Description Issue
+ Arises [R-10.2019]
+
+
+A description requirement issue can arise in a number of different
+ circumstances where it must be determined whether the subject matter of a claim is
+ supported in an application as filed. See **[MPEP § 2163](s2163.html#d0e213583)** for examination guidelines
+ pertaining to the written description requirement. Most typically, the issue will arise
+ in the following circumstances: 
+ 
+
+**I.** **AMENDMENT AFFECTING A CLAIM**An amendment to the claims or the addition of a new claim must be
+ supported by the description of the invention in the application as filed.
+ *In re**Wright,* 866 F.2d 422, 9 USPQ2d 1649 (Fed. Cir. 1989). An amendment
+ to the specification (e.g., a change in the definition of a term used both in the
+ specification and claim) may indirectly affect a claim even though no actual
+ amendment is made to the claim. 
+ 
+
+**II.** **RELIANCE ON FILING DATE OF PARENT APPLICATION UNDER 35 U.S.C. 120**Under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, the claims in a
+ U.S. application are entitled to the benefit of the filing date of an earlier filed
+ U.S. application if the subject matter of the claim is disclosed in the manner
+ provided by **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph in the earlier filed
+ application. See, e.g., *Tronzo v. Biomet, Inc.,* 156 F.3d 1154, 47
+ USPQ2d 1829 (Fed. Cir. 1998); *In re**Scheiber,* 587 F.2d 59, 199 USPQ 782 (CCPA 1978).
+ 
+
+**III.** **RELIANCE ON PRIORITY UNDER 35 U.S.C. 119**Under **[35 U.S.C. 119(a) or (e)](mpep-9015-appx-l.html#d0e302921)**, the
+ claims in a U.S. application are entitled to the benefit of a foreign priority date
+ or the filing date of a provisional application if the corresponding foreign
+ application or provisional application supports the claims in the manner required by
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. *In re**Ziegler,* 992 F.2d 1197, 1200, 26 USPQ2d 1600, 1603 (Fed. Cir.
+ 1993);  *Kawai**v.**Metlesics,* 480 F.2d 880, 178 USPQ 158 (CCPA 1973); *In
+ re**Gosteli,* 872 F.2d 1008, 10 USPQ2d 1614 (Fed. Cir. 1989).
+ 
+
+**IV.** **SUPPORT FOR A CLAIM CORRESPONDING TO A COUNT IN AN INTERFERENCE**In an interference proceeding, the claim corresponding to a count
+ must be supported by the specification in the manner provided by **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. *Fields v. Conover,* 443 F.2d 1386, 170 USPQ 276 (CCPA
+ 1971) (A broad generic disclosure to a class of compounds was not a sufficient
+ written description of a specific compound within the class.). Furthermore, when a
+ party to an interference seeks the benefit of an earlier-filed U.S. patent
+ application, the earlier application must meet the requirements of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph for the subject matter of the count. *Hyatt v. Boone,* 146
+ F.3d 1348, 1352, 47 USPQ2d 1128, 1130 (Fed. Cir. 1998).
+ 
+
+**V.** **ORIGINAL CLAIM NOT SUFFICIENTLY
+ DESCRIBED**While there is a presumption that an adequate written
+ description of the claimed invention is present in the specification as filed,
+ *In re Wertheim,* 541 F.2d 257, 262, 191 USPQ 90, 96 (CCPA 1976),
+ a question as to whether a specification provides an adequate written description may
+ arise in the context of an original claim. An original claim may lack written
+ description support when (1) the claim defines the invention in functional language
+ specifying a desired result but the disclosure fails to sufficiently identify how the
+ function is performed or the result is achieved or (2) a broad genus claim is
+ presented but the disclosure only describes a narrow species with no evidence that
+ the genus is contemplated. See *Ariad Pharms., Inc. v. Eli Lilly &
+ Co.,* 598 F.3d 1336, 1349-50 (Fed. Cir. 2010) (en banc). The written
+ description requirement is not necessarily met when the claim language appears
+ *in ipsis verbis* in the specification. "Even if a claim is
+ supported by the specification, the language of the specification, to the extent
+ possible, must describe the claimed invention so that one skilled in the art can
+ recognize what is claimed. The appearance of mere indistinct words in a specification
+ or a claim, even an original claim, does not necessarily satisfy that
+ requirement."*Enzo Biochem, Inc. v. Gen-Probe, Inc.,* 323 F.3d
+ 956, 968, 63 USPQ2d 1609, 1616 (Fed. Cir. 2002).
+ 
+
+**VI.** **INDEFINITENESS REJECTION OF A MEANS- (OR STEP-) PLUS-FUNCTION
+ LIMITATION**A claim limitation expressed in means- (or step-)
+ plus-function language "shall be construed to cover the corresponding structure,
+ material, or acts described in the specification and equivalents thereof."
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph. If the specification fails to disclose sufficient corresponding structure,
+ materials, or acts that perform the entire claimed function, then the claim
+ limitation is indefinite because the applicant has in effect failed to particularly
+ point out and distinctly claim the invention as required by **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph. *In re Donaldson Co.,* 16 F.3d 1189, 1195, 29 USPQ2d
+ 1845, 1850 (Fed. Cir. 1994) (en banc). Such a limitation also lacks an adequate
+ written description as required by **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, because an indefinite, unbounded
+ functional limitation would cover all ways of performing a function and indicate that
+ the inventor has not provided sufficient disclosure to show possession of the
+ invention. See also **[MPEP § 2181](s2181.html#d0e219279)**.
+ 
+
+
+
+
+# 2163.04 Burden on the Examiner with Regard to the Written Description
+ Requirement [R-11.2013]
+
+
+The inquiry into whether the description requirement is met must be
+ determined on a case-by-case basis and is a question of fact. *In re**Wertheim,* 541 F.2d 257, 262, 191 USPQ 90, 96 (CCPA 1976). A
+ description as filed is presumed to be adequate, unless or until sufficient evidence or
+ reasoning to the contrary has been presented by the examiner to rebut the presumption.
+ See, e.g., *In re Marzocchi,* 439 F.2d 220, 224, 169 USPQ 367, 370
+ (CCPA 1971). The examiner, therefore, must have a reasonable basis to challenge the
+ adequacy of the written description. The examiner has the initial burden of presenting
+ by a preponderance of evidence why a person skilled in the art would not recognize in an
+ applicant’s disclosure a description of the invention defined by the claims.
+ *Wertheim,* 541 F.2d at 263, 191 USPQ at 97. 
+ 
+
+**I.** **STATEMENT OF REJECTION REQUIREMENTS**In rejecting a claim, the examiner must set forth express findings
+ of fact which support the lack of written description conclusion (see
+ **[MPEP §
+ 2163](s2163.html#d0e213583)** for examination guidelines pertaining to the written
+ description requirement). These findings should:
+ 
+
+
+* (A) Identify the claim limitation(s) at issue; and
+* (B) Establish a *prima facie* case by providing
+ reasons why a person skilled in the art at the time the application was filed
+ would not have recognized that the inventor was in possession of the invention
+ as claimed in view of the disclosure of the application as filed. A general
+ allegation of "unpredictability in the art" is not a sufficient reason to
+ support a rejection for lack of adequate written description. A simple
+ statement such as "Applicant has not pointed out where the new (or amended)
+ claim is supported, nor does there appear to be a written description of the
+ claim limitation ‘\_\_\_\_’ in the application as filed." may be sufficient where
+ the claim is a new or amended claim, the support for the limitation is not
+ apparent, and applicant has not pointed out where the limitation is
+ supported.
+ 
+
+
+See *Hyatt v. Dudas,* 492 F.3d 1365, 1370, 83
+ USPQ2d 1373, 1376 (Fed. Cir. 2007) (holding that "**[[MPEP] §
+ 2163.04](s2163.html#d0e214731)** [subsection] (I)(B) as written is a lawful
+ formulation of the *prima facie* standard for a lack of
+ written description rejection.").
+
+
+When appropriate, suggest amendments to the claims which can be
+ supported by the application’s written description, being mindful of the prohibition
+ against the addition of new matter in the claims or description. See
+ *Rasmussen,* 650 F.2d at 1214, 211 USPQ at 326.
+ 
+
+**II.** **RESPONSE TO APPLICANT’S REPLY**Upon reply by applicant, before repeating any rejection under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1,
+ for lack of written description, review the basis for the rejection in view of the
+ record as a whole, including amendments, arguments, and any evidence submitted by
+ applicant. If the whole record now demonstrates that the written description
+ requirement is satisfied, do not repeat the rejection in the next Office action. If
+ the record still does not demonstrate that the written description is adequate to
+ support the claim(s), repeat the rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1,
+ fully respond to applicant’s rebuttal arguments, and properly treat any further
+ showings submitted by applicant in the reply. When a rejection is maintained, any
+ affidavits relevant to the **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1, written description requirement, must be
+ thoroughly analyzed and discussed in the next Office action. See *In re
+ Alton,* 76 F.3d 1168, 1176, 37 USPQ2d 1578, 1584 (Fed. Cir. 1996).
+ 
+
+
+
+
+# 2163.05 Changes to the Scope of Claims [R-07.2015]
+
+
+The failure to meet the written description requirement of
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, commonly arises when the claims are changed after filing to either broaden or
+ narrow the breadth of the claim limitations, or to alter a numerical range limitation or
+ to use claim language which is not synonymous with the terminology used in the original
+ disclosure. To comply with the written description requirement of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1, or
+ to be entitled to an earlier priority date or filing date under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, or **[365(c)](mpep-9015-appx-l.html#d0e307034)**, each claim limitation must
+ be expressly, implicitly, or inherently supported in the originally filed disclosure.
+ See **[MPEP §
+ 2163](s2163.html#d0e213583)** for examination guidelines pertaining to the written
+ description requirement.
+ 
+
+**I.** **BROADENING CLAIM*** 
+
+***A.******Omission of a Limitation***Under certain circumstances, omission of a limitation can raise
+ an issue regarding whether the inventor had possession of a broader, more generic
+ invention. See, e.g., *Gentry Gallery, Inc. v. Berkline Corp.,*
+ 134 F.3d 1473, 45 USPQ2d 1498 (Fed. Cir. 1998) (claims to a sectional sofa
+ comprising, *inter alia,* a console and a control means were held
+ invalid for failing to satisfy the written description requirement where the
+ claims were broadened by removing the location of the control means.);
+ *Johnson Worldwide Assoc. v. Zebco Corp.,* 175 F.3d 985, 993,
+ 50 USPQ2d 1607, 1613 (Fed. Cir. 1999) (In *Gentry Gallery,* the
+ "court’s determination that the patent disclosure did not support a broad meaning
+ for the disputed claim terms was premised on clear statements in the written
+ description that described the location of a claim element--the ‘control
+ means’--as ‘the only possible location’ and that variations were ‘outside the
+ stated purpose of the invention.’ *Gentry Gallery,* 134 F.3d at
+ 1479, 45 USPQ2d at 1503. *Gentry Gallery,* then, considers the
+ situation where the patent’s disclosure makes crystal clear that a particular
+ (i.e., narrow) understanding of a claim term is an ‘essential element of [the
+ inventor’s] invention.’"); **Tronzo v. Biomet*,* 156 F.3d at 1158-59, 47 USPQ2d
+ at 1833 (Fed. Cir. 1998) (claims to generic cup shape were not entitled to filing
+ date of parent application which disclosed "conical cup" in view of the disclosure
+ of the parent application stating the advantages and importance of the conical
+ shape.); *In re Wilder,* 736 F.2d 1516, 222 USPQ 369 (Fed. Cir.
+ 1984) (reissue claim omitting "in synchronism" limitation with respect to scanning
+ means and indexing means was not supported by the original patent’s disclosure in
+ such a way as to indicate possession, as of the original filing date, of that
+ generic invention.). 
+ 
+
+
+A claim that omits an element which applicant describes as an
+ essential or critical feature of the invention originally disclosed does not
+ comply with the written description requirement. See *Gentry
+ Gallery,* 134 F.3d at 1480, 45 USPQ2d at 1503; *In re
+ Sus,* 306 F.2d 494, 504, 134 USPQ 301, 309 (CCPA 1962) ("[O]ne skilled
+ in this art would not be taught by the written description of the invention in the
+ specification that any ‘aryl or substituted aryl radical’ would be suitable for
+ the purposes of the invention but rather that only certain aryl radicals and
+ certain specifically substituted aryl radicals [i.e., aryl azides] would be
+ suitable for such purposes.") (emphasis in original). Compare *In re
+ Peters,* 723 F.2d 891, 221 USPQ 952 (Fed. Cir. 1983) (In a reissue
+ application, a claim to a display device was broadened by removing the limitations
+ directed to the specific tapered shape of the tips without violating the written
+ description requirement. The shape limitation was considered to be unnecessary
+ since the specification, as filed, did not describe the tapered shape as essential
+ or critical to the operation or patentability of the claim.). A claim which omits
+ matter disclosed to be essential to the invention as described in the
+ specification or in other statements of record may also be subject to rejection
+ under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para.
+ 1, as not enabling, or under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 2. See *In re Mayhew,*
+ 527 F.2d 1229, 188 USPQ 356 (CCPA 1976); *In re Venezia,* 530
+ F.2d 956, 189 USPQ 149 (CCPA 1976); and *In re Collier,* 397 F.2d
+ 1003, 158 USPQ 266 (CCPA 1968). See also **[MPEP § 2172.01](s2172.html#d0e217526)**.
+ 
+
+***B.******Addition of Generic Claim***The written description requirement for a claimed genus may be
+ satisfied through sufficient description of a representative number of species. A
+ "representative number of species" means that the species which are adequately
+ described are representative of the entire genus. Thus, when there is substantial
+ variation within the genus, one must describe a sufficient variety of species to
+ reflect the variation within the genus. See *AbbVie Deutschland GmbH &
+ Co., KG v. Janssen Biotech, Inc.,* 759 F.3d 1285, 1300, 111 USPQ2d
+ 1780, 1790 (Fed. Cir. 2014) (Claims directed to a functionally defined genus of
+ antibodies were not supported by a disclosure that "only describe[d] one type of
+ structurally similar antibodies" that "are not representative of the full variety
+ or scope of the genus."). The disclosure of only one species encompassed within a
+ genus adequately describes a claim directed to that genus only if the disclosure
+ "indicates that the patentee has invented species sufficient to constitute the
+ gen[us]." See *Enzo Biochem,* 323 F.3d at 966, 63 USPQ2d at 1615.
+ "A patentee will not be deemed to have invented species sufficient to constitute
+ the genus by virtue of having disclosed a single species when … the evidence
+ indicates ordinary artisans could not predict the operability in the invention of
+ any species other than the one disclosed." *In re Curtis,* 354
+ F.3d 1347, 1358, 69 USPQ2d 1274, 1282 (Fed. Cir. 2004) (Claims directed to PTFE
+ dental floss with a friction-enhancing coating were not supported by a disclosure
+ of a microcrystalline wax coating where there was no evidence in the disclosure or
+ anywhere else in the record showing applicant conveyed that any other coating was
+ suitable for a PTFE dental floss.) On the other hand, there may be situations
+ where one species adequately supports a genus. See, e.g., *In re
+ Rasmussen,* 650 F.2d 1212, 1214, 211 USPQ 323, 326-27 (CCPA 1981)
+ (disclosure of a single method of adheringly applying one layer to another was
+ sufficient to support a generic claim to "adheringly applying" because one skilled
+ in the art reading the specification would understand that it is unimportant how
+ the layers are adhered, so long as they are adhered); *In re
+ Herschler,* 591 F.2d 693, 697, 200 USPQ 711, 714 (CCPA 1979)
+ (disclosure of corticosteriod in DMSO sufficient to support claims drawn to a
+ method of using a mixture of a "physiologically active steroid" and DMSO because
+ "use of known chemical compounds in a manner auxiliary to the invention must have
+ a corresponding written description only so specific as to lead one having
+ ordinary skill in the art to that class of compounds. Occasionally, a functional
+ recitation of those known compounds in the specification may be sufficient as that
+ description."); *In re Smythe,* 480 F.2d 1376, 1383, 178 USPQ
+ 279, 285 (CCPA 1973) (the phrase "air or other gas which is inert to the liquid"
+ was sufficient to support a claim to "inert fluid media" because the description
+ of the properties and functions of the air or other gas segmentizing medium would
+ suggest to a person skilled in the art that appellant’s invention includes the use
+ of "inert fluid" broadly.). However, in *Tronzo v. Biomet,* 156
+ F.3d 1154, 1159, 47 USPQ2d 1829, 1833 (Fed. Cir. 1998), the disclosure of a
+ species in the parent application did not suffice to provide written description
+ support for the genus in the child application where the specification taught
+ against other species. See also *In re Gosteli,* 872 F.2d 1008,
+ 10 USPQ2d 1614 (Fed. Cir. 1989) (generic and subgeneric claims in the U.S.
+ application were not entitled to the benefit of foreign priority where the foreign
+ application disclosed only two of the species encompassed by the broad generic
+ claim and the subgeneric Markush claim that encompassed 21 compounds). 
+ 
+
+**II.** **NARROWING OR SUBGENERIC CLAIM**The introduction of claim changes which involve narrowing the claims
+ by introducing elements or limitations which are not supported by the as-filed
+ disclosure is a violation of the written description requirement of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. See, e.g., *Fujikawa v. Wattanasin,* 93 F.3d 1559, 1571,
+ 39 USPQ2d 1895, 1905 (Fed. Cir. 1996) (a "laundry list" disclosure of every possible
+ moiety does not constitute a written description of every species in a genus because
+ it would not "reasonably lead" those skilled in the art to any particular species);
+ *In re Ruschig,* 379 F.2d 990, 995, 154 USPQ 118, 123 (CCPA 1967)
+ ("*If* n-propylamine had been used in making the compound instead
+ of n-butylamine, the compound of claim 13 would have resulted. Appellants submit to
+ us, as they did to the board, an imaginary specific example patterned on specific
+ example 6 by which the above butyl compound is made so that we can see what a simple
+ change would have resulted in a specific supporting disclosure being present in the
+ present specification. The trouble is that there is no such disclosure, easy though
+ it is to imagine it.") (emphasis in original); *Rozbicki v. Chiang,*
+ 590 Fed.App’x 990, 996 (Fed. Cir. 2014) (non-precedential) (The court found that
+ patentee, "while attempting to obtain the broadest claim language possible during
+ prosecution, cannot now improperly narrow its language by importing limitations not
+ supported by the claim language or written description."). In *Ex
+ parte**Ohshiro,* 14 USPQ2d 1750 (Bd. Pat. App. & Inter. 1989), the
+ Board affirmed the rejection under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph,
+ of claims to an internal combustion engine which recited "at least one of said piston
+ and said cylinder (head) having a recessed channel." The Board held that the
+ application which disclosed a cylinder head with a recessed channel and a piston
+ without a recessed channel did not specifically disclose the "species" of a channeled
+ piston.
+ 
+
+
+While these and other cases find that recitation of an undisclosed
+ species may violate the description requirement, a change involving subgeneric
+ terminology may or may not be acceptable. Applicant was not entitled to the benefit
+ of a parent filing date when the claim was directed to a subgenus (a specified range
+ of molecular weight ratios) where the parent application contained a generic
+ disclosure and a specific example that fell within the recited range because the
+ court held that subgenus range was not described in the parent application.
+ *In re**Lukach,* 442 F.2d 967, 169 USPQ 795 (CCPA 1971). On the other hand,
+ in *Ex parte**Sorenson,* 3 USPQ2d 1462 (Bd. Pat. App. & Inter. 1987), the
+ subgeneric language of "aliphatic carboxylic acid" and "aryl carboxylic acid" did not
+ violate the written description requirement because species falling within each
+ subgenus were disclosed as well as the generic carboxylic acid. See also *In
+ re**Smith,* 458 F.2d 1389, 1395, 173 USPQ 679, 683 (CCPA 1972)
+ ("Whatever may be the viability of an inductive-deductive approach to arriving at a
+ claimed subgenus, it cannot be said that such a subgenus is
+ necessarily described by a genus encompassing it and a species upon which it reads."
+ (emphasis added)). Each case must be decided on its own facts in terms of what is
+ reasonably communicated to those skilled in the art. *In re**Wilder,* 736 F.2d 1516, 1520, 222 USPQ 369, 372 (Fed. Cir. 1984).
+ 
+ 
+
+**III.** **RANGE LIMITATIONS**With respect to changing numerical range limitations, the analysis
+ must take into account which ranges one skilled in the art would consider inherently
+ supported by the discussion in the original disclosure. In the decision in
+ *In re**Wertheim,* 541 F.2d 257, 191 USPQ 90 (CCPA 1976), the ranges
+ described in the original specification included a range of "25%- 60%" and specific
+ examples of "36%" and "50%." A corresponding new claim limitation to "at least 35%"
+ did not meet the description requirement because the phrase "at least" had no upper
+ limit and caused the claim to read literally on embodiments outside the "25% to 60%"
+ range, however a limitation to "between 35% and 60%" did meet the description
+ requirement.
+ 
+
+
+See also *Purdue Pharma L.P. v. Faulding Inc.,*
+ 230 F.3d 1320, 1328, 56 USPQ2d 1481, 1487 (Fed. Cir. 2000) ("[T]he specification does
+ not clearly disclose to the skilled artisan that the inventors... considered the...
+ ratio to be part of their invention.... There is therefore no force to Purdue’s
+ argument that the written description requirement was satisfied because the
+ disclosure revealed a broad invention from which the [later-filed] claims carved out
+ a patentable portion"). Compare *Union Oil of Cal. v. Atl. Richfield
+ Co.,* 208 F.3d 989, 997, 54 USPQ2d 1227, 1232-33 (Fed. Cir. 2000)
+ (Description in terms of ranges of chemical properties which work in combination with
+ ranges of other chemical properties to produce an automotive gasoline that reduces
+ emissions was found to provide an adequate written description even though the exact
+ chemical components of each combination were not disclosed and the specification did
+ not disclose any distinct embodiments corresponding to any claim at issue. "[T]he
+ Patent Act and this court’s case law require only sufficient description to show one
+ of skill in the . . . art that the inventor possessed the claimed invention at the
+ time of filing.").
+ 
+
+
+
+
+# 2163.06 Relationship of Written Description Requirement to New
+ Matter [R-11.2013]
+
+
+Lack of written description is an issue that generally arises with
+ respect to the subject matter of a claim. If an applicant amends or attempts to amend
+ the abstract, specification or drawings of an application, an issue of new matter will
+ arise if the content of the amendment is not described in the application as filed.
+ Stated another way, information contained in any one of the specification, claims or
+ drawings of the application as filed may be added to any other part of the application
+ without introducing new matter.
+ 
+
+
+There are two statutory provisions that prohibit the introduction of
+ new matter. The first provision is **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)**, which provides that
+ no amendment shall introduce new matter into the disclosure of the invention. The second
+ provision is **[35 U.S.C.
+ 251](mpep-9015-appx-l.html#d0e305345)**, which provides that no new matter shall be introduced into
+ the application for reissue.
+ 
+
+**I.** **TREATMENT OF NEW MATTER**If new subject matter is added to the disclosure, whether it be in
+ the abstract, the specification, or the drawings, the examiner should object to the
+ introduction of new matter under **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)** or
+ **[251](mpep-9015-appx-l.html#d0e305345)** as appropriate, and require applicant to cancel the new
+ matter. If new matter is added to the claims, the examiner should reject the claims
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph - written description requirement. *In re Rasmussen,* 650
+ F.2d 1212, 211 USPQ 323 (CCPA 1981). The examiner should still consider the subject
+ matter added to the claim in making rejections based on prior art since the new
+ matter rejection may be overcome by applicant.
+ 
+
+
+When the claims have not been amended, *per se,*
+ but the specification has been amended to add new matter, a rejection of the claims
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, should be made whenever any of the claim limitations are affected by the
+ added material.
+ 
+
+
+When an amendment is filed in reply to an objection or rejection
+ based on **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, a study of the entire application is often necessary to determine whether
+ or not "new matter" is involved. Applicant should therefore specifically point out
+ the support for any amendments made to the disclosure.
+ 
+
+**II.** **REVIEW OF NEW MATTER OBJECTIONS AND/OR REJECTIONS**A rejection of claims is reviewable by the Patent Trial and Appeal
+ Board, whereas an objection and requirement to delete new matter is subject to
+ supervisory review by petition under **[37 CFR 1.181](mpep-9020-appx-r.html#d0e324913)**. If both the claims
+ and specification contain new matter either directly or indirectly, and there has
+ been both a rejection and objection by the examiner, the issue becomes appealable and
+ should not be decided by petition.
+ 
+
+**III.** **CLAIMED SUBJECT MATTER NOT DISCLOSED IN REMAINDER OF SPECIFICATION**The claims as filed in the original specification are part of the
+ disclosure and therefore, if an application as originally filed contains a claim
+ disclosing material not disclosed in the remainder of the specification, the
+ applicant may amend the specification to include the claimed subject matter.
+ *In re**Benno,* 768 F.2d 1340, 226 USPQ 683 (Fed. Cir. 1985). Form
+ paragraph **[7.44](#fp7.44)** may be used where originally claimed subject
+ matter lacks proper antecedent basis in the specification. See **[MPEP §
+ 608.01(o)](s608.html#d0e46173)**.
+ 
+
+
+
+
+# 2163.07 Amendments to Application Which Are Supported in the Original
+ Description [R-08.2017]
+
+
+Amendments to an application which are supported in the original
+ description are NOT new matter.
+ 
+
+**I.** **REPHRASING**Mere rephrasing of a passage does not constitute new matter.
+ Accordingly, a rewording of a passage where the same meaning remains intact is
+ permissible. *In re Anderson,* 471 F.2d 1237, 176 USPQ 331 (CCPA
+ 1973). The mere inclusion of dictionary or art recognized definitions known at the
+ time of filing an application may not be considered new matter. If there are multiple
+ definitions for a term and a definition is added to the application, it must be clear
+ from the application as filed that applicant intended a particular definition, in
+ order to avoid an issue of new matter and/or lack of written description. See, e.g.,
+ *Schering Corp. v. Amgen, Inc.,* 222 F.3d 1347, 1352-53, 55
+ USPQ2d 1650, 1654 (Fed. Cir. 2000). In *Schering,* the original
+ disclosure was drawn to recombinant DNA molecules and used the term "leukocyte
+ interferon." Shortly after the filing date, a scientific committee abolished the term
+ in favor of "IFN-(a)," since the latter term more specifically identified a
+ particular polypeptide and since the committee found that leukocytes also produced
+ other types of interferon. The court held that the subsequent amendment to the
+ specification and claims substituting the term "IFN-(a)" for "leukocyte interferon"
+ merely renamed the invention and did not constitute new matter. The claims were
+ limited to cover only the interferon subtype coded for by the inventor’s original
+ deposits.
+ 
+
+**II.** **OBVIOUS ERRORS**An amendment to correct an obvious error does not constitute new
+ matter where one skilled in the art would not only recognize the existence of error
+ in the specification, but also the appropriate correction. *In re**Oda,* 443 F.2d 1200, 170 USPQ 268 (CCPA 1971).
+ 
+
+
+Where a foreign priority document under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**
+ is of record in the U.S. application file, applicant may not rely on the disclosure
+ of that document to support correction of an error in the pending U.S. application.
+ *Ex parte**Bondiou,* 132 USPQ 356 (Bd. Pat. App. & Int. 1961). This
+ prohibition applies regardless of the language of the foreign priority documents
+ because a claim for priority is simply a claim for the benefit of an earlier filing
+ date for subject matter that is common to two or more applications, and does not
+ serve to incorporate the content of the priority document in the application in which
+ the claim for priority is made. This prohibition does not apply where the U.S.
+ application explicitly incorporates the foreign priority document by reference. For
+ applications filed on or after September 21, 2004, where all or a portion of the
+ specification or drawing(s) is inadvertently omitted from the U.S. application, a
+ claim under **[37
+ CFR 1.55](mpep-9020-appx-r.html#plt_d0e319217)** for priority of a prior-filed foreign application that
+ is present on the filing date of the application is considered an incorporation by
+ reference of the prior-filed foreign application as to the inadvertently omitted
+ portion of the specification or drawing(s), subject to the conditions and
+ requirements of **[37
+ CFR 1.57(a)](mpep-9020-appx-r.html#d0e319490)**. See **[37 CFR 1.57(a)](mpep-9020-appx-r.html#d0e319490)** and
+ **[MPEP §
+ 217](s217.html#ch200_d1ff72_27f9d_2c9)**.
+ 
+
+
+Where a U.S. application as originally filed was in a non-English
+ language and an English translation thereof was subsequently submitted pursuant to
+ **[37 CFR
+ 1.52(d)](mpep-9020-appx-r.html#d0e318327)**, if there is an error in the English translation,
+ applicant may rely on the disclosure of the originally filed non-English language
+ U.S. application to support correction of an error in the English translation
+ document.
+ 
+
+
+
+# 2163.07(a) Inherent Function, Theory, or Advantage [R-08.2017]
+
+
+By disclosing in a patent application a device that inherently
+ performs a function or has a property, operates according to a theory or has an
+ advantage, a patent application necessarily discloses that function, theory or
+ advantage, even though it says nothing explicit concerning it. The application may
+ later be amended to recite the function, theory or advantage without introducing
+ prohibited new matter. *In re**Reynolds,* 443 F.2d 384, 170 USPQ 94 (CCPA 1971); *In
+ re**Smythe,* 480 F. 2d 1376, 178 USPQ 279 (CCPA 1973); *Yeda
+ Research and Dev. Co. v. Abbott GMBH & Co.,* 837 F.3d 1341, 120
+ USPQ2d 1299 (Fed. Cir. 2016) ("Under the doctrine of inherent disclosure, when a
+ specification describes an invention that has certain undisclosed yet inherent
+ properties, that specification serves as adequate written description to support a
+ subsequent patent application that explicitly recites the invention’s inherent
+ properties." (citing *Kennecott Corp. v. Kyocera Int’l, Inc.,* 835
+ F.2d 1419, 1423 (Fed. Cir. 1987))). "To establish inherency, the extrinsic evidence
+ ‘must make clear that the missing descriptive matter is necessarily present in the
+ thing described in the reference, and that it would be so recognized by persons of
+ ordinary skill. Inherency, however, may not be established by probabilities or
+ possibilities. The mere fact that a certain thing may result from a given set of
+ circumstances is not sufficient.’" *In re Robertson,* 169 F.3d 743,
+ 745, 49 USPQ2d 1949, 1950-51 (Fed. Cir. 1999) (citations omitted).
+ 
+
+
+
+
+# 2163.07(b) Incorporation by Reference [R-11.2013]
+
+
+Instead of repeating some information contained in another document,
+ an application may attempt to incorporate the content of another document or part
+ thereof by reference to the document in the text of the specification. The
+ information incorporated is as much a part of the application as filed as if the text
+ was repeated in the application, and should be treated as part of the text of the
+ application as filed. Replacing the identified material incorporated by reference
+ with the actual text is not new matter. See **[37 CFR 1.57](mpep-9020-appx-r.html#d0e319490)** and
+ **[MPEP
+ § 608.01(p)](s608.html#d0e46258)** for Office policy regarding incorporation by
+ reference. See **[MPEP
+ § 2181](s2181.html#d0e219279)** for the impact of incorporation by reference on the
+ determination of whether applicant has complied with the requirements of
+ **[35
+ U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph when **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph is invoked.
+ 
+
+
+
+
+[[top]](#top)
+
+
+, 
+# 2163.01 Support for the Claimed Subject Matter in
+ Disclosure [R-11.2013]
+
+
+A written description requirement issue generally involves the question
+ of whether the subject matter of a claim is supported by [conforms to] the disclosure of
+ an application as filed. If the examiner concludes that the claimed subject matter is
+ not supported [described] in an application as filed, this would result in a rejection
+ of the claim on the ground of a lack of written description under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, or denial of the benefit of the filing date of a previously filed
+ application. The claim should not be rejected or objected to on the ground of new
+ matter. As framed by the court in *In re Rasmussen,* 650 F.2d 1212, 211
+ USPQ 323 (CCPA 1981), the concept of new matter is properly employed as a basis for
+ objection to amendments to the abstract, specification or drawings attempting to add new
+ disclosure to that originally presented. While the test or analysis of description
+ requirement and new matter issues is the same, the examining procedure and statutory
+ basis for addressing these issues differ. See **[MPEP § 2163.06](s2163.html#d0e215023)**.
+ 
+
+
+, 
+# 2163.02 Standard for Determining Compliance With the Written
+ Description Requirement [R-11.2013]
+
+
+The courts have described the essential question to be addressed in a
+ description requirement issue in a variety of ways. An objective standard for
+ determining compliance with the written description requirement is, "does the
+ description clearly allow persons of ordinary skill in the art to recognize that he or
+ she invented what is claimed." *In re**Gosteli,* 872 F.2d 1008, 1012, 10 USPQ2d 1614, 1618 (Fed. Cir. 1989).
+ Under *Vas-Cath, Inc.**v.* *Mahurkar,* 935 F.2d 1555, 1563-64, 19 USPQ2d 1111, 1117 (Fed. Cir.
+ 1991), to satisfy the written description requirement, an applicant must convey with
+ reasonable clarity to those skilled in the art that, as of the filing date sought, he or
+ she was in possession of the invention, and that the invention, in that context, is
+ whatever is now claimed. The test for sufficiency of support in a parent application is
+ whether the disclosure of the application relied upon "reasonably conveys to the artisan
+ that the inventor had possession at that time of the later claimed subject matter."
+ *Ralston Purina Co.**v.**Far-Mar-Co., Inc.,* 772 F.2d 1570, 1575, 227 USPQ 177, 179 (Fed. Cir.
+ 1985) (quoting *In re**Kaslow,* 707 F.2d 1366, 1375, 217 USPQ 1089, 1096 (Fed. Cir.
+ 1983)).
+ 
+
+
+Whenever the issue arises, the fundamental factual inquiry is whether
+ the specification conveys with reasonable clarity to those skilled in the art that, as
+ of the filing date sought, applicant was in possession of the invention as now claimed.
+ See, e.g., *Vas-Cath, Inc. v. Mahurkar,* 935 F.2d 1555, 1563-64, 19
+ USPQ2d 1111, 1117 (Fed. Cir. 1991). An applicant shows possession of the claimed
+ invention by describing the claimed invention with all of its limitations using such
+ descriptive means as words, structures, figures, diagrams, and formulas that fully set
+ forth the claimed invention. *Lockwood v. Am. Airlines, Inc.,* 107 F.3d
+ 1565, 1572, 41 USPQ2d 1961, 1966 (Fed. Cir. 1997). Possession may be shown in a variety
+ of ways including description of an actual reduction to practice, or by showing that the
+ invention was "ready for patenting" such as by the disclosure of drawings or structural
+ chemical formulas that show that the invention was complete, or by describing
+ distinguishing identifying characteristics sufficient to show that the applicant was in
+ possession of the claimed invention. See, e.g., *Pfaff v. Wells Elecs.,
+ Inc.,* 525 U.S. 55, 68, 119 S.Ct. 304, 312, 48 USPQ2d 1641, 1647 (1998);
+ *Regents of the Univ. of Cal. v. Eli Lilly,* 119 F.3d 1559, 1568, 43
+ USPQ2d 1398, 1406 (Fed. Cir. 1997); *Amgen, Inc. v. Chugai Pharm.,* 927
+ F.2d 1200, 1206, 18 USPQ2d 1016, 1021 (Fed. Cir. 1991) (one must define a compound by
+ "whatever characteristics sufficiently distinguish it").
+ 
+
+
+The subject matter of the claim need not be described literally (i.e.,
+ using the same terms or *in haec verba*) in order for the disclosure to
+ satisfy the description requirement. If a claim is amended to include subject matter,
+ limitations, or terminology not present in the application as filed, involving a
+ departure from, addition to, or deletion from the disclosure of the application as
+ filed, the examiner should conclude that the claimed subject matter is not described in
+ that application. This conclusion will result in the rejection of the claims affected
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C.112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph - description requirement, or denial of the benefit of the filing date of a
+ previously filed application, as appropriate.
+ 
+
+
+See **[MPEP
+ § 2163](s2163.html#d0e213583)** for examination guidelines pertaining to the written
+ description requirement.
+ 
+
+
+, 
+# 2163.03 Typical Circumstances Where Adequate Written Description Issue
+ Arises [R-10.2019]
+
+
+A description requirement issue can arise in a number of different
+ circumstances where it must be determined whether the subject matter of a claim is
+ supported in an application as filed. See **[MPEP § 2163](s2163.html#d0e213583)** for examination guidelines
+ pertaining to the written description requirement. Most typically, the issue will arise
+ in the following circumstances: 
+ 
+
+**I.** **AMENDMENT AFFECTING A CLAIM**An amendment to the claims or the addition of a new claim must be
+ supported by the description of the invention in the application as filed.
+ *In re**Wright,* 866 F.2d 422, 9 USPQ2d 1649 (Fed. Cir. 1989). An amendment
+ to the specification (e.g., a change in the definition of a term used both in the
+ specification and claim) may indirectly affect a claim even though no actual
+ amendment is made to the claim. 
+ 
+
+**II.** **RELIANCE ON FILING DATE OF PARENT APPLICATION UNDER 35 U.S.C. 120**Under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, the claims in a
+ U.S. application are entitled to the benefit of the filing date of an earlier filed
+ U.S. application if the subject matter of the claim is disclosed in the manner
+ provided by **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph in the earlier filed
+ application. See, e.g., *Tronzo v. Biomet, Inc.,* 156 F.3d 1154, 47
+ USPQ2d 1829 (Fed. Cir. 1998); *In re**Scheiber,* 587 F.2d 59, 199 USPQ 782 (CCPA 1978).
+ 
+
+**III.** **RELIANCE ON PRIORITY UNDER 35 U.S.C. 119**Under **[35 U.S.C. 119(a) or (e)](mpep-9015-appx-l.html#d0e302921)**, the
+ claims in a U.S. application are entitled to the benefit of a foreign priority date
+ or the filing date of a provisional application if the corresponding foreign
+ application or provisional application supports the claims in the manner required by
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. *In re**Ziegler,* 992 F.2d 1197, 1200, 26 USPQ2d 1600, 1603 (Fed. Cir.
+ 1993);  *Kawai**v.**Metlesics,* 480 F.2d 880, 178 USPQ 158 (CCPA 1973); *In
+ re**Gosteli,* 872 F.2d 1008, 10 USPQ2d 1614 (Fed. Cir. 1989).
+ 
+
+**IV.** **SUPPORT FOR A CLAIM CORRESPONDING TO A COUNT IN AN INTERFERENCE**In an interference proceeding, the claim corresponding to a count
+ must be supported by the specification in the manner provided by **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. *Fields v. Conover,* 443 F.2d 1386, 170 USPQ 276 (CCPA
+ 1971) (A broad generic disclosure to a class of compounds was not a sufficient
+ written description of a specific compound within the class.). Furthermore, when a
+ party to an interference seeks the benefit of an earlier-filed U.S. patent
+ application, the earlier application must meet the requirements of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph for the subject matter of the count. *Hyatt v. Boone,* 146
+ F.3d 1348, 1352, 47 USPQ2d 1128, 1130 (Fed. Cir. 1998).
+ 
+
+**V.** **ORIGINAL CLAIM NOT SUFFICIENTLY
+ DESCRIBED**While there is a presumption that an adequate written
+ description of the claimed invention is present in the specification as filed,
+ *In re Wertheim,* 541 F.2d 257, 262, 191 USPQ 90, 96 (CCPA 1976),
+ a question as to whether a specification provides an adequate written description may
+ arise in the context of an original claim. An original claim may lack written
+ description support when (1) the claim defines the invention in functional language
+ specifying a desired result but the disclosure fails to sufficiently identify how the
+ function is performed or the result is achieved or (2) a broad genus claim is
+ presented but the disclosure only describes a narrow species with no evidence that
+ the genus is contemplated. See *Ariad Pharms., Inc. v. Eli Lilly &
+ Co.,* 598 F.3d 1336, 1349-50 (Fed. Cir. 2010) (en banc). The written
+ description requirement is not necessarily met when the claim language appears
+ *in ipsis verbis* in the specification. "Even if a claim is
+ supported by the specification, the language of the specification, to the extent
+ possible, must describe the claimed invention so that one skilled in the art can
+ recognize what is claimed. The appearance of mere indistinct words in a specification
+ or a claim, even an original claim, does not necessarily satisfy that
+ requirement."*Enzo Biochem, Inc. v. Gen-Probe, Inc.,* 323 F.3d
+ 956, 968, 63 USPQ2d 1609, 1616 (Fed. Cir. 2002).
+ 
+
+**VI.** **INDEFINITENESS REJECTION OF A MEANS- (OR STEP-) PLUS-FUNCTION
+ LIMITATION**A claim limitation expressed in means- (or step-)
+ plus-function language "shall be construed to cover the corresponding structure,
+ material, or acts described in the specification and equivalents thereof."
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph. If the specification fails to disclose sufficient corresponding structure,
+ materials, or acts that perform the entire claimed function, then the claim
+ limitation is indefinite because the applicant has in effect failed to particularly
+ point out and distinctly claim the invention as required by **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph. *In re Donaldson Co.,* 16 F.3d 1189, 1195, 29 USPQ2d
+ 1845, 1850 (Fed. Cir. 1994) (en banc). Such a limitation also lacks an adequate
+ written description as required by **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, because an indefinite, unbounded
+ functional limitation would cover all ways of performing a function and indicate that
+ the inventor has not provided sufficient disclosure to show possession of the
+ invention. See also **[MPEP § 2181](s2181.html#d0e219279)**.
+ 
+
+
+, 
+# 2163.04 Burden on the Examiner with Regard to the Written Description
+ Requirement [R-11.2013]
+
+
+The inquiry into whether the description requirement is met must be
+ determined on a case-by-case basis and is a question of fact. *In re**Wertheim,* 541 F.2d 257, 262, 191 USPQ 90, 96 (CCPA 1976). A
+ description as filed is presumed to be adequate, unless or until sufficient evidence or
+ reasoning to the contrary has been presented by the examiner to rebut the presumption.
+ See, e.g., *In re Marzocchi,* 439 F.2d 220, 224, 169 USPQ 367, 370
+ (CCPA 1971). The examiner, therefore, must have a reasonable basis to challenge the
+ adequacy of the written description. The examiner has the initial burden of presenting
+ by a preponderance of evidence why a person skilled in the art would not recognize in an
+ applicant’s disclosure a description of the invention defined by the claims.
+ *Wertheim,* 541 F.2d at 263, 191 USPQ at 97. 
+ 
+
+**I.** **STATEMENT OF REJECTION REQUIREMENTS**In rejecting a claim, the examiner must set forth express findings
+ of fact which support the lack of written description conclusion (see
+ **[MPEP §
+ 2163](s2163.html#d0e213583)** for examination guidelines pertaining to the written
+ description requirement). These findings should:
+ 
+
+
+* (A) Identify the claim limitation(s) at issue; and
+* (B) Establish a *prima facie* case by providing
+ reasons why a person skilled in the art at the time the application was filed
+ would not have recognized that the inventor was in possession of the invention
+ as claimed in view of the disclosure of the application as filed. A general
+ allegation of "unpredictability in the art" is not a sufficient reason to
+ support a rejection for lack of adequate written description. A simple
+ statement such as "Applicant has not pointed out where the new (or amended)
+ claim is supported, nor does there appear to be a written description of the
+ claim limitation ‘\_\_\_\_’ in the application as filed." may be sufficient where
+ the claim is a new or amended claim, the support for the limitation is not
+ apparent, and applicant has not pointed out where the limitation is
+ supported.
+ 
+
+
+See *Hyatt v. Dudas,* 492 F.3d 1365, 1370, 83
+ USPQ2d 1373, 1376 (Fed. Cir. 2007) (holding that "**[[MPEP] §
+ 2163.04](s2163.html#d0e214731)** [subsection] (I)(B) as written is a lawful
+ formulation of the *prima facie* standard for a lack of
+ written description rejection.").
+
+
+When appropriate, suggest amendments to the claims which can be
+ supported by the application’s written description, being mindful of the prohibition
+ against the addition of new matter in the claims or description. See
+ *Rasmussen,* 650 F.2d at 1214, 211 USPQ at 326.
+ 
+
+**II.** **RESPONSE TO APPLICANT’S REPLY**Upon reply by applicant, before repeating any rejection under
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1,
+ for lack of written description, review the basis for the rejection in view of the
+ record as a whole, including amendments, arguments, and any evidence submitted by
+ applicant. If the whole record now demonstrates that the written description
+ requirement is satisfied, do not repeat the rejection in the next Office action. If
+ the record still does not demonstrate that the written description is adequate to
+ support the claim(s), repeat the rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1,
+ fully respond to applicant’s rebuttal arguments, and properly treat any further
+ showings submitted by applicant in the reply. When a rejection is maintained, any
+ affidavits relevant to the **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1, written description requirement, must be
+ thoroughly analyzed and discussed in the next Office action. See *In re
+ Alton,* 76 F.3d 1168, 1176, 37 USPQ2d 1578, 1584 (Fed. Cir. 1996).
+ 
+
+
+, 
+# 2163.05 Changes to the Scope of Claims [R-07.2015]
+
+
+The failure to meet the written description requirement of
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, commonly arises when the claims are changed after filing to either broaden or
+ narrow the breadth of the claim limitations, or to alter a numerical range limitation or
+ to use claim language which is not synonymous with the terminology used in the original
+ disclosure. To comply with the written description requirement of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 1, or
+ to be entitled to an earlier priority date or filing date under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**,
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, or **[365(c)](mpep-9015-appx-l.html#d0e307034)**, each claim limitation must
+ be expressly, implicitly, or inherently supported in the originally filed disclosure.
+ See **[MPEP §
+ 2163](s2163.html#d0e213583)** for examination guidelines pertaining to the written
+ description requirement.
+ 
+
+**I.** **BROADENING CLAIM*** 
+
+***A.******Omission of a Limitation***Under certain circumstances, omission of a limitation can raise
+ an issue regarding whether the inventor had possession of a broader, more generic
+ invention. See, e.g., *Gentry Gallery, Inc. v. Berkline Corp.,*
+ 134 F.3d 1473, 45 USPQ2d 1498 (Fed. Cir. 1998) (claims to a sectional sofa
+ comprising, *inter alia,* a console and a control means were held
+ invalid for failing to satisfy the written description requirement where the
+ claims were broadened by removing the location of the control means.);
+ *Johnson Worldwide Assoc. v. Zebco Corp.,* 175 F.3d 985, 993,
+ 50 USPQ2d 1607, 1613 (Fed. Cir. 1999) (In *Gentry Gallery,* the
+ "court’s determination that the patent disclosure did not support a broad meaning
+ for the disputed claim terms was premised on clear statements in the written
+ description that described the location of a claim element--the ‘control
+ means’--as ‘the only possible location’ and that variations were ‘outside the
+ stated purpose of the invention.’ *Gentry Gallery,* 134 F.3d at
+ 1479, 45 USPQ2d at 1503. *Gentry Gallery,* then, considers the
+ situation where the patent’s disclosure makes crystal clear that a particular
+ (i.e., narrow) understanding of a claim term is an ‘essential element of [the
+ inventor’s] invention.’"); **Tronzo v. Biomet*,* 156 F.3d at 1158-59, 47 USPQ2d
+ at 1833 (Fed. Cir. 1998) (claims to generic cup shape were not entitled to filing
+ date of parent application which disclosed "conical cup" in view of the disclosure
+ of the parent application stating the advantages and importance of the conical
+ shape.); *In re Wilder,* 736 F.2d 1516, 222 USPQ 369 (Fed. Cir.
+ 1984) (reissue claim omitting "in synchronism" limitation with respect to scanning
+ means and indexing means was not supported by the original patent’s disclosure in
+ such a way as to indicate possession, as of the original filing date, of that
+ generic invention.). 
+ 
+
+
+A claim that omits an element which applicant describes as an
+ essential or critical feature of the invention originally disclosed does not
+ comply with the written description requirement. See *Gentry
+ Gallery,* 134 F.3d at 1480, 45 USPQ2d at 1503; *In re
+ Sus,* 306 F.2d 494, 504, 134 USPQ 301, 309 (CCPA 1962) ("[O]ne skilled
+ in this art would not be taught by the written description of the invention in the
+ specification that any ‘aryl or substituted aryl radical’ would be suitable for
+ the purposes of the invention but rather that only certain aryl radicals and
+ certain specifically substituted aryl radicals [i.e., aryl azides] would be
+ suitable for such purposes.") (emphasis in original). Compare *In re
+ Peters,* 723 F.2d 891, 221 USPQ 952 (Fed. Cir. 1983) (In a reissue
+ application, a claim to a display device was broadened by removing the limitations
+ directed to the specific tapered shape of the tips without violating the written
+ description requirement. The shape limitation was considered to be unnecessary
+ since the specification, as filed, did not describe the tapered shape as essential
+ or critical to the operation or patentability of the claim.). A claim which omits
+ matter disclosed to be essential to the invention as described in the
+ specification or in other statements of record may also be subject to rejection
+ under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para.
+ 1, as not enabling, or under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, para. 2. See *In re Mayhew,*
+ 527 F.2d 1229, 188 USPQ 356 (CCPA 1976); *In re Venezia,* 530
+ F.2d 956, 189 USPQ 149 (CCPA 1976); and *In re Collier,* 397 F.2d
+ 1003, 158 USPQ 266 (CCPA 1968). See also **[MPEP § 2172.01](s2172.html#d0e217526)**.
+ 
+
+***B.******Addition of Generic Claim***The written description requirement for a claimed genus may be
+ satisfied through sufficient description of a representative number of species. A
+ "representative number of species" means that the species which are adequately
+ described are representative of the entire genus. Thus, when there is substantial
+ variation within the genus, one must describe a sufficient variety of species to
+ reflect the variation within the genus. See *AbbVie Deutschland GmbH &
+ Co., KG v. Janssen Biotech, Inc.,* 759 F.3d 1285, 1300, 111 USPQ2d
+ 1780, 1790 (Fed. Cir. 2014) (Claims directed to a functionally defined genus of
+ antibodies were not supported by a disclosure that "only describe[d] one type of
+ structurally similar antibodies" that "are not representative of the full variety
+ or scope of the genus."). The disclosure of only one species encompassed within a
+ genus adequately describes a claim directed to that genus only if the disclosure
+ "indicates that the patentee has invented species sufficient to constitute the
+ gen[us]." See *Enzo Biochem,* 323 F.3d at 966, 63 USPQ2d at 1615.
+ "A patentee will not be deemed to have invented species sufficient to constitute
+ the genus by virtue of having disclosed a single species when … the evidence
+ indicates ordinary artisans could not predict the operability in the invention of
+ any species other than the one disclosed." *In re Curtis,* 354
+ F.3d 1347, 1358, 69 USPQ2d 1274, 1282 (Fed. Cir. 2004) (Claims directed to PTFE
+ dental floss with a friction-enhancing coating were not supported by a disclosure
+ of a microcrystalline wax coating where there was no evidence in the disclosure or
+ anywhere else in the record showing applicant conveyed that any other coating was
+ suitable for a PTFE dental floss.) On the other hand, there may be situations
+ where one species adequately supports a genus. See, e.g., *In re
+ Rasmussen,* 650 F.2d 1212, 1214, 211 USPQ 323, 326-27 (CCPA 1981)
+ (disclosure of a single method of adheringly applying one layer to another was
+ sufficient to support a generic claim to "adheringly applying" because one skilled
+ in the art reading the specification would understand that it is unimportant how
+ the layers are adhered, so long as they are adhered); *In re
+ Herschler,* 591 F.2d 693, 697, 200 USPQ 711, 714 (CCPA 1979)
+ (disclosure of corticosteriod in DMSO sufficient to support claims drawn to a
+ method of using a mixture of a "physiologically active steroid" and DMSO because
+ "use of known chemical compounds in a manner auxiliary to the invention must have
+ a corresponding written description only so specific as to lead one having
+ ordinary skill in the art to that class of compounds. Occasionally, a functional
+ recitation of those known compounds in the specification may be sufficient as that
+ description."); *In re Smythe,* 480 F.2d 1376, 1383, 178 USPQ
+ 279, 285 (CCPA 1973) (the phrase "air or other gas which is inert to the liquid"
+ was sufficient to support a claim to "inert fluid media" because the description
+ of the properties and functions of the air or other gas segmentizing medium would
+ suggest to a person skilled in the art that appellant’s invention includes the use
+ of "inert fluid" broadly.). However, in *Tronzo v. Biomet,* 156
+ F.3d 1154, 1159, 47 USPQ2d 1829, 1833 (Fed. Cir. 1998), the disclosure of a
+ species in the parent application did not suffice to provide written description
+ support for the genus in the child application where the specification taught
+ against other species. See also *In re Gosteli,* 872 F.2d 1008,
+ 10 USPQ2d 1614 (Fed. Cir. 1989) (generic and subgeneric claims in the U.S.
+ application were not entitled to the benefit of foreign priority where the foreign
+ application disclosed only two of the species encompassed by the broad generic
+ claim and the subgeneric Markush claim that encompassed 21 compounds). 
+ 
+
+**II.** **NARROWING OR SUBGENERIC CLAIM**The introduction of claim changes which involve narrowing the claims
+ by introducing elements or limitations which are not supported by the as-filed
+ disclosure is a violation of the written description requirement of **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph. See, e.g., *Fujikawa v. Wattanasin,* 93 F.3d 1559, 1571,
+ 39 USPQ2d 1895, 1905 (Fed. Cir. 1996) (a "laundry list" disclosure of every possible
+ moiety does not constitute a written description of every species in a genus because
+ it would not "reasonably lead" those skilled in the art to any particular species);
+ *In re Ruschig,* 379 F.2d 990, 995, 154 USPQ 118, 123 (CCPA 1967)
+ ("*If* n-propylamine had been used in making the compound instead
+ of n-butylamine, the compound of claim 13 would have resulted. Appellants submit to
+ us, as they did to the board, an imaginary specific example patterned on specific
+ example 6 by which the above butyl compound is made so that we can see what a simple
+ change would have resulted in a specific supporting disclosure being present in the
+ present specification. The trouble is that there is no such disclosure, easy though
+ it is to imagine it.") (emphasis in original); *Rozbicki v. Chiang,*
+ 590 Fed.App’x 990, 996 (Fed. Cir. 2014) (non-precedential) (The court found that
+ patentee, "while attempting to obtain the broadest claim language possible during
+ prosecution, cannot now improperly narrow its language by importing limitations not
+ supported by the claim language or written description."). In *Ex
+ parte**Ohshiro,* 14 USPQ2d 1750 (Bd. Pat. App. & Inter. 1989), the
+ Board affirmed the rejection under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph,
+ of claims to an internal combustion engine which recited "at least one of said piston
+ and said cylinder (head) having a recessed channel." The Board held that the
+ application which disclosed a cylinder head with a recessed channel and a piston
+ without a recessed channel did not specifically disclose the "species" of a channeled
+ piston.
+ 
+
+
+While these and other cases find that recitation of an undisclosed
+ species may violate the description requirement, a change involving subgeneric
+ terminology may or may not be acceptable. Applicant was not entitled to the benefit
+ of a parent filing date when the claim was directed to a subgenus (a specified range
+ of molecular weight ratios) where the parent application contained a generic
+ disclosure and a specific example that fell within the recited range because the
+ court held that subgenus range was not described in the parent application.
+ *In re**Lukach,* 442 F.2d 967, 169 USPQ 795 (CCPA 1971). On the other hand,
+ in *Ex parte**Sorenson,* 3 USPQ2d 1462 (Bd. Pat. App. & Inter. 1987), the
+ subgeneric language of "aliphatic carboxylic acid" and "aryl carboxylic acid" did not
+ violate the written description requirement because species falling within each
+ subgenus were disclosed as well as the generic carboxylic acid. See also *In
+ re**Smith,* 458 F.2d 1389, 1395, 173 USPQ 679, 683 (CCPA 1972)
+ ("Whatever may be the viability of an inductive-deductive approach to arriving at a
+ claimed subgenus, it cannot be said that such a subgenus is
+ necessarily described by a genus encompassing it and a species upon which it reads."
+ (emphasis added)). Each case must be decided on its own facts in terms of what is
+ reasonably communicated to those skilled in the art. *In re**Wilder,* 736 F.2d 1516, 1520, 222 USPQ 369, 372 (Fed. Cir. 1984).
+ 
+ 
+
+**III.** **RANGE LIMITATIONS**With respect to changing numerical range limitations, the analysis
+ must take into account which ranges one skilled in the art would consider inherently
+ supported by the discussion in the original disclosure. In the decision in
+ *In re**Wertheim,* 541 F.2d 257, 191 USPQ 90 (CCPA 1976), the ranges
+ described in the original specification included a range of "25%- 60%" and specific
+ examples of "36%" and "50%." A corresponding new claim limitation to "at least 35%"
+ did not meet the description requirement because the phrase "at least" had no upper
+ limit and caused the claim to read literally on embodiments outside the "25% to 60%"
+ range, however a limitation to "between 35% and 60%" did meet the description
+ requirement.
+ 
+
+
+See also *Purdue Pharma L.P. v. Faulding Inc.,*
+ 230 F.3d 1320, 1328, 56 USPQ2d 1481, 1487 (Fed. Cir. 2000) ("[T]he specification does
+ not clearly disclose to the skilled artisan that the inventors... considered the...
+ ratio to be part of their invention.... There is therefore no force to Purdue’s
+ argument that the written description requirement was satisfied because the
+ disclosure revealed a broad invention from which the [later-filed] claims carved out
+ a patentable portion"). Compare *Union Oil of Cal. v. Atl. Richfield
+ Co.,* 208 F.3d 989, 997, 54 USPQ2d 1227, 1232-33 (Fed. Cir. 2000)
+ (Description in terms of ranges of chemical properties which work in combination with
+ ranges of other chemical properties to produce an automotive gasoline that reduces
+ emissions was found to provide an adequate written description even though the exact
+ chemical components of each combination were not disclosed and the specification did
+ not disclose any distinct embodiments corresponding to any claim at issue. "[T]he
+ Patent Act and this court’s case law require only sufficient description to show one
+ of skill in the . . . art that the inventor possessed the claimed invention at the
+ time of filing.").
+ 
+
+
+, 
+# 2163.06 Relationship of Written Description Requirement to New
+ Matter [R-11.2013]
+
+
+Lack of written description is an issue that generally arises with
+ respect to the subject matter of a claim. If an applicant amends or attempts to amend
+ the abstract, specification or drawings of an application, an issue of new matter will
+ arise if the content of the amendment is not described in the application as filed.
+ Stated another way, information contained in any one of the specification, claims or
+ drawings of the application as filed may be added to any other part of the application
+ without introducing new matter.
+ 
+
+
+There are two statutory provisions that prohibit the introduction of
+ new matter. The first provision is **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)**, which provides that
+ no amendment shall introduce new matter into the disclosure of the invention. The second
+ provision is **[35 U.S.C.
+ 251](mpep-9015-appx-l.html#d0e305345)**, which provides that no new matter shall be introduced into
+ the application for reissue.
+ 
+
+**I.** **TREATMENT OF NEW MATTER**If new subject matter is added to the disclosure, whether it be in
+ the abstract, the specification, or the drawings, the examiner should object to the
+ introduction of new matter under **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)** or
+ **[251](mpep-9015-appx-l.html#d0e305345)** as appropriate, and require applicant to cancel the new
+ matter. If new matter is added to the claims, the examiner should reject the claims
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph - written description requirement. *In re Rasmussen,* 650
+ F.2d 1212, 211 USPQ 323 (CCPA 1981). The examiner should still consider the subject
+ matter added to the claim in making rejections based on prior art since the new
+ matter rejection may be overcome by applicant.
+ 
+
+
+When the claims have not been amended, *per se,*
+ but the specification has been amended to add new matter, a rejection of the claims
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, should be made whenever any of the claim limitations are affected by the
+ added material.
+ 
+
+
+When an amendment is filed in reply to an objection or rejection
+ based on **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, a study of the entire application is often necessary to determine whether
+ or not "new matter" is involved. Applicant should therefore specifically point out
+ the support for any amendments made to the disclosure.
+ 
+
+**II.** **REVIEW OF NEW MATTER OBJECTIONS AND/OR REJECTIONS**A rejection of claims is reviewable by the Patent Trial and Appeal
+ Board, whereas an objection and requirement to delete new matter is subject to
+ supervisory review by petition under **[37 CFR 1.181](mpep-9020-appx-r.html#d0e324913)**. If both the claims
+ and specification contain new matter either directly or indirectly, and there has
+ been both a rejection and objection by the examiner, the issue becomes appealable and
+ should not be decided by petition.
+ 
+
+**III.** **CLAIMED SUBJECT MATTER NOT DISCLOSED IN REMAINDER OF SPECIFICATION**The claims as filed in the original specification are part of the
+ disclosure and therefore, if an application as originally filed contains a claim
+ disclosing material not disclosed in the remainder of the specification, the
+ applicant may amend the specification to include the claimed subject matter.
+ *In re**Benno,* 768 F.2d 1340, 226 USPQ 683 (Fed. Cir. 1985). Form
+ paragraph **[7.44](#fp7.44)** may be used where originally claimed subject
+ matter lacks proper antecedent basis in the specification. See **[MPEP §
+ 608.01(o)](s608.html#d0e46173)**.
+ 
+
+
+, 
+# 2163.07 Amendments to Application Which Are Supported in the Original
+ Description [R-08.2017]
+
+
+Amendments to an application which are supported in the original
+ description are NOT new matter.
+ 
+
+**I.** **REPHRASING**Mere rephrasing of a passage does not constitute new matter.
+ Accordingly, a rewording of a passage where the same meaning remains intact is
+ permissible. *In re Anderson,* 471 F.2d 1237, 176 USPQ 331 (CCPA
+ 1973). The mere inclusion of dictionary or art recognized definitions known at the
+ time of filing an application may not be considered new matter. If there are multiple
+ definitions for a term and a definition is added to the application, it must be clear
+ from the application as filed that applicant intended a particular definition, in
+ order to avoid an issue of new matter and/or lack of written description. See, e.g.,
+ *Schering Corp. v. Amgen, Inc.,* 222 F.3d 1347, 1352-53, 55
+ USPQ2d 1650, 1654 (Fed. Cir. 2000). In *Schering,* the original
+ disclosure was drawn to recombinant DNA molecules and used the term "leukocyte
+ interferon." Shortly after the filing date, a scientific committee abolished the term
+ in favor of "IFN-(a)," since the latter term more specifically identified a
+ particular polypeptide and since the committee found that leukocytes also produced
+ other types of interferon. The court held that the subsequent amendment to the
+ specification and claims substituting the term "IFN-(a)" for "leukocyte interferon"
+ merely renamed the invention and did not constitute new matter. The claims were
+ limited to cover only the interferon subtype coded for by the inventor’s original
+ deposits.
+ 
+
+**II.** **OBVIOUS ERRORS**An amendment to correct an obvious error does not constitute new
+ matter where one skilled in the art would not only recognize the existence of error
+ in the specification, but also the appropriate correction. *In re**Oda,* 443 F.2d 1200, 170 USPQ 268 (CCPA 1971).
+ 
+
+
+Where a foreign priority document under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**
+ is of record in the U.S. application file, applicant may not rely on the disclosure
+ of that document to support correction of an error in the pending U.S. application.
+ *Ex parte**Bondiou,* 132 USPQ 356 (Bd. Pat. App. & Int. 1961). This
+ prohibition applies regardless of the language of the foreign priority documents
+ because a claim for priority is simply a claim for the benefit of an earlier filing
+ date for subject matter that is common to two or more applications, and does not
+ serve to incorporate the content of the priority document in the application in which
+ the claim for priority is made. This prohibition does not apply where the U.S.
+ application explicitly incorporates the foreign priority document by reference. For
+ applications filed on or after September 21, 2004, where all or a portion of the
+ specification or drawing(s) is inadvertently omitted from the U.S. application, a
+ claim under **[37
+ CFR 1.55](mpep-9020-appx-r.html#plt_d0e319217)** for priority of a prior-filed foreign application that
+ is present on the filing date of the application is considered an incorporation by
+ reference of the prior-filed foreign application as to the inadvertently omitted
+ portion of the specification or drawing(s), subject to the conditions and
+ requirements of **[37
+ CFR 1.57(a)](mpep-9020-appx-r.html#d0e319490)**. See **[37 CFR 1.57(a)](mpep-9020-appx-r.html#d0e319490)** and
+ **[MPEP §
+ 217](s217.html#ch200_d1ff72_27f9d_2c9)**.
+ 
+
+
+Where a U.S. application as originally filed was in a non-English
+ language and an English translation thereof was subsequently submitted pursuant to
+ **[37 CFR
+ 1.52(d)](mpep-9020-appx-r.html#d0e318327)**, if there is an error in the English translation,
+ applicant may rely on the disclosure of the originally filed non-English language
+ U.S. application to support correction of an error in the English translation
+ document.
+ 
+
+
+
+# 2163.07(a) Inherent Function, Theory, or Advantage [R-08.2017]
+
+
+By disclosing in a patent application a device that inherently
+ performs a function or has a property, operates according to a theory or has an
+ advantage, a patent application necessarily discloses that function, theory or
+ advantage, even though it says nothing explicit concerning it. The application may
+ later be amended to recite the function, theory or advantage without introducing
+ prohibited new matter. *In re**Reynolds,* 443 F.2d 384, 170 USPQ 94 (CCPA 1971); *In
+ re**Smythe,* 480 F. 2d 1376, 178 USPQ 279 (CCPA 1973); *Yeda
+ Research and Dev. Co. v. Abbott GMBH & Co.,* 837 F.3d 1341, 120
+ USPQ2d 1299 (Fed. Cir. 2016) ("Under the doctrine of inherent disclosure, when a
+ specification describes an invention that has certain undisclosed yet inherent
+ properties, that specification serves as adequate written description to support a
+ subsequent patent application that explicitly recites the invention’s inherent
+ properties." (citing *Kennecott Corp. v. Kyocera Int’l, Inc.,* 835
+ F.2d 1419, 1423 (Fed. Cir. 1987))). "To establish inherency, the extrinsic evidence
+ ‘must make clear that the missing descriptive matter is necessarily present in the
+ thing described in the reference, and that it would be so recognized by persons of
+ ordinary skill. Inherency, however, may not be established by probabilities or
+ possibilities. The mere fact that a certain thing may result from a given set of
+ circumstances is not sufficient.’" *In re Robertson,* 169 F.3d 743,
+ 745, 49 USPQ2d 1949, 1950-51 (Fed. Cir. 1999) (citations omitted).
+ 
+
+
+
+
+# 2163.07(b) Incorporation by Reference [R-11.2013]
+
+
+Instead of repeating some information contained in another document,
+ an application may attempt to incorporate the content of another document or part
+ thereof by reference to the document in the text of the specification. The
+ information incorporated is as much a part of the application as filed as if the text
+ was repeated in the application, and should be treated as part of the text of the
+ application as filed. Replacing the identified material incorporated by reference
+ with the actual text is not new matter. See **[37 CFR 1.57](mpep-9020-appx-r.html#d0e319490)** and
+ **[MPEP
+ § 608.01(p)](s608.html#d0e46258)** for Office policy regarding incorporation by
+ reference. See **[MPEP
+ § 2181](s2181.html#d0e219279)** for the impact of incorporation by reference on the
+ determination of whether applicant has complied with the requirements of
+ **[35
+ U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph when **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph is invoked.
+ 
+
+
+
+, 
+# 2163.07(a) Inherent Function, Theory, or Advantage [R-08.2017]
+
+
+By disclosing in a patent application a device that inherently
+ performs a function or has a property, operates according to a theory or has an
+ advantage, a patent application necessarily discloses that function, theory or
+ advantage, even though it says nothing explicit concerning it. The application may
+ later be amended to recite the function, theory or advantage without introducing
+ prohibited new matter. *In re**Reynolds,* 443 F.2d 384, 170 USPQ 94 (CCPA 1971); *In
+ re**Smythe,* 480 F. 2d 1376, 178 USPQ 279 (CCPA 1973); *Yeda
+ Research and Dev. Co. v. Abbott GMBH & Co.,* 837 F.3d 1341, 120
+ USPQ2d 1299 (Fed. Cir. 2016) ("Under the doctrine of inherent disclosure, when a
+ specification describes an invention that has certain undisclosed yet inherent
+ properties, that specification serves as adequate written description to support a
+ subsequent patent application that explicitly recites the invention’s inherent
+ properties." (citing *Kennecott Corp. v. Kyocera Int’l, Inc.,* 835
+ F.2d 1419, 1423 (Fed. Cir. 1987))). "To establish inherency, the extrinsic evidence
+ ‘must make clear that the missing descriptive matter is necessarily present in the
+ thing described in the reference, and that it would be so recognized by persons of
+ ordinary skill. Inherency, however, may not be established by probabilities or
+ possibilities. The mere fact that a certain thing may result from a given set of
+ circumstances is not sufficient.’" *In re Robertson,* 169 F.3d 743,
+ 745, 49 USPQ2d 1949, 1950-51 (Fed. Cir. 1999) (citations omitted).
+ 
+
+
+, 
+# 2163.07(b) Incorporation by Reference [R-11.2013]
+
+
+Instead of repeating some information contained in another document,
+ an application may attempt to incorporate the content of another document or part
+ thereof by reference to the document in the text of the specification. The
+ information incorporated is as much a part of the application as filed as if the text
+ was repeated in the application, and should be treated as part of the text of the
+ application as filed. Replacing the identified material incorporated by reference
+ with the actual text is not new matter. See **[37 CFR 1.57](mpep-9020-appx-r.html#d0e319490)** and
+ **[MPEP
+ § 608.01(p)](s608.html#d0e46258)** for Office policy regarding incorporation by
+ reference. See **[MPEP
+ § 2181](s2181.html#d0e219279)** for the impact of incorporation by reference on the
+ determination of whether applicant has complied with the requirements of
+ **[35
+ U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph when **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph is invoked.
+ 
+
+
+]

@@ -1,0 +1,114 @@
+[
+# 2113 Product-by-Process Claims [R-10.2019]
+
+**I.** **PRODUCT-BY-PROCESS CLAIMS ARE NOT LIMITED TO THE MANIPULATIONS OF THE RECITED
+ STEPS, ONLY THE STRUCTURE IMPLIED BY THE STEPS**"[E]ven though product-by-process claims are limited by and defined by
+ the process, determination of patentability is based on the product itself. The
+ patentability of a product does not depend on its method of production. If the product
+ in the product-by-process claim is the same as or obvious from a product of the prior
+ art, the claim is unpatentable even though the prior product was made by a different
+ process."  *In re Thorpe,* 777 F.2d 695, 698, 227 USPQ 964, 966 (Fed.
+ Cir. 1985) (citations omitted) (Claim was directed to a novolac color developer. The
+ process of making the developer was allowed. The difference between the inventive
+ process and the prior art was the addition of metal oxide and carboxylic acid as
+ separate ingredients instead of adding the more expensive pre-reacted metal carboxylate.
+ The product-by-process claim was rejected because the end product, in both the prior art
+ and the allowed process, ends up containing metal carboxylate. The fact that the metal
+ carboxylate is not directly added, but is instead produced in-situ does not change the
+ end product.). Furthermore, 
+ "[b]ecause validity is determined based
+ on the requirements of patentability, a patent is invalid if a product made by the
+ process recited in a product-by-process claim is anticipated by or obvious from prior
+ art products, even if those prior art products are made by different
+ processes."
+ 
+ 
+ *Amgen Inc. v. F. Hoffman-La Roche Ltd.,* 580 F.3d 1340, 1370 n 14, 92
+ USPQ2d 1289, 1312, n 14 (Fed. Cir. 2009). See also *Purdue Pharma v. Epic
+ Pharma,* 811 F.3d 1345, 117 USPQ2d 1733 (Fed. Cir. 2016). However, in the
+ context of an infringement analysis, a product-by-process claim is only infringed by a
+ product made by the process recited in the claim. *Id.* at 1370
+ (
+ "a product in the prior art made by a different process can
+ anticipate a product-by-process claim, but an accused product made by a different
+ process cannot infringe a product-by-process claim"
+ 
+ 
+ ). 
+ 
+
+
+ The structure implied by the process steps should be considered when
+ assessing the patentability of product-by-process claims over the prior art, especially
+ where the product can only be defined by the process steps by which the product is made,
+ or where the manufacturing process steps would be expected to impart distinctive
+ structural characteristics to the final product. See, e.g., *In re
+ Garnero,* 412 F.2d 276, 279, 162 USPQ 221, 223 (CCPA 1979) (holding
+ "interbonded by interfusion" to limit structure of the claimed composite and noting that
+ terms such as "welded," "intermixed," "ground in place," "press fitted," and "etched"
+ are capable of construction as structural limitations). See also *In re Nordt
+ Dev. Co.,* 881 F.3d 1371,1375-76, 125 USPQ2d 1817, 1820 (Fed. Cir.
+ 2018)(holding "the specification demonstrates that ‘injected molded’ connotes an
+ integral structure," and discussing several cases since *Garnero* that
+ held "limitations to convey structure even when they also describe a process of
+ manufacture"). 
+ 
+
+**II.** **ONCE A PRODUCT APPEARING TO BE SUBSTANTIALLY IDENTICAL IS FOUND AND A PRIOR ART
+ REJECTION IS MADE, THE BURDEN SHIFTS TO THE APPLICANT TO SHOW AN NONOBVIOUS
+ DIFFERENCE**"The Patent Office bears a lesser burden of proof in making out a case
+ of *prima facie* obviousness for product-by-process claims because of
+ their peculiar nature" than when a product is claimed in the conventional fashion.
+ *In re Fessmann,* 489 F.2d 742, 744, 180 USPQ 324, 326 (CCPA 1974).
+ Once the examiner provides a rationale tending to show that the claimed product appears
+ to be the same or similar to that of the prior art, although produced by a different
+ process, the burden shifts to applicant to come forward with evidence establishing an
+ nonobvious difference between the claimed product and the prior art product. *In
+ re Marosi,* 710 F.2d 799, 803, 218 USPQ 289, 292-33 (Fed. Cir. 1983) (The
+ claims were directed to a zeolite manufactured by mixing together various inorganic
+ materials in solution and heating the resultant gel to form a crystalline metal silicate
+ essentially free of alkali metal. The prior art described a process of making a zeolite
+ which, after ion exchange to remove alkali metal, appeared to be "essentially free of
+ alkali metal." The court upheld the rejection because the applicant had not come forward
+ with any evidence that the prior art was not "essentially free of alkali metal" and
+ therefore a different and nonobvious product.). 
+ 
+
+
+See also *Ex parte Gray,* 10 USPQ2d 1922 (Bd. Pat.
+ App. & Inter. 1989) (The prior art disclosed human nerve growth factor (b-NGF)
+ isolated from human placental tissue. The claim was directed to b-NGF produced through
+ genetic engineering techniques. The factor produced seemed to be substantially the same
+ whether isolated from tissue or produced through genetic engineering. While the
+ applicant questioned the purity of the prior art factor, no concrete evidence of an
+ nonobvious difference was presented. The Board stated that the dispositive issue is
+ whether the claimed factor exhibits any unexpected properties compared with the factor
+ disclosed by the prior art. The Board further stated that the applicant should have made
+ some comparison between the two factors to establish unexpected properties since the
+ materials appeared to be identical or only slightly different.).
+ 
+
+**III.** **A REJECTION BASED ALTERNATIVELY ON 35 U.S.C. 102 OR 103 FOR PRODUCT-BY-PROCESS
+ CLAIMS HAS BEEN APPROVED BY THE COURTS**"[T]he lack of physical description in a product-by-process claim makes
+ determination of the patentability of the claim more difficult, since in spite of the
+ fact that the claim may recite only process limitations, it is the patentability of the
+ product claimed and not of the recited process steps which must be established. We are
+ therefore of the opinion that when the prior art discloses a product which reasonably
+ appears to be either identical with or only slightly different than a product claimed in
+ a product-by-process claim, a rejection based alternatively on either **[section 102](mpep-9015-appx-l.html#d0e302383)** or
+ **[section
+ 103](mpep-9015-appx-l.html#d0e302450)** of the statute is eminently fair and acceptable. As a
+ practical matter, the Patent Office is not equipped to manufacture products by the
+ myriad of processes put before it and then obtain prior art products and make physical
+ comparisons therewith." *In re Brown,* 459 F.2d 531, 535, 173 USPQ 685,
+ 688 (CCPA 1972). Office personnel should note that reliance on the alternative grounds
+ of **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** does not eliminate the
+ need to explain both the anticipation and obviousness aspects of the rejections.
+ 
+
+
+[[top]](#top)
+
+
+]

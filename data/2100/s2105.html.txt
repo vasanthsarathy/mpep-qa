@@ -1,0 +1,207 @@
+[
+# 2105 Patent Eligible Subject Matter — Living Subject Matter [R-10.2019]
+
+**I.** **INTRODUCTION**Prior to 1980, it was widely believed that living subject matter was
+ not eligible for patenting, either because such subject matter did not fall within a
+ statutory category, or because it was a judicial exception to patent eligibility.
+ However, the decision of the Supreme Court in *Diamond v. Chakrabarty,*
+ 447 U.S. 303, 206 USPQ 193 (1980), made it clear that the question of whether an
+ invention embraces living matter is irrelevant to the issue of patent eligibility. Note,
+ however, that Congress has excluded claims directed to or encompassing a human organism
+ from eligibility. See The Leahy-Smith America Invents Act (AIA), Pub. L. 112-29, sec.
+ 33(a), 125 Stat. 284 (September 16, 2011).
+ 
+
+**II.** **LIVING SUBJECT MATTER MAY BE PATENT ELIGIBLE*** 
+
+***A.*** ***Living Subject Matter May Be Directed To A Statutory Category*** In *Chakrabarty,* the Supreme Court held that a
+ claim to a genetically engineered bacterium was directed to at least one of the four
+ statutory categories, because the bacterium was a "manufacture" and/or a "composition
+ of matter." In its opinion, the Court stated that "Congress plainly contemplated that
+ the patent laws would be given wide scope" because it chose to draft
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** using "such expansive terms as ‘manufacture’ and
+ ‘composition of matter,’ modified by the comprehensive ‘any.’" 447 U.S. at 308, 206
+ USPQ at 197. The Court also determined that the distinction between living and
+ inanimate things was not relevant for subject matter eligibility. 447 U.S. at 313,
+ 206 USPQ at 199. Thus, the Court held that living subject matter with markedly
+ different characteristics from any found in nature, such as the claimed bacterium
+ produced by genetic engineering, is not excluded from patent protection by
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. 447 U.S. at 310, 206 USPQ at 197.
+ 
+
+
+Following the reasoning in
+ *Chakrabarty,* the Board of Patent Appeals and Interferences
+ determined that animals are patentable subject matter under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ In *Ex parte Allen,* 2 USPQ2d 1425 (Bd. Pat. App. & Inter.
+ 1987), the Board decided that a non-naturally occurring polyploid Pacific coast
+ oyster could have been the proper subject of a patent under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ if all the criteria for patentability were satisfied. Shortly after the
+ *Allen* decision, the Commissioner of Patents and Trademarks
+ issued a notice (Animals - Patentability, 1077 O.G. 24, April 21, 1987) stating that
+ the Patent and Trademark Office "now considers nonnaturally occurring, non-human
+ multicellular living organisms, including animals, to be patentable subject matter
+ within the scope of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+ 
+
+
+With respect to plant subject matter, the Supreme
+ Court held that patentable subject matter under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** includes newly
+ developed plant breeds, even though plant protection is also available under the
+ Plant Patent Act (**[35 U.S.C. 161](mpep-9015-appx-l.html#d0e304416)** - **[164](mpep-9015-appx-l.html#d0e304454)**) and the Plant Variety
+ Protection Act (7 U.S.C. 2321 *et. seq.*). *J.E.M. Ag
+ Supply, Inc. v. Pioneer Hi-Bred Int’ l, Inc.,* 534 U.S. 124, 143-46, 60
+ USPQ2d 1865, 1874 (2001) (The scope of coverage of **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ is not limited by the Plant Patent Act or the Plant Variety Protection Act; each
+ statute can be regarded as effective because of its different requirements and
+ protections).
+ 
+
+
+See **[MPEP §
+ 2106.03](s2106.html#ch2100_d29a1b_139b2_397)** for a discussion of the categories of statutory
+ subject matter. 
+ 
+
+***B.******Living Subject Matter May Be Eligible for Patent Protection***The Supreme Court in *Chakrabarty*
+ held a claim to a genetically engineered bacterium eligible, because the claimed
+ bacterium was not a "product of nature" exception. As the Court explained, the
+ modified bacterium was patentable because the patent claim was not to a "hitherto
+ unknown natural phenomenon," but instead had "markedly different characteristics from
+ any found in nature," due to the additional plasmids and resultant capacity for
+ degrading oil. 447 U.S. at 309-10, 206 USPQ at 197.
+ 
+
+
+Subsequent judicial decisions have made clear that the Supreme
+ Court’s decision in *Chakrabarty* is "central" to the eligibility
+ inquiry with respect to nature-based products. See, *e.g., Association for
+ Molecular Pathology v. Myriad Genetics, Inc.,* 569 U.S. 576, 590, 106
+ USPQ2d 1972, 1979 (2013). For example, the Federal Circuit has indicated that
+ "discoveries that possess ‘markedly different characteristics from any found in
+ nature,’ … are eligible for patent protection." *In re Roslin Institute
+ (Edinburgh),* 750 F.3d 1333, 1336, 110 USPQ2d 1668, 1671 (Fed. Cir. 2014)
+ (quoting *Chakrabarty,* 447 U.S. at 310, 206 USPQ2d at 197). In
+ *Roslin,* the claimed invention was a live-born clone of a
+ pre-existing, non-embryonic, donor mammal selected from cattle, sheep, pigs, and
+ goats. An embodiment of the claimed invention was the famous Dolly the Sheep, which
+ the court stated was "the first mammal ever cloned from an adult somatic cell."
+ Despite acknowledging that the method used to create the claimed clones "constituted
+ a breakthrough in scientific discovery", the court relied on
+ *Chakrabarty* in holding the claims ineligible because "Dolly
+ herself is an exact genetic replica of another sheep and does not possess ‘markedly
+ different characteristics from any [farm animals] found in nature.’"
+ *Roslin,* 750 F.3d at 1337, 110 USPQ2d at 1671.
+ 
+
+
+See **[MPEP §
+ 2106.04](s2106.html#ch2100_d29a1b_139db_e0)** for a discussion of the judicial exceptions in
+ general, **[MPEP § 2106.04(b)](s2106.html#ch2100_d29a1b_13b6b_4c)**, subsection II, for a discussion of
+ products of nature, and **[MPEP § 2106.04(c)](s2106.html#ch2100_d29a1b_13bc1_b1)** for a discussion
+ of the markedly different characteristics analysis that examiners should use to
+ determine whether a nature-based product such as living subject matter is eligible
+ for patent protection. 
+ 
+
+**III.** **HUMAN ORGANISMS ARE NONSTATUTORY SUBJECT MATTER**Congress has excluded claims directed to or encompassing
+ a human organism from patentability. The Leahy-Smith America Invents Act (AIA), Public
+ Law 112-29, **[sec. 33(a)](mpep-9015-appx-l.html#aiasec33limitonissuance)**, 125 Stat. 284,
+ states:
+ 
+
+
+
+> 
+>  Notwithstanding any other provision of law, no patent
+>  may issue on a claim directed to or encompassing a human organism.
+>  
+> 
+> 
+> 
+
+
+The legislative history of the AIA includes the following
+ statement, which sheds light on the meaning of this provision:
+ 
+
+
+
+> 
+> [T]he U.S. Patent Office has already issued patents on
+>  genes, stems cells, animals with human genes, and a host of non-biologic products
+>  used by humans, but it has not issued patents on claims directed to human organisms,
+>  including human embryos and fetuses. My amendment would not affect the former, but
+>  would simply affirm the latter.
+>  
+> 
+> 
+> 
+
+
+157 Cong. Rec. E1177-04 (testimony of Representative Dave
+ Weldon previously presented in connection with the Consolidated Appropriations Act,
+ 2004, Public Law 108-199, 634, 118 Stat. 3, 101, and later resubmitted with regard to
+ the AIA; see 149 Cong. Rec. E2417-01). Thus, **[section 33(a) of the
+ AIA](mpep-9015-appx-l.html#aiasec33limitonissuance)** codifies existing Office policy that human organisms are not
+ patent-eligible subject matter. 
+ 
+
+
+If the broadest reasonable interpretation of the claimed invention as a
+ whole encompasses a human organism, then a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and
+ **[AIA
+ sec. 33(a)](mpep-9015-appx-l.html#aiasec33limitonissuance)** must be made indicating that the claimed invention is
+ directed to a human organism and is therefore nonstatutory subject matter. Furthermore,
+ the claimed invention must be examined with regard to all issues pertinent to
+ patentability, and any applicable rejections under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, **[103](mpep-9015-appx-l.html#d0e302450)**, or
+ **[112](mpep-9015-appx-l.html#d0e302824)** must also be made. 
+ 
+
+
+Use form paragraph **[7.04.03](#fp7.04.03)** to reject a claim under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[AIA sec. 33(a)](mpep-9015-appx-l.html#aiasec33limitonissuance)**.
+ 
+
+
+# ¶ 7.04.03 Human Organism
+
+
+Section 33(a) of the America Invents Act reads as
+ follows
+ 
+
+
+Notwithstanding any other provision of law, no patent may
+ issue on a claim directed to or encompassing a human organism.
+ 
+
+
+Claim **[1]** rejected under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and
+ section 33(a) of the America Invents Act as being directed to or encompassing a human
+ organism. See also Animals - Patentability, 1077 Off. Gaz. Pat. Office 24 (April 21, 1987)
+ (indicating that human organisms are excluded from the scope of patentable subject matter
+ under **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**). **[2]**
+
+
+### Examiner Note:
+
+ * 1. This paragraph must be preceded by form paragraph
+ **[7.04.01](#fp7.04.01)**
+ which quotes **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**.
+* 2. In bracket 1, pluralize "Claim" if necessary, insert
+ claim number(s), and insert "is" or "are" as appropriate.
+* 3. In bracket 2, explain why the claim is interpreted
+ to read on a human organism.
+
+
+
+[[top]](#top)
+
+
+]

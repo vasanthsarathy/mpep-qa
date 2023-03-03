@@ -1,0 +1,634 @@
+[
+# 2165 The Best Mode Requirement [R-08.2017]
+
+**I.** **REQUIREMENT FOR A DISCLOSURE OF THE BEST MODE**A third requirement of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** (applicable to
+ applications filed on or after September 16, 2012) is that:
+ 
+
+
+
+> 
+> The specification. . . shall set forth the best mode contemplated by
+>  the inventor or joint inventor of carrying out the invention.
+>  
+> 
+> 
+> 
+
+
+The third requirement of the first paragraph of
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** (applicable to applications filed before September 16, 2012)
+ is that:
+ 
+
+
+
+> 
+> The specification. . . shall set forth the best mode
+>  contemplated by the inventor of carrying out his invention.
+>  
+> 
+> 
+> 
+
+
+The best mode requirement is a safeguard against the desire on the part
+ of some people to obtain patent protection without making a full disclosure as required
+ by the statute. The requirement does not permit inventors to disclose only what they
+ know to be their second-best embodiment, while retaining the best for themselves.
+ *In re**Nelson,* 280 F.2d 172, 126 USPQ 242 (CCPA 1960).
+ 
+
+
+Determining compliance with the best mode requirement requires a
+ two-prong inquiry. First, it must be determined whether, at the time the application was
+ filed, the inventor possessed a best mode for practicing the invention. This is a
+ subjective inquiry which focuses on the inventor’s state of mind at the time of filing.
+ Second, if the inventor did possess a best mode, it must be determined whether the
+ written description disclosed the best mode such that a person skilled in the art could
+ practice it. This is an objective inquiry, focusing on the scope of the claimed
+ invention and the level of skill in the art. *Eli Lilly & Co. v. Barr Labs.
+ Inc.,* 251 F.3d 955, 963, 58 USPQ2d 1865, 1874 (Fed. Cir. 2001). All
+ applicants are required to disclose for the claimed subject matter the best mode
+ contemplated by the inventor even if the inventor was not the discoverer of that mode.
+ *Benger Labs. Ltd.**v. R.K. Laros Co.,* 209 F. Supp. 639, 135 USPQ 11 (E.D. Pa. 1962).
+ 
+
+
+Failure to disclose the best mode need not rise to the level of active
+ concealment or inequitable conduct in order to support a rejection. Where an inventor
+ knows of a specific material or method that will make possible the successful
+ reproduction of the claimed invention, but does not disclose it, the best mode
+ requirement has not been satisfied. *Union Carbide Corp.**v.**Borg-Warner,* 550 F.2d 355, 193 USPQ 1 (6th Cir. 1977).
+ 
+
+**II.** **IMPACT OF FAILURE TO DISCLOSE THE BEST MODE PURSUANT TO THE AIA**Section 15 of the Leahy-Smith America Invents Act (AIA),
+ Public Law 112-29, 125 Stat. 284 (September 16, 2011), did not eliminate the requirement
+ in **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, for a disclosure of the best mode, (see
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**) but effective September 16, 2011, it amended
+ **[35 U.S.C.
+ 282](mpep-9015-appx-l.html#d0e305845)** (the provision that sets forth defenses in a patent validity
+ or infringement proceeding) to provide that the failure to disclose the best mode shall
+ not be a basis on which any claim of a patent may be canceled or held invalid or
+ otherwise unenforceable. As this change is applicable only in patent validity or
+ infringement proceedings, it does not alter current patent examining practices as set
+ forth above for evaluation of an application for compliance with the best mode
+ requirement of **[35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** .
+ 
+
+
+ Prior to September 16, 2011, for an invention claimed in
+ a later-filed application to receive the benefit of the filing date of an earlier-filed
+ application, **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)** and **[120](mpep-9015-appx-l.html#d0e303023313)** required that the invention
+ claimed in the later-filed application be disclosed in the earlier-filed application in
+ the manner provided by **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. Section 15 of the
+ Leahy-Smith America Invents Act also amended **[35 U.S.C. 119(e)](mpep-9015-appx-l.html#d0e302951)** and
+ **[120](mpep-9015-appx-l.html#d0e303023313)** to modify this requirement such that the disclosure in the
+ earlier filed application must be made in the manner provided by **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, "other than the requirement to disclose the
+ best mode." This change should not noticeably impact patent examining procedure.
+ **[MPEP §
+ 201.08](s201.html#ch200_d1ff71_198a2_222)** provides that there is no need to determine whether the
+ earlier-filed application contains a disclosure of the invention claimed in the later
+ filed application in compliance with **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, unless the filing date of the earlier-filed application is actually necessary
+ (e.g., to overcome a reference). Examiners should consult with their supervisors if it
+ appears that an earlier-filed application does not disclose the best mode for carrying
+ out a claimed invention and the filing date of the earlier-filed application is actually
+ necessary. **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)** and **[120](mpep-9015-appx-l.html#d0e303023313)** were further amended effective
+ for applications filed on or after September 16, 2012 to refer to **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** rather than **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph.
+ 
+
+
+
+# 2165.01 Considerations Relevant to Best Mode [R-11.2013]
+
+**I.** **DETERMINE WHAT IS THE INVENTION**Determine what the invention is — the invention is defined in the
+ claims. The specification need not set forth details not relating to the essence of
+ the invention. *In re**Bosy,* 360 F.2d 972, 149 USPQ 789 (CCPA 1966). See also
+ *Northern Telecom Ltd. v. Samsung Elec. Co.,* 215 F.3d 1281, 55
+ USPQ2d 1065 (Fed. Cir. 2000) (Unclaimed matter that is unrelated to the operation of
+ the claimed invention does not trigger the best mode requirement); *Eli Lilly
+ & Co. v. Barr Lab. Inc.,* 251 F.3d 955, 966, 58 USPQ2d 1865, 1877
+ (Fed. Cir. 2001) ("[P]atentee’s failure to disclose an unclaimed preferred mode for
+ accomplishing a routine detail does not violate the best mode requirement because one
+ skilled in the art is aware of alternative means for accomplishing the routine detail
+ that would still produce the best mode of the claimed invention.").
+ 
+
+**II.** **SPECIFIC EXAMPLE IS NOT REQUIRED**There is no statutory requirement for the disclosure of a specific
+ example — a patent specification is not intended nor required to be a production
+ specification. *In re Gay,* 309 F.2d 768, 135 USPQ 311 (CCPA
+ 1962).
+ 
+
+
+The absence of a specific working example is not necessarily
+ evidence that the best mode has not been disclosed, nor is the presence of one
+ evidence that it has. Best mode may be represented by a preferred range of conditions
+ or group of reactants. *In re Honn,* 364 F.2d 454, 150 USPQ 652
+ (CCPA 1966).
+ 
+
+**III.** **DESIGNATION AS BEST MODE IS NOT REQUIRED**There is no requirement in the statute that applicants point out
+ which of their embodiments they consider to be their best; that the disclosure
+ includes the best mode contemplated by applicants is enough to satisfy the statute.
+ *Ernsthausen**v.**Nakayama,* 1 USPQ2d 1539 (Bd. Pat. App. & Inter. 1985).
+ 
+
+**IV.** **UPDATING BEST MODE IS NOT REQUIRED** There is no requirement to update in the context of a foreign
+ priority application under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**, *Standard
+ Oil Co.**v.**Montedison, S.p.A.,* 494 F.Supp. 370, 206 USPQ 676 (D.Del. 1980)
+ (better catalyst developed between Italian priority and U.S. filing dates).
+ Furthermore, it is not necessary to update the best mode in applications claiming the
+ benefit of an earlier filing date under **[35 U.S.C. 119(e)](mpep-9015-appx-l.html#d0e302951)** or
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, which indicate that the disclosure in the earlier filed
+ application must be made in the manner provided by **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, "other than the requirement to disclose the best mode." See
+ **[MPEP §
+ 2165](s2165.html#d0e216924)**, subsection II. 
+ 
+
+**V.** **DEFECT IN BEST MODE CANNOT BE CURED BY NEW MATTER**If the best mode contemplated by the inventor at the time of filing
+ the application is not disclosed, such a defect cannot be cured by submitting an
+ amendment seeking to put into the specification something required to be there when
+ the patent application was originally filed. *In re**Hay,* 534 F.2d 917, 189 USPQ 790 (CCPA 1976).
+ 
+
+
+Any proposed amendment of this type (adding a specific mode of
+ practicing the invention not described in the application as filed) should be treated
+ as new matter. New matter under **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)** and
+ **[251](mpep-9015-appx-l.html#d0e305345)** should be objected to and coupled with a requirement to
+ cancel the new matter.
+ 
+
+
+
+
+# 2165.02 Best Mode Requirement Compared to Enablement
+ Requirement [R-11.2013]
+
+
+The best mode requirement is a separate and distinct requirement from
+ the enablement requirement of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or the first
+ paragraph of **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**. *In re**Newton,* 414 F.2d 1400, 163 USPQ 34 (CCPA 1969).
+ 
+
+
+The best mode provision of **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** is not directed to a
+ situation where the application fails to set forth any mode — such failure is equivalent
+ to nonenablement. *In re**Glass,* 492 F.2d 1228, 181 USPQ 31 (CCPA 1974).
+ 
+
+
+The enablement requirement looks to placing the subject matter of the
+ claims generally in the possession of the public. If, however, the applicant develops
+ specific instrumentalities or techniques which are recognized by the applicant at the
+ time of filing as the best way of carrying out the invention, then the best mode
+ requirement imposes an obligation to disclose that information to the public as well.
+ *Spectra-Physics, Inc.**v.**Coherent, Inc.,* 827 F.2d 1524, 3 USPQ 2d 1737 (Fed. Cir.),
+ *cert. denied,* 484 U.S. 954 (1987).
+ 
+
+
+
+
+# 2165.03 Requirements for Rejection for Lack of Best Mode [R-11.2013]
+
+**I.** **ASSUME BEST MODE IS DISCLOSED UNLESS THERE IS EVIDENCE TO THE CONTRARY**The examiner should assume that the best mode is disclosed in the
+ application, unless evidence is presented that is inconsistent with that assumption.
+ It is extremely rare that a best mode rejection properly would be made in *ex
+ parte* prosecution. The information that is necessary to form the basis
+ for a rejection based on the failure to set forth the best mode is rarely accessible
+ to the examiner, but is generally uncovered during *inter partes*
+ proceedings.
+ 
+
+**II.** **EXAMINER MUST DETERMINE WHETHER THE INVENTOR KNEW THAT ONE MODE WAS BETTER
+ THAN ANOTHER, AND IF SO, WHETHER THE DISCLOSURE IS ADEQUATE TO ENABLE ONE OF
+ ORDINARY SKILL IN THE ART TO PRACTICE THE BEST MODE**According to the approach used by the court in *Chemcast
+ Corp.**v.**Arco Indus.,* 913 F.2d 923, 16 USPQ2d 1033 (Fed. Cir. 1990), a
+ proper best mode analysis has two components:
+ 
+
+
+* (A) Determine whether, at the time the application was filed, the
+ inventor knew of a mode of practicing the claimed invention that the inventor
+ considered to be better than any other.
+ 
+
+
+The first component is a subjective inquiry because it focuses
+ on the inventor’s state of mind at the time the application was filed. Unless
+ the examiner has evidence that the inventors had information in their
+ possession
+ 
+
+
+	+ (1) at the time the application was filed
+	+ (2) that a mode was considered to be better than any others
+	 by the inventors,
+
+
+there is no reason to address the second component and there is no
+ proper basis for a best mode rejection. If the facts satisfy the first component,
+ then, and only then, is the following second component analyzed:
+ 
+
+
+* (B) Compare what was known in (A) with what was disclosed - is the
+ disclosure adequate to enable one skilled in the art to practice the best
+ mode?
+
+
+Assessing the adequacy of the disclosure in this regard is largely
+ an objective inquiry that depends on the level of skill in the art. Is the
+ information contained in the specification disclosure sufficient to enable a person
+ skilled in the relevant art to make and use the best mode?
+ 
+
+
+A best mode rejection is proper only when the first inquiry can be
+ answered in the affirmative, and the second inquiry answered in the negative with
+ reasons to support the conclusion that the specification is nonenabling with respect
+ to the best mode.
+ 
+
+
+
+
+# 2165.04 Examples of Evidence of Concealment [R-08.2017]
+
+
+In determining the adequacy of a best mode disclosure, only evidence of
+ concealment (accidental or intentional) is to be considered. That evidence must tend to
+ show that the quality of an applicant’s best mode disclosure is
+ so poor as to effectively result in concealment. 
+ 
+
+**I.** **EXAMPLES — BEST MODE REQUIREMENT SATISFIED**In one case, even though the inventor had more information in his
+ possession concerning the contemplated best mode than was disclosed (a known computer
+ program) the specification was held to delineate the best mode in a manner sufficient
+ to require only the application of routine skill to produce a workable digital
+ computer program. *In re**Sherwood,* 613 F.2d 809, 204 USPQ 537 (CCPA 1980).
+ 
+
+
+In another case, the claimed subject matter was a time controlled
+ thermostat, but the application did not disclose the specific Quartzmatic motor which
+ was used in a commercial embodiment. The court concluded that failure to disclose the
+ commercial motor did not amount to concealment since similar clock motors were widely
+ available and widely advertised. There was no evidence that the specific Quartzmatic
+ motor was superior except possibly in price. *Honeywell**v.**Diamond,* 499 F.Supp 924, 208 USPQ 452 (D.D.C. 1980).
+ 
+
+
+There was held to be no violation of the best mode requirement even
+ though the inventor did not disclose the only mode of calculating the stretch rate
+ for plastic rods that he used because that mode would have been employed by those of
+ ordinary skill in the art at the time the application was filed. *W.L. Gore
+ & Assoc., Inc.**v. Garlock Inc.,* 721 F.2d 1540, 220 USPQ 303 (Fed. Cir. 1983).
+ 
+
+
+There was no best mode violation where the patentee failed to
+ disclose in the specification "[k]nown ways to perform a known operation" to practice
+ the claimed invention. "Known ways of performing a known operation cannot be deemed
+ intentionally concealed absent evidence of intent to deliberately withhold that
+ information." *High Concrete Structures Inc. v. New Enter. Stone & Lime
+ Co.,* 377 F.3d 1379, 1384, 71 USPQ2d 1948, 1951 (Fed. Cir. 2004). The
+ unintentional failure to disclose in the specification the use of a crane to support
+ the patented frame in order to carry out the method of loading and tilting the frame
+ was held not to defeat the best mode requirement because one of ordinary skill in the
+ art would understand and use a crane to move heavy loads. *Id.* "The
+ best mode requirement of **[[35 U.S.C.] § 112](mpep-9015-appx-l.html#d0e302824)** is not violated
+ by unintentional omission of information that would be readily known to persons in
+ the field of the invention." *Id.*
+
+
+There was no best mode violation where there was no evidence that
+ the monoclonal antibodies used by the inventors differed from those obtainable
+ according to the processes described in the specification. It was not disputed that
+ the inventors obtained the antibodies used in the invention by following the
+ procedures in the specification, that these were the inventors’ preferred procedures,
+ and that the data reported in the specification was for the antibody that the
+ inventors had actually used. *Scripps Clinic and Research Found.**v.**Genentech, Inc.,* 927 F.2d 1565, 18 USPQ 2d 1001 (Fed. Cir.
+ 1991).
+ 
+
+
+Where an organism was created by the insertion of genetic material
+ into a cell obtained from generally available sources, all that was required to
+ satisfy the best mode requirement was an adequate description of the means for
+ carrying out the invention, not deposit of the cells. As to the observation that no
+ scientist could ever duplicate exactly the cell used by applicants, the court
+ observed that the issue is whether the disclosure is adequate, not that an exact
+ duplication is necessary. *Amgen, Inc.**v.**Chugai Pharm. Co.,* 927 F.2d 1200, 18 USPQ 2d 1016 (Fed. Cir.
+ 1991).
+ 
+
+
+There was held to be no violation of the best mode requirement where
+ the Solicitor argued that concealment could be inferred from the disclosure in a
+ specification that each analog is "surprisingly and unexpectedly more useful than one
+ of the corresponding prostaglandins . . . for at least one of the pharmacological
+ purposes." It was argued that appellant must have had test results to substantiate
+ this statement and this data should have been disclosed. The court concluded that no
+ withholding could be inferred from general statements of increased selectivity and
+ narrower spectrum of potency for these novel analogs, conclusions which could be
+ drawn from the elementary pharmacological testing of the analogs. *In
+ re**Bundy,* 642 F.2d 430, 435, 209 USPQ 48, 52 (CCPA 1981).
+ 
+
+**II.** **EXAMPLES — BEST MODE REQUIREMENT NOT SATISFIED**The best mode requirement was held to be violated where inventors of
+ a laser failed to disclose details of their preferred TiCuSil brazing method which
+ were not contained in the prior art and were contrary to criteria for the use of
+ TiCuSil as contained in the literature. *Spectra-Physics, Inc.**v.**Coherent, Inc.,* 827 F.2d 1524, 3 USPQ 2d 1737 (Fed. Cir.
+ 1987).
+ 
+
+
+The best mode requirement was violated because an inventor failed to
+ disclose whether to use a specific surface treatment that he knew was necessary to
+ the satisfactory performance of his invention, even though how to perform the
+ treatment itself was known in the art. The argument that the best mode requirement
+ may be met solely by reference to what was known in the prior art was rejected as
+ incorrect. *Dana Corp.**v.**IPC Ltd. P'ship,* 860 F.2d 415, 8 USPQ2d 1692 (Fed. Cir. 1988).
+ 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2165.01 Considerations Relevant to Best Mode [R-11.2013]
+
+**I.** **DETERMINE WHAT IS THE INVENTION**Determine what the invention is — the invention is defined in the
+ claims. The specification need not set forth details not relating to the essence of
+ the invention. *In re**Bosy,* 360 F.2d 972, 149 USPQ 789 (CCPA 1966). See also
+ *Northern Telecom Ltd. v. Samsung Elec. Co.,* 215 F.3d 1281, 55
+ USPQ2d 1065 (Fed. Cir. 2000) (Unclaimed matter that is unrelated to the operation of
+ the claimed invention does not trigger the best mode requirement); *Eli Lilly
+ & Co. v. Barr Lab. Inc.,* 251 F.3d 955, 966, 58 USPQ2d 1865, 1877
+ (Fed. Cir. 2001) ("[P]atentee’s failure to disclose an unclaimed preferred mode for
+ accomplishing a routine detail does not violate the best mode requirement because one
+ skilled in the art is aware of alternative means for accomplishing the routine detail
+ that would still produce the best mode of the claimed invention.").
+ 
+
+**II.** **SPECIFIC EXAMPLE IS NOT REQUIRED**There is no statutory requirement for the disclosure of a specific
+ example — a patent specification is not intended nor required to be a production
+ specification. *In re Gay,* 309 F.2d 768, 135 USPQ 311 (CCPA
+ 1962).
+ 
+
+
+The absence of a specific working example is not necessarily
+ evidence that the best mode has not been disclosed, nor is the presence of one
+ evidence that it has. Best mode may be represented by a preferred range of conditions
+ or group of reactants. *In re Honn,* 364 F.2d 454, 150 USPQ 652
+ (CCPA 1966).
+ 
+
+**III.** **DESIGNATION AS BEST MODE IS NOT REQUIRED**There is no requirement in the statute that applicants point out
+ which of their embodiments they consider to be their best; that the disclosure
+ includes the best mode contemplated by applicants is enough to satisfy the statute.
+ *Ernsthausen**v.**Nakayama,* 1 USPQ2d 1539 (Bd. Pat. App. & Inter. 1985).
+ 
+
+**IV.** **UPDATING BEST MODE IS NOT REQUIRED** There is no requirement to update in the context of a foreign
+ priority application under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**, *Standard
+ Oil Co.**v.**Montedison, S.p.A.,* 494 F.Supp. 370, 206 USPQ 676 (D.Del. 1980)
+ (better catalyst developed between Italian priority and U.S. filing dates).
+ Furthermore, it is not necessary to update the best mode in applications claiming the
+ benefit of an earlier filing date under **[35 U.S.C. 119(e)](mpep-9015-appx-l.html#d0e302951)** or
+ **[120](mpep-9015-appx-l.html#d0e303023313)**, which indicate that the disclosure in the earlier filed
+ application must be made in the manner provided by **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, "other than the requirement to disclose the best mode." See
+ **[MPEP §
+ 2165](s2165.html#d0e216924)**, subsection II. 
+ 
+
+**V.** **DEFECT IN BEST MODE CANNOT BE CURED BY NEW MATTER**If the best mode contemplated by the inventor at the time of filing
+ the application is not disclosed, such a defect cannot be cured by submitting an
+ amendment seeking to put into the specification something required to be there when
+ the patent application was originally filed. *In re**Hay,* 534 F.2d 917, 189 USPQ 790 (CCPA 1976).
+ 
+
+
+Any proposed amendment of this type (adding a specific mode of
+ practicing the invention not described in the application as filed) should be treated
+ as new matter. New matter under **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)** and
+ **[251](mpep-9015-appx-l.html#d0e305345)** should be objected to and coupled with a requirement to
+ cancel the new matter.
+ 
+
+
+, 
+# 2165.02 Best Mode Requirement Compared to Enablement
+ Requirement [R-11.2013]
+
+
+The best mode requirement is a separate and distinct requirement from
+ the enablement requirement of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or the first
+ paragraph of **[pre-AIA
+ 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**. *In re**Newton,* 414 F.2d 1400, 163 USPQ 34 (CCPA 1969).
+ 
+
+
+The best mode provision of **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** is not directed to a
+ situation where the application fails to set forth any mode — such failure is equivalent
+ to nonenablement. *In re**Glass,* 492 F.2d 1228, 181 USPQ 31 (CCPA 1974).
+ 
+
+
+The enablement requirement looks to placing the subject matter of the
+ claims generally in the possession of the public. If, however, the applicant develops
+ specific instrumentalities or techniques which are recognized by the applicant at the
+ time of filing as the best way of carrying out the invention, then the best mode
+ requirement imposes an obligation to disclose that information to the public as well.
+ *Spectra-Physics, Inc.**v.**Coherent, Inc.,* 827 F.2d 1524, 3 USPQ 2d 1737 (Fed. Cir.),
+ *cert. denied,* 484 U.S. 954 (1987).
+ 
+
+
+, 
+# 2165.03 Requirements for Rejection for Lack of Best Mode [R-11.2013]
+
+**I.** **ASSUME BEST MODE IS DISCLOSED UNLESS THERE IS EVIDENCE TO THE CONTRARY**The examiner should assume that the best mode is disclosed in the
+ application, unless evidence is presented that is inconsistent with that assumption.
+ It is extremely rare that a best mode rejection properly would be made in *ex
+ parte* prosecution. The information that is necessary to form the basis
+ for a rejection based on the failure to set forth the best mode is rarely accessible
+ to the examiner, but is generally uncovered during *inter partes*
+ proceedings.
+ 
+
+**II.** **EXAMINER MUST DETERMINE WHETHER THE INVENTOR KNEW THAT ONE MODE WAS BETTER
+ THAN ANOTHER, AND IF SO, WHETHER THE DISCLOSURE IS ADEQUATE TO ENABLE ONE OF
+ ORDINARY SKILL IN THE ART TO PRACTICE THE BEST MODE**According to the approach used by the court in *Chemcast
+ Corp.**v.**Arco Indus.,* 913 F.2d 923, 16 USPQ2d 1033 (Fed. Cir. 1990), a
+ proper best mode analysis has two components:
+ 
+
+
+* (A) Determine whether, at the time the application was filed, the
+ inventor knew of a mode of practicing the claimed invention that the inventor
+ considered to be better than any other.
+ 
+
+
+The first component is a subjective inquiry because it focuses
+ on the inventor’s state of mind at the time the application was filed. Unless
+ the examiner has evidence that the inventors had information in their
+ possession
+ 
+
+
+	+ (1) at the time the application was filed
+	+ (2) that a mode was considered to be better than any others
+	 by the inventors,
+
+
+there is no reason to address the second component and there is no
+ proper basis for a best mode rejection. If the facts satisfy the first component,
+ then, and only then, is the following second component analyzed:
+ 
+
+
+* (B) Compare what was known in (A) with what was disclosed - is the
+ disclosure adequate to enable one skilled in the art to practice the best
+ mode?
+
+
+Assessing the adequacy of the disclosure in this regard is largely
+ an objective inquiry that depends on the level of skill in the art. Is the
+ information contained in the specification disclosure sufficient to enable a person
+ skilled in the relevant art to make and use the best mode?
+ 
+
+
+A best mode rejection is proper only when the first inquiry can be
+ answered in the affirmative, and the second inquiry answered in the negative with
+ reasons to support the conclusion that the specification is nonenabling with respect
+ to the best mode.
+ 
+
+
+, 
+# 2165.04 Examples of Evidence of Concealment [R-08.2017]
+
+
+In determining the adequacy of a best mode disclosure, only evidence of
+ concealment (accidental or intentional) is to be considered. That evidence must tend to
+ show that the quality of an applicant’s best mode disclosure is
+ so poor as to effectively result in concealment. 
+ 
+
+**I.** **EXAMPLES — BEST MODE REQUIREMENT SATISFIED**In one case, even though the inventor had more information in his
+ possession concerning the contemplated best mode than was disclosed (a known computer
+ program) the specification was held to delineate the best mode in a manner sufficient
+ to require only the application of routine skill to produce a workable digital
+ computer program. *In re**Sherwood,* 613 F.2d 809, 204 USPQ 537 (CCPA 1980).
+ 
+
+
+In another case, the claimed subject matter was a time controlled
+ thermostat, but the application did not disclose the specific Quartzmatic motor which
+ was used in a commercial embodiment. The court concluded that failure to disclose the
+ commercial motor did not amount to concealment since similar clock motors were widely
+ available and widely advertised. There was no evidence that the specific Quartzmatic
+ motor was superior except possibly in price. *Honeywell**v.**Diamond,* 499 F.Supp 924, 208 USPQ 452 (D.D.C. 1980).
+ 
+
+
+There was held to be no violation of the best mode requirement even
+ though the inventor did not disclose the only mode of calculating the stretch rate
+ for plastic rods that he used because that mode would have been employed by those of
+ ordinary skill in the art at the time the application was filed. *W.L. Gore
+ & Assoc., Inc.**v. Garlock Inc.,* 721 F.2d 1540, 220 USPQ 303 (Fed. Cir. 1983).
+ 
+
+
+There was no best mode violation where the patentee failed to
+ disclose in the specification "[k]nown ways to perform a known operation" to practice
+ the claimed invention. "Known ways of performing a known operation cannot be deemed
+ intentionally concealed absent evidence of intent to deliberately withhold that
+ information." *High Concrete Structures Inc. v. New Enter. Stone & Lime
+ Co.,* 377 F.3d 1379, 1384, 71 USPQ2d 1948, 1951 (Fed. Cir. 2004). The
+ unintentional failure to disclose in the specification the use of a crane to support
+ the patented frame in order to carry out the method of loading and tilting the frame
+ was held not to defeat the best mode requirement because one of ordinary skill in the
+ art would understand and use a crane to move heavy loads. *Id.* "The
+ best mode requirement of **[[35 U.S.C.] § 112](mpep-9015-appx-l.html#d0e302824)** is not violated
+ by unintentional omission of information that would be readily known to persons in
+ the field of the invention." *Id.*
+
+
+There was no best mode violation where there was no evidence that
+ the monoclonal antibodies used by the inventors differed from those obtainable
+ according to the processes described in the specification. It was not disputed that
+ the inventors obtained the antibodies used in the invention by following the
+ procedures in the specification, that these were the inventors’ preferred procedures,
+ and that the data reported in the specification was for the antibody that the
+ inventors had actually used. *Scripps Clinic and Research Found.**v.**Genentech, Inc.,* 927 F.2d 1565, 18 USPQ 2d 1001 (Fed. Cir.
+ 1991).
+ 
+
+
+Where an organism was created by the insertion of genetic material
+ into a cell obtained from generally available sources, all that was required to
+ satisfy the best mode requirement was an adequate description of the means for
+ carrying out the invention, not deposit of the cells. As to the observation that no
+ scientist could ever duplicate exactly the cell used by applicants, the court
+ observed that the issue is whether the disclosure is adequate, not that an exact
+ duplication is necessary. *Amgen, Inc.**v.**Chugai Pharm. Co.,* 927 F.2d 1200, 18 USPQ 2d 1016 (Fed. Cir.
+ 1991).
+ 
+
+
+There was held to be no violation of the best mode requirement where
+ the Solicitor argued that concealment could be inferred from the disclosure in a
+ specification that each analog is "surprisingly and unexpectedly more useful than one
+ of the corresponding prostaglandins . . . for at least one of the pharmacological
+ purposes." It was argued that appellant must have had test results to substantiate
+ this statement and this data should have been disclosed. The court concluded that no
+ withholding could be inferred from general statements of increased selectivity and
+ narrower spectrum of potency for these novel analogs, conclusions which could be
+ drawn from the elementary pharmacological testing of the analogs. *In
+ re**Bundy,* 642 F.2d 430, 435, 209 USPQ 48, 52 (CCPA 1981).
+ 
+
+**II.** **EXAMPLES — BEST MODE REQUIREMENT NOT SATISFIED**The best mode requirement was held to be violated where inventors of
+ a laser failed to disclose details of their preferred TiCuSil brazing method which
+ were not contained in the prior art and were contrary to criteria for the use of
+ TiCuSil as contained in the literature. *Spectra-Physics, Inc.**v.**Coherent, Inc.,* 827 F.2d 1524, 3 USPQ 2d 1737 (Fed. Cir.
+ 1987).
+ 
+
+
+The best mode requirement was violated because an inventor failed to
+ disclose whether to use a specific surface treatment that he knew was necessary to
+ the satisfactory performance of his invention, even though how to perform the
+ treatment itself was known in the art. The argument that the best mode requirement
+ may be met solely by reference to what was known in the prior art was rejected as
+ incorrect. *Dana Corp.**v.**IPC Ltd. P'ship,* 860 F.2d 415, 8 USPQ2d 1692 (Fed. Cir. 1988).
+ 
+ 
+
+
+]

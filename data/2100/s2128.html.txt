@@ -1,0 +1,713 @@
+[
+# 2128 "Printed Publications" as Prior Art [R-10.2019]
+
+
+[Editor Note: For applications subject to the first inventor to file (FITF)
+ provisions of the AIA, see also **[MPEP §§ 2152.02(b)](s2152.html#ch2100_d20033_1da60_2e9)** and
+ **[2152.02(e)](s2152.html#ch2100_d20033_228c0_21c)**]
+ 
+
+**I.** **A REFERENCE IS A "PRINTED PUBLICATION" IF IT IS ACCESSIBLE TO THE PUBLIC**A reference is proven to be a "printed publication" "upon a
+ satisfactory showing that such document has been disseminated or otherwise made
+ available to the extent that persons interested and ordinarily skilled in the subject
+ matter or art, exercising reasonable diligence, can locate it." *In re
+ Wyer,* 655 F.2d 221, 210 USPQ 790 (CCPA 1981) (quoting *I.C.E. Corp.
+ v. Armco Steel Corp.,* 250 F. Supp. 738, 743, 148 USPQ 537, 540 (SDNY 1966))
+ ("We agree that ‘printed publication’ should be approached as a unitary concept. The
+ traditional dichotomy between ‘printed’ and ‘publication’ is no longer valid. Given the
+ state of technology in document duplication, data storage, and data retrieval systems,
+ the ‘probability of dissemination’ of an item very often has little to do with whether
+ or not it is ‘printed’ in the sense of that word when it was introduced into the patent
+ statutes in 1836. In any event, interpretation of the words ‘printed’ and ‘publication’
+ to mean ‘probability of dissemination’ and ‘public accessibility’ respectively, now
+ seems to render their use in the phrase ‘printed publication’ somewhat redundant.")
+ *In re Wyer,* 655 F.2d at 226, 210 USPQ at 794. See also
+ *Voter Verified, Inc. v. Premier Election Solutions*, 698 F.3d 1374,
+ 1380, 104 USPQ2d 1553, 1556-57 (Fed. Cir. 2012) ("the ultimate question is whether the
+ reference was ‘available to the extent that persons interested and ordinary skilled in
+ the subject matter or art[,] exercising reasonable diligence, can locate it’" (citations
+ omitted)). 
+ 
+
+
+The Federal Circuit stated the following in
+ *Medtronic, Inc. v. Barry*, 891 F.3d 1368, 1380, 127 USPQ2d 1208,
+ 1216-17 (Fed. Cir. 2018): 
+ 
+
+
+
+> 
+> Whether a reference qualifies as a "printed
+>  publication" is a legal conclusion based on underlying factual determinations.
+>  *Suffolk Techs., LLC v. AOL Inc.*, 752 F.3d 1358, 1364 (Fed. Cir.
+>  2014) (citation omitted). "The ‘printed publication’ provision of **[§ 102(b)](mpep-9015-appx-l.html#d0e302395)** ‘was
+>  designed to prevent withdrawal by an inventor ... of that which was already in the
+>  possession of the public.’ " *Bruckelmyer v. Ground Heaters, Inc.*,
+>  445 F.3d 1374, 1378 (Fed. Cir. 2006) (alteration in original) (quoting *In re
+>  Wyer*, 655 F.2d 221, 226 (C.C.P.A. 1981)); see *Blue Calypso, LLC
+>  v. Groupon, Inc.*, 815 F.3d 1331, 1348 (Fed. Cir. 2016) ("This rule is
+>  grounded on the principle that once an invention is in the public domain, it is no
+>  longer patentable by anyone." (internal quotation marks and citations omitted) ).
+>  Medtronic, as the patent challenger, bears the burden of establishing that a
+>  particular document is a printed publication. See *Blue Calypso*,
+>  815 F.3d at 1350–51 (holding that petitioner failed to carry its burden of proving
+>  public accessibility of the allegedly invalidating reference).
+>  
+> 
+> 
+>  The determination of whether a document is a
+>  "printed publication" under **[35 U.S.C. § 102(b)](mpep-9015-appx-l.html#d0e302395)** "involves a
+>  case-by- case inquiry into the facts and circumstances surrounding the reference’s
+>  disclosure to members of the public." *In re Klopfenstein*, 380 F.3d
+>  1345, 1350 (Fed. Cir. 2004). "Because there are many ways in which a reference may be
+>  disseminated to the interested public, ‘public accessibility’ has been called the
+>  touchstone in determining whether a reference constitutes a ‘printed publication’ bar
+>  under **[35 U.S.C. §
+>  102(b)](mpep-9015-appx-l.html#d0e302395)**." Blue Calypso, 815 F.3d at 1348 (quoting *In re
+>  Hall*, 781 F.2d 897, 898–99 (Fed. Cir. 1986)). "A reference will be
+>  considered publicly accessible if it was ‘disseminated or otherwise made available to
+>  the extent that persons interested and ordinarily skilled in the subject matter or
+>  art exercising reasonable diligence[] can locate it.’" Id. (quoting *Kyocera
+>  Wireless Corp. v. Int’l Trade Comm’n*, 545 F.3d 1340, 1350 (Fed. Cir.
+>  2008)). 
+>  
+> 
+> 
+> 
+
+
+See also *Carella v. Starlight Archery,* 804 F.2d 135,
+ 231 USPQ 644 (Fed. Cir. 1986) (Starlight Archery argued that Carella’s patent claims to
+ an archery sight were anticipated under **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302383)** by an
+ advertisement in a Wisconsin Bow Hunter Association (WBHA) magazine and a WBHA mailer
+ prepared prior to Carella’s filing date. However, there was no evidence as to when the
+ mailer was received by any of the addressees. Plus, the magazine had not been mailed
+ until 10 days after Carella’s filing date. The court held that since there was no proof
+ that either the advertisement or mailer was accessible to any member of the public
+ before the filing date there could be no rejection under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302383)**.). 
+ 
+
+
+When a document is cited in a rejection of a claim in an
+ examination of a patent application or during an reexamination proceeding, an applicant
+ or patent owner may challenge its public availability and/or the date it became publicly
+ accessible, even when the document itself contains a publication date, by filing a
+ proper affidavit or declaration under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that includes facts and
+ evidence to support the applicant or patent owner's position. See **[MPEP § 716](s716.html#d0e92085)***et seq.*
+
+**II.** **ELECTRONIC PUBLICATIONS AS PRIOR ART*** 
+
+***A.******Status as a 
+ "Printed
+ Publication"***  An electronic publication, including an online database or Internet
+ publication (e.g., discussion group, forum, digital video, and social media post), is
+ considered to be a "printed publication" within the meaning of **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** and **[pre-AIA 35 U.S.C. 102(a) and (b)](mpep-9015-appx-l.html#d0e302383)**
+ provided the publication was accessible to persons concerned with the art to which
+ the document relates. See *In re Wyer,* 655 F.2d 221, 227, 210 USPQ
+ 790, 795 (CCPA 1981) ("Accordingly, whether information is printed, handwritten, or
+ on microfilm or a magnetic disc or tape, etc., the one who wishes to characterize the
+ information, in whatever form it may be, as a ‘printed publication’ ... should
+ produce sufficient proof of its dissemination or that it has otherwise been available
+ and accessible to persons concerned with the art to which the document relates and
+ thus most likely to avail themselves of its contents.’" (citations omitted).). See
+ also *Amazon.com v. Barnesandnoble.com,* 73 F. Supp. 2d 1228,
+ 53 USPQ2d 1115, 1119 (W.D. Wash. 1999) (Pages from a website were relied on by
+ defendants as an anticipatory reference (to no avail), however status of the
+ reference as prior art was not challenged.); *In re Epstein,* 32
+ F.3d 1559, 31 USPQ2d 1817 (Fed. Cir. 1994) (Database printouts of abstracts which
+ were not themselves prior art publications were properly relied as providing evidence
+ that the software products referenced therein were "first installed" or "released"
+ more than one year prior to applicant’s filing date.); *Suffolk Tech v. AOL
+ and Google,* 752 F.3d 1358, 110 USPQ2d 2034 (Fed. Cir. 2014) (A newsgroup
+ posting constituted prior art as it was directed to those having ordinary skill in
+ the art and was publicly accessible because the post was sufficiently
+ disseminated.)
+ 
+
+
+The Office policy requiring recordation of the field of search and
+ search results (see **[MPEP § 719.05](s719.html#d0e94319)**) weighs in favor of finding that Internet
+ and online database references cited by the examiner are "accessible to persons
+ concerned with the art to which the document relates and thus most likely to avail
+ themselves of its contents." *Wyer,* 655 F.2d at 221, 210 USPQ at
+ 790. Office copies of an electronic document must be retained if the same document
+ may not be available for retrieval in the future. This is especially important for
+ sources obtained from the Internet and online databases.
+ 
+
+***B.******Date of Availability***  Prior art disclosures on the Internet or on an online database are
+ considered to be publicly available as of the date the item was publicly posted. See
+ subsection I above. Absent evidence of the date that the disclosure was publicly
+ posted, if the publication itself does not include a publication date (or retrieval
+ date), it cannot be relied upon as prior art under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** and **[pre-AIA 35 U.S.C. 102(a) or (b)](mpep-9015-appx-l.html#d0e302383)**.
+ However, it may be relied upon to provide evidence regarding the state of the art.
+ Examiners may ask the Scientific and Technical Information Center to find the
+ earliest date of publication or posting. See **[MPEP § 901.06(a)](s901.html#d0e113237)**, subsection IV.G.
+ 
+ 
+
+***C.******Extent of Teachings Relied Upon*** An electronic publication, like any publication, may be relied upon
+ for all that it would have reasonably suggested to one having ordinary skill in the
+ art. See **[MPEP
+ § 2121.01](s2121.html#d0e201800)** and **[§ 2123](s2123.html#d0e202024)**. Note, however, that if an
+ electronic document which is the abstract of a patent or printed publication is
+ relied upon in a rejection under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** or
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**, only the text of the abstract (and not the underlying
+ document) may be relied upon to support the rejection. In situations where the
+ electronic version and the published paper version of the same or a corresponding
+ patent or printed publication differ appreciably, each may need to be cited and
+ relied upon as independent references based on what they disclose. 
+ 
+
+***D.******Internet Usage Policy*** See **[MPEP § 904.02(c)](s904.html#d0e115698)** for the portions of the Internet Usage
+ Policy pertaining to Internet searching and documenting search strategies. See
+ **[MPEP §
+ 707.05(e)](s707.html#d0e73852)** for the proper citation of electronic documents.
+ 
+ 
+
+***E.******Wayback Machine
+ ®***The Wayback Machine® is a
+ digital library maintained by the Internet Archive (a non-profit organization) for
+ viewing information on archived digital Internet webpages. Simply, the Wayback
+ Machine® uses software programs, known as crawlers, to
+ surf the Internet and automatically store copies of Web objects (Web pages, images,
+ videos, etc.), preserving these objects as they exist at the point and time of
+ capture. These Web objects are stored as Web captures with the capture time/date in
+ the form of a time stamp and the URL of the original website of capture. Accordingly,
+ the Wayback Machine® provides the ability to view and
+ browse Internet information that may no longer be available on the original website. 
+ 
+
+
+Prior art obtained via the Wayback
+ Machine® sets forth a *prima facie*
+ case that the art was publicly accessible at the date and time provided in the time
+ stamp. The burden then shifts to the applicant should they wish to challenge the
+ authenticity, reliability or accessibility of such information.
+ 
+
+***F.******Social
+ Media***Social media websites on the Internet, such as
+ YouTubeTM, TwitterTM,
+ FacebookTM, and public forum posts, can be a source of
+ prior art, provided the public accessibility requirements, as laid out in subsection
+ I are met. Thus, all information on social media is not necessarily publically
+ accessible. Public accessibility is determined on a case-by-case basis taking into
+ consideration factors such as, where the information is posted, privacy restrictions
+ placed on the posting, the length of time it was posted, and whether the information
+ is indexed for searching. 
+ 
+
+
+Some social media websites are not archived by the
+ Wayback Machine®. Therefore, examiners may have to rely on
+ the timestamps on the social media sites to establish the public accessibility date.
+ However, the accuracy of timestamps on social media websites may need to be
+ scrutinized with care, as the reliability of some websites do not approach those of
+ other types of Internet publications, such as those providing peer-reviewed material.
+ When a document is cited in a rejection of a claim, an applicant or patent owner may
+ challenge its public availability and/or date that it became publicly available, even
+ where the information self-contains a publication date, by filing a proper affidavit
+ or declaration under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)**. See
+ **[MPEP §
+ 716](s716.html#d0e92085)***et seq.*
+
+
+For examples of social media website citation formats
+ see **[MPEP §
+ 707.05(e)](s707.html#d0e73852)**. 
+ 
+
+**III.** **EXAMINER NEED NOT PROVE ANYONE ACTUALLY LOOKED AT THE DOCUMENT**There is no need to prove that someone actually looked at a publication
+ when that publication is accessible to the public through a library or patent office.
+ See *In re Wyer,* 655 F.2d 221, 210 USPQ 790 (CCPA 1981); *In
+ re Hall,* 781 F.2d 897, 228 USPQ 453 (Fed. Cir. 1986). "A reference is
+ considered publicly accessible 'upon a satisfactory showing that such document has been
+ disseminated or otherwise made available to the extent that persons interested and
+ ordinarily skilled in the subject matter or art, exercising reasonable diligence, can
+ locate it.' 'If accessibility is proved, there is no requirement to show that particular
+ members of the public actually received the information.'" *Jazz Pharm., Inc. v.
+ Amneal Pharm., LLC,* 895 F.3d 1347, 1355-1356 (Fed. Cir. 2018) (quoting
+ *Wyer,* 655 F.2d at 226) and *Constant v. Advanced
+ Micro-Devices, Inc.,* 848 F.2d 1560 , 1569 (Fed. Cir. 1988)). 
+ 
+
+
+
+# 2128.01 Level of Public Accessibility Required [R-10.2019]
+
+
+The statutory phrase "printed publication" has been
+ interpreted to mean that before the critical date the reference must have been
+ sufficiently accessible to the public interested in the art; dissemination and public
+ accessibility are the keys to the legal determination whether a prior art reference was
+ "published." *Constant v. Advanced Micro-Devices, Inc.,* 848 F.2d 1560,
+ 1568, 7 U.S.P.Q.2d 1057, 1062 (Fed. Cir. 1988)
+ 
+
+**I.** **A THESIS PLACED IN A UNIVERSITY LIBRARY OR A DOCUMENT PLACED IN AN ONLINE
+ DATABASE MAY BE PRIOR ART IF SUFFICIENTLY ACCESSIBLE TO THE PUBLIC**A doctoral thesis indexed and shelved in a library is sufficiently
+ accessible to the public to constitute prior art as a "printed publication."
+ *In re Hall,* 781 F.2d 897, 228 USPQ 453 (Fed. Cir. 1986). Even
+ if access to the library is restricted, a reference will constitute a "printed
+ publication" as long as a presumption is raised that the portion of the public
+ concerned with the art would know of the invention. *In re Bayer,*
+ 568 F.2d 1357, 196 USPQ 670 (CCPA 1978).
+ 
+
+
+In *In re Hall,* general library cataloging and
+ shelving practices showed that a doctoral thesis deposited in university library
+ would have been indexed, cataloged and shelved and thus available to the public
+ before the critical date. Compare *In re Cronyn,* 890 F.2d 1158, 13
+ USPQ2d 1070 (Fed. Cir. 1989) wherein doctoral theses were shelved and indexed by
+ index cards filed alphabetically by student name and kept in a shoe box in the
+ chemistry library. The index cards only listed the student name and title of the
+ thesis. In *Cronyn,* the court held that the students’ theses were
+ not accessible to the public because they had not been either cataloged or indexed in
+ a meaningful way, e.g., by title or in some other way that bears a relationship to
+ the subject of the thesis, but instead were cataloged by the researcher's name.
+ Compare *In re Bayer,* 568 F.2d 1357, 196 USPQ 670 (CCPA 1978) (A
+ reference will constitute a "printed publication" as long as a presumption is raised
+ that the portion of the public concerned with the art would know of the invention
+ even if accessibility is restricted to only this part of the public. But
+ accessibility to applicant’s thesis was restricted to only three members of a
+ graduate committee. There can be no presumption that those concerned with the art
+ would have known of the invention in this case.).
+ 
+
+
+In determining whether a document in an online
+ database is a printed publication, public accessibility is key. See
+ **[MPEP §
+ 2128](s2128.html#d0e202564)**, subsection I. In *Voter Verified, Inc. v.
+ Premier Election Sols., Inc.* the court found that "(i)ndexing is not ‘a
+ necessary condition for a reference to be publicly accessible’; it is but one among
+ many factors that may bear on public accessibility." *Voter Verified, Inc. v.
+ Premier Election Sols., Inc.,* 698 F.3d 1374, 1381, 104 USPQ2d 1553, 1557
+ (Fed. Cir. 2012) (quoting *In re Lister,* 583 F.3d 1307, 1312, 92
+ USPQ2d 1225, 1228 (Fed. Cir. 2009)). The court further stated that "indexing is no
+ more or less important in evaluating the public accessibility of online references
+ than for those fixed in more traditional, tangible media". *Id.*
+
+
+A document in an online database is not always deemed
+ a printed publication. In *Acceleration Bay, LLC v. Activision Blizzard
+ Inc.*, 908 F.3d 765, 773, USPQ2d 1507, 1514 (Fed. Cir. 2018), the court
+ agreed with the Board that an electronic technical report did not constitute a
+ "printed publication" within the meaning of **[(pre‑AIA) 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)**. The
+ court agreed with the Board that an interested skilled artisan, using reasonable
+ diligence, would not have been able to find the technical report on the CSE Technical
+ Reports Library website despite some indexing and search functionality on the website
+ that permitted technical accessibility. Technical reports were listed only by author
+ or year, and there was no evidence how many reports were in the Library’s database in
+ 1999. It was determined that at best, an artisan might have located the cited
+ technical report by skimming through potentially hundreds of titles in the same year,
+ with most containing unrelated subject matter, or by viewing all titles in the
+ database listed by author, when the authors were not particularly well known. Also,
+ the website’s advanced search form was found to be deficient because the ability to
+ search keywords for author, title, and abstract fields was not reliable.
+ 
+
+**II.** **ORALLY PRESENTED PAPER CAN CONSTITUTE A "PRINTED PUBLICATION" IF WRITTEN
+ COPIES ARE AVAILABLE WITHOUT RESTRICTION**A paper which is orally presented in a forum open to all interested
+ persons constitutes a "printed publication" if written copies are disseminated
+ without restriction. *Massachusetts Institute of Technology v. AB Fortia,* 774 F.2d 1104, 1109, 227 USPQ 428, 432 (Fed. Cir. 1985) (Paper orally
+ presented to between 50 and 500 persons at a scientific meeting open to all persons
+ interested in the subject matter, with written copies distributed without restriction
+ to all who requested, is a printed publication. Six persons requested and obtained
+ copies.). An oral presentation at a scientific meeting or a demonstration at a trade
+ show may be prior art under **[35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**’s provision:
+ "otherwise available to the public." See **[MPEP §
+ 2152.02(e)](s2152.html#ch2100_d20033_228c0_21c)**. 
+ 
+
+**III.** **INTERNAL DOCUMENTS INTENDED TO BE CONFIDENTIAL ARE NOT "PRINTED
+ PUBLICATIONS"**Documents and items only distributed internally within an
+ organization which are intended to remain confidential are not "printed publications"
+ no matter how many copies are distributed. There must be an existing policy of
+ confidentiality or agreement to remain confidential within the organization. Mere
+ intent to remain confidential is insufficient. *In re George,*
+ 2 USPQ2d 1880 (Bd. Pat. App. & Inter. 1987) (Research reports disseminated
+ in-house to only those persons who understood the policy of confidentiality regarding
+ such reports are not printed publications even though the policy was not specifically
+ stated in writing.); *Garret Corp. v. United States,* 422 F.2d 874,
+ 878, 164 USPQ 521, 524 (Ct. Cl.1970) ("While distribution to government agencies and
+ personnel alone may not constitute publication ... distribution to commercial
+ companies without restriction on use clearly does."); *Northern Telecom Inc.
+ v. Datapoint Corp.,* 908 F.2d 931, 15 USPQ2d 1321 (Fed. Cir. 1990) (Four
+ reports on the AESOP-B military computer system which were not under security
+ classification were distributed to about fifty organizations involved in the AESOP-B
+ project. One document contained the legend "Reproduction or further dissemination is
+ not authorized." The other documents were of the class that would contain this
+ legend. The documents were housed in Mitre Corporation’s library. Access to this
+ library was restricted to those involved in the AESOP-B project. The court held that
+ public access was insufficient to make the documents "printed publications.").
+ 
+
+**IV.** **PUBLICLY DISPLAYED REFERENCES CAN CONSTITUTE A "PRINTED PUBLICATION" EVEN IF
+ THE REFERENCES ARE NOT DISSEMINATED BY COPIES OR INDEXED IN A LIBRARY OR
+ DATABASE**A publicly displayed document where persons of ordinary skill in the
+ art could see it and are not precluded from copying it can constitute a "printed
+ publication," even if it is not disseminated by the distribution of reproductions or
+ copies and/or indexed in a library or database. 
+ 
+
+
+As stated in *In re Klopfenstein,*
+ 380 F.3d 1345, 1348, 72 USPQ2d 1117, 1119 (Fed. Cir. 2004), "the key inquiry is
+ whether or not a reference has been made ‘publicly accessible.’" Prior to the
+ critical date, a fourteen-slide presentation disclosing the invention was printed and
+ pasted onto poster boards. The printed slide presentation was displayed with no
+ confidentiality restrictions for approximately three cumulative days at two different
+ industry events. *Id.* at 1347, 72 USPQ2d at 1118. The court noted
+ that "an entirely oral presentation at a scientific conference that includes neither
+ slides nor copies of the presentation is without question not a 'printed publication'
+ for the purposes of **[[pre-AIA] 35 U.S.C. § 102(b)](mpep-9015-appx-l.html#d0e302383)**. Furthermore, a presentation that
+ includes a transient display of slides is likewise not necessarily a ‘printed
+ publication.’" *Id.* at 1349 n.4, 72 USPQ2d at 1120 n.4. In
+ resolving whether or not a temporarily displayed reference that was neither
+ distributed nor indexed was nonetheless made sufficiently publicly accessible to
+ count as a "printed publication" under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302383)**, the
+ court considered the following factors: "the length of time the display was
+ exhibited, the expertise of the target audience, the existence (or lack thereof) of
+ reasonable expectations that the material displayed would not be copied, and the
+ simplicity or ease with which the material displayed could have been copied."
+ *Id.* at 1350, 72 USPQ2d at 1120. Upon reviewing the above
+ factors, the court concluded that the display "was sufficiently publicly accessible
+ to count as a ‘printed publication.’" *Id.* at 1352, 72 USPQ2d at
+ 1121. 
+ 
+
+
+Similarly, in *Medtronic Inc., v.
+ Barry* (891 F.3d 1368, 127 USPQ 1208) (Fed. Cir. 2018) a video and slides
+ presented at two conferences prior to the critical date were found to be publically
+ accessible. When considering the factors set forth in *In re
+ Klopfenstein*, the court stated "[i]t may be relevant to determine
+ whether … members were expected to maintain the confidentiality of received materials
+ or would be permitted to share or even publicize the insights gained and materials
+ collected…". *Id* at 127 USPQ2d at 1218. In addition, in
+ *GoPro, Inc. v. Contour IP Holding LLC*, 908 F.3d 690, 128 USPQ2d
+ 1447 (Fed. Cir. 2018), the court stated that the expertise of the target audience is
+ a factor in determining public accessibility but is not dispositive of the inquiry.
+ "Rather, our case law directs us to also consider the nature of the conference or
+ meeting; whether there are restrictions on public disclosure of the information;
+ expectations of confidentiality; and expectations of sharing the information."
+ *Id.* at 695, 128 USPQ2d at 1451. 
+ 
+
+
+See also *Jazz Pharm., Inc. v. Amneal Pharm.,
+ LLC*, 895 F.3d 1347, 127 USPQ2d 1485 (Fed. Cir. 2018) (A notice in the
+ Federal Register which included instructions on accessing reference materials was
+ sufficient for the materials to be considered publicly accessible; the Board did not
+ need to find that specific persons actually received or examined the materials).
+ 
+
+
+"We have consistently held that indexing or
+ searchability is unnecessary for a reference to be a printed publication."
+ *Jazz Pharm., Inc. v. Amneal Pharm., LLC*, 895 F.3d 1347, 1359,
+ 127 USPQ2d 1485,1493 (Fed. Cir. 2018). But see *Acceleration Bay, LLC v.
+ Activision Blizzard Inc.*, 908 F.3d 765, 773, USPQ2d 1507, 1514 (Fed.
+ Cir. 2018)(an electronic technical report did not constitute a "printed publication"
+ because the indexing or searchability was deficient, and an interested skilled
+ artisan, using reasonable diligence, would have to skim through potentially hundreds
+ of titles in the same year, with most containing unrelated subject matter). 
+ 
+
+
+Note that an oral presentation at a scientific meeting
+ or a demonstration at a trade show may be prior art under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**’s provision: "otherwise available to the public." See
+ **[MPEP
+ § 2152.02(e)](s2152.html#ch2100_d20033_228c0_21c)**. "Trade shows are not unlike conferences - a
+ trade show is directed to individuals interested in the commercial and developmental
+ aspects of products. If one desires to examine certain new products on the market,
+ attending a trade show involving identical or similar products is a good option."
+ *GoPro, Inc. v. Contour IP Holding LLC*, 908 F.3d 690, 694, 128
+ USPQ2d 1447, 1451 (Fed. Cir. 2018). 
+ 
+
+
+
+
+# 2128.02 Date Publication Is Available as a Reference [R-10.2019]
+
+**I.** **DATE OF ACCESSIBILITY CAN BE SHOWN THROUGH EVIDENCE OF ROUTINE BUSINESS
+ PRACTICES**Evidence showing routine business practices can be used to establish
+ the date on which a publication became accessible to the public. Specific evidence
+ showing when the specific document actually became available is not always necessary.
+ *Constant v. Advanced Micro-Devices,**Inc.,* 848 F.2d 1560, 7 USPQ2d 1057 (Fed. Cir.), *cert.
+ denied,* 988 U.S. 892 (1988) (Court held that evidence submitted by Intel
+ regarding undated specification sheets showing how the company usually treated such
+ specification sheets was enough to show that the sheets were accessible by the public
+ before the critical date.); *In re Hall,* 781 F.2d 897, 228 USPQ 453
+ (Fed. Cir. 1986) (Librarian’s affidavit establishing normal time frame and practice
+ for indexing, cataloging and shelving doctoral theses established that the thesis in
+ question would have been accessible by the public before the critical date.);
+ *In re Lister,* 583 F.3d 1307, 1317, 92 USPQ2d 1225, 1231-32
+ (Fed. Cir. 2009) ("The government urges us that it is appropriate in this case to
+ presume that the manuscript information was added to the Westlaw and Dialog databases
+ prior to the critical date because the critical date was more than a year after the
+ certificate of registration was granted. However, absent any evidence pertaining to
+ the general practices of the Copyright Office, Westlaw, and Dialog, or the typical
+ time that elapses between copyright registration, inclusion in the Copyright Office’s
+ automated catalog, and subsequent incorporation into one of the commercial databases,
+ any presumption along those lines would be pure speculation."). 
+ 
+
+**II.** **A JOURNAL ARTICLE OR OTHER PUBLICATION BECOMES AVAILABLE AS PRIOR ART ON DATE
+ IT IS RECEIVED BY A MEMBER OF THE PUBLIC**A publication disseminated by mail is not prior art until it is
+ received by at least one member of the public. Thus, a magazine or technical journal
+ is effective as of the date when the first person receives it, not the date it was
+ mailed or sent to the publisher. *In re Schlittler,* 234 F.2d 882,
+ 110 USPQ 304 (CCPA 1956). 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2128.01 Level of Public Accessibility Required [R-10.2019]
+
+
+The statutory phrase "printed publication" has been
+ interpreted to mean that before the critical date the reference must have been
+ sufficiently accessible to the public interested in the art; dissemination and public
+ accessibility are the keys to the legal determination whether a prior art reference was
+ "published." *Constant v. Advanced Micro-Devices, Inc.,* 848 F.2d 1560,
+ 1568, 7 U.S.P.Q.2d 1057, 1062 (Fed. Cir. 1988)
+ 
+
+**I.** **A THESIS PLACED IN A UNIVERSITY LIBRARY OR A DOCUMENT PLACED IN AN ONLINE
+ DATABASE MAY BE PRIOR ART IF SUFFICIENTLY ACCESSIBLE TO THE PUBLIC**A doctoral thesis indexed and shelved in a library is sufficiently
+ accessible to the public to constitute prior art as a "printed publication."
+ *In re Hall,* 781 F.2d 897, 228 USPQ 453 (Fed. Cir. 1986). Even
+ if access to the library is restricted, a reference will constitute a "printed
+ publication" as long as a presumption is raised that the portion of the public
+ concerned with the art would know of the invention. *In re Bayer,*
+ 568 F.2d 1357, 196 USPQ 670 (CCPA 1978).
+ 
+
+
+In *In re Hall,* general library cataloging and
+ shelving practices showed that a doctoral thesis deposited in university library
+ would have been indexed, cataloged and shelved and thus available to the public
+ before the critical date. Compare *In re Cronyn,* 890 F.2d 1158, 13
+ USPQ2d 1070 (Fed. Cir. 1989) wherein doctoral theses were shelved and indexed by
+ index cards filed alphabetically by student name and kept in a shoe box in the
+ chemistry library. The index cards only listed the student name and title of the
+ thesis. In *Cronyn,* the court held that the students’ theses were
+ not accessible to the public because they had not been either cataloged or indexed in
+ a meaningful way, e.g., by title or in some other way that bears a relationship to
+ the subject of the thesis, but instead were cataloged by the researcher's name.
+ Compare *In re Bayer,* 568 F.2d 1357, 196 USPQ 670 (CCPA 1978) (A
+ reference will constitute a "printed publication" as long as a presumption is raised
+ that the portion of the public concerned with the art would know of the invention
+ even if accessibility is restricted to only this part of the public. But
+ accessibility to applicant’s thesis was restricted to only three members of a
+ graduate committee. There can be no presumption that those concerned with the art
+ would have known of the invention in this case.).
+ 
+
+
+In determining whether a document in an online
+ database is a printed publication, public accessibility is key. See
+ **[MPEP §
+ 2128](s2128.html#d0e202564)**, subsection I. In *Voter Verified, Inc. v.
+ Premier Election Sols., Inc.* the court found that "(i)ndexing is not ‘a
+ necessary condition for a reference to be publicly accessible’; it is but one among
+ many factors that may bear on public accessibility." *Voter Verified, Inc. v.
+ Premier Election Sols., Inc.,* 698 F.3d 1374, 1381, 104 USPQ2d 1553, 1557
+ (Fed. Cir. 2012) (quoting *In re Lister,* 583 F.3d 1307, 1312, 92
+ USPQ2d 1225, 1228 (Fed. Cir. 2009)). The court further stated that "indexing is no
+ more or less important in evaluating the public accessibility of online references
+ than for those fixed in more traditional, tangible media". *Id.*
+
+
+A document in an online database is not always deemed
+ a printed publication. In *Acceleration Bay, LLC v. Activision Blizzard
+ Inc.*, 908 F.3d 765, 773, USPQ2d 1507, 1514 (Fed. Cir. 2018), the court
+ agreed with the Board that an electronic technical report did not constitute a
+ "printed publication" within the meaning of **[(pre‑AIA) 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)**. The
+ court agreed with the Board that an interested skilled artisan, using reasonable
+ diligence, would not have been able to find the technical report on the CSE Technical
+ Reports Library website despite some indexing and search functionality on the website
+ that permitted technical accessibility. Technical reports were listed only by author
+ or year, and there was no evidence how many reports were in the Library’s database in
+ 1999. It was determined that at best, an artisan might have located the cited
+ technical report by skimming through potentially hundreds of titles in the same year,
+ with most containing unrelated subject matter, or by viewing all titles in the
+ database listed by author, when the authors were not particularly well known. Also,
+ the website’s advanced search form was found to be deficient because the ability to
+ search keywords for author, title, and abstract fields was not reliable.
+ 
+
+**II.** **ORALLY PRESENTED PAPER CAN CONSTITUTE A "PRINTED PUBLICATION" IF WRITTEN
+ COPIES ARE AVAILABLE WITHOUT RESTRICTION**A paper which is orally presented in a forum open to all interested
+ persons constitutes a "printed publication" if written copies are disseminated
+ without restriction. *Massachusetts Institute of Technology v. AB Fortia,* 774 F.2d 1104, 1109, 227 USPQ 428, 432 (Fed. Cir. 1985) (Paper orally
+ presented to between 50 and 500 persons at a scientific meeting open to all persons
+ interested in the subject matter, with written copies distributed without restriction
+ to all who requested, is a printed publication. Six persons requested and obtained
+ copies.). An oral presentation at a scientific meeting or a demonstration at a trade
+ show may be prior art under **[35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**’s provision:
+ "otherwise available to the public." See **[MPEP §
+ 2152.02(e)](s2152.html#ch2100_d20033_228c0_21c)**. 
+ 
+
+**III.** **INTERNAL DOCUMENTS INTENDED TO BE CONFIDENTIAL ARE NOT "PRINTED
+ PUBLICATIONS"**Documents and items only distributed internally within an
+ organization which are intended to remain confidential are not "printed publications"
+ no matter how many copies are distributed. There must be an existing policy of
+ confidentiality or agreement to remain confidential within the organization. Mere
+ intent to remain confidential is insufficient. *In re George,*
+ 2 USPQ2d 1880 (Bd. Pat. App. & Inter. 1987) (Research reports disseminated
+ in-house to only those persons who understood the policy of confidentiality regarding
+ such reports are not printed publications even though the policy was not specifically
+ stated in writing.); *Garret Corp. v. United States,* 422 F.2d 874,
+ 878, 164 USPQ 521, 524 (Ct. Cl.1970) ("While distribution to government agencies and
+ personnel alone may not constitute publication ... distribution to commercial
+ companies without restriction on use clearly does."); *Northern Telecom Inc.
+ v. Datapoint Corp.,* 908 F.2d 931, 15 USPQ2d 1321 (Fed. Cir. 1990) (Four
+ reports on the AESOP-B military computer system which were not under security
+ classification were distributed to about fifty organizations involved in the AESOP-B
+ project. One document contained the legend "Reproduction or further dissemination is
+ not authorized." The other documents were of the class that would contain this
+ legend. The documents were housed in Mitre Corporation’s library. Access to this
+ library was restricted to those involved in the AESOP-B project. The court held that
+ public access was insufficient to make the documents "printed publications.").
+ 
+
+**IV.** **PUBLICLY DISPLAYED REFERENCES CAN CONSTITUTE A "PRINTED PUBLICATION" EVEN IF
+ THE REFERENCES ARE NOT DISSEMINATED BY COPIES OR INDEXED IN A LIBRARY OR
+ DATABASE**A publicly displayed document where persons of ordinary skill in the
+ art could see it and are not precluded from copying it can constitute a "printed
+ publication," even if it is not disseminated by the distribution of reproductions or
+ copies and/or indexed in a library or database. 
+ 
+
+
+As stated in *In re Klopfenstein,*
+ 380 F.3d 1345, 1348, 72 USPQ2d 1117, 1119 (Fed. Cir. 2004), "the key inquiry is
+ whether or not a reference has been made ‘publicly accessible.’" Prior to the
+ critical date, a fourteen-slide presentation disclosing the invention was printed and
+ pasted onto poster boards. The printed slide presentation was displayed with no
+ confidentiality restrictions for approximately three cumulative days at two different
+ industry events. *Id.* at 1347, 72 USPQ2d at 1118. The court noted
+ that "an entirely oral presentation at a scientific conference that includes neither
+ slides nor copies of the presentation is without question not a 'printed publication'
+ for the purposes of **[[pre-AIA] 35 U.S.C. § 102(b)](mpep-9015-appx-l.html#d0e302383)**. Furthermore, a presentation that
+ includes a transient display of slides is likewise not necessarily a ‘printed
+ publication.’" *Id.* at 1349 n.4, 72 USPQ2d at 1120 n.4. In
+ resolving whether or not a temporarily displayed reference that was neither
+ distributed nor indexed was nonetheless made sufficiently publicly accessible to
+ count as a "printed publication" under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302383)**, the
+ court considered the following factors: "the length of time the display was
+ exhibited, the expertise of the target audience, the existence (or lack thereof) of
+ reasonable expectations that the material displayed would not be copied, and the
+ simplicity or ease with which the material displayed could have been copied."
+ *Id.* at 1350, 72 USPQ2d at 1120. Upon reviewing the above
+ factors, the court concluded that the display "was sufficiently publicly accessible
+ to count as a ‘printed publication.’" *Id.* at 1352, 72 USPQ2d at
+ 1121. 
+ 
+
+
+Similarly, in *Medtronic Inc., v.
+ Barry* (891 F.3d 1368, 127 USPQ 1208) (Fed. Cir. 2018) a video and slides
+ presented at two conferences prior to the critical date were found to be publically
+ accessible. When considering the factors set forth in *In re
+ Klopfenstein*, the court stated "[i]t may be relevant to determine
+ whether … members were expected to maintain the confidentiality of received materials
+ or would be permitted to share or even publicize the insights gained and materials
+ collected…". *Id* at 127 USPQ2d at 1218. In addition, in
+ *GoPro, Inc. v. Contour IP Holding LLC*, 908 F.3d 690, 128 USPQ2d
+ 1447 (Fed. Cir. 2018), the court stated that the expertise of the target audience is
+ a factor in determining public accessibility but is not dispositive of the inquiry.
+ "Rather, our case law directs us to also consider the nature of the conference or
+ meeting; whether there are restrictions on public disclosure of the information;
+ expectations of confidentiality; and expectations of sharing the information."
+ *Id.* at 695, 128 USPQ2d at 1451. 
+ 
+
+
+See also *Jazz Pharm., Inc. v. Amneal Pharm.,
+ LLC*, 895 F.3d 1347, 127 USPQ2d 1485 (Fed. Cir. 2018) (A notice in the
+ Federal Register which included instructions on accessing reference materials was
+ sufficient for the materials to be considered publicly accessible; the Board did not
+ need to find that specific persons actually received or examined the materials).
+ 
+
+
+"We have consistently held that indexing or
+ searchability is unnecessary for a reference to be a printed publication."
+ *Jazz Pharm., Inc. v. Amneal Pharm., LLC*, 895 F.3d 1347, 1359,
+ 127 USPQ2d 1485,1493 (Fed. Cir. 2018). But see *Acceleration Bay, LLC v.
+ Activision Blizzard Inc.*, 908 F.3d 765, 773, USPQ2d 1507, 1514 (Fed.
+ Cir. 2018)(an electronic technical report did not constitute a "printed publication"
+ because the indexing or searchability was deficient, and an interested skilled
+ artisan, using reasonable diligence, would have to skim through potentially hundreds
+ of titles in the same year, with most containing unrelated subject matter). 
+ 
+
+
+Note that an oral presentation at a scientific meeting
+ or a demonstration at a trade show may be prior art under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**’s provision: "otherwise available to the public." See
+ **[MPEP
+ § 2152.02(e)](s2152.html#ch2100_d20033_228c0_21c)**. "Trade shows are not unlike conferences - a
+ trade show is directed to individuals interested in the commercial and developmental
+ aspects of products. If one desires to examine certain new products on the market,
+ attending a trade show involving identical or similar products is a good option."
+ *GoPro, Inc. v. Contour IP Holding LLC*, 908 F.3d 690, 694, 128
+ USPQ2d 1447, 1451 (Fed. Cir. 2018). 
+ 
+
+
+, 
+# 2128.02 Date Publication Is Available as a Reference [R-10.2019]
+
+**I.** **DATE OF ACCESSIBILITY CAN BE SHOWN THROUGH EVIDENCE OF ROUTINE BUSINESS
+ PRACTICES**Evidence showing routine business practices can be used to establish
+ the date on which a publication became accessible to the public. Specific evidence
+ showing when the specific document actually became available is not always necessary.
+ *Constant v. Advanced Micro-Devices,**Inc.,* 848 F.2d 1560, 7 USPQ2d 1057 (Fed. Cir.), *cert.
+ denied,* 988 U.S. 892 (1988) (Court held that evidence submitted by Intel
+ regarding undated specification sheets showing how the company usually treated such
+ specification sheets was enough to show that the sheets were accessible by the public
+ before the critical date.); *In re Hall,* 781 F.2d 897, 228 USPQ 453
+ (Fed. Cir. 1986) (Librarian’s affidavit establishing normal time frame and practice
+ for indexing, cataloging and shelving doctoral theses established that the thesis in
+ question would have been accessible by the public before the critical date.);
+ *In re Lister,* 583 F.3d 1307, 1317, 92 USPQ2d 1225, 1231-32
+ (Fed. Cir. 2009) ("The government urges us that it is appropriate in this case to
+ presume that the manuscript information was added to the Westlaw and Dialog databases
+ prior to the critical date because the critical date was more than a year after the
+ certificate of registration was granted. However, absent any evidence pertaining to
+ the general practices of the Copyright Office, Westlaw, and Dialog, or the typical
+ time that elapses between copyright registration, inclusion in the Copyright Office’s
+ automated catalog, and subsequent incorporation into one of the commercial databases,
+ any presumption along those lines would be pure speculation."). 
+ 
+
+**II.** **A JOURNAL ARTICLE OR OTHER PUBLICATION BECOMES AVAILABLE AS PRIOR ART ON DATE
+ IT IS RECEIVED BY A MEMBER OF THE PUBLIC**A publication disseminated by mail is not prior art until it is
+ received by at least one member of the public. Thus, a magazine or technical journal
+ is effective as of the date when the first person receives it, not the date it was
+ mailed or sent to the publisher. *In re Schlittler,* 234 F.2d 882,
+ 110 USPQ 304 (CCPA 1956). 
+ 
+
+
+]

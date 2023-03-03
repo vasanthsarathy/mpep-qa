@@ -1,0 +1,446 @@
+[
+# 2135 Pre-AIA 35 U.S.C. 102(d) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq. for examination of applications subject to those
+ provisions.]*
+
+
+
+#### *Pre-AIA 35 U.S.C. 102   
+ Conditions for patentability; novelty and loss of right to patent.*
+
+
+A person shall be entitled to a patent unless -
+
+
+\*\*\*\*\*
+
+
+* (d) the invention was first patented or caused to be patented, or was
+ the subject of an inventor’s certificate, by the applicant or his legal
+ representatives or assigns in a foreign country prior to the date of the
+ application for patent in this country on an application for patent or inventor’s
+ certificate filed more than twelve months before the filing of the application in
+ the United States.
+
+
+\*\*\*\*\*
+
+
+**I.** **GENERAL REQUIREMENTS OF PRE-AIA 35 U.S.C. 102(d)****[Pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)** establishes four conditions which, if all are present,
+ establish a statutory bar against the granting of a patent in this country:
+ 
+
+
+* (A) The foreign application must be filed more than 12 months before
+ the effective filing date of the claimed invention in the United States (see
+ **[MPEP § 2139.01](s2139.html#ch2100_d2c184_12530_2b6)** regarding determination of the effective
+ U.S. filing date when an application is subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**);
+* (B) The foreign and United States applications must have been filed
+ by the same applicant or by the same applicant's legal representatives or
+ assigns.
+* (C) The foreign application must have actually issued as a patent or
+ inventor’s certificate (e.g., granted by sealing of the papers in Great Britain)
+ before the filing in the United States. It need not be published but the patent
+ rights granted must be enforceable.
+* (D) The same invention must be involved.
+
+
+If such a foreign patent or inventor’s certificate is discovered by the
+ examiner, the rejection is made under **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** on the
+ ground of statutory bar. See **[MPEP § 2135.01](s2135.html#d0e205339)** for further
+ clarification of each of the four requirements of **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**.
+ 
+
+**II.** **SEARCHING FOR PRE-AIA 35 U.S.C. 102(d) PRIOR ART**The examiner should undertake a search for an issued foreign patent for
+ use as **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** prior art only if there is a reasonable possibility
+ that a foreign patent covering the same subject matter as the U.S. application has been
+ granted to the same inventive entity before the U.S. effective filing date, i.e., the
+ time period between foreign and U.S. filings is greater than the usual time it takes for
+ a patent to issue in the foreign country. The document must be a patent or inventor’s
+ certificate and not merely a published or laid open application. Normally, the
+ probability of the inventor’s foreign patent issuing before the U.S. filing date is so
+ slight as to make such a search unproductive. However, it should be kept in mind that
+ the average pendency varies greatly between foreign countries. 
+ 
+
+
+The search for a granted patent can be accomplished on an electronic
+ database either by the examiner or by the staff of the Scientific and Technical
+ Information Center. See **[MPEP § 901.06(a)](s901.html#d0e113260)**, subsection IV.B., for more information on
+ online searching. Alternatively, if the examiner has a reasonable basis for concluding
+ that **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)** prior art might exist, the examiner may make a requirement
+ for information under **[37 CFR 1.105](mpep-9020-appx-r.html#aia_d0e322262)**. See
+ **[MPEP §
+ 704.10](s704.html#d0e55758)***et seq.*
+
+
+
+# 2135.01 The Four Requirements of Pre-AIA 35 U.S.C. 102(d) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq. for examination of applications subject to
+ those provisions.]*
+
+**I.** **FOREIGN APPLICATION MUST BE FILED MORE THAN 12 MONTHS BEFORE THE EFFECTIVE
+ U.S. FILING DATE*** 
+
+***A.******An Anniversary Date Ending on a Weekend or Holiday Results in an
+ Extension to the Next Business Day***The U.S. application is filed in time to prevent a
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** bar from arising if it is filed on the 1
+ year anniversary date of the filing date of the foreign application. If this day
+ is a Saturday, Sunday or federal holiday, the year would be extended to the
+ following business day. See *Ex parte Olah,* 131 USPQ 41 (Bd.
+ App. 1960). Despite changes to **[37 CFR 1.6(a)(2)](mpep-9020-appx-r.html#d0e313465)** and
+ **[37 CFR
+ 1.10](mpep-9020-appx-r.html#d0e313951)**, which require the USPTO to accord a filing date to an
+ application as of the date of deposit as Priority Express Mail® with the U.S.
+ Postal Service in accordance with **[37 CFR 1.10](mpep-9020-appx-r.html#d0e313951)** (e.g., a Saturday
+ filing date), the rule changes do not affect applicant’s concurrent right to defer
+ the filing of an application until the next business day when the last day for
+ "taking any action" falls on a Saturday, Sunday, or a federal holiday (e.g., the
+ last day of the 1-year grace period falls on a Saturday).
+ 
+
+***B.******A Continuation-in-Part Breaks the Chain of Priority as to Foreign as
+ Well as U.S. Parents***In the case where applicant files a foreign application, later
+ files a U.S. application claiming priority based on the foreign application, and
+ then files a continuation-in-part (CIP) application whose claims are not entitled
+ to the filing date of the U.S. parent, the effective filing date is the filing
+ date of the CIP and applicant cannot obtain the benefit of either the U.S. parent
+ or foreign application filing dates. *In re Van Langenhoven,* 458
+ F.2d 132, 137, 173 USPQ 426, 429 (CCPA 1972). If the foreign application issues
+ into a patent before the filing date of the CIP, it may be used in a
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**/**[103](mpep-9015-appx-l.html#d0e302450)** rejection if the subject
+ matter added to the CIP does not render the claims nonobvious over the foreign
+ patent. *Ex parte Appeal No. 242-47,* 196 USPQ 828 (Bd. App.
+ 1976) (Foreign patent can be combined with other prior art to bar a U.S. patent in
+ an obviousness rejection based on **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)**/**[103](mpep-9015-appx-l.html#d0e302450)**).
+ 
+
+**II.** **FOREIGN APPLICATION MUST HAVE BEEN FILED BY SAME APPLICANT, HIS OR HER LEGAL
+ REPRESENTATIVE OR ASSIGNS**Note that where the U.S. application was made by two or more
+ inventors, it is permissible for these inventors to claim priority from separate
+ applications, each to one of the inventors or a subcombination of inventors. For
+ instance, a U.S. application naming inventors A and B may be entitled to priority
+ from one application to A and one to B filed in a foreign country.
+ 
+
+**III.** **THE FOREIGN PATENT OR INVENTOR’S CERTIFICATE WAS ACTUALLY GRANTED BEFORE THE
+ U.S. FILING DATE*** 
+
+***A.******To Be "Patented" an Exclusionary Right Must Be Awarded to the
+ Applicant***"Patented" means "a formal bestowal of patent rights from the
+ sovereign to the applicant." *In re Monks,* 588 F.2d 308, 310,
+ 200 USPQ 129, 131 (CCPA 1978); *American Infra-Red Radiant Co. v. Lambert
+ Indus.,* 360 F.2d 977, 149 USPQ 722 (8th Cir.), *cert.
+ denied,* 385 U.S. 920 (1966) (German Gebrauchsmuster petty patent was
+ held to be a patent usable in a **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**
+ rejection. A Gebrauchsmuster petty patent is not examined and, at the time of the
+ decision, had only a 6-year patent term. However, except as to duration, the
+ exclusionary patent right granted is as extensive as in the U.S.).
+ 
+
+***B.******A Published Application Is Not a "Patent"***An application must issue into a patent before it can be applied
+ in a **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** rejection. *Ex parte
+ Fujishiro,* 199 USPQ 36 (Bd. App. 1977) ("Patenting," within the
+ meaning of **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**, does not occur upon laying open
+ of a Japanese utility model application (kokai or kohyo)); *Ex parte
+ Links,* 184 USPQ 429 (Bd. App. 1974) (German applications, which have
+ not yet been published for opposition, are published in the form of printed
+ documents called Offenlegungsschriften 18 months after filing. These applications
+ are unexamined or in the process of being examined at the time of publication. The
+ Board held that an Offenlegungsschrift is not a patent under **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)** even though some provisional rights are granted. The
+ Board explained that the provisional rights are minimal and do not come into force
+ if the application is withdrawn or refused.).
+ 
+
+***C.******An Allowed Application Can Be a "Patent" for Purposes of Pre-AIA 35
+ U.S.C. 102(d) as of the Date Published for Opposition Even Though It Has Not
+ Yet Been Granted as a Patent***An examined application which has been allowed by the examiner
+ and published to allow the public to oppose the grant of a patent has been held to
+ be a "patent" for purposes of rejection under **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** as of
+ the date of publication for opposition if substantial provisional enforcement
+ rights arise. *Ex parte Beik,* 161 USPQ 795 (Bd. App. 1968) (This
+ case dealt with examined German applications. After a determination that an
+ application is allowable, the application is published in the form of a printed
+ document called an Auslegeschrift. The publication begins a period of opposition
+ were the public can present evidence showing unpatentability. Provisional patent
+ rights are granted which are substantially the same as those available once the
+ opposition period is over and the patent is granted. The Board found that an
+ Auslegeschrift provides the legal effect of a patent for purposes of rejection
+ under **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**.).
+ 
+
+***D.******Grant Occurs When Patent Becomes Enforceable***The critical date of a foreign patent as a reference under
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** is the date the patent becomes enforceable
+ (issued, sealed or granted). *In re Monks,* 588 F.2d 308, 310,
+ 200 USPQ 129, 131 (CCPA 1978) (British reference became available as prior art on
+ date the patent was "sealed" because as of this date applicant had the right to
+ exclude others from making, using or selling the claimed invention.). 
+ 
+
+***E.******Pre-AIA 35 U.S.C. 102(d) Applies as of Grant Date Even If There Is a
+ Period of Secrecy After Patent Grant*** A period of secrecy after granting the patent, as in Belgium and
+ Spain, has been held to have no effect in connection with **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)**. These patents are usable in rejections under
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** as of the date patent rights are granted.
+ *In re Kathawala,* 9 F.3d 942, 28 USPQ2d 1789 (Fed. Cir. 1993)
+ (An invention is "patented" for purposes of **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** when
+ the patentee’s rights under the patent become fixed. The fact that applicant’s
+ Spanish application was not published until after the U.S. filing date is
+ immaterial since the Spanish patent was granted before U.S. filing.);
+ *Gramme Elec. Co. v. Arnoux and Hochhausen Elec. Co.,* 17 F.
+ 838, 1883 C.D. 418 (S.D.N.Y. 1883) (Rejection made under a predecessor of
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** based on an Austrian patent granted an
+ exclusionary right for 1 year but was kept secret, at the option of the patentee,
+ for that period. The court held that the Austrian patent grant date was the
+ relevant date under the statute for purposes of **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)** but that the patent could not have been used to in a
+ rejection under **[pre-AIA 35 U.S.C. 102(a) or (b)](mpep-9015-appx-l.html#d0e302383)**);  *In re
+ Talbott,* 443 F.2d 1397, 170 USPQ 281 (CCPA 1971) (Applicant cannot
+ avoid a **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** rejection by exercising an option to keep
+ the subject matter of a German Gebrauchsmuster (petty patent) in secrecy until
+ time of U.S. filing.). 
+ 
+
+**IV.** **THE SAME INVENTION MUST BE INVOLVED*** 
+
+***"Same Invention" Means That the Application Claims Could Have Been
+ Presented in the Foreign Patent***Under **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**, the
+ "invention... patented" in the foreign country must be the same as the invention
+ sought to be patented in the U.S. When the foreign patent contains the same claims
+ as the U.S. application, there is no question that "the invention was first
+ patented... in a foreign country." *In re Kathawala,* 9 F.3d 942,
+ 945, 28 USPQ2d 1785, 1787 (Fed. Cir. 1993). However, the claims need not be
+ identical or even within the same statutory class. If applicant is granted a
+ foreign patent which fully discloses the invention and which gives applicant a
+ number of different claiming options in the U.S., the reference in
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** to "‘invention... patented’ necessarily
+ includes all the disclosed aspects of the invention. Thus, the [pre-AIA] section
+ 102(d) bar applies regardless whether the foreign patent contains claims to less
+ than all aspects of the invention." 9 F.3d at 946, 28 USPQ2d at 1788. In essence,
+ a **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** rejection applies if applicant’s foreign
+ application supports the subject matter of the U.S. claims. *Id.*
+ at 944, 947, 28 USPQ2d at 1786, 1789 (Applicant was granted a Spanish patent
+ claiming a method of making a composition. The patent disclosed compounds, methods
+ of use and processes of making the compounds. After the Spanish patent was
+ granted, the applicant filed a U.S. application with claims directed to the
+ compound but not the process of making it. The Federal Circuit held that it did
+ not matter that the claims in the U.S. application were directed to the
+ composition instead of the process because the foreign specification would have
+ supported claims to the composition. It was immaterial that the formulations were
+ unpatentable pharmaceutical compositions in Spain.).
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2135.01 The Four Requirements of Pre-AIA 35 U.S.C. 102(d) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq. for examination of applications subject to
+ those provisions.]*
+
+**I.** **FOREIGN APPLICATION MUST BE FILED MORE THAN 12 MONTHS BEFORE THE EFFECTIVE
+ U.S. FILING DATE*** 
+
+***A.******An Anniversary Date Ending on a Weekend or Holiday Results in an
+ Extension to the Next Business Day***The U.S. application is filed in time to prevent a
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** bar from arising if it is filed on the 1
+ year anniversary date of the filing date of the foreign application. If this day
+ is a Saturday, Sunday or federal holiday, the year would be extended to the
+ following business day. See *Ex parte Olah,* 131 USPQ 41 (Bd.
+ App. 1960). Despite changes to **[37 CFR 1.6(a)(2)](mpep-9020-appx-r.html#d0e313465)** and
+ **[37 CFR
+ 1.10](mpep-9020-appx-r.html#d0e313951)**, which require the USPTO to accord a filing date to an
+ application as of the date of deposit as Priority Express Mail® with the U.S.
+ Postal Service in accordance with **[37 CFR 1.10](mpep-9020-appx-r.html#d0e313951)** (e.g., a Saturday
+ filing date), the rule changes do not affect applicant’s concurrent right to defer
+ the filing of an application until the next business day when the last day for
+ "taking any action" falls on a Saturday, Sunday, or a federal holiday (e.g., the
+ last day of the 1-year grace period falls on a Saturday).
+ 
+
+***B.******A Continuation-in-Part Breaks the Chain of Priority as to Foreign as
+ Well as U.S. Parents***In the case where applicant files a foreign application, later
+ files a U.S. application claiming priority based on the foreign application, and
+ then files a continuation-in-part (CIP) application whose claims are not entitled
+ to the filing date of the U.S. parent, the effective filing date is the filing
+ date of the CIP and applicant cannot obtain the benefit of either the U.S. parent
+ or foreign application filing dates. *In re Van Langenhoven,* 458
+ F.2d 132, 137, 173 USPQ 426, 429 (CCPA 1972). If the foreign application issues
+ into a patent before the filing date of the CIP, it may be used in a
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**/**[103](mpep-9015-appx-l.html#d0e302450)** rejection if the subject
+ matter added to the CIP does not render the claims nonobvious over the foreign
+ patent. *Ex parte Appeal No. 242-47,* 196 USPQ 828 (Bd. App.
+ 1976) (Foreign patent can be combined with other prior art to bar a U.S. patent in
+ an obviousness rejection based on **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)**/**[103](mpep-9015-appx-l.html#d0e302450)**).
+ 
+
+**II.** **FOREIGN APPLICATION MUST HAVE BEEN FILED BY SAME APPLICANT, HIS OR HER LEGAL
+ REPRESENTATIVE OR ASSIGNS**Note that where the U.S. application was made by two or more
+ inventors, it is permissible for these inventors to claim priority from separate
+ applications, each to one of the inventors or a subcombination of inventors. For
+ instance, a U.S. application naming inventors A and B may be entitled to priority
+ from one application to A and one to B filed in a foreign country.
+ 
+
+**III.** **THE FOREIGN PATENT OR INVENTOR’S CERTIFICATE WAS ACTUALLY GRANTED BEFORE THE
+ U.S. FILING DATE*** 
+
+***A.******To Be "Patented" an Exclusionary Right Must Be Awarded to the
+ Applicant***"Patented" means "a formal bestowal of patent rights from the
+ sovereign to the applicant." *In re Monks,* 588 F.2d 308, 310,
+ 200 USPQ 129, 131 (CCPA 1978); *American Infra-Red Radiant Co. v. Lambert
+ Indus.,* 360 F.2d 977, 149 USPQ 722 (8th Cir.), *cert.
+ denied,* 385 U.S. 920 (1966) (German Gebrauchsmuster petty patent was
+ held to be a patent usable in a **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**
+ rejection. A Gebrauchsmuster petty patent is not examined and, at the time of the
+ decision, had only a 6-year patent term. However, except as to duration, the
+ exclusionary patent right granted is as extensive as in the U.S.).
+ 
+
+***B.******A Published Application Is Not a "Patent"***An application must issue into a patent before it can be applied
+ in a **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** rejection. *Ex parte
+ Fujishiro,* 199 USPQ 36 (Bd. App. 1977) ("Patenting," within the
+ meaning of **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**, does not occur upon laying open
+ of a Japanese utility model application (kokai or kohyo)); *Ex parte
+ Links,* 184 USPQ 429 (Bd. App. 1974) (German applications, which have
+ not yet been published for opposition, are published in the form of printed
+ documents called Offenlegungsschriften 18 months after filing. These applications
+ are unexamined or in the process of being examined at the time of publication. The
+ Board held that an Offenlegungsschrift is not a patent under **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)** even though some provisional rights are granted. The
+ Board explained that the provisional rights are minimal and do not come into force
+ if the application is withdrawn or refused.).
+ 
+
+***C.******An Allowed Application Can Be a "Patent" for Purposes of Pre-AIA 35
+ U.S.C. 102(d) as of the Date Published for Opposition Even Though It Has Not
+ Yet Been Granted as a Patent***An examined application which has been allowed by the examiner
+ and published to allow the public to oppose the grant of a patent has been held to
+ be a "patent" for purposes of rejection under **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** as of
+ the date of publication for opposition if substantial provisional enforcement
+ rights arise. *Ex parte Beik,* 161 USPQ 795 (Bd. App. 1968) (This
+ case dealt with examined German applications. After a determination that an
+ application is allowable, the application is published in the form of a printed
+ document called an Auslegeschrift. The publication begins a period of opposition
+ were the public can present evidence showing unpatentability. Provisional patent
+ rights are granted which are substantially the same as those available once the
+ opposition period is over and the patent is granted. The Board found that an
+ Auslegeschrift provides the legal effect of a patent for purposes of rejection
+ under **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**.).
+ 
+
+***D.******Grant Occurs When Patent Becomes Enforceable***The critical date of a foreign patent as a reference under
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** is the date the patent becomes enforceable
+ (issued, sealed or granted). *In re Monks,* 588 F.2d 308, 310,
+ 200 USPQ 129, 131 (CCPA 1978) (British reference became available as prior art on
+ date the patent was "sealed" because as of this date applicant had the right to
+ exclude others from making, using or selling the claimed invention.). 
+ 
+
+***E.******Pre-AIA 35 U.S.C. 102(d) Applies as of Grant Date Even If There Is a
+ Period of Secrecy After Patent Grant*** A period of secrecy after granting the patent, as in Belgium and
+ Spain, has been held to have no effect in connection with **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)**. These patents are usable in rejections under
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** as of the date patent rights are granted.
+ *In re Kathawala,* 9 F.3d 942, 28 USPQ2d 1789 (Fed. Cir. 1993)
+ (An invention is "patented" for purposes of **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** when
+ the patentee’s rights under the patent become fixed. The fact that applicant’s
+ Spanish application was not published until after the U.S. filing date is
+ immaterial since the Spanish patent was granted before U.S. filing.);
+ *Gramme Elec. Co. v. Arnoux and Hochhausen Elec. Co.,* 17 F.
+ 838, 1883 C.D. 418 (S.D.N.Y. 1883) (Rejection made under a predecessor of
+ **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** based on an Austrian patent granted an
+ exclusionary right for 1 year but was kept secret, at the option of the patentee,
+ for that period. The court held that the Austrian patent grant date was the
+ relevant date under the statute for purposes of **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#d0e302383)** but that the patent could not have been used to in a
+ rejection under **[pre-AIA 35 U.S.C. 102(a) or (b)](mpep-9015-appx-l.html#d0e302383)**);  *In re
+ Talbott,* 443 F.2d 1397, 170 USPQ 281 (CCPA 1971) (Applicant cannot
+ avoid a **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** rejection by exercising an option to keep
+ the subject matter of a German Gebrauchsmuster (petty patent) in secrecy until
+ time of U.S. filing.). 
+ 
+
+**IV.** **THE SAME INVENTION MUST BE INVOLVED*** 
+
+***"Same Invention" Means That the Application Claims Could Have Been
+ Presented in the Foreign Patent***Under **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**, the
+ "invention... patented" in the foreign country must be the same as the invention
+ sought to be patented in the U.S. When the foreign patent contains the same claims
+ as the U.S. application, there is no question that "the invention was first
+ patented... in a foreign country." *In re Kathawala,* 9 F.3d 942,
+ 945, 28 USPQ2d 1785, 1787 (Fed. Cir. 1993). However, the claims need not be
+ identical or even within the same statutory class. If applicant is granted a
+ foreign patent which fully discloses the invention and which gives applicant a
+ number of different claiming options in the U.S., the reference in
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** to "‘invention... patented’ necessarily
+ includes all the disclosed aspects of the invention. Thus, the [pre-AIA] section
+ 102(d) bar applies regardless whether the foreign patent contains claims to less
+ than all aspects of the invention." 9 F.3d at 946, 28 USPQ2d at 1788. In essence,
+ a **[pre-AIA 35
+ U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** rejection applies if applicant’s foreign
+ application supports the subject matter of the U.S. claims. *Id.*
+ at 944, 947, 28 USPQ2d at 1786, 1789 (Applicant was granted a Spanish patent
+ claiming a method of making a composition. The patent disclosed compounds, methods
+ of use and processes of making the compounds. After the Spanish patent was
+ granted, the applicant filed a U.S. application with claims directed to the
+ compound but not the process of making it. The Federal Circuit held that it did
+ not matter that the claims in the U.S. application were directed to the
+ composition instead of the process because the foreign specification would have
+ supported claims to the composition. It was immaterial that the formulations were
+ unpatentable pharmaceutical compositions in Spain.).
+ 
+
+
+]

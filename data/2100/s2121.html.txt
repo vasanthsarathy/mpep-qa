@@ -1,0 +1,422 @@
+[
+# 2121 Prior Art; General Level of Operability Required to Make a
+ *Prima Facie* Case [R-08.2017]
+
+**I.** **PRIOR ART IS PRESUMED TO BE OPERABLE/ENABLING**When the reference relied on expressly anticipates or makes obvious all
+ of the elements of the claimed invention, the reference is presumed to be operable. Once
+ such a reference is found, the burden is on applicant to rebut the presumption of
+ operability. *In re Sasse,* 629 F.2d 675, 207 USPQ 107 (CCPA 1980). See
+ also **[MPEP
+ § 716.07](s716.html#d0e93668)**. See also *In re Antor Media Corp.,*
+ 689 F.3d 1282, 103 USPQ2d 1555 (Fed. Cir. 2012). Specifically, in *In re Antor
+ Media Corp.,* the court stated:
+ 
+
+
+
+
+> 
+> "Consistent with the statutory framework and our
+>  precedent, we therefore hold that, during patent prosecution, an examiner is
+>  entitled to reject claims as anticipated by a prior art publication or patent
+>  without conducting an inquiry into whether or not that prior art reference is
+>  enabling. As long as an examiner makes a proper prima facie case of anticipation
+>  by giving adequate notice under **[§ 132](mpep-9015-appx-l.html#d0e303187)**, the burden shifts to
+>  the applicant to submit rebuttal evidence of nonenablement." 
+>  
+> 
+> 
+> 
+
+
+
+*In re Antor Media Corp.,* 689 F.3d at
+ 1289, 103 USPQ2d at 1559.
+ 
+
+
+Where a reference appears to not be enabling on its
+ face, however, an applicant may successfully challenge the cited prior art for lack of
+ enablement by argument without supporting evidence. *In re Morsa,* 713
+ F.3d 104, 110, 106 USPQ2d 1327, 1332 (Fed. Cir. 2013).
+ 
+
+
+See also **[MPEP § 716.07](s716.html#d0e93668)**.
+ 
+
+**II.** **WHAT CONSTITUTES AN "ENABLING DISCLOSURE" DOES NOT DEPEND ON THE TYPE OF PRIOR
+ ART THE DISCLOSURE IS CONTAINED IN**The level of disclosure required within a reference to make it an
+ "enabling disclosure" is the same no matter what type of prior art is at issue. It does
+ not matter whether the prior art reference is a U.S. patent, foreign patent, a printed
+ publication or other. There is no basis in the statute (**[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** or
+ **[103](mpep-9015-appx-l.html#d0e302450)**) for discriminating either in favor of or against prior art
+ references on the basis of nationality. *In re Moreton,* 288 F.2d 708,
+ 129 USPQ 227 (CCPA 1961).
+ 
+
+**III.** **EFFICACY IS NOT A REQUIREMENT FOR PRIOR ART ENABLEMENT** A prior art reference provides an enabling disclosure and thus
+ anticipates a claimed invention if the reference describes the claimed invention in
+ sufficient detail to enable a person of ordinary skill in the art to carry out the
+ claimed invention; 
+ "proof of efficacy is not
+ required for a prior art reference to be enabling for purposes of
+ anticipation."
+ 
+ 
+ *Impax Labs. Inc. v. Aventis Pharm.**Inc.,* 468 F.3d 1366, 1383, 81 USPQ2d 1001, 1013 (Fed. Cir. 2006). See
+ also **[MPEP §
+ 2122](s2122.html#d0e201997)**. 
+ 
+
+
+
+# 2121.01 Use of Prior Art in Rejections Where Operability is in
+ Question [R-10.2019]
+
+
+"In determining that quantum of prior art disclosure which is necessary
+ to declare an applicant’s invention ‘not novel’ or ‘anticipated’ within
+ **[section
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, the stated test is whether a reference contains an ‘enabling
+ disclosure’... ." *In re**Hoeksema,* 399 F.2d 269, 158 USPQ 596 (CCPA 1968). The disclosure in
+ an assertedly anticipating reference must provide an enabling disclosure of the desired
+ subject matter; mere naming or description of the subject matter is insufficient, if it
+ cannot be produced without undue experimentation. *Elan Pharm., Inc. v. Mayo
+ Found. For Med. Educ. & Research,* 346 F.3d 1051, 1054, 68 USPQ2d 1373,
+ 1376 (Fed. Cir. 2003) (At issue was whether a prior art reference enabled one of
+ ordinary skill in the art to produce Elan’s claimed transgenic mouse without undue
+ experimentation. Without a disclosure enabling one skilled in the art to produce a
+ transgenic mouse without undue experimentation, the reference would not be applicable as
+ prior art.). A reference contains an "enabling disclosure" if the public was in
+ possession of the claimed invention before the effective filing date of the claimed
+ invention for applications or patents subject to the first inventor to file provisions
+ of the AIA or the time the invention was made for applications or patents subject to
+ pre-AIA law. "Such possession is effected if one of ordinary skill in the art could have
+ combined the publication’s description of the invention with his [or her] own knowledge
+ to make the claimed invention." *In re Donohue,* 766 F.2d 531, 226 USPQ
+ 619 (Fed. Cir. 1985).
+ 
+
+**I.** **35 U.S.C. 102 REJECTIONS AND ADDITION OF EVIDENCE SHOWING REFERENCE IS
+ OPERABLE**It is possible to make a **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** rejection even if
+ the reference does not itself teach one of ordinary skill how to practice the
+ invention, i.e., how to make the article disclosed or use the method disclosed. If
+ the reference teaches every claimed element of the article or every claimed step of
+ the method, secondary evidence, such as other patents or publications, can be cited
+ to show public possession of the method of making the article or using the method.
+ *In re Donohue,* 766 F.2d at 533, 226 USPQ at 621. See
+ **[MPEP §
+ 2131.01](s2131.html#d0e203057)** for more information on **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ rejections using secondary references to show that the primary reference contains an
+ "enabling disclosure." 
+ 
+
+**II.** **35 U.S.C. 103 REJECTIONS AND USE OF INOPERATIVE PRIOR ART**"Even if a reference discloses an inoperative device, it is prior
+ art for all that it teaches." *Beckman Instruments**v.**LKB Produkter AB,* 892 F.2d 1547, 1551, 13 USPQ2d 1301, 1304 (Fed.
+ Cir. 1989). Therefore, "a non-enabling reference may qualify as prior art for the
+ purpose of determining obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**." *Symbol
+ Techs. Inc. v. Opticon Inc.,* 935 F.2d 1569, 1578, 19 USPQ2d 1241, 1247
+ (Fed. Cir. 1991).
+ 
+
+
+
+
+# 2121.02 Compounds and Compositions — What Constitutes Enabling Prior
+ Art [R-08.2017]
+
+
+*[Editor Note: This MPEP section is **applicable** to applications
+ subject to the first inventor to file (FITF) provisions of the AIA except that the
+ relevant date is the "effective filing date" of the claimed invention instead of the
+ "time of the invention" or "date of invention," which are only applicable to
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. See
+ **[35
+ U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq.]*
+
+**I.** **ONE OF ORDINARY SKILL IN THE ART MUST BE ABLE TO MAKE OR SYNTHESIZE**Where a process for making the compound is not developed until after
+ the date of invention, the mere naming of a compound in a reference, without more,
+ cannot constitute a description of the compound. *In re Hoeksema,*
+ 399 F.2d 269, 158 USPQ 596 (CCPA 1968). Note, however, that a reference is presumed
+ operable until applicant provides facts rebutting the presumption of operability.
+ *In re Sasse,* 629 F.2d 675, 207 USPQ 107 (CCPA 1980). Therefore,
+ applicant must provide evidence showing that a process for making was not known at
+ the time of the invention. See the following subsection for the evidentiary standard
+ to be applied. 
+ 
+
+**II.** **A REFERENCE DOES NOT CONTAIN AN "ENABLING DISCLOSURE" IF ATTEMPTS AT MAKING
+ THE COMPOUND OR COMPOSITION WERE UNSUCCESSFUL BEFORE THE DATE OF INVENTION**When a prior art reference merely discloses the structure of the
+ claimed compound, evidence showing that attempts to prepare that compound were
+ unsuccessful before the date of invention will be adequate to show inoperability.
+ *In re Wiggins,* 488 F.2d 538, 179 USPQ 421 (CCPA 1973). However,
+ the fact that an author of a publication did not attempt to make the compound
+ disclosed, without more, will not overcome a rejection based on that publication.
+ *In re Donohue,* 766 F.2d 531, 226 USPQ 619 (Fed. Cir. 1985) (In
+ this case, the examiner had made a rejection under **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302383)** over a publication, which disclosed the claimed
+ compound, in combination with two patents teaching a general process of making the
+ particular class of compounds. The applicant submitted an affidavit stating that the
+ authors of the publication had not actually synthesized the compound. The court held
+ that the fact that the publication’s author did not synthesize the disclosed compound
+ was immaterial to the question of reference operability. The patents were evidence
+ that synthesis methods were well known. The court distinguished
+ *Wiggins,* in which a very similar rejection was reversed. In
+ *Wiggins,* attempts to make the compounds using the prior art
+ methods were all unsuccessful.). Compare *In re Hoeksema,* 399 F.2d
+ 269, 158 USPQ 596 (CCPA 1968) (A claim to a compound was rejected over a patent to
+ *De Boer* which disclosed compounds similar in structure to those
+ claimed (obvious homologs) and a process of making these compounds. Applicant
+ responded with an affidavit by an expert named Wiley which stated that there was no
+ indication in the *De Boer* patent that the process disclosed in
+ *De Boer* could be used to produce the claimed compound and that
+ he did not believe that the process disclosed in *De Boer* could be
+ adapted to the production of the claimed compound. The court held that the facts
+ stated in this affidavit were legally sufficient to overcome the rejection and that
+ applicant need not show that all known processes are incapable of producing the
+ claimed compound for this showing would be practically impossible.). 
+ 
+
+
+
+
+# 2121.03 Plant Genetics — What Constitutes Enabling Prior
+ Art [R-10.2019]
+
+**THOSE OF ORDINARY SKILL MUST BE ABLE TO GROW AND CULTIVATE THE PLANT**When the claims are drawn to plants, the reference, combined with
+ knowledge in the prior art, must enable one of ordinary skill in the art to reproduce
+ the plant. *In re**LeGrice,* 301 F.2d 929, 133 USPQ 365 (CCPA 1962) (National Rose
+ Society Annual of England and various other catalogues showed color pictures of the
+ claimed roses and disclosed that applicant had raised the roses. The publications
+ were published more than 1 year before applicant's filing date. The court held that
+ the publications did not place the rose in the public domain. Information on the
+ grafting process required to reproduce the rose was not included in the publications
+ and such information was necessary for those of ordinary skill in the art (plant
+ breeders) to reproduce the rose.). Compare *Ex parte**Thomson,* 24 USPQ2d 1618 (Bd. Pat. App. & Inter. 1992) (Seeds
+ were commercially available more than 1 year prior to applicant’s filing date. One of
+ ordinary skill in the art could grow the claimed cotton cultivar from the
+ commercially available seeds. Thus, the publications describing the cotton cultivar
+ had "enabled disclosures." The Board distinguished *In re LeGrice*
+ by finding that the catalogue picture of the rose of *In re LeGrice*
+ was the only evidence in that case. There was no evidence of commercial availability
+ in enabling form since the asexually reproduced rose could not be reproduced from
+ seed. Therefore, the public would not have possession of the rose by its picture
+ alone, but the public would have possession of the cotton cultivar based on the
+ publications and the availability of the seeds.). In *In re Elsner,*
+ 381 F.3d 1125, 1126, 72 USPQ2d 1038, 1040 (Fed. Cir. 2004), prior to the critical
+ date of a plant patent application, the plant had been sold in Germany and a foreign
+ Plant Breeder’s Rights (PBR) application for the same plant had been published in the
+ Community Plant Variety Office *Official Gazette*. The court held
+ that when (i) a publication identifies claimed the plant, (ii) a foreign sale occurs
+ that puts one of ordinary skill in the art in possession of the plant itself, and
+ (iii) such possession permits asexual reproduction of the plant without undue
+ experimentation to one of ordinary skill in the art, then that combination of facts
+ and events directly conveys the essential knowledge of the invention and constitutes
+ a **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302395)** statutory bar.*Id.* at 1129, 72 USPQ2d
+ at 1041. Although the court agreed with the Board that foreign sales may enable an
+ otherwise non-enabling printed publication, the case was remanded for additional
+ fact-finding in order to determine if the foreign sales of the plant were known to be
+ accessible to the skilled artisan and if the skilled artisan could have reproduced
+ the plant asexually after obtaining it without undue experimentation.
+ *Id.* at 1131, 72 USPQ2d at 1043. See **[MPEP §
+ 2152.02(d)](s2152.html#ch2100_d20033_2254b_3e0)** for information on foreign sales being prior art
+ for applications subject to the first inventor to file provisions of the AIA. 
+ 
+
+
+
+
+# 2121.04 Apparatus and Articles — What Constitutes Enabling Prior
+ Art [R-10.2019]
+
+**PICTURES MAY CONSTITUTE AN "ENABLING DISCLOSURE"**Pictures and drawings may be sufficiently enabling to put the public
+ in the possession of the article pictured. Therefore, such an enabling picture may
+ be used to reject claims to the article. However, the picture must show all the
+ claimed structural features and how they are put together. *In re
+ Bager,* 47 F.2d 951, 953, 8 USPQ 484, 486 (CCPA 1931) ("Description for
+ the purposes of anticipation can be by drawings alone as well as by words.") (citing
+ *Jockmus v. Leviton,* 28 F.2d 812 (2d Cir. 1928)). See also
+ **[MPEP §
+ 2125](s2125.html#d0e202147)** for a discussion of drawings as prior art. 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2121.01 Use of Prior Art in Rejections Where Operability is in
+ Question [R-10.2019]
+
+
+"In determining that quantum of prior art disclosure which is necessary
+ to declare an applicant’s invention ‘not novel’ or ‘anticipated’ within
+ **[section
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, the stated test is whether a reference contains an ‘enabling
+ disclosure’... ." *In re**Hoeksema,* 399 F.2d 269, 158 USPQ 596 (CCPA 1968). The disclosure in
+ an assertedly anticipating reference must provide an enabling disclosure of the desired
+ subject matter; mere naming or description of the subject matter is insufficient, if it
+ cannot be produced without undue experimentation. *Elan Pharm., Inc. v. Mayo
+ Found. For Med. Educ. & Research,* 346 F.3d 1051, 1054, 68 USPQ2d 1373,
+ 1376 (Fed. Cir. 2003) (At issue was whether a prior art reference enabled one of
+ ordinary skill in the art to produce Elan’s claimed transgenic mouse without undue
+ experimentation. Without a disclosure enabling one skilled in the art to produce a
+ transgenic mouse without undue experimentation, the reference would not be applicable as
+ prior art.). A reference contains an "enabling disclosure" if the public was in
+ possession of the claimed invention before the effective filing date of the claimed
+ invention for applications or patents subject to the first inventor to file provisions
+ of the AIA or the time the invention was made for applications or patents subject to
+ pre-AIA law. "Such possession is effected if one of ordinary skill in the art could have
+ combined the publication’s description of the invention with his [or her] own knowledge
+ to make the claimed invention." *In re Donohue,* 766 F.2d 531, 226 USPQ
+ 619 (Fed. Cir. 1985).
+ 
+
+**I.** **35 U.S.C. 102 REJECTIONS AND ADDITION OF EVIDENCE SHOWING REFERENCE IS
+ OPERABLE**It is possible to make a **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** rejection even if
+ the reference does not itself teach one of ordinary skill how to practice the
+ invention, i.e., how to make the article disclosed or use the method disclosed. If
+ the reference teaches every claimed element of the article or every claimed step of
+ the method, secondary evidence, such as other patents or publications, can be cited
+ to show public possession of the method of making the article or using the method.
+ *In re Donohue,* 766 F.2d at 533, 226 USPQ at 621. See
+ **[MPEP §
+ 2131.01](s2131.html#d0e203057)** for more information on **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ rejections using secondary references to show that the primary reference contains an
+ "enabling disclosure." 
+ 
+
+**II.** **35 U.S.C. 103 REJECTIONS AND USE OF INOPERATIVE PRIOR ART**"Even if a reference discloses an inoperative device, it is prior
+ art for all that it teaches." *Beckman Instruments**v.**LKB Produkter AB,* 892 F.2d 1547, 1551, 13 USPQ2d 1301, 1304 (Fed.
+ Cir. 1989). Therefore, "a non-enabling reference may qualify as prior art for the
+ purpose of determining obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**." *Symbol
+ Techs. Inc. v. Opticon Inc.,* 935 F.2d 1569, 1578, 19 USPQ2d 1241, 1247
+ (Fed. Cir. 1991).
+ 
+
+
+, 
+# 2121.02 Compounds and Compositions — What Constitutes Enabling Prior
+ Art [R-08.2017]
+
+
+*[Editor Note: This MPEP section is **applicable** to applications
+ subject to the first inventor to file (FITF) provisions of the AIA except that the
+ relevant date is the "effective filing date" of the claimed invention instead of the
+ "time of the invention" or "date of invention," which are only applicable to
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. See
+ **[35
+ U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq.]*
+
+**I.** **ONE OF ORDINARY SKILL IN THE ART MUST BE ABLE TO MAKE OR SYNTHESIZE**Where a process for making the compound is not developed until after
+ the date of invention, the mere naming of a compound in a reference, without more,
+ cannot constitute a description of the compound. *In re Hoeksema,*
+ 399 F.2d 269, 158 USPQ 596 (CCPA 1968). Note, however, that a reference is presumed
+ operable until applicant provides facts rebutting the presumption of operability.
+ *In re Sasse,* 629 F.2d 675, 207 USPQ 107 (CCPA 1980). Therefore,
+ applicant must provide evidence showing that a process for making was not known at
+ the time of the invention. See the following subsection for the evidentiary standard
+ to be applied. 
+ 
+
+**II.** **A REFERENCE DOES NOT CONTAIN AN "ENABLING DISCLOSURE" IF ATTEMPTS AT MAKING
+ THE COMPOUND OR COMPOSITION WERE UNSUCCESSFUL BEFORE THE DATE OF INVENTION**When a prior art reference merely discloses the structure of the
+ claimed compound, evidence showing that attempts to prepare that compound were
+ unsuccessful before the date of invention will be adequate to show inoperability.
+ *In re Wiggins,* 488 F.2d 538, 179 USPQ 421 (CCPA 1973). However,
+ the fact that an author of a publication did not attempt to make the compound
+ disclosed, without more, will not overcome a rejection based on that publication.
+ *In re Donohue,* 766 F.2d 531, 226 USPQ 619 (Fed. Cir. 1985) (In
+ this case, the examiner had made a rejection under **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302383)** over a publication, which disclosed the claimed
+ compound, in combination with two patents teaching a general process of making the
+ particular class of compounds. The applicant submitted an affidavit stating that the
+ authors of the publication had not actually synthesized the compound. The court held
+ that the fact that the publication’s author did not synthesize the disclosed compound
+ was immaterial to the question of reference operability. The patents were evidence
+ that synthesis methods were well known. The court distinguished
+ *Wiggins,* in which a very similar rejection was reversed. In
+ *Wiggins,* attempts to make the compounds using the prior art
+ methods were all unsuccessful.). Compare *In re Hoeksema,* 399 F.2d
+ 269, 158 USPQ 596 (CCPA 1968) (A claim to a compound was rejected over a patent to
+ *De Boer* which disclosed compounds similar in structure to those
+ claimed (obvious homologs) and a process of making these compounds. Applicant
+ responded with an affidavit by an expert named Wiley which stated that there was no
+ indication in the *De Boer* patent that the process disclosed in
+ *De Boer* could be used to produce the claimed compound and that
+ he did not believe that the process disclosed in *De Boer* could be
+ adapted to the production of the claimed compound. The court held that the facts
+ stated in this affidavit were legally sufficient to overcome the rejection and that
+ applicant need not show that all known processes are incapable of producing the
+ claimed compound for this showing would be practically impossible.). 
+ 
+
+
+, 
+# 2121.03 Plant Genetics — What Constitutes Enabling Prior
+ Art [R-10.2019]
+
+**THOSE OF ORDINARY SKILL MUST BE ABLE TO GROW AND CULTIVATE THE PLANT**When the claims are drawn to plants, the reference, combined with
+ knowledge in the prior art, must enable one of ordinary skill in the art to reproduce
+ the plant. *In re**LeGrice,* 301 F.2d 929, 133 USPQ 365 (CCPA 1962) (National Rose
+ Society Annual of England and various other catalogues showed color pictures of the
+ claimed roses and disclosed that applicant had raised the roses. The publications
+ were published more than 1 year before applicant's filing date. The court held that
+ the publications did not place the rose in the public domain. Information on the
+ grafting process required to reproduce the rose was not included in the publications
+ and such information was necessary for those of ordinary skill in the art (plant
+ breeders) to reproduce the rose.). Compare *Ex parte**Thomson,* 24 USPQ2d 1618 (Bd. Pat. App. & Inter. 1992) (Seeds
+ were commercially available more than 1 year prior to applicant’s filing date. One of
+ ordinary skill in the art could grow the claimed cotton cultivar from the
+ commercially available seeds. Thus, the publications describing the cotton cultivar
+ had "enabled disclosures." The Board distinguished *In re LeGrice*
+ by finding that the catalogue picture of the rose of *In re LeGrice*
+ was the only evidence in that case. There was no evidence of commercial availability
+ in enabling form since the asexually reproduced rose could not be reproduced from
+ seed. Therefore, the public would not have possession of the rose by its picture
+ alone, but the public would have possession of the cotton cultivar based on the
+ publications and the availability of the seeds.). In *In re Elsner,*
+ 381 F.3d 1125, 1126, 72 USPQ2d 1038, 1040 (Fed. Cir. 2004), prior to the critical
+ date of a plant patent application, the plant had been sold in Germany and a foreign
+ Plant Breeder’s Rights (PBR) application for the same plant had been published in the
+ Community Plant Variety Office *Official Gazette*. The court held
+ that when (i) a publication identifies claimed the plant, (ii) a foreign sale occurs
+ that puts one of ordinary skill in the art in possession of the plant itself, and
+ (iii) such possession permits asexual reproduction of the plant without undue
+ experimentation to one of ordinary skill in the art, then that combination of facts
+ and events directly conveys the essential knowledge of the invention and constitutes
+ a **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302395)** statutory bar.*Id.* at 1129, 72 USPQ2d
+ at 1041. Although the court agreed with the Board that foreign sales may enable an
+ otherwise non-enabling printed publication, the case was remanded for additional
+ fact-finding in order to determine if the foreign sales of the plant were known to be
+ accessible to the skilled artisan and if the skilled artisan could have reproduced
+ the plant asexually after obtaining it without undue experimentation.
+ *Id.* at 1131, 72 USPQ2d at 1043. See **[MPEP §
+ 2152.02(d)](s2152.html#ch2100_d20033_2254b_3e0)** for information on foreign sales being prior art
+ for applications subject to the first inventor to file provisions of the AIA. 
+ 
+
+
+, 
+# 2121.04 Apparatus and Articles — What Constitutes Enabling Prior
+ Art [R-10.2019]
+
+**PICTURES MAY CONSTITUTE AN "ENABLING DISCLOSURE"**Pictures and drawings may be sufficiently enabling to put the public
+ in the possession of the article pictured. Therefore, such an enabling picture may
+ be used to reject claims to the article. However, the picture must show all the
+ claimed structural features and how they are put together. *In re
+ Bager,* 47 F.2d 951, 953, 8 USPQ 484, 486 (CCPA 1931) ("Description for
+ the purposes of anticipation can be by drawings alone as well as by words.") (citing
+ *Jockmus v. Leviton,* 28 F.2d 812 (2d Cir. 1928)). See also
+ **[MPEP §
+ 2125](s2125.html#d0e202147)** for a discussion of drawings as prior art. 
+ 
+
+
+]

@@ -1,0 +1,3517 @@
+[
+# 2146 Pre-AIA 35 U.S.C. 103(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file provisions of the AIA as
+ explained in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §§ 717.02](s717.html#ch700_d1ffd5_1b424_139)** et seq.,
+ **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** and **[2156](s2156.html#ch2100_d20034_1b4ea_2c0)**
+ for the examination of applications subject to the first inventor to file provisions of
+ the AIA involving, inter alia, commonly owned subject matter or a joint research
+ agreement.]*
+
+
+
+#### *Pre-AIA 35 U.S.C. 103   
+ Conditions of patentability; non-obvious subject matter.*
+
+
+\*\*\*\*\*
+
+
+* (c)
+	+ (1) Subject matter developed by another person, which
+	 qualifies as prior art only under one or more of subsections (e), (f), and
+	 (g) of **[section 102](mpep-9015-appx-l.html#d0e302383)**, shall not preclude patentability under
+	 this section where the subject matter and the claimed invention were, at the
+	 time the claimed invention was made, owned by the same person or subject to
+	 an obligation of assignment to the same person.
+	+ (2) For purposes of this subsection, subject matter developed
+	 by another person and a claimed invention shall be deemed to have been owned
+	 by the same person or subject to an obligation of assignment to the same
+	 person if —
+		- (A) the claimed invention was made by or on behalf of
+		 parties to a joint research agreement that was in effect on or before
+		 the date the claimed invention was made;
+		- (B) the claimed invention was made as a result of
+		 activities undertaken within the scope of the joint research
+		 agreement; and
+		- (C) the application for patent for the claimed invention
+		 discloses or is amended to disclose the names of the parties to the
+		 joint research agreement.
+	+ (3) For purposes of paragraph (2), the term "joint research
+	 agreement" means a written contract, grant, or cooperative agreement entered
+	 into by two or more persons or entities for the performance of experimental,
+	 developmental, or research work in the field of the claimed invention.
+
+
+
+It is important to recognize that **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** applies only
+ to consideration of prior art for purposes of obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**. It
+ does not apply to or affect subject matter which is applied in a rejection under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** or a double patenting rejection. In addition, if the subject
+ matter qualifies as prior art under any subsection of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** other than (e),
+ (f), or (g) (e.g., **[pre-AIA 35 U.S.C. 102(a) or (b)](mpep-9015-appx-l.html#d0e302383)**) it will not be disqualified as
+ prior art under **[pre-AIA
+ 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+A patent applicant or patentee urging that subject matter is disqualified
+ has the burden of establishing that the prior art is disqualified under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**. Absent such disqualification, the appropriate rejection under
+ **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302450)** applying prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or (g)](mpep-9015-appx-l.html#d0e302383)**
+ should be made. See **[MPEP § 2146.02](s2146.html#ch2100_d2c184_12765_27)** for information pertaining
+ to establishing prior art exclusions due to common ownership or joint research
+ agreements.
+ 
+
+
+The term "subject matter" will be construed broadly, in the same manner the
+ term is construed in the remainder of **[pre-AIA 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**. The term
+ "another" as used in **[pre-AIA 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** means any inventive entity other than the
+ inventor and would include the inventor and any other persons. The term "developed" is to
+ be read broadly and is not limited by the manner in which the development occurred. The
+ term "commonly owned" means wholly owned by the same person(s) or organization(s) at the
+ time the invention was made. The term "joint research agreement" means a written contract,
+ grant, or cooperative agreement entered into by two or more persons or entities for the
+ performance of experimental, developmental, or research work in the field of the claimed
+ invention. See **[MPEP § 2146.02](s2146.html#ch2100_d2c184_12765_27)**.
+ 
+
+
+For a discussion of the three conditions of **[AIA 35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** that must be satisfied for a claimed invention and subject
+ matter disclosed which might otherwise qualify as prior art to be treated as having been
+ owned by the same person or subject to an obligation of assignment to the same person in
+ applying the joint research agreement provisions of **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)**, see **[MPEP §
+ 2156](s2156.html#ch2100_d20034_1b4ea_2c0)**. See also **[MPEP §
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)***et seq.*
+
+**I.** **APPLICABILITY OF PRE-AIA 35 U.S.C.
+ 103(c)**Prior to November 29, 1999, pre-AIPA 35 U.S.C. 103(c) provided that
+ subject matter developed by another which qualifies as "prior art" only under
+ **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[pre-AIA 35 U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302383)** is not to
+ be considered when determining whether an invention sought to be patented is obvious
+ under **[pre-AIA 35
+ U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**, provided the subject matter and the claimed invention
+ were commonly owned at the time the invention was made. See subsection II, below, for a
+ discussion of pre-AIPA 35 U.S.C. 103(c) for applications filed prior to November 29,
+ 1999.
+ 
+
+
+Effective November 29, 1999, subject matter which was prior art under
+ former **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** via **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** was
+ disqualified as prior art against the claimed invention if that subject matter and the
+ claimed invention "were, at the time the invention was made, owned by the same person or
+ subject to an obligation of assignment to the same person." This amendment to
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** was made pursuant to section 4807 of the American Inventors
+ Protection Act of 1999 (AIPA); see Public Law 106-113, 113 Stat. 1501, 1501A-591 (1999).
+ The changes to **[pre-AIA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** in the Intellectual Property and High Technology
+ Technical Amendments Act of 2002 (Public Law 107-273, 116 Stat. 1758 (2002)) did not
+ affect the exclusion under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** as amended
+ on November 29, 1999. Subsequently, the Cooperative Research and Technology Enhancement
+ Act of 2004 (CREATE Act) (Public Law 108-453, 118 Stat. 3596 (2004)) further amended
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** to provide that subject matter developed by another person
+ shall be treated as owned by the same person or subject to an obligation of assignment
+ to the same person for purposes of determining obviousness if three conditions are met: 
+ 
+
+
+* (A) the claimed invention was made by or on behalf of parties to a
+ joint research agreement that was in effect on or before the date the claimed
+ invention was made;
+* (B) the claimed invention was made as a result of activities
+ undertaken within the scope of the joint research agreement; and
+* (C) the application for patent for the claimed invention discloses or
+ is amended to disclose the names of the parties to the joint research agreement
+ (hereinafter "joint research agreement disqualification").
+
+
+These changes to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** apply to
+ all patents (including reissue patents) granted on or after December 10, 2004 that are
+ subject to **[pre-AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. The amendment to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** made by the
+ AIPA to change "subsection (f) or (g)" to "one of more of subsections (e), (f), or (g)"
+ applies to applications filed on or after November 29, 1999. It is to be noted that, for
+ all applications (including reissue applications), if the application is pending on or
+ after December 10, 2004, the 2004 changes to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**, which
+ effectively include the 1999 changes, apply; thus, the November 29, 1999 date of the
+ prior revision to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** is no longer relevant. In a
+ reexamination proceeding, however, one must look at whether or not the patent being
+ reexamined was granted on or after December 10, 2004 to determine whether
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)**, as amended by the CREATE Act, applies. For a reexamination
+ proceeding of a patent granted prior to December 10, 2004 on an application filed on or
+ after November 29, 1999, it is the 1999 changes to pre-AIPA 35 U.S.C. 103(c) that are
+ applicable to the disqualifying commonly assigned/owned prior art provisions of
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)**. See **[MPEP § 2146.01](s2146.html#ch2100_d2c184_126fa_f3)** for additional
+ information regarding disqualified prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**/**[103](mpep-9015-appx-l.html#d0e302450)**. For a reexamination proceeding
+ of a patent granted prior to December 10, 2004 on an application filed prior to November
+ 29, 1999, neither the 1999 nor the 2004 changes to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** are
+ applicable. Therefore, only prior art under **[pre-AIA 35 U.S.C. 102(f) or (g)](mpep-9015-appx-l.html#d0e302383)** used
+ in a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** may be disqualified under the commonly
+ assigned/owned prior art provision **[pre-AIA of 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+ 
+
+
+**[Pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)**, as amended by the CREATE Act, applies only to subject
+ matter which qualifies as prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, and which is being relied upon in a rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**. If the rejection is anticipation under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** cannot be
+ relied upon to disqualify the subject matter in order to overcome or prevent the
+ anticipation rejection. Likewise, **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** cannot be
+ relied upon to overcome or prevent a double patenting rejection. See **[37 CFR 1.78(c)](mpep-9020-appx-r.html#aia_d0e320662)**
+ and **[MPEP §
+ 804](s804.html#d0e98894)**. 
+ 
+
+**II.** **FOR APPLICATIONS FILED PRIOR TO NOVEMBER
+ 29, 1999, AND GRANTED AS PATENTS PRIOR TO DECEMBER 10, 2004**For applications filed prior to November 29, 1999, and granted as
+ patents prior to December 10, 2004, the subject matter that is disqualified as prior art
+ under pre-AIPA 35 U.S.C. 103(c) is strictly limited to subject matter that A) qualifies
+ as prior art only under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302383)** or
+ **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302383)**, and B) was commonly owned with the
+ claimed invention at the time the invention was made. If the subject matter that
+ qualifies as prior art only under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302383)** or
+ **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302383)** was not commonly owned at the time
+ of the invention, the subject matter is not disqualified as prior
+ art under pre-AIPA 35 U.S.C. 103(c) in effect on December 9, 2004. See *OddzOn
+ Products, Inc. v. Just Toys, Inc.,* 122 F.3d 1396, 1403-04, 43 USPQ2d 1641,
+ 1646 (Fed. Cir. 1997) ("We therefore hold that subject matter derived from another not
+ only is itself unpatentable to the party who derived it under § 102(f), but, when
+ combined with other prior art, may make a resulting obvious invention unpatentable to
+ that party under a combination of §§ 102(f) and 103."). 
+ 
+
+
+Inventors of subject matter not commonly owned at the time of the
+ invention, but currently commonly owned, may file as joint inventors in a single
+ application. However, the claims in such an application are not protected from a
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[pre-AIA 35 U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302383)**. Applicants
+ in such cases have an obligation pursuant to **[37 CFR 1.56](mpep-9020-appx-r.html#d0e319407)** to point out the
+ inventor and invention dates of each claim and the lack of common ownership at the time
+ the later invention was made to enable the examiner to consider the applicability of a
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[pre-AIA 35 U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302383)**. The
+ examiner will assume, unless there is evidence to the contrary, that applicants are
+ complying with their duty of disclosure.
+ 
+
+
+Foreign applicants will sometimes combine the subject matter of two or
+ more related applications with different inventors into a single U.S. application naming
+ joint inventors. The examiner will make the assumption, absent contrary evidence, that
+ the applicants are complying with their duty of disclosure if no information is provided
+ relative to invention dates and common ownership at the time the later invention was
+ made. Such a claim for **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302921)**-**[(d)](mpep-9015-appx-l.html#d0e302947)** priority based upon the foreign
+ filed applications is appropriate and **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302921)**-**[(d)](mpep-9015-appx-l.html#d0e302947)** priority can
+ be accorded based upon each of the foreign filed applications.
+ 
+
+
+For rejections under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** using prior
+ art under **[pre-AIA 35
+ U.S.C. 102(f) or (g)](mpep-9015-appx-l.html#d0e302383)** in applications pending on or after December
+ 10, 2004, see **[MPEP § 2146.01](s2146.html#ch2100_d2c184_126fa_f3)**.
+ 
+
+
+
+# 2146.01 Prior Art Disqualification Under Pre-AIA 35
+ U.S.C. 103(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file provisions of the AIA as
+ explained in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §§
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)** et seq., **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** and **[2156](s2156.html#ch2100_d20034_1b4ea_2c0)**
+ for the examination of applications subject to the first inventor to file provisions
+ of the AIA involving, inter alia, commonly owned subject matter or a joint research
+ agreement.]*
+
+
+
+#### *35 U.S.C. 103 (pre-AIA)   
+ Conditions for patentability; non-obvious
+ subject matter.*
+
+
+\*\*\*\*\*
+
+
+* (c)
+	+ (1) Subject matter developed by another person, which
+	 qualifies as prior art only under one or more of subsections (e), (f),
+	 and (g) of **[section 102](mpep-9015-appx-l.html#d0e302383)**, shall
+	 not preclude patentability under this section where the subject matter
+	 and the claimed invention were, at the time the claimed invention was
+	 made, owned by the same person or subject to an obligation of assignment
+	 to the same person.
+	+ (2) For purposes of this subsection, subject matter developed
+	 by another person and a claimed invention shall be deemed to have been
+	 owned by the same person or subject to an obligation of assignment to the
+	 same person if —
+		- (A) the claimed invention was made by or on behalf of
+		 parties to a joint research agreement that was in effect on or
+		 before the date the claimed invention was made;
+		- (B) the claimed invention was made as a result of
+		 activities undertaken within the scope of the joint research
+		 agreement; and
+		- (C) the application for patent for the claimed
+		 invention discloses or is amended to disclose the names of the
+		 parties to the joint research agreement.
+	+ (3) For purposes of paragraph (2), the term "joint research
+	 agreement" means a written contract, grant, or cooperative agreement
+	 entered into by two or more persons or entities for the performance of
+	 experimental, developmental, or research work in the field of the claimed
+	 invention.
+
+
+**I.** **COMMON OWNERSHIP OR ASSIGNEE PRIOR ART EXCLUSION UNDER PRE-AIA 35 U.S.C.
+ 103(c)** Enacted on November 29, 1999, the American Inventors Protection Act
+ (AIPA) added subject matter which was prior art under former **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ via **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** as disqualified prior art against the claimed
+ invention if that subject matter and the claimed invention "were, at the time the
+ invention was made, owned by the same person or subject to an obligation of
+ assignment to the same person." The 1999 change to **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** applied to all utility, design and plant patent
+ applications filed on or after November 29, 1999. The Cooperative Research and
+ Technology Enhancement Act of 2004 (CREATE Act), in part, redesignated the former 35
+ U.S.C. 103(c) to **[pre-AIA 35 U.S.C. 103(c)(1)](mpep-9015-appx-l.html#d0e302450)** and made this provision effective
+ to all applications in which the patent is granted on or after December 10, 2004, but
+ the AIA provides that certain applications are subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and  **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, see **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. Therefore, the provision of **[pre-AIA 35
+ U.S.C.103(c)(1)](mpep-9015-appx-l.html#d0e302450)** is effective for all applications pending on or
+ after December 10, 2004, including applications filed prior to November 29, 1999,
+ except those applications subject to the current **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and  **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. In addition, this provision
+ applies to all patent applications, including utility, design, plant and reissue
+ applications, except those applications subject to the current **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and  **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. The amendment to
+ **[pre-AIA 35
+ U.S.C. 103(c)(1)](mpep-9015-appx-l.html#d0e302450)** does not affect any application filed before
+ November 29, 1999 and issued as a patent prior to December 10, 2004. The AIA provides
+ that applications subject to the AIA prior art provisions are not subject to either
+ the 1999 or 2004 changes, but are subject to **[35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**.
+ 
+
+
+In a reexamination proceeding, however, one must look at whether or
+ not the patent being reexamined was granted on or after December 10, 2004, and
+ whether the patent is subject the current **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** to determine whether **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, as
+ amended by the CREATE Act, applies. For a reexamination proceeding of a patent
+ granted prior to December 10, 2004, on an application filed on or after November 29,
+ 1999, it is the 1999 changes to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** that are
+ applicable to the disqualifying commonly assigned/owned prior art provisions of
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. For a reexamination proceeding of a patent
+ granted prior to December 10, 2004, on an application filed prior to November 29,
+ 1999, neither the 1999 nor the 2004 changes to pre-AIA 35 U.S.C. 103(c) are
+ applicable. Therefore, only prior art under **[pre-AIA 35 U.S.C. 102(f) or (g)](mpep-9015-appx-l.html#d0e302383)**
+ used in a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** may be
+ excluded under the commonly assigned/owned prior art provisions of **[35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**. Similarly patents issued from applications subject to
+ the current **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** are not subject to
+ either the 1999 or 2004 changes, but are subject to **[35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**.
+ 
+
+
+For reissue applications, the doctrine of recapture may prevent the
+ presentation of claims in the reissue applications that were amended or cancelled
+ from the application which matured into the patent for which reissue is being sought,
+ if the claims were amended or cancelled to overcome a rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** which was not able to be disqualified under
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** in the application that issued as a patent. If an
+ examiner determines that this situation applies in the reissue application under
+ examination, a consultation with the Office of Patent Legal Administration should be
+ initiated via the Technology Center Quality Assurance Specialist.
+ 
+
+
+**[Pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** applies only to prior art usable in an obviousness
+ rejection under 35 U.S.C. 103. Subject matter that qualifies as anticipatory prior
+ art under **[pre-AIA
+ 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** is not affected, and may still be used to reject
+ claims as being anticipated. In addition, double patenting rejections, based on
+ subject matter now disqualified as prior art in amended **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, should still be made as appropriate. See
+ **[37 CFR
+ 1.78(c)](mpep-9020-appx-r.html#aia_d0e320662)** and **[MPEP § 804](s804.html#d0e98894)**. By contrast current
+ **[35
+ U.S.C. 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** operates to except similar prior art from being
+ applied in either an obviousness rejection or an anticipation rejection. See
+ **[MPEP
+ § 2156](s2156.html#ch2100_d20034_1b4ea_2c0)**.
+ 
+
+
+The burden of establishing that subject matter is disqualified as
+ prior art is placed on applicant once the examiner has established a *prima
+ facie* case of obviousness based on the subject matter. For example, the
+ fact that the reference and the application have the same assignee is
+ not, by itself, sufficient to disqualify the prior art
+ under **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. There must be a statement that the common
+ ownership was "at the time the invention was made."
+ 
+
+
+See **[MPEP § 2146.02](s2146.html#ch2100_d2c184_12765_27)** for information
+ regarding establishing common ownership. See **[MPEP §
+ 2146.03](s2146.html#ch2100_d2c184_127cc_34b)** for examination procedure with respect to
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. 
+ 
+
+**II.** **JOINT RESEARCH AGREEMENT DISQUALIFICATION UNDER PRE-AIA 35 U.S.C. 103(c) BY
+ THE CREATE ACT**The CREATE Act (Public Law 108-453, 118 Stat. 3596 (2004)) was
+ enacted on December 10, 2004, and is effective for applications for which the patent
+ is granted on or after December 10, 2004, except those patents subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. Specifically, the
+ CREATE Act amended **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to provide that:
+ 
+
+
+
+> 
+> - subject matter developed by another person, which qualifies as
+>  prior art only under one or more of subsections (e), (f), and (g) of
+>  **[pre-AIA 35
+>  U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** shall not preclude patentability under
+>  **[35 U.S.C.
+>  103](mpep-9015-appx-l.html#d0e302450)** where the subject matter and the claimed invention were,
+>  at the time the claimed invention was made, owned by the same person or subject to
+>  an obligation of assignment to the same person;
+>  
+> 
+> 
+> 
+
+
+
+> 
+> - for purposes of **[35 U.S.C.
+>  103](mpep-9015-appx-l.html#d0e302450)**, subject matter developed by another person and a
+>  claimed invention shall be deemed to have been owned by the same person or subject
+>  to an obligation of assignment to the same person if
+>  
+> 
+> 
+> * - the claimed invention was made by or on behalf of parties
+>  to a joint research agreement that was in effect on or before the date the
+>  claimed invention was made,
+> 
+> 
+> * - the claimed invention was made as a result of activities
+>  undertaken within the scope of the joint research agreement, and
+> 
+> 
+> * - the application for patent for the claimed invention
+>  discloses or is amended to disclose the names of the parties to the joint
+>  research agreement;
+> 
+> 
+> 
+
+
+
+> 
+> - for purposes of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, the
+>  term "joint research agreement" means a written contract, grant, or cooperative
+>  agreement entered into by two or more persons or entities for the performance of
+>  experimental, development, or research work in the field of the claimed
+>  invention.
+>  
+> 
+> 
+> 
+
+
+The effective date provision of the CREATE Act provided that its
+ amendments shall apply to any patent (including any reissue patent) granted on or
+ after December 10, 2004, except those patents subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. The CREATE Act also provided
+ that its amendment shall not affect any final decision of a court or the Office
+ rendered before December 10, 2004, and shall not affect the right of any party in any
+ action pending before the Office or a court on December 10, 2004, to have that
+ party’s rights determined on the basis of the provisions of title 35, United States
+ Code, in effect on December 9, 2004. Since the CREATE Act also includes the amendment
+ to **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** made by section 4807 of the AIPA (see Public Law
+ 106-113, 113 Stat. 1501, 1501A-591 (1999)), the change of "subsection (f) or (g)" to
+ "one or more of subsections (e), (f), or (g)" in **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** is now
+ also applicable to applications filed prior to November 29, 1999, that were pending
+ on December 10, 2004.
+ 
+
+
+**[Pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, as amended by the CREATE Act, continues to apply only
+ to subject matter which qualifies as prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, and which is being relied upon in a rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**. If the rejection is anticipation under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** cannot
+ be relied upon to disqualify the subject matter in order to overcome or prevent the
+ anticipation rejection. Likewise, **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** cannot
+ be relied upon to overcome or prevent a double patenting rejection. See
+ **[37 CFR
+ 1.78(c)](mpep-9020-appx-r.html#aia_d0e320662)** and **[MPEP § 804](s804.html#d0e98894)**.
+ 
+
+
+Because the CREATE Act applies only to patents granted on or after
+ December 10, 2004, the recapture doctrine may prevent the presentation of claims in
+ the reissue applications that had been amended or cancelled (e.g., to avoid a
+ rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based on subject matter that may now
+ be disqualified under the CREATE Act) during the prosecution of the application which
+ resulted in the patent being reissued.
+ 
+
+
+
+
+# 2146.02 Establishing Common Ownership or Joint Research
+ Agreement Under Pre-AIA 35 U.S.C. 103(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is not applicable to applications subject to
+ examination under the first inventor to file provisions of the AIA as explained in
+ **[35
+ U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §§
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)** et seq., **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** and **[2156](s2156.html#ch2100_d20034_1b4ea_2c0)**
+ for the examination of applications subject to the first inventor to file provisions
+ of the AIA involving, inter alia, commonly owned subject matter or a joint research
+ agreement.]*
+
+
+In order to be disqualified as prior art under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, the subject matter which would otherwise qualify as
+ **[pre-AIA 35 U.S.C.
+ 102(e), (f), or (g)](mpep-9015-appx-l.html#d0e302383)** prior art to the claimed invention and the
+ claimed invention must be commonly owned, or subject to an obligation of assignment to
+ the same person, at the time the claimed invention was made or be subject to a joint
+ research agreement at the time the invention was made. See **[MPEP § 2146](s2146.html#d0e213206)** for
+ rejections under **[35
+ U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)** and prior art disqualified
+ under **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** in applications granted as patents prior to December
+ 10, 2004. See **[MPEP § 2146.01](s2146.html#ch2100_d2c184_126fa_f3)** for rejections under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, and prior art disqualified under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+**I.** **DEFINITION OF COMMON OWNERSHIP**The term "commonly owned" is intended to mean that the subject matter
+ which would otherwise **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** prior art to the claimed invention and the claimed
+ invention are entirely or wholly owned by, or under an obligation to assign to, the
+ same person(s) or organization(s)/business entity(ies). For purposes of
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, common ownership must be at the time the claimed
+ invention was made. If the person(s) or organization(s) owned less than 100 percent
+ of the subject matter which would otherwise **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** prior art to the claimed invention, or less than 100
+ percent of the claimed invention, then common ownership would not exist. Common
+ ownership requires that the person(s) or organization(s)/business entity(ies) own 100
+ percent of the subject matter and 100 percent of the claimed invention. 
+ 
+
+
+Specifically, if an invention claimed in an application is owned by
+ more than one entity and those entities seek to exclude the use of a reference under
+ **[pre-AIA
+ 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, then the reference must be owned by, or
+ subject to an obligation of assignment to, the same entities that owned the
+ application, at the time the later invention was made. For example, assume Company A
+ owns twenty percent of patent Application X and Company B owns eighty percent of
+ patent Application X at the time the invention of Application X was made. In
+ addition, assume that Companies A and B seek to exclude the use of Reference Z under
+ **[pre-AIA
+ 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. Reference Z must have been co-owned, or have
+ been under an obligation of assignment to both companies, on the date the invention
+ was made in order for the exclusion to be properly requested. A statement such as
+ "Application X and Patent Z were, at the time the invention of Application X was
+ made, jointly owned by Companies A and B" would be sufficient to establish common
+ ownership. 
+ 
+
+
+For applications owned by a joint venture of two or more entities,
+ both the application and the reference must have been owned by, or subject to an
+ obligation of assignment to, the joint venture at the time the invention was made.
+ For example, if Company A and Company B formed a joint venture, Company C, both
+ Application X and Reference Z must have been owned by, or subject to an obligation of
+ assignment to, Company C at the time the invention was made in order for Reference Z
+ to be properly excluded as prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. If
+ Company A by itself owned Reference Z at the time the invention of Application X was
+ made and Application X was owned by Company C on the date the invention was made,
+ then a request for the exclusion of Reference Z as prior art under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** would not be proper.
+ 
+
+
+As long as principal ownership rights to either the subject matter or
+ the claimed invention under examination reside in different persons or organizations
+ common ownership does not exist. A license of the claimed invention under examination
+ to another by the owner where basic ownership rights are retained would not defeat
+ ownership. 
+ 
+
+
+The requirement for common ownership at the time the claimed
+ invention was made is intended to preclude obtaining ownership of subject matter
+ after the claimed invention was made in order to disqualify that subject matter as
+ prior art against the claimed invention. 
+ 
+
+
+The question of whether common ownership exists at the time the
+ claimed invention was made is to be determined on the facts of the particular case in
+ question. Actual ownership of the subject matter and the claimed invention by the
+ same individual(s) or organization(s) or a legal obligation to assign both the
+ subject matter and the claimed invention to the same individual(s) or
+ organization(s)/business entity(ies) must be in existence at the time the claimed
+ invention was made in order for the subject matter to be disqualified as prior art. A
+ moral or unenforceable obligation would not provide the basis for common
+ ownership.
+ 
+
+
+Under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, an
+ applicant’s admission that subject matter was developed prior to applicant’s
+ invention would not make the subject matter prior art to applicant if the subject
+ matter qualifies as prior art only under sections **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, and if the subject matter and the claimed invention were
+ commonly owned at the time the invention was made. See *In re Fout,*
+ 675 F.2d 297, 213 USPQ 532 (CCPA 1982), for a decision involving an applicant’s
+ admission which was used as prior art against their application. If the subject
+ matter and invention were not commonly owned, an admission that the subject matter is
+ prior art would be usable under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+The burden of establishing that subject matter is disqualified as
+ prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** is intended to be placed and reside
+ upon the person or persons urging that the subject matter is disqualified. For
+ example, a patent applicant urging that subject matter is disqualified as prior art
+ under **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, would have the burden of establishing that it
+ was commonly owned at the time the claimed invention was made. The patentee in
+ litigation would likewise properly bear the same burden placed upon the applicant
+ before the U.S. Patent and Trademark Office. To place the burden upon the patent
+ examiner or the defendant in litigation would not be appropriate since evidence as to
+ common ownership at the time the claimed invention was made might not be available to
+ the patent examiner or the defendant in litigation, but such evidence, if it exists,
+ should be readily available to the patent applicant or the patentee.
+ 
+
+
+In view of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, the
+ Director has reinstituted in appropriate circumstances the practice of rejecting
+ claims in commonly owned applications of different inventive entities on the grounds
+ of double patenting. Such rejections can be overcome in appropriate circumstances by
+ the filing of terminal disclaimers. This practice has been judicially authorized. See
+ *In re Bowers,* 359 F.2d 886, 149 USPQ 57 (CCPA 1966). The use of
+ double patenting rejections which then could be overcome by terminal disclaimers
+ precludes patent protection from being improperly extended while still permitting
+ inventors and their assignees to obtain the legitimate benefits from their
+ contributions. See also **[MPEP §§ 804](s804.html#d0e98894)** and **[1490](s1490.html#d0e146976)**, subsection VI.
+ 
+
+
+The following examples are provided for illustration only:
+
+
+**Example 1**Parent Company owns 100% of Subsidiaries A and B 
+
+
+- inventions of A and B are commonly owned by the Parent
+ Company.
+ 
+
+
+
+**Example 2**Parent Company owns 100% of Subsidiary A and 90% of Subsidiary
+ B
+ 
+
+
+- inventions of A and B are not commonly owned by the Parent
+ Company.
+ 
+
+
+
+**Example 3**If same person owns subject matter and invention at time invention
+ was made, license to another may be made without the subject matter becoming prior
+ art.
+ 
+
+
+
+**Example 4**Different Government inventors retaining certain rights (e.g.
+ foreign filing rights) in separate inventions owned by Government precludes common
+ ownership of inventions.
+ 
+
+
+
+**Example 5** Company A and Company B form joint venture Company C. Employees of
+ A, while working for C with an obligation to assign inventions to C, invent
+ invention #1; employees of B while working for C with an obligation to assign
+ inventions to C, invent invention #2, with knowledge of #1. 
+ 
+
+
+Question: Are #1 and #2 commonly owned at the time the later
+ invention was made so as to preclude a rejection under **[pre-AIA 35 U.S.C. 102(e), (f)
+ or (g)](mpep-9015-appx-l.html#d0e302383)** in view of **[pre-AIA 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**?
+ 
+
+
+Answer: Yes- If the required submission of common ownership is
+ made of record in the patent application file. If invention #1 was invented by
+ employees of Company A **not** working for Company C and Company A
+ maintained sole ownership of invention #1 at the time invention #2 was made,
+ inventions #1 and #2 would not be commonly owned as required by **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+
+**Example 6**Company A owns 40% of invention #1 and 60% of invention #2, and
+ Company B owns 60% of invention #1 and 40% of invention #2 at the time invention
+ #2 was made.
+ 
+
+
+-inventions #1 and #2 are commonly owned.
+
+
+
+**Example 7**Company B has a joint research project with University A. Under
+ the terms of the joint research project, University A has agreed that all of its
+ patents will be jointly owned by Company B and University A. Professor X, who
+ works for University A, has an employee agreement with University A assigning all
+ his patents only to University A. After the joint research project agreement is
+ executed, University A files patent application #1 for the invention of Professor
+ X, before Company B files patent application #2 on a similar invention. 
+ 
+
+
+- inventions #1 and #2 are commonly owned because Professor X’s
+ obligation to assign patents to University A who has an obligation to assign
+ patents to the A-B joint venture legally establishes Professor X’s obligation to
+ assign patents to the A-B joint venture.
+ 
+
+
+
+**Example 8**Inventor X working at Company A invents and files patent
+ application #1 on technology T, owned by Company A. After application #1 is filed,
+ Company A spins off a 100% owned Subsidiary B for technology T including the
+ transfer of the ownership of patent application #1 to Subsidiary B. After
+ Subsidiary B is formed, inventor Y (formerly a Company A employee, but now an
+ employee of Subsidiary B obligated to assign to Subsidiary B) jointly files
+ application #2 with inventor X (now also an employee of Subsidiary B with an
+ obligation to assign to Subsidiary B), which is directed to a possibly nonobvious
+ improvement to technology T. 
+ 
+
+
+- the inventions of applications #1 and #2 are commonly owned
+ since Subsidiary B is a wholly owned subsidiary of Company A.
+ 
+
+
+
+The examiner must examine the application as to all grounds except
+ **[pre-AIA 35
+ U.S.C. 102(e), (f) and (g)](mpep-9015-appx-l.html#d0e302383)** as they apply through
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** only if the application file(s) establishes
+ common ownership at the time the later invention was made. Thus, it is necessary to
+ look to the time at which common ownership exists. If common ownership does not exist
+ at the time the later invention was made, the earlier invention is not disqualified
+ as potential prior art under **[pre-AIA 35 U.S.C. 102(e), (f) and
+ (g)](mpep-9015-appx-l.html#d0e302383)** as they apply through **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**. An
+ invention is "made" when conception is complete as defined in *Mergenthaler
+ v. Scudder,* 11 App. D.C. 264, 81 OG 1417, 1897 C.D. 724 (D.C. Cir.
+ 1897); *In re Tansel,* 253 F.2d 241, 117 USPQ 188 (CCPA 1958). See
+ *Pfaff v. Wells Elecs.,* 525 U.S. 55, 48 USPQ2d 1641, 1647 (1998)
+ ("the invention must be ready for patenting . . . . by proof that prior to the
+ critical date the inventor had prepared drawings or other descriptions of the
+ invention that were sufficiently specific to enable a person skilled in the art to
+ practice the invention.") Common ownership at the time the invention was made
+ for purposes of obviating a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based on
+ prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**, **[(f)](mpep-9015-appx-l.html#d0e302383)** or **[(g)](mpep-9015-appx-l.html#d0e302383)** may be
+ established irrespective of whether the invention was made in the United States or
+ abroad. The provisions of **[pre-AIA 35 U.S.C. 104](mpep-9015-appx-l.html#d0e302559)**, however,
+ will continue to apply to other proceedings in the U.S. Patent and Trademark Office,
+ e.g. in an interference proceeding, with regard to establishing a date of invention
+ by knowledge or use thereof, or other activity with respect thereto, in a foreign
+ country, except the provisions do not apply to applications subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** as **[pre-AIA 35 U.S.C. 104](mpep-9015-appx-l.html#d0e302559)** was
+ repealed effective March 16, 2013. The foreign filing date will continue to be used
+ for interference purposes under **[35 U.S.C. 119(a) - (d)](mpep-9015-appx-l.html#d0e302921)** and
+ **[35 U.S.C.
+ 365](mpep-9015-appx-l.html#d0e307034)**.
+ 
+
+**II.** **REQUIREMENTS TO ESTABLISH COMMON OWNERSHIP**It is important to recognize what constitutes a sufficient submission
+ to establish common ownership at the time the invention was made. Common ownership
+ must be shown to exist at the time the later invention was made. A statement of
+ present common ownership is not sufficient. *In re Onda,* 229 USPQ
+ 235 (Comm’r Pat. 1985).
+ 
+
+
+Applications and references (whether patents, patent applications,
+ patent application publications, etc.) will be considered by the examiner to be owned
+ by, or subject to an obligation of assignment to the same person, at the time the
+ invention was made, if the applicant(s) or patent owner(s) make(s) a statement to the
+ effect that the application and the reference were, at the time the invention was
+ made, owned by, or subject to an obligation of assignment to, the same person. The
+ statement must be signed in accordance with **[37 CFR 1.33(b)](mpep-9020-appx-r.html#aia_d0e317540)**. See "Guidelines
+ Setting Forth a Modified Policy Concerning the Evidence of Common Ownership, or an
+ Obligation of Assignment to the Same Person, as Required by **[35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**," 1241 OG 96 (December 26, 2000). The applicant(s) or
+ the representative(s) of record have the best knowledge of the ownership of their
+ application(s) and reference(s), and their statement of such is sufficient because of
+ their paramount obligation of candor and good faith to the USPTO. 
+ 
+
+
+The statement concerning common ownership should be clear and
+ conspicuous (e.g., on a separate piece of paper) to ensure the examiner notices the
+ statement. Applicants or patent owners may, but are not required to, submit further
+ evidence, such as assignment records, affidavits or declarations by the common owner,
+ or court decisions, *in addition to* the above-mentioned statement
+ concerning common ownership.
+ 
+
+
+For example, an attorney or agent of record receives an Office action
+ for Application X in which all the claims are rejected under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302450)** using Patent A in view of Patent B wherein Patent A is
+ only available as prior art under **[pre-AIA 35 U.S.C. 102(e), (f), and/or
+ (g)](mpep-9015-appx-l.html#d0e302383)**. In her response to the Office action, the attorney or
+ agent of record for Application X states, in a clear and conspicuous manner,
+ that:
+ 
+
+
+
+> 
+> "Application X and Patent A were, at the time the
+>  invention of Application X was made, owned by Company Z."
+>  
+> 
+> 
+> 
+
+
+This statement alone is sufficient to disqualify Patent A from being
+ used in a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** against
+ the claims of Application X. 
+ 
+
+
+In rare instances, the examiner may have independent evidence that
+ raises a material doubt as to the accuracy of applicant’s representation of either
+ (1) the common ownership of, or (2) the existence of an obligation to commonly
+ assign, the application being examined and the applied U.S. patent or U.S. patent
+ application publication reference. In such cases, the examiner may explain why the
+ accuracy of the representation is doubted. The examiner may also require objective
+ evidence of common ownership of, or the existence of an obligation to assign, the
+ application being examined and the applied reference as of the date of invention of
+ the application being examined. Examiners should note that the execution dates in
+ assignment documents may not reflect the date a party was under an obligation to
+ assign the claimed invention.
+ 
+
+
+As mentioned above, applicant(s) or patent owner(s) may
+ submit, *in addition to* the above-mentioned statement regarding
+ common ownership, the following objective evidence:
+ 
+
+
+* (A) Reference to assignments, which are recorded in the U.S. Patent
+ and Trademark Office in accordance with **[37 CFR Part 3](mpep-9020-appx-r.html#d0e336097)**, and which
+ convey the entire rights in the applications to the same person(s) or
+ organization(s);
+* (B) Copies of unrecorded assignments which convey the entire rights
+ in the applications to the same person(s) or organization(s), and which are
+ filed in each of the applications;
+* (C) An affidavit or declaration by the common owner, which is filed
+ in the application or patent, and which states that there is common ownership,
+ states facts which explain why the affiant or declarant believes there is
+ common ownership, and is properly signed (i.e., the affidavit or declaration
+ may be signed by an official of the corporation or organization empowered to
+ act on behalf of the corporation or organization when the common owner is a
+ corporation or other organization); and
+* (D) Other evidence, which is submitted in the application or
+ patent, and which establishes common ownership.
+
+**III.** **REQUIREMENTS TO ESTABLISH A JOINT RESEARCH AGREEMENT**Once an examiner has established a *prima facie*
+ case of obviousness under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**, the
+ burden of overcoming the rejection by invoking the joint research agreement
+ provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** as amended by the CREATE Act is on
+ the applicant or the patentee. **[Pre-AIA 35 U.S.C. 103(c)(3)](mpep-9015-appx-l.html#d0e302450)**
+ defines a "joint research agreement" as a written contract, grant, or cooperative
+ agreement entered into by two or more persons or entities for the performance of
+ experimental, developmental, or research work in the field of the claimed invention,
+ that was in effect on or before the date the claimed invention (under examination or
+ reexamination) was made.
+ 
+
+
+Like the common ownership or assignment provision, the joint research
+ agreement must be shown to be in effect on or before the time the later invention was
+ made. The joint research agreement may be in effect prior to the effective date
+ (December 10, 2004) of the CREATE Act. In addition, the joint research agreement is
+ NOT required to be in effect on or before the prior art date of the reference that is
+ sought to be disqualified.
+ 
+
+
+To overcome a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based
+ upon subject matter (whether a patent document, publication, or other evidence) which
+ qualifies as prior art under only one or more of **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** via the CREATE Act, the applicant must comply with the
+ statute and the rules of practice in effect.
+ 
+
+
+
+#### *37 CFR 1.71  Detailed description and specification of
+ the invention.*
+
+
+\*\*\*\*\*
+
+
+* (g)
+	+ (1) The specification may disclose or be amended to
+	 disclose the names of the parties to a joint research agreement as
+	 defined in **[§ 1.9(e)](mpep-9020-appx-r.html#aia_aia_d0e313917)**.
+	+ (2) An amendment under paragraph (g)(1) of this section
+	 must be accompanied by the processing fee set forth in
+	 **[§ 1.17(i)](mpep-9020-appx-r.html#eff_20130320_d0e315199)** if not
+	 filed within one of the following time periods:
+		- (i) Within three months of the filing date of a
+		 national application;
+		- (ii) Within three months of the date of entry of the
+		 national stage as set forth in **[§
+		 1.491](mpep-9020-appx-r.html#d0e329128)** in an international application;
+		- (iii) Before the mailing of a first Office action on
+		 the merits; or
+		- (iv) Before the mailing of a first Office action
+		 after the filing of a request for continued examination under
+		 **[§ 1.114](mpep-9020-appx-r.html#d0e322625)**.
+	+ (3) If an amendment under paragraph (g)(1) of this section
+	 is filed after the date the issue fee is paid, the patent as issued
+	 may not necessarily include the names of the parties to the joint
+	 research agreement. If the patent as issued does not include the names
+	 of the parties to the joint research agreement, the patent must be
+	 corrected to include the names of the parties to the joint research
+	 agreement by a certificate of correction under **[35 U.S.C.
+	 255](mpep-9015-appx-l.html#d0e305404)** and **[§ 1.323](mpep-9020-appx-r.html#d0e326640)** for the
+	 amendment to be effective.
+
+
+
+
+#### *37 CFR 1.104  Nature of examination.*
+
+
+\*\*\*\*\*
+
+
+* (c) *Rejection of claims*.
+	+ \*\*\*\*\*
+	+ (5)
+		- (i) Subject matter which qualifies as prior art
+		 under **[35 U.S.C. 102(e), (f), or
+		 (g)](mpep-9015-appx-l.html#d0e302407)** in effect prior to March 16, 2013, and
+		 a claimed invention in an application filed on or after November
+		 29, 1999, or any patent issuing thereon, in an application filed
+		 before November 29, 1999, but pending on December 10, 2004, or
+		 any patent issuing thereon, or in any patent granted on or after
+		 December 10, 2004, will be treated as commonly owned for
+		 purposes of **[35 U.S.C.
+		 103(c)](mpep-9015-appx-l.html#d0e302521)** in effect prior to March 16, 2013,
+		 if the applicant or patent owner provides a statement to the
+		 effect that the subject matter and the claimed invention, at the
+		 time the claimed invention was made, were owned by the same
+		 person or subject to an obligation of assignment to the same
+		 person.
+		- (ii) Subject matter which qualifies as prior art
+		 under **[35 U.S.C. 102(e), (f), or
+		 (g)](mpep-9015-appx-l.html#d0e302407)** in effect prior to March 16, 2013, and
+		 a claimed invention in an application pending on or after
+		 December 10, 2004, or in any patent granted on or after December
+		 10, 2004, will be treated as commonly owned for purposes of
+		 **[35 U.S.C.
+		 103(c)](mpep-9015-appx-l.html#d0e302521)** in effect prior to March 16, 2013,
+		 on the basis of a joint research agreement under
+		 **[35 U.S.C.
+		 103(c)(2)](mpep-9015-appx-l.html#d0e302529)** in effect prior to March 16,
+		 2013, if:
+			* (A) The applicant or patent owner
+			 provides a statement to the effect that the subject matter
+			 and the claimed invention were made by or on behalf of the
+			 parties to a joint research agreement, within the meaning
+			 of **[35 U.S.C.
+			 100(h)](mpep-9015-appx-l.html#al_d1d85b_11e10_359)** and **[§ 1.9(e)](mpep-9020-appx-r.html#aia_aia_d0e313917)**, which was in effect on or
+			 before the date the claimed invention was made, and that
+			 the claimed invention was made as a result of activities
+			 undertaken within the scope of the joint research
+			 agreement; and
+			* (B) The application for patent
+			 for the claimed invention discloses or is amended to
+			 disclose the names of the parties to the joint research
+			 agreement.
+	+ (6) Patents issued prior to December 10,
+	 2004, from applications filed prior to November 29, 1999, are subject
+	 to **[35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in effect on November 28,
+	 1999.
+
+
+\*\*\*\*\*
+
+
+
+**[37 CFR
+ 1.71(g)](mpep-9020-appx-r.html#d0e320131)** provides for the situation in which an application
+ discloses or is amended to disclose the names of the parties to a joint research
+ agreement. **[37 CFR
+ 1.71(g)(1)](mpep-9020-appx-r.html#d0e320131)** specifically provides that the specification may
+ disclose or be amended to disclose the name of each party to the joint research
+ agreement because this information is required by **[35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** or **[pre-AIA 35 U.S.C.
+ 103(c)(2)(C)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+**[37
+ CFR1.71(g)(2)](mpep-9020-appx-r.html#d0e320131)** provides that an amendment under
+ **[37 CFR
+ 1.71(g)(1)](mpep-9020-appx-r.html#d0e320131)** must be accompanied by the processing fee set forth
+ in **[37
+ CFR 1.17(i)](mpep-9020-appx-r.html#eff_20130320_d0e315199)** if it is not filed within one of the following time
+ periods: (1) within three months of the filing date of a national application; (2)
+ within three months of the date of entry of the national stage as set forth in
+ **[37 CFR
+ 1.491](mpep-9020-appx-r.html#d0e329128)** in an international application; (3) before the mailing
+ of a first Office action on the merits; or (4) before the mailing of a first Office
+ action after the filing of a request for continued examination under
+ **[37 CFR
+ 1.114](mpep-9020-appx-r.html#d0e322625)**.
+ 
+
+
+**[37 CFR
+ 1.71(g)(3)](mpep-9020-appx-r.html#d0e320131)** provides that if an amendment under
+ **[37 CFR
+ 1.71(g)(1)](mpep-9020-appx-r.html#d0e320131)** is filed after the date the issue fee is paid, the
+ patent as issued may not necessarily include the names of the parties to the joint
+ research agreement. **[37 CFR 1.71(g)(3)](mpep-9020-appx-r.html#d0e320131)** also provides that if the patent as issued
+ does not include the names of the parties to the joint research agreement, the patent
+ must be corrected to include the names of the parties to the joint research agreement
+ by a certificate of correction under **[35 U.S.C. 255](mpep-9015-appx-l.html#d0e305404)** and
+ **[37 CFR
+ 1.323](mpep-9020-appx-r.html#d0e326640)** for the amendment to be effective. The requirements of
+ **[37 CFR
+ 1.71(g)(3)](mpep-9020-appx-r.html#d0e320131)** (correction of the patent by a certificate of
+ correction under **[35
+ U.S.C. 255](mpep-9015-appx-l.html#d0e305404)** and **[37 CFR 1.323](mpep-9020-appx-r.html#d0e326640)**) also apply in the
+ situation in which such an amendment is not filed until after the date the patent was
+ granted (in a patent granted on or after December 10, 2004). It is unnecessary to
+ file a reissue application or request for reexamination of the patent to submit the
+ amendment and other information necessary to take advantage of **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** as amended by the CREATE Act. See H.R. Rep. No. 108-425,
+ at 9 ("[t]he omission of the names of parties to the agreement is not an error that
+ would justify commencement of a reissue or reexamination proceeding").
+ 
+
+
+The submission of such an amendment remains subject to the rules of
+ practice: e.g., **[37
+ CFR 1.116](mpep-9020-appx-r.html#d0e322826)**, **[1.121](mpep-9020-appx-r.html#d0e323020)**, and **[1.312](mpep-9020-appx-r.html#d0e326304)**. For
+ example, if an amendment under **[37 CFR 1.71(g)](mpep-9020-appx-r.html#d0e320131)** is submitted in an
+ application under final rejection to overcome a rejection under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302450)** based upon a U.S. patent which qualifies as prior art
+ only under **[pre-AIA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**, the examiner may refuse to enter the
+ amendment under **[37
+ CFR 1.71(g)](mpep-9020-appx-r.html#d0e320131)** if it is not accompanied by an appropriate terminal
+ disclaimer (**[37 CFR
+ 1.321(d)](mpep-9020-appx-r.html#d0e326459)**). This is because such an amendment may necessitate
+ the reopening of prosecution (e.g., for entry of a double patenting rejection).
+ 
+
+
+If an amendment under **[37 CFR 1.71(g)](mpep-9020-appx-r.html#d0e320131)** is submitted to
+ overcome a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based
+ upon a U.S. patent or U.S. patent application publication which qualifies as prior
+ art only under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**, and the examiner withdraws the
+ rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**, the examiner may need to issue an
+ Office action containing a new double patenting rejection based upon the disqualified
+ patent or patent application publication. In these situations, such Office action can
+ be made final, provided that the examiner introduces no other new ground of rejection
+ that was not necessitated by either amendment or an information disclosure statement
+ filed during the time period set forth in **[37 CFR 1.97(c)](mpep-9020-appx-r.html#d0e321609)** with the fee set
+ forth in **[37 CFR 1.17(p)](mpep-9020-appx-r.html#eff_20130320_d0e315199)**. The Office action
+ is properly made final because the new double patenting rejection was necessitated by
+ amendment of the application by applicant. This is the case regardless of whether the
+ claims themselves have been amended.
+ 
+
+
+In addition to amending the specification to disclose the names of
+ the parties to the joint research agreement, applicant must submit the required
+ statement to invoke the prior art disqualification under the CREATE Act.
+ **[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322124)** sets forth the requirement for the statement, which
+ includes a statement to the effect that the prior art and the claimed invention were
+ made by or on the behalf of parties to a joint research agreement, within the meaning
+ of **[pre-AIA 35
+ U.S.C. 103(c)(3)](mpep-9015-appx-l.html#d0e302450)**, which was in effect on or before the date the
+ claimed invention was made, and that the claimed invention was made as a result of
+ activities undertaken within the scope of the joint research agreement. The statement
+ should either be on or begin on a separate sheet and must not be directed to other
+ matters (**[37 CFR
+ 1.4(c)](mpep-9020-appx-r.html#d0e313174)**). The statement must be signed in accordance with
+ **[37 CFR
+ 1.33(b)](mpep-9020-appx-r.html#d0e317491)**. As is the case with establishing common ownership, the
+ applicant or patent owner may, but is not required to, present evidence supporting
+ the existence of the joint research agreement.
+ 
+
+
+If the applicant disqualifies the subject matter relied upon by the
+ examiner in accordance with **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** as
+ amended by the CREATE Act and the procedures set forth in the rules, the examiner
+ will treat the application under examination and the **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** prior art as if they are commonly owned for purposes of
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+The following examples are provided for illustration only:
+
+
+**Example 1**Company A and University B have a joint research agreement (JRA)
+ in place prior to the date Company A’s invention X' was made. Professor BB from
+ University B communicates invention X to Company A. On November 12, 2004,
+ University B filed a patent application on invention X. On December 13, 2004,
+ Company A filed a patent application disclosing and claiming invention X', which
+ is an obvious variant of invention X. Invention X' was made as a result of the
+ activities undertaken within the scope of the JRA. University B retains ownership
+ of invention X and Company A retains ownership of invention X', without any
+ obligation to assign the inventions to a common owner. Company A could invoke the
+ joint research agreement provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to
+ disqualify University B’s application as prior art in a rejection under
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+
+**Example 2**Professor BB from University B communicates invention X to Company
+ A. On November 12, 2004, University B filed a patent application on invention X.
+ On December 13, 2004, Company A filed a patent application disclosing and claiming
+ invention X', which is an obvious variant of invention X. Company A and University
+ B have a joint research agreement (JRA), which goes into effect on December 20,
+ 2004. University B retains ownership of invention X and Company A retains
+ ownership of invention X', without any obligation to assign the inventions to a
+ common owner. Company A could **not** invoke the joint research agreement
+ provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to disqualify University B’s
+ application as prior art in a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**
+ because the JRA was not in effect until after the later invention was made.
+ 
+
+
+
+**Example 3**Company A and University B have a joint research agreement (JRA)
+ in place prior to the date invention X' was made but the JRA is limited to
+ activities for invention Y, which is distinct from invention X. Professor BB from
+ University B communicates invention X to Company A. On November 12, 2004,
+ University B filed a patent application on invention X. On December 13, 2004,
+ Company A filed a patent application disclosing and claiming invention X', which
+ is an obvious variant of invention X. University B retains ownership of invention
+ X and Company A retains ownership of invention X', without any obligation to
+ assign the inventions to a common owner. Company A could **not** invoke
+ the joint research agreement provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to
+ disqualify University B’s application as prior art in a rejection under
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** because the claimed invention was not made as
+ a result of the activities undertaken within the scope of the JRA.
+ 
+
+
+
+
+
+# 2146.03 Examination Procedure With Respect to Pre-AIA
+ 35 U.S.C. 103(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is not applicable to applications subject to
+ examination under the first inventor to file provisions of the AIA as explained in
+ **[35
+ U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §§
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)** et seq., **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** and **[2156](s2156.html#ch2100_d20034_1b4ea_2c0)**
+ for the examination of applications subject to the first inventor to file provisions
+ of the AIA involving, inter alia, commonly owned subject matter or a joint research
+ agreement.]*
+
+
+Examiners are reminded that a reference used in an anticipatory
+ rejection under **[pre-AIA 35 U.S.C. 102(e), (f), or (g)](mpep-9015-appx-l.html#d0e302383)** is not disqualified as
+ prior art if the reference is disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. Generally,
+ such a reference is only disqualified when 
+ 
+
+
+* (A) a proper submission is filed,
+* (B) the reference *only* qualifies as prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e), (f) or (g)](mpep-9015-appx-l.html#d0e302383)** (e.g., not **[pre-AIA 35 U.S.C. 102(a) or
+ (b)](mpep-9015-appx-l.html#d0e302383)**), and
+* (C) the reference was used in an obviousness rejection under
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**.
+
+
+Applications and patents will be considered to be owned by, or subject
+ to an obligation of assignment to, the same person, at the time the invention was made,
+ if the applicant(s) or patent owner(s) make(s) a statement to the effect that the
+ application and the reference were, at the time the invention was made, owned by, or
+ subject to an obligation of assignment to, the same person(s) or organization(s). In
+ order to overcome a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based upon
+ a reference which qualifies as prior art under only one or more of **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, via the CREATE Act, the applicant must comply with the
+ statute and the rules of practice in effect.
+ 
+
+
+See **[MPEP § 2146.02](s2146.html#ch2100_d2c184_12765_27)** for additional
+ information pertaining to establishing common ownership.
+ 
+
+**I.** **EXAMINATION OF APPLICATIONS OF DIFFERENT INVENTIVE ENTITIES WHERE COMMON
+ OWNERSHIP OR A JOINT RESEARCH AGREEMENT HAS NOT BEEN ESTABLISHED** If the application file being examined has not established that the
+ reference is disqualified as prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, the
+ examiner will:
+ 
+
+
+* (A) assume the reference is not disqualified under
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**;
+* (B) examine the application on all grounds other than any conflict
+ between the reference patent(s) or application(s) arising from a possible
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** rejection based on prior art under **[pre-AIA 35 U.S.C. 102(e),
+ (f) and/or (g)](mpep-9015-appx-l.html#d0e302383)**;
+* (C) consider the applicability of any references under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C. 102(e),
+ (f) and/or (g)](mpep-9015-appx-l.html#d0e302383)**, including provisional rejections under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** (see **[MPEP §
+ 2146.03(a)](s2146.html#ch2100_d2c184_12851_21a)**); and
+* (D) apply the best references against the claimed invention by
+ rejections under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)**, including any rejections under **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C. 102(e),
+ (f) and/or (g)](mpep-9015-appx-l.html#d0e302383)**, until such time that the reference is
+ disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+When applying any references that qualify as prior
+ art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** in a rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** against the claims, the examiner should anticipate that
+ the reference may be disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** and
+ consider making an appropriate additional, alternative rejection. See
+ **[MPEP § 2120](s2120.html#ch2100_d2c183_20d28_209)**, subsection I. If a statement of common
+ ownership or assignment is filed in reply to the **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** and the claims are not amended, the examiner may not
+ make the next Office action final if a new rejection is made. See
+ **[MPEP §
+ 706.07(a)](s706.html#d0e68889)**. If the reference is disqualified under the
+ joint research agreement provision of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** and a
+ new subsequent double patenting rejection based upon the disqualified reference is
+ applied, the next Office action, which contains the new double patenting
+ rejection, may be made final even if applicant did not amend the claims (provided
+ that the examiner introduces no other new ground of rejection that was not
+ necessitated by either amendment or an information disclosure statement filed
+ during the time period set forth in **[37 CFR 1.97(c)](mpep-9020-appx-r.html#d0e321609)** with the fee
+ set forth in **[37 CFR 1.17(p)](mpep-9020-appx-r.html#eff_20130320_d0e315199)**). The Office
+ action is properly made final because the new double patenting rejection was
+ necessitated by amendment of the application by applicant.
+ 
+
+
+**II.** **EXAMINATION OF APPLICATIONS OF DIFFERENT INVENTIVE ENTITIES WHERE COMMON
+ OWNERSHIP OR A JOINT RESEARCH AGREEMENT HAS BEEN ESTABLISHED** If the application being examined has established that the reference
+ is disqualified as prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** the
+ examiner will:
+ 
+
+
+* (A) examine the applications as to all grounds, except
+ **[pre-AIA 35
+ U.S.C. 102(e), (f) and (g)](mpep-9015-appx-l.html#d0e302383)** including provisional
+ rejections based on provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)**, as they apply through **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**;
+* (B) examine the applications for double patenting, including
+ statutory and nonstatutory double patenting, and make a provisional rejection,
+ if appropriate; and
+* (C) invite the applicant to file a terminal disclaimer to overcome
+ any provisional or actual nonstatutory double patenting rejection, if
+ appropriate (see **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)**).
+
+**III.** **DOUBLE PATENTING REJECTIONS**Commonly owned applications of different inventive entities may be
+ rejected on the ground of double patenting, even if the later filed application
+ claims **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** benefit to the earlier application, subject to the
+ conditions discussed in **[MPEP § 804](s804.html#d0e98894)***et seq.* In addition, double patenting rejection may arise as a
+ result of the amendment to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** by the
+ CREATE Act (Public Law 108-453, 118 Stat. 3596 (2004)). Congress recognized that this
+ amendment to **[35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** would result in situations in which there would
+ be double patenting rejections between applications not owned by the same party (see
+ H.R. Rep. No. 108-425, at 5-6 (2003). For purposes of double patenting analysis, the
+ application or patent and the subject matter disqualified under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** as amended by the CREATE Act will be treated as if
+ commonly owned.
+ 
+
+
+A rejection based on a pending application would be a provisional
+ rejection. The practice of rejecting claims on the ground of double patenting in
+ commonly owned applications of different inventive entities is in accordance with
+ existing case law and prevents an organization from obtaining two or more patents
+ with different expiration dates covering nearly identical subject matter. See
+ **[MPEP §
+ 804](s804.html#d0e98894)** for guidance on double patenting issues. In accordance
+ with established patent law doctrines, double patenting rejections can be overcome
+ in certain circumstances by disclaiming, pursuant to the existing provisions of
+ **[37 CFR
+ 1.321](mpep-9020-appx-r.html#d0e326459)**, the terminal portion of the term of the later patent and
+ including in the disclaimer a provision that the patent shall be enforceable only for
+ and during the period the patent is commonly owned with the application or patent
+ which formed the basis for the rejection, thereby eliminating the problem
+ of extending patent life. For a double patenting rejection based on a non-commonly
+ owned patent (treated as if commonly owned pursuant to the CREATE Act), the double
+ patenting rejection may be obviated by filing a terminal disclaimer in accordance
+ with **[37 CFR
+ 1.321(d)](mpep-9020-appx-r.html#d0e326459)**. See **[MPEP §§ 804](s804.html#d0e98894)**, **[804.02](s804.html#d0e101356)** and
+ **[1490](s1490.html#d0e146976)**, subsection VI.
+ 
+
+
+
+# 2146.03(a) Provisional Rejection (Obviousness) Under 35
+ U.S.C. 103 Using Provisional Prior Art Under Pre-AIA 35 U.S.C. 102(e) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is
+ not applicable to applications subject to examination under the first inventor to
+ file provisions of the AIA as explained in **[35 U.S.C. 100
+ (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §
+ 2154](s2154.html#ch2100_d20033_274f5_338)** et seq. for the examination of applications subject
+ to the first inventor to file provisions of the AIA involving, inter alia,
+ rejections based on U.S. patent documents.]*
+
+
+Where two applications of different inventive entities are copending,
+ not published under **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303063)**, and the filing dates differ, a provisional
+ rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302383)** based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** should be made in the later filed application
+ unless the application has been excluded under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. See
+ **[MPEP
+ § 2146.03](s2146.html#ch2100_d2c184_127cc_34b)** for examination procedure with respect to
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. See also **[MPEP § 2136.01](s2136.html#d0e205680)** for examination
+ procedure in determining when provisional rejections are appropriate. Otherwise the
+ confidential status of unpublished application, or any part thereof, under
+ **[35 U.S.C.
+ 122](mpep-9015-appx-l.html#d0e303054)** must be maintained. Such a rejection alerts the applicant
+ that the applicant can expect an actual rejection on the same ground if one of the
+ applications issues and also lets applicant know that action must be taken to avoid
+ the rejection.
+ 
+
+
+This gives applicant the opportunity to analyze the propriety of the
+ rejection and possibly avoid the loss of rights to desired subject matter.
+ Provisional rejections of the obviousness type under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302383)** based on provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** are rejections applied to copending applications having
+ different effective filing dates wherein each application has a common assignee or a
+ common inventor. The earlier filed application, if patented or published, would
+ constitute prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**. The
+ rejection can be overcome by: 
+ 
+
+
+* (A) Arguing patentability over the earlier filed application;
+* (B) Combining the subject matter of the copending applications into
+ a single application claiming benefit under **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** of the prior applications and abandoning the
+ copending applications (Note that a claim in a subsequently filed application
+ that relies on a combination of prior applications may not be entitled to the
+ benefit of an earlier filing date under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** if the
+ earlier filed application does not contain a disclosure which complies with
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** for the claim in the subsequently filed application.
+ *Studiengesellschaft Kohle m.b.H. v. Shell Oil Co.,* 112
+ F.3d 1561, 42 USPQ2d 1674 (Fed. Cir. 1997).);
+* (C) Filing an affidavit or declaration under **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** showing that any unclaimed invention disclosed in
+ the copending application was derived from the inventor of the other
+ application and is thus not invention "by another" (see **[MPEP §§
+ 715.01(a)](s715.html#d0e90674)**, **[715.01(c)](s715.html#d0e90779)**, and
+ **[716.10](s716.html#d0e93797)**);
+* (D) Filing an affidavit or declaration under **[37 CFR
+ 1.131(a)](mpep-9020-appx-r.html#aia_d0e323504)** showing a date of invention prior to the
+ effective U.S. filing date of the copending application. See
+ **[MPEP
+ § 715](s715.html#d0e89737)**; or
+* (E) For an application that is pending on or after December 10,
+ 2004, a showing that (1) the prior art and the claimed invention were, at the
+ time the invention was made, owned by the same person or subject to an
+ obligation of assignment to the same person, or (2) the subject matter is
+ disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**
+ (i.e., joint research agreement disqualification).
+
+
+Where the applications are claiming interfering subject matter as
+ defined in **[37 CFR
+ 41.203(a)](mpep-9020-appx-r.html#d0e359662)**, a terminal disclaimer and an affidavit or
+ declaration under **[37 CFR 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** may be used to
+ overcome a rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** in a common
+ ownership situation if the earlier filed application has been published or matured
+ into a patent. See **[MPEP
+ § 718](s718.html#d0e93900)**. 
+ 
+
+
+If a provisional rejection is made and the copending applications are
+ combined into a single application and the resulting single application is subject to
+ a restriction requirement, the divisional application would not be subject to a
+ provisional or actual rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** since the
+ provisions of **[35
+ U.S.C. 121](mpep-9015-appx-l.html#d0e303040)** preclude the use of a patent issuing therefrom as a
+ reference against the other application. Additionally, the resulting
+ continuation-in-part is entitled to **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** benefit of each of
+ the prior applications. This is illustrated in Example 2, below.
+ 
+
+
+The following examples are illustrative of the application of 35
+ U.S.C. 103 in applications filed prior to November 29, 1999 for which a patent was
+ granted prior to December 10, 2004:
+ 
+
+
+
+***Example 1.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and later files
+ application. 
+  | This is permissible. |
+| 2. B modifies X to XY. B files
+ application before A’s filing. 
+  | No **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)**; provisional
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection made in A’s later-filed application based on B’s application as
+ provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)**. Provisional double patenting rejection
+ made. 
+  |
+| 3. B’s patent issues. | A’s claims rejected over B’s patent under
+ **[35
+ U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** and double
+ patenting.
+  |
+| 4. A files **[37 CFR
+ 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** affidavit to disqualify B’s patent as
+ prior art where interfering subject matter as defined in
+ **[37
+ CFR 41.203(a)](mpep-9020-appx-r.html#d0e359662)** is being claimed. Terminal disclaimer
+ filed under **[37 CFR 1.321(c)](mpep-9020-appx-r.html#aia_d0e326532)**. 
+  | Rejection under **[35
+ U.S.C.103](mpep-9015-appx-l.html#d0e302450)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** may be overcome and
+ double patenting rejection may be overcome if inventions X and XY are
+ commonly owned and all requirements of **[37 CFR
+ 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** and **[1.321](mpep-9020-appx-r.html#aia_d0e326459)** are met.
+  |
+
+
+In situation (2.) above, the result is a
+ provisional rejection under **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** made in the later-filed application based on provisional
+ prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. The rejection is provisional since
+ the subject matter and the prior art are pending applications. 
+ 
+
+
+
+***Example 2.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files application establishing that A and B were
+ both under obligation to assign inventions to C at the time the
+ inventions were made. 
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection made in B’s later-filed application
+ based on A’s application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** made; provisional double patenting rejection
+ made; no **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)** or **[102(g)](mpep-9015-appx-l.html#d0e302424)** made. 
+  |
+| 3. A and B jointly file continuing
+ application claiming priority to both their earlier applications and
+ abandon the earlier applications.
+  | Assume it is proper that restriction be
+ required between X and XY.
+  |
+| 4. X is elected, a patent issues on X,
+ and a divisional application is timely filed on XY. 
+  | No rejection of divisional application
+ under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** in view of
+ **[35
+ U.S.C. 121](mpep-9015-appx-l.html#d0e303040)**.
+  |
+
+
+The following examples are illustrative of rejections under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** in applications that are pending on or after December
+ 10, 2004:
+ 
+
+
+
+***Example 3.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ Employee A’s application, which is pending on or after December 10, 2004, is being
+ examined.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and later files
+ application.
+  | This is permissible. |
+| 2. B modifies X to XY. B files
+ application before A’s filing. A files an application on invention
+ X.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection of A’s later-filed application based
+ on B’s application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** and a provisional double patenting rejection
+ are made.
+  |
+| 3. B’s patent issues. | A’s claims are rejected under
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** based
+ on B’s patent under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** and double patenting.
+  |
+| 4. A files evidence of common ownership
+ of inventions X and XY at the time invention XY was made to disqualify
+ B’s patent as prior art. In addition, A files a terminal disclaimer under
+ **[37
+ CFR 1.321(c)](mpep-9020-appx-r.html#d0e326459)**.
+  | Rejection of A’s claims under
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** based
+ on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** will be withdrawn and double patenting
+ rejection will be obviated if inventions X and XY are commonly owned at
+ the time invention XY was made and all requirements of **[37 CFR
+ 1.321](mpep-9020-appx-r.html#d0e326459)** are met.
+  |
+
+
+In situation (2.) above, the result is a
+ provisional rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ made in the later-filed application based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** (the earlier-filed application). The rejection is
+ provisional since the subject matter and the prior art are pending applications. 
+ 
+
+
+
+***Example 4.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ Employee B’s application, which is pending on or after December 10, 2004, is being
+ examined.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files evidence in B’s application establishing
+ that A and B were both under obligation to assign inventions to C at the
+ time the invention XY was made.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection of B’s claims based on A’s
+ application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** cannot be made; provisional double patenting
+ rejection is made; no **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)** is
+ made.
+  |
+| 3. B files a terminal disclaimer under
+ **[37
+ CFR 1.321(c)](mpep-9020-appx-r.html#d0e326459)**.
+  | The provisional double patenting
+ rejection made in B’s application would be obviated if all requirements
+ of **[37
+ CFR 1.321](mpep-9020-appx-r.html#d0e326459)** are met.
+  |
+
+
+
+***Example 5.*** Assumption: Employee A works for assignee I and Employee B works for
+ assignee J. There is a joint research agreement, pursuant to **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, between assignees I and J. Employees A and B each
+ filed an application as set forth below. Employee B’s invention claimed in his
+ application was made after the joint research agreement was entered into, and it
+ was made as a result of activities undertaken within the scope of the joint
+ agreement. Employee B’s application discloses assignees I and J as the parties to
+ the joint research agreement. Employee B’s application, which is pending on or
+ after December 10, 2004, is being examined.
+ 
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files evidence in B’s application establishing
+ a joint research agreement in compliance with **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302383)** rejection of B’s claims based on A’s
+ application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** cannot be made; provisional double
+ patenting rejection is made; no **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection based on prior art under
+ **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** or **[35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** made. 
+  |
+| 3. B files a terminal disclaimer under
+ **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)**.
+  | The provisional double patenting
+ rejection made in B’s application would be obviated if all
+ requirements of **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)** are
+ met.
+  |
+
+
+
+
+
+[[top]](#top)
+
+
+, 
+# 2146.01 Prior Art Disqualification Under Pre-AIA 35
+ U.S.C. 103(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file provisions of the AIA as
+ explained in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §§
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)** et seq., **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** and **[2156](s2156.html#ch2100_d20034_1b4ea_2c0)**
+ for the examination of applications subject to the first inventor to file provisions
+ of the AIA involving, inter alia, commonly owned subject matter or a joint research
+ agreement.]*
+
+
+
+#### *35 U.S.C. 103 (pre-AIA)   
+ Conditions for patentability; non-obvious
+ subject matter.*
+
+
+\*\*\*\*\*
+
+
+* (c)
+	+ (1) Subject matter developed by another person, which
+	 qualifies as prior art only under one or more of subsections (e), (f),
+	 and (g) of **[section 102](mpep-9015-appx-l.html#d0e302383)**, shall
+	 not preclude patentability under this section where the subject matter
+	 and the claimed invention were, at the time the claimed invention was
+	 made, owned by the same person or subject to an obligation of assignment
+	 to the same person.
+	+ (2) For purposes of this subsection, subject matter developed
+	 by another person and a claimed invention shall be deemed to have been
+	 owned by the same person or subject to an obligation of assignment to the
+	 same person if —
+		- (A) the claimed invention was made by or on behalf of
+		 parties to a joint research agreement that was in effect on or
+		 before the date the claimed invention was made;
+		- (B) the claimed invention was made as a result of
+		 activities undertaken within the scope of the joint research
+		 agreement; and
+		- (C) the application for patent for the claimed
+		 invention discloses or is amended to disclose the names of the
+		 parties to the joint research agreement.
+	+ (3) For purposes of paragraph (2), the term "joint research
+	 agreement" means a written contract, grant, or cooperative agreement
+	 entered into by two or more persons or entities for the performance of
+	 experimental, developmental, or research work in the field of the claimed
+	 invention.
+
+
+**I.** **COMMON OWNERSHIP OR ASSIGNEE PRIOR ART EXCLUSION UNDER PRE-AIA 35 U.S.C.
+ 103(c)** Enacted on November 29, 1999, the American Inventors Protection Act
+ (AIPA) added subject matter which was prior art under former **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ via **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** as disqualified prior art against the claimed
+ invention if that subject matter and the claimed invention "were, at the time the
+ invention was made, owned by the same person or subject to an obligation of
+ assignment to the same person." The 1999 change to **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** applied to all utility, design and plant patent
+ applications filed on or after November 29, 1999. The Cooperative Research and
+ Technology Enhancement Act of 2004 (CREATE Act), in part, redesignated the former 35
+ U.S.C. 103(c) to **[pre-AIA 35 U.S.C. 103(c)(1)](mpep-9015-appx-l.html#d0e302450)** and made this provision effective
+ to all applications in which the patent is granted on or after December 10, 2004, but
+ the AIA provides that certain applications are subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and  **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, see **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. Therefore, the provision of **[pre-AIA 35
+ U.S.C.103(c)(1)](mpep-9015-appx-l.html#d0e302450)** is effective for all applications pending on or
+ after December 10, 2004, including applications filed prior to November 29, 1999,
+ except those applications subject to the current **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and  **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. In addition, this provision
+ applies to all patent applications, including utility, design, plant and reissue
+ applications, except those applications subject to the current **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and  **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. The amendment to
+ **[pre-AIA 35
+ U.S.C. 103(c)(1)](mpep-9015-appx-l.html#d0e302450)** does not affect any application filed before
+ November 29, 1999 and issued as a patent prior to December 10, 2004. The AIA provides
+ that applications subject to the AIA prior art provisions are not subject to either
+ the 1999 or 2004 changes, but are subject to **[35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**.
+ 
+
+
+In a reexamination proceeding, however, one must look at whether or
+ not the patent being reexamined was granted on or after December 10, 2004, and
+ whether the patent is subject the current **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** to determine whether **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, as
+ amended by the CREATE Act, applies. For a reexamination proceeding of a patent
+ granted prior to December 10, 2004, on an application filed on or after November 29,
+ 1999, it is the 1999 changes to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** that are
+ applicable to the disqualifying commonly assigned/owned prior art provisions of
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. For a reexamination proceeding of a patent
+ granted prior to December 10, 2004, on an application filed prior to November 29,
+ 1999, neither the 1999 nor the 2004 changes to pre-AIA 35 U.S.C. 103(c) are
+ applicable. Therefore, only prior art under **[pre-AIA 35 U.S.C. 102(f) or (g)](mpep-9015-appx-l.html#d0e302383)**
+ used in a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** may be
+ excluded under the commonly assigned/owned prior art provisions of **[35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**. Similarly patents issued from applications subject to
+ the current **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** are not subject to
+ either the 1999 or 2004 changes, but are subject to **[35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**.
+ 
+
+
+For reissue applications, the doctrine of recapture may prevent the
+ presentation of claims in the reissue applications that were amended or cancelled
+ from the application which matured into the patent for which reissue is being sought,
+ if the claims were amended or cancelled to overcome a rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** which was not able to be disqualified under
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** in the application that issued as a patent. If an
+ examiner determines that this situation applies in the reissue application under
+ examination, a consultation with the Office of Patent Legal Administration should be
+ initiated via the Technology Center Quality Assurance Specialist.
+ 
+
+
+**[Pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** applies only to prior art usable in an obviousness
+ rejection under 35 U.S.C. 103. Subject matter that qualifies as anticipatory prior
+ art under **[pre-AIA
+ 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** is not affected, and may still be used to reject
+ claims as being anticipated. In addition, double patenting rejections, based on
+ subject matter now disqualified as prior art in amended **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, should still be made as appropriate. See
+ **[37 CFR
+ 1.78(c)](mpep-9020-appx-r.html#aia_d0e320662)** and **[MPEP § 804](s804.html#d0e98894)**. By contrast current
+ **[35
+ U.S.C. 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** operates to except similar prior art from being
+ applied in either an obviousness rejection or an anticipation rejection. See
+ **[MPEP
+ § 2156](s2156.html#ch2100_d20034_1b4ea_2c0)**.
+ 
+
+
+The burden of establishing that subject matter is disqualified as
+ prior art is placed on applicant once the examiner has established a *prima
+ facie* case of obviousness based on the subject matter. For example, the
+ fact that the reference and the application have the same assignee is
+ not, by itself, sufficient to disqualify the prior art
+ under **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. There must be a statement that the common
+ ownership was "at the time the invention was made."
+ 
+
+
+See **[MPEP § 2146.02](s2146.html#ch2100_d2c184_12765_27)** for information
+ regarding establishing common ownership. See **[MPEP §
+ 2146.03](s2146.html#ch2100_d2c184_127cc_34b)** for examination procedure with respect to
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. 
+ 
+
+**II.** **JOINT RESEARCH AGREEMENT DISQUALIFICATION UNDER PRE-AIA 35 U.S.C. 103(c) BY
+ THE CREATE ACT**The CREATE Act (Public Law 108-453, 118 Stat. 3596 (2004)) was
+ enacted on December 10, 2004, and is effective for applications for which the patent
+ is granted on or after December 10, 2004, except those patents subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. Specifically, the
+ CREATE Act amended **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to provide that:
+ 
+
+
+
+> 
+> - subject matter developed by another person, which qualifies as
+>  prior art only under one or more of subsections (e), (f), and (g) of
+>  **[pre-AIA 35
+>  U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** shall not preclude patentability under
+>  **[35 U.S.C.
+>  103](mpep-9015-appx-l.html#d0e302450)** where the subject matter and the claimed invention were,
+>  at the time the claimed invention was made, owned by the same person or subject to
+>  an obligation of assignment to the same person;
+>  
+> 
+> 
+> 
+
+
+
+> 
+> - for purposes of **[35 U.S.C.
+>  103](mpep-9015-appx-l.html#d0e302450)**, subject matter developed by another person and a
+>  claimed invention shall be deemed to have been owned by the same person or subject
+>  to an obligation of assignment to the same person if
+>  
+> 
+> 
+> * - the claimed invention was made by or on behalf of parties
+>  to a joint research agreement that was in effect on or before the date the
+>  claimed invention was made,
+> 
+> 
+> * - the claimed invention was made as a result of activities
+>  undertaken within the scope of the joint research agreement, and
+> 
+> 
+> * - the application for patent for the claimed invention
+>  discloses or is amended to disclose the names of the parties to the joint
+>  research agreement;
+> 
+> 
+> 
+
+
+
+> 
+> - for purposes of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, the
+>  term "joint research agreement" means a written contract, grant, or cooperative
+>  agreement entered into by two or more persons or entities for the performance of
+>  experimental, development, or research work in the field of the claimed
+>  invention.
+>  
+> 
+> 
+> 
+
+
+The effective date provision of the CREATE Act provided that its
+ amendments shall apply to any patent (including any reissue patent) granted on or
+ after December 10, 2004, except those patents subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**. The CREATE Act also provided
+ that its amendment shall not affect any final decision of a court or the Office
+ rendered before December 10, 2004, and shall not affect the right of any party in any
+ action pending before the Office or a court on December 10, 2004, to have that
+ party’s rights determined on the basis of the provisions of title 35, United States
+ Code, in effect on December 9, 2004. Since the CREATE Act also includes the amendment
+ to **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** made by section 4807 of the AIPA (see Public Law
+ 106-113, 113 Stat. 1501, 1501A-591 (1999)), the change of "subsection (f) or (g)" to
+ "one or more of subsections (e), (f), or (g)" in **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** is now
+ also applicable to applications filed prior to November 29, 1999, that were pending
+ on December 10, 2004.
+ 
+
+
+**[Pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, as amended by the CREATE Act, continues to apply only
+ to subject matter which qualifies as prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, and which is being relied upon in a rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**. If the rejection is anticipation under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** cannot
+ be relied upon to disqualify the subject matter in order to overcome or prevent the
+ anticipation rejection. Likewise, **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** cannot
+ be relied upon to overcome or prevent a double patenting rejection. See
+ **[37 CFR
+ 1.78(c)](mpep-9020-appx-r.html#aia_d0e320662)** and **[MPEP § 804](s804.html#d0e98894)**.
+ 
+
+
+Because the CREATE Act applies only to patents granted on or after
+ December 10, 2004, the recapture doctrine may prevent the presentation of claims in
+ the reissue applications that had been amended or cancelled (e.g., to avoid a
+ rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based on subject matter that may now
+ be disqualified under the CREATE Act) during the prosecution of the application which
+ resulted in the patent being reissued.
+ 
+
+
+, 
+# 2146.02 Establishing Common Ownership or Joint Research
+ Agreement Under Pre-AIA 35 U.S.C. 103(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is not applicable to applications subject to
+ examination under the first inventor to file provisions of the AIA as explained in
+ **[35
+ U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §§
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)** et seq., **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** and **[2156](s2156.html#ch2100_d20034_1b4ea_2c0)**
+ for the examination of applications subject to the first inventor to file provisions
+ of the AIA involving, inter alia, commonly owned subject matter or a joint research
+ agreement.]*
+
+
+In order to be disqualified as prior art under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, the subject matter which would otherwise qualify as
+ **[pre-AIA 35 U.S.C.
+ 102(e), (f), or (g)](mpep-9015-appx-l.html#d0e302383)** prior art to the claimed invention and the
+ claimed invention must be commonly owned, or subject to an obligation of assignment to
+ the same person, at the time the claimed invention was made or be subject to a joint
+ research agreement at the time the invention was made. See **[MPEP § 2146](s2146.html#d0e213206)** for
+ rejections under **[35
+ U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)** and prior art disqualified
+ under **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** in applications granted as patents prior to December
+ 10, 2004. See **[MPEP § 2146.01](s2146.html#ch2100_d2c184_126fa_f3)** for rejections under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, and prior art disqualified under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+**I.** **DEFINITION OF COMMON OWNERSHIP**The term "commonly owned" is intended to mean that the subject matter
+ which would otherwise **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** prior art to the claimed invention and the claimed
+ invention are entirely or wholly owned by, or under an obligation to assign to, the
+ same person(s) or organization(s)/business entity(ies). For purposes of
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, common ownership must be at the time the claimed
+ invention was made. If the person(s) or organization(s) owned less than 100 percent
+ of the subject matter which would otherwise **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** prior art to the claimed invention, or less than 100
+ percent of the claimed invention, then common ownership would not exist. Common
+ ownership requires that the person(s) or organization(s)/business entity(ies) own 100
+ percent of the subject matter and 100 percent of the claimed invention. 
+ 
+
+
+Specifically, if an invention claimed in an application is owned by
+ more than one entity and those entities seek to exclude the use of a reference under
+ **[pre-AIA
+ 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, then the reference must be owned by, or
+ subject to an obligation of assignment to, the same entities that owned the
+ application, at the time the later invention was made. For example, assume Company A
+ owns twenty percent of patent Application X and Company B owns eighty percent of
+ patent Application X at the time the invention of Application X was made. In
+ addition, assume that Companies A and B seek to exclude the use of Reference Z under
+ **[pre-AIA
+ 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. Reference Z must have been co-owned, or have
+ been under an obligation of assignment to both companies, on the date the invention
+ was made in order for the exclusion to be properly requested. A statement such as
+ "Application X and Patent Z were, at the time the invention of Application X was
+ made, jointly owned by Companies A and B" would be sufficient to establish common
+ ownership. 
+ 
+
+
+For applications owned by a joint venture of two or more entities,
+ both the application and the reference must have been owned by, or subject to an
+ obligation of assignment to, the joint venture at the time the invention was made.
+ For example, if Company A and Company B formed a joint venture, Company C, both
+ Application X and Reference Z must have been owned by, or subject to an obligation of
+ assignment to, Company C at the time the invention was made in order for Reference Z
+ to be properly excluded as prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. If
+ Company A by itself owned Reference Z at the time the invention of Application X was
+ made and Application X was owned by Company C on the date the invention was made,
+ then a request for the exclusion of Reference Z as prior art under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** would not be proper.
+ 
+
+
+As long as principal ownership rights to either the subject matter or
+ the claimed invention under examination reside in different persons or organizations
+ common ownership does not exist. A license of the claimed invention under examination
+ to another by the owner where basic ownership rights are retained would not defeat
+ ownership. 
+ 
+
+
+The requirement for common ownership at the time the claimed
+ invention was made is intended to preclude obtaining ownership of subject matter
+ after the claimed invention was made in order to disqualify that subject matter as
+ prior art against the claimed invention. 
+ 
+
+
+The question of whether common ownership exists at the time the
+ claimed invention was made is to be determined on the facts of the particular case in
+ question. Actual ownership of the subject matter and the claimed invention by the
+ same individual(s) or organization(s) or a legal obligation to assign both the
+ subject matter and the claimed invention to the same individual(s) or
+ organization(s)/business entity(ies) must be in existence at the time the claimed
+ invention was made in order for the subject matter to be disqualified as prior art. A
+ moral or unenforceable obligation would not provide the basis for common
+ ownership.
+ 
+
+
+Under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, an
+ applicant’s admission that subject matter was developed prior to applicant’s
+ invention would not make the subject matter prior art to applicant if the subject
+ matter qualifies as prior art only under sections **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, and if the subject matter and the claimed invention were
+ commonly owned at the time the invention was made. See *In re Fout,*
+ 675 F.2d 297, 213 USPQ 532 (CCPA 1982), for a decision involving an applicant’s
+ admission which was used as prior art against their application. If the subject
+ matter and invention were not commonly owned, an admission that the subject matter is
+ prior art would be usable under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+The burden of establishing that subject matter is disqualified as
+ prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** is intended to be placed and reside
+ upon the person or persons urging that the subject matter is disqualified. For
+ example, a patent applicant urging that subject matter is disqualified as prior art
+ under **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, would have the burden of establishing that it
+ was commonly owned at the time the claimed invention was made. The patentee in
+ litigation would likewise properly bear the same burden placed upon the applicant
+ before the U.S. Patent and Trademark Office. To place the burden upon the patent
+ examiner or the defendant in litigation would not be appropriate since evidence as to
+ common ownership at the time the claimed invention was made might not be available to
+ the patent examiner or the defendant in litigation, but such evidence, if it exists,
+ should be readily available to the patent applicant or the patentee.
+ 
+
+
+In view of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, the
+ Director has reinstituted in appropriate circumstances the practice of rejecting
+ claims in commonly owned applications of different inventive entities on the grounds
+ of double patenting. Such rejections can be overcome in appropriate circumstances by
+ the filing of terminal disclaimers. This practice has been judicially authorized. See
+ *In re Bowers,* 359 F.2d 886, 149 USPQ 57 (CCPA 1966). The use of
+ double patenting rejections which then could be overcome by terminal disclaimers
+ precludes patent protection from being improperly extended while still permitting
+ inventors and their assignees to obtain the legitimate benefits from their
+ contributions. See also **[MPEP §§ 804](s804.html#d0e98894)** and **[1490](s1490.html#d0e146976)**, subsection VI.
+ 
+
+
+The following examples are provided for illustration only:
+
+
+**Example 1**Parent Company owns 100% of Subsidiaries A and B 
+
+
+- inventions of A and B are commonly owned by the Parent
+ Company.
+ 
+
+
+
+**Example 2**Parent Company owns 100% of Subsidiary A and 90% of Subsidiary
+ B
+ 
+
+
+- inventions of A and B are not commonly owned by the Parent
+ Company.
+ 
+
+
+
+**Example 3**If same person owns subject matter and invention at time invention
+ was made, license to another may be made without the subject matter becoming prior
+ art.
+ 
+
+
+
+**Example 4**Different Government inventors retaining certain rights (e.g.
+ foreign filing rights) in separate inventions owned by Government precludes common
+ ownership of inventions.
+ 
+
+
+
+**Example 5** Company A and Company B form joint venture Company C. Employees of
+ A, while working for C with an obligation to assign inventions to C, invent
+ invention #1; employees of B while working for C with an obligation to assign
+ inventions to C, invent invention #2, with knowledge of #1. 
+ 
+
+
+Question: Are #1 and #2 commonly owned at the time the later
+ invention was made so as to preclude a rejection under **[pre-AIA 35 U.S.C. 102(e), (f)
+ or (g)](mpep-9015-appx-l.html#d0e302383)** in view of **[pre-AIA 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**?
+ 
+
+
+Answer: Yes- If the required submission of common ownership is
+ made of record in the patent application file. If invention #1 was invented by
+ employees of Company A **not** working for Company C and Company A
+ maintained sole ownership of invention #1 at the time invention #2 was made,
+ inventions #1 and #2 would not be commonly owned as required by **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+
+**Example 6**Company A owns 40% of invention #1 and 60% of invention #2, and
+ Company B owns 60% of invention #1 and 40% of invention #2 at the time invention
+ #2 was made.
+ 
+
+
+-inventions #1 and #2 are commonly owned.
+
+
+
+**Example 7**Company B has a joint research project with University A. Under
+ the terms of the joint research project, University A has agreed that all of its
+ patents will be jointly owned by Company B and University A. Professor X, who
+ works for University A, has an employee agreement with University A assigning all
+ his patents only to University A. After the joint research project agreement is
+ executed, University A files patent application #1 for the invention of Professor
+ X, before Company B files patent application #2 on a similar invention. 
+ 
+
+
+- inventions #1 and #2 are commonly owned because Professor X’s
+ obligation to assign patents to University A who has an obligation to assign
+ patents to the A-B joint venture legally establishes Professor X’s obligation to
+ assign patents to the A-B joint venture.
+ 
+
+
+
+**Example 8**Inventor X working at Company A invents and files patent
+ application #1 on technology T, owned by Company A. After application #1 is filed,
+ Company A spins off a 100% owned Subsidiary B for technology T including the
+ transfer of the ownership of patent application #1 to Subsidiary B. After
+ Subsidiary B is formed, inventor Y (formerly a Company A employee, but now an
+ employee of Subsidiary B obligated to assign to Subsidiary B) jointly files
+ application #2 with inventor X (now also an employee of Subsidiary B with an
+ obligation to assign to Subsidiary B), which is directed to a possibly nonobvious
+ improvement to technology T. 
+ 
+
+
+- the inventions of applications #1 and #2 are commonly owned
+ since Subsidiary B is a wholly owned subsidiary of Company A.
+ 
+
+
+
+The examiner must examine the application as to all grounds except
+ **[pre-AIA 35
+ U.S.C. 102(e), (f) and (g)](mpep-9015-appx-l.html#d0e302383)** as they apply through
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** only if the application file(s) establishes
+ common ownership at the time the later invention was made. Thus, it is necessary to
+ look to the time at which common ownership exists. If common ownership does not exist
+ at the time the later invention was made, the earlier invention is not disqualified
+ as potential prior art under **[pre-AIA 35 U.S.C. 102(e), (f) and
+ (g)](mpep-9015-appx-l.html#d0e302383)** as they apply through **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**. An
+ invention is "made" when conception is complete as defined in *Mergenthaler
+ v. Scudder,* 11 App. D.C. 264, 81 OG 1417, 1897 C.D. 724 (D.C. Cir.
+ 1897); *In re Tansel,* 253 F.2d 241, 117 USPQ 188 (CCPA 1958). See
+ *Pfaff v. Wells Elecs.,* 525 U.S. 55, 48 USPQ2d 1641, 1647 (1998)
+ ("the invention must be ready for patenting . . . . by proof that prior to the
+ critical date the inventor had prepared drawings or other descriptions of the
+ invention that were sufficiently specific to enable a person skilled in the art to
+ practice the invention.") Common ownership at the time the invention was made
+ for purposes of obviating a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based on
+ prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**, **[(f)](mpep-9015-appx-l.html#d0e302383)** or **[(g)](mpep-9015-appx-l.html#d0e302383)** may be
+ established irrespective of whether the invention was made in the United States or
+ abroad. The provisions of **[pre-AIA 35 U.S.C. 104](mpep-9015-appx-l.html#d0e302559)**, however,
+ will continue to apply to other proceedings in the U.S. Patent and Trademark Office,
+ e.g. in an interference proceeding, with regard to establishing a date of invention
+ by knowledge or use thereof, or other activity with respect thereto, in a foreign
+ country, except the provisions do not apply to applications subject to the current
+ **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** as **[pre-AIA 35 U.S.C. 104](mpep-9015-appx-l.html#d0e302559)** was
+ repealed effective March 16, 2013. The foreign filing date will continue to be used
+ for interference purposes under **[35 U.S.C. 119(a) - (d)](mpep-9015-appx-l.html#d0e302921)** and
+ **[35 U.S.C.
+ 365](mpep-9015-appx-l.html#d0e307034)**.
+ 
+
+**II.** **REQUIREMENTS TO ESTABLISH COMMON OWNERSHIP**It is important to recognize what constitutes a sufficient submission
+ to establish common ownership at the time the invention was made. Common ownership
+ must be shown to exist at the time the later invention was made. A statement of
+ present common ownership is not sufficient. *In re Onda,* 229 USPQ
+ 235 (Comm’r Pat. 1985).
+ 
+
+
+Applications and references (whether patents, patent applications,
+ patent application publications, etc.) will be considered by the examiner to be owned
+ by, or subject to an obligation of assignment to the same person, at the time the
+ invention was made, if the applicant(s) or patent owner(s) make(s) a statement to the
+ effect that the application and the reference were, at the time the invention was
+ made, owned by, or subject to an obligation of assignment to, the same person. The
+ statement must be signed in accordance with **[37 CFR 1.33(b)](mpep-9020-appx-r.html#aia_d0e317540)**. See "Guidelines
+ Setting Forth a Modified Policy Concerning the Evidence of Common Ownership, or an
+ Obligation of Assignment to the Same Person, as Required by **[35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**," 1241 OG 96 (December 26, 2000). The applicant(s) or
+ the representative(s) of record have the best knowledge of the ownership of their
+ application(s) and reference(s), and their statement of such is sufficient because of
+ their paramount obligation of candor and good faith to the USPTO. 
+ 
+
+
+The statement concerning common ownership should be clear and
+ conspicuous (e.g., on a separate piece of paper) to ensure the examiner notices the
+ statement. Applicants or patent owners may, but are not required to, submit further
+ evidence, such as assignment records, affidavits or declarations by the common owner,
+ or court decisions, *in addition to* the above-mentioned statement
+ concerning common ownership.
+ 
+
+
+For example, an attorney or agent of record receives an Office action
+ for Application X in which all the claims are rejected under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302450)** using Patent A in view of Patent B wherein Patent A is
+ only available as prior art under **[pre-AIA 35 U.S.C. 102(e), (f), and/or
+ (g)](mpep-9015-appx-l.html#d0e302383)**. In her response to the Office action, the attorney or
+ agent of record for Application X states, in a clear and conspicuous manner,
+ that:
+ 
+
+
+
+> 
+> "Application X and Patent A were, at the time the
+>  invention of Application X was made, owned by Company Z."
+>  
+> 
+> 
+> 
+
+
+This statement alone is sufficient to disqualify Patent A from being
+ used in a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** against
+ the claims of Application X. 
+ 
+
+
+In rare instances, the examiner may have independent evidence that
+ raises a material doubt as to the accuracy of applicant’s representation of either
+ (1) the common ownership of, or (2) the existence of an obligation to commonly
+ assign, the application being examined and the applied U.S. patent or U.S. patent
+ application publication reference. In such cases, the examiner may explain why the
+ accuracy of the representation is doubted. The examiner may also require objective
+ evidence of common ownership of, or the existence of an obligation to assign, the
+ application being examined and the applied reference as of the date of invention of
+ the application being examined. Examiners should note that the execution dates in
+ assignment documents may not reflect the date a party was under an obligation to
+ assign the claimed invention.
+ 
+
+
+As mentioned above, applicant(s) or patent owner(s) may
+ submit, *in addition to* the above-mentioned statement regarding
+ common ownership, the following objective evidence:
+ 
+
+
+* (A) Reference to assignments, which are recorded in the U.S. Patent
+ and Trademark Office in accordance with **[37 CFR Part 3](mpep-9020-appx-r.html#d0e336097)**, and which
+ convey the entire rights in the applications to the same person(s) or
+ organization(s);
+* (B) Copies of unrecorded assignments which convey the entire rights
+ in the applications to the same person(s) or organization(s), and which are
+ filed in each of the applications;
+* (C) An affidavit or declaration by the common owner, which is filed
+ in the application or patent, and which states that there is common ownership,
+ states facts which explain why the affiant or declarant believes there is
+ common ownership, and is properly signed (i.e., the affidavit or declaration
+ may be signed by an official of the corporation or organization empowered to
+ act on behalf of the corporation or organization when the common owner is a
+ corporation or other organization); and
+* (D) Other evidence, which is submitted in the application or
+ patent, and which establishes common ownership.
+
+**III.** **REQUIREMENTS TO ESTABLISH A JOINT RESEARCH AGREEMENT**Once an examiner has established a *prima facie*
+ case of obviousness under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**, the
+ burden of overcoming the rejection by invoking the joint research agreement
+ provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** as amended by the CREATE Act is on
+ the applicant or the patentee. **[Pre-AIA 35 U.S.C. 103(c)(3)](mpep-9015-appx-l.html#d0e302450)**
+ defines a "joint research agreement" as a written contract, grant, or cooperative
+ agreement entered into by two or more persons or entities for the performance of
+ experimental, developmental, or research work in the field of the claimed invention,
+ that was in effect on or before the date the claimed invention (under examination or
+ reexamination) was made.
+ 
+
+
+Like the common ownership or assignment provision, the joint research
+ agreement must be shown to be in effect on or before the time the later invention was
+ made. The joint research agreement may be in effect prior to the effective date
+ (December 10, 2004) of the CREATE Act. In addition, the joint research agreement is
+ NOT required to be in effect on or before the prior art date of the reference that is
+ sought to be disqualified.
+ 
+
+
+To overcome a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based
+ upon subject matter (whether a patent document, publication, or other evidence) which
+ qualifies as prior art under only one or more of **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** via the CREATE Act, the applicant must comply with the
+ statute and the rules of practice in effect.
+ 
+
+
+
+#### *37 CFR 1.71  Detailed description and specification of
+ the invention.*
+
+
+\*\*\*\*\*
+
+
+* (g)
+	+ (1) The specification may disclose or be amended to
+	 disclose the names of the parties to a joint research agreement as
+	 defined in **[§ 1.9(e)](mpep-9020-appx-r.html#aia_aia_d0e313917)**.
+	+ (2) An amendment under paragraph (g)(1) of this section
+	 must be accompanied by the processing fee set forth in
+	 **[§ 1.17(i)](mpep-9020-appx-r.html#eff_20130320_d0e315199)** if not
+	 filed within one of the following time periods:
+		- (i) Within three months of the filing date of a
+		 national application;
+		- (ii) Within three months of the date of entry of the
+		 national stage as set forth in **[§
+		 1.491](mpep-9020-appx-r.html#d0e329128)** in an international application;
+		- (iii) Before the mailing of a first Office action on
+		 the merits; or
+		- (iv) Before the mailing of a first Office action
+		 after the filing of a request for continued examination under
+		 **[§ 1.114](mpep-9020-appx-r.html#d0e322625)**.
+	+ (3) If an amendment under paragraph (g)(1) of this section
+	 is filed after the date the issue fee is paid, the patent as issued
+	 may not necessarily include the names of the parties to the joint
+	 research agreement. If the patent as issued does not include the names
+	 of the parties to the joint research agreement, the patent must be
+	 corrected to include the names of the parties to the joint research
+	 agreement by a certificate of correction under **[35 U.S.C.
+	 255](mpep-9015-appx-l.html#d0e305404)** and **[§ 1.323](mpep-9020-appx-r.html#d0e326640)** for the
+	 amendment to be effective.
+
+
+
+
+#### *37 CFR 1.104  Nature of examination.*
+
+
+\*\*\*\*\*
+
+
+* (c) *Rejection of claims*.
+	+ \*\*\*\*\*
+	+ (5)
+		- (i) Subject matter which qualifies as prior art
+		 under **[35 U.S.C. 102(e), (f), or
+		 (g)](mpep-9015-appx-l.html#d0e302407)** in effect prior to March 16, 2013, and
+		 a claimed invention in an application filed on or after November
+		 29, 1999, or any patent issuing thereon, in an application filed
+		 before November 29, 1999, but pending on December 10, 2004, or
+		 any patent issuing thereon, or in any patent granted on or after
+		 December 10, 2004, will be treated as commonly owned for
+		 purposes of **[35 U.S.C.
+		 103(c)](mpep-9015-appx-l.html#d0e302521)** in effect prior to March 16, 2013,
+		 if the applicant or patent owner provides a statement to the
+		 effect that the subject matter and the claimed invention, at the
+		 time the claimed invention was made, were owned by the same
+		 person or subject to an obligation of assignment to the same
+		 person.
+		- (ii) Subject matter which qualifies as prior art
+		 under **[35 U.S.C. 102(e), (f), or
+		 (g)](mpep-9015-appx-l.html#d0e302407)** in effect prior to March 16, 2013, and
+		 a claimed invention in an application pending on or after
+		 December 10, 2004, or in any patent granted on or after December
+		 10, 2004, will be treated as commonly owned for purposes of
+		 **[35 U.S.C.
+		 103(c)](mpep-9015-appx-l.html#d0e302521)** in effect prior to March 16, 2013,
+		 on the basis of a joint research agreement under
+		 **[35 U.S.C.
+		 103(c)(2)](mpep-9015-appx-l.html#d0e302529)** in effect prior to March 16,
+		 2013, if:
+			* (A) The applicant or patent owner
+			 provides a statement to the effect that the subject matter
+			 and the claimed invention were made by or on behalf of the
+			 parties to a joint research agreement, within the meaning
+			 of **[35 U.S.C.
+			 100(h)](mpep-9015-appx-l.html#al_d1d85b_11e10_359)** and **[§ 1.9(e)](mpep-9020-appx-r.html#aia_aia_d0e313917)**, which was in effect on or
+			 before the date the claimed invention was made, and that
+			 the claimed invention was made as a result of activities
+			 undertaken within the scope of the joint research
+			 agreement; and
+			* (B) The application for patent
+			 for the claimed invention discloses or is amended to
+			 disclose the names of the parties to the joint research
+			 agreement.
+	+ (6) Patents issued prior to December 10,
+	 2004, from applications filed prior to November 29, 1999, are subject
+	 to **[35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** in effect on November 28,
+	 1999.
+
+
+\*\*\*\*\*
+
+
+
+**[37 CFR
+ 1.71(g)](mpep-9020-appx-r.html#d0e320131)** provides for the situation in which an application
+ discloses or is amended to disclose the names of the parties to a joint research
+ agreement. **[37 CFR
+ 1.71(g)(1)](mpep-9020-appx-r.html#d0e320131)** specifically provides that the specification may
+ disclose or be amended to disclose the name of each party to the joint research
+ agreement because this information is required by **[35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** or **[pre-AIA 35 U.S.C.
+ 103(c)(2)(C)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+**[37
+ CFR1.71(g)(2)](mpep-9020-appx-r.html#d0e320131)** provides that an amendment under
+ **[37 CFR
+ 1.71(g)(1)](mpep-9020-appx-r.html#d0e320131)** must be accompanied by the processing fee set forth
+ in **[37
+ CFR 1.17(i)](mpep-9020-appx-r.html#eff_20130320_d0e315199)** if it is not filed within one of the following time
+ periods: (1) within three months of the filing date of a national application; (2)
+ within three months of the date of entry of the national stage as set forth in
+ **[37 CFR
+ 1.491](mpep-9020-appx-r.html#d0e329128)** in an international application; (3) before the mailing
+ of a first Office action on the merits; or (4) before the mailing of a first Office
+ action after the filing of a request for continued examination under
+ **[37 CFR
+ 1.114](mpep-9020-appx-r.html#d0e322625)**.
+ 
+
+
+**[37 CFR
+ 1.71(g)(3)](mpep-9020-appx-r.html#d0e320131)** provides that if an amendment under
+ **[37 CFR
+ 1.71(g)(1)](mpep-9020-appx-r.html#d0e320131)** is filed after the date the issue fee is paid, the
+ patent as issued may not necessarily include the names of the parties to the joint
+ research agreement. **[37 CFR 1.71(g)(3)](mpep-9020-appx-r.html#d0e320131)** also provides that if the patent as issued
+ does not include the names of the parties to the joint research agreement, the patent
+ must be corrected to include the names of the parties to the joint research agreement
+ by a certificate of correction under **[35 U.S.C. 255](mpep-9015-appx-l.html#d0e305404)** and
+ **[37 CFR
+ 1.323](mpep-9020-appx-r.html#d0e326640)** for the amendment to be effective. The requirements of
+ **[37 CFR
+ 1.71(g)(3)](mpep-9020-appx-r.html#d0e320131)** (correction of the patent by a certificate of
+ correction under **[35
+ U.S.C. 255](mpep-9015-appx-l.html#d0e305404)** and **[37 CFR 1.323](mpep-9020-appx-r.html#d0e326640)**) also apply in the
+ situation in which such an amendment is not filed until after the date the patent was
+ granted (in a patent granted on or after December 10, 2004). It is unnecessary to
+ file a reissue application or request for reexamination of the patent to submit the
+ amendment and other information necessary to take advantage of **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** as amended by the CREATE Act. See H.R. Rep. No. 108-425,
+ at 9 ("[t]he omission of the names of parties to the agreement is not an error that
+ would justify commencement of a reissue or reexamination proceeding").
+ 
+
+
+The submission of such an amendment remains subject to the rules of
+ practice: e.g., **[37
+ CFR 1.116](mpep-9020-appx-r.html#d0e322826)**, **[1.121](mpep-9020-appx-r.html#d0e323020)**, and **[1.312](mpep-9020-appx-r.html#d0e326304)**. For
+ example, if an amendment under **[37 CFR 1.71(g)](mpep-9020-appx-r.html#d0e320131)** is submitted in an
+ application under final rejection to overcome a rejection under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302450)** based upon a U.S. patent which qualifies as prior art
+ only under **[pre-AIA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**, the examiner may refuse to enter the
+ amendment under **[37
+ CFR 1.71(g)](mpep-9020-appx-r.html#d0e320131)** if it is not accompanied by an appropriate terminal
+ disclaimer (**[37 CFR
+ 1.321(d)](mpep-9020-appx-r.html#d0e326459)**). This is because such an amendment may necessitate
+ the reopening of prosecution (e.g., for entry of a double patenting rejection).
+ 
+
+
+If an amendment under **[37 CFR 1.71(g)](mpep-9020-appx-r.html#d0e320131)** is submitted to
+ overcome a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based
+ upon a U.S. patent or U.S. patent application publication which qualifies as prior
+ art only under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**, and the examiner withdraws the
+ rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**, the examiner may need to issue an
+ Office action containing a new double patenting rejection based upon the disqualified
+ patent or patent application publication. In these situations, such Office action can
+ be made final, provided that the examiner introduces no other new ground of rejection
+ that was not necessitated by either amendment or an information disclosure statement
+ filed during the time period set forth in **[37 CFR 1.97(c)](mpep-9020-appx-r.html#d0e321609)** with the fee set
+ forth in **[37 CFR 1.17(p)](mpep-9020-appx-r.html#eff_20130320_d0e315199)**. The Office action
+ is properly made final because the new double patenting rejection was necessitated by
+ amendment of the application by applicant. This is the case regardless of whether the
+ claims themselves have been amended.
+ 
+
+
+In addition to amending the specification to disclose the names of
+ the parties to the joint research agreement, applicant must submit the required
+ statement to invoke the prior art disqualification under the CREATE Act.
+ **[37 CFR
+ 1.104(c)(4)](mpep-9020-appx-r.html#d0e322124)** sets forth the requirement for the statement, which
+ includes a statement to the effect that the prior art and the claimed invention were
+ made by or on the behalf of parties to a joint research agreement, within the meaning
+ of **[pre-AIA 35
+ U.S.C. 103(c)(3)](mpep-9015-appx-l.html#d0e302450)**, which was in effect on or before the date the
+ claimed invention was made, and that the claimed invention was made as a result of
+ activities undertaken within the scope of the joint research agreement. The statement
+ should either be on or begin on a separate sheet and must not be directed to other
+ matters (**[37 CFR
+ 1.4(c)](mpep-9020-appx-r.html#d0e313174)**). The statement must be signed in accordance with
+ **[37 CFR
+ 1.33(b)](mpep-9020-appx-r.html#d0e317491)**. As is the case with establishing common ownership, the
+ applicant or patent owner may, but is not required to, present evidence supporting
+ the existence of the joint research agreement.
+ 
+
+
+If the applicant disqualifies the subject matter relied upon by the
+ examiner in accordance with **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** as
+ amended by the CREATE Act and the procedures set forth in the rules, the examiner
+ will treat the application under examination and the **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)** prior art as if they are commonly owned for purposes of
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+The following examples are provided for illustration only:
+
+
+**Example 1**Company A and University B have a joint research agreement (JRA)
+ in place prior to the date Company A’s invention X' was made. Professor BB from
+ University B communicates invention X to Company A. On November 12, 2004,
+ University B filed a patent application on invention X. On December 13, 2004,
+ Company A filed a patent application disclosing and claiming invention X', which
+ is an obvious variant of invention X. Invention X' was made as a result of the
+ activities undertaken within the scope of the JRA. University B retains ownership
+ of invention X and Company A retains ownership of invention X', without any
+ obligation to assign the inventions to a common owner. Company A could invoke the
+ joint research agreement provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to
+ disqualify University B’s application as prior art in a rejection under
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+
+**Example 2**Professor BB from University B communicates invention X to Company
+ A. On November 12, 2004, University B filed a patent application on invention X.
+ On December 13, 2004, Company A filed a patent application disclosing and claiming
+ invention X', which is an obvious variant of invention X. Company A and University
+ B have a joint research agreement (JRA), which goes into effect on December 20,
+ 2004. University B retains ownership of invention X and Company A retains
+ ownership of invention X', without any obligation to assign the inventions to a
+ common owner. Company A could **not** invoke the joint research agreement
+ provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to disqualify University B’s
+ application as prior art in a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**
+ because the JRA was not in effect until after the later invention was made.
+ 
+
+
+
+**Example 3**Company A and University B have a joint research agreement (JRA)
+ in place prior to the date invention X' was made but the JRA is limited to
+ activities for invention Y, which is distinct from invention X. Professor BB from
+ University B communicates invention X to Company A. On November 12, 2004,
+ University B filed a patent application on invention X. On December 13, 2004,
+ Company A filed a patent application disclosing and claiming invention X', which
+ is an obvious variant of invention X. University B retains ownership of invention
+ X and Company A retains ownership of invention X', without any obligation to
+ assign the inventions to a common owner. Company A could **not** invoke
+ the joint research agreement provisions of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** to
+ disqualify University B’s application as prior art in a rejection under
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** because the claimed invention was not made as
+ a result of the activities undertaken within the scope of the JRA.
+ 
+
+
+
+, 
+# 2146.03 Examination Procedure With Respect to Pre-AIA
+ 35 U.S.C. 103(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is not applicable to applications subject to
+ examination under the first inventor to file provisions of the AIA as explained in
+ **[35
+ U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §§
+ 717.02](s717.html#ch700_d1ffd5_1b424_139)** et seq., **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** and **[2156](s2156.html#ch2100_d20034_1b4ea_2c0)**
+ for the examination of applications subject to the first inventor to file provisions
+ of the AIA involving, inter alia, commonly owned subject matter or a joint research
+ agreement.]*
+
+
+Examiners are reminded that a reference used in an anticipatory
+ rejection under **[pre-AIA 35 U.S.C. 102(e), (f), or (g)](mpep-9015-appx-l.html#d0e302383)** is not disqualified as
+ prior art if the reference is disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. Generally,
+ such a reference is only disqualified when 
+ 
+
+
+* (A) a proper submission is filed,
+* (B) the reference *only* qualifies as prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e), (f) or (g)](mpep-9015-appx-l.html#d0e302383)** (e.g., not **[pre-AIA 35 U.S.C. 102(a) or
+ (b)](mpep-9015-appx-l.html#d0e302383)**), and
+* (C) the reference was used in an obviousness rejection under
+ **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)**.
+
+
+Applications and patents will be considered to be owned by, or subject
+ to an obligation of assignment to, the same person, at the time the invention was made,
+ if the applicant(s) or patent owner(s) make(s) a statement to the effect that the
+ application and the reference were, at the time the invention was made, owned by, or
+ subject to an obligation of assignment to, the same person(s) or organization(s). In
+ order to overcome a rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302450)** based upon
+ a reference which qualifies as prior art under only one or more of **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302383)**, via the CREATE Act, the applicant must comply with the
+ statute and the rules of practice in effect.
+ 
+
+
+See **[MPEP § 2146.02](s2146.html#ch2100_d2c184_12765_27)** for additional
+ information pertaining to establishing common ownership.
+ 
+
+**I.** **EXAMINATION OF APPLICATIONS OF DIFFERENT INVENTIVE ENTITIES WHERE COMMON
+ OWNERSHIP OR A JOINT RESEARCH AGREEMENT HAS NOT BEEN ESTABLISHED** If the application file being examined has not established that the
+ reference is disqualified as prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**, the
+ examiner will:
+ 
+
+
+* (A) assume the reference is not disqualified under
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**;
+* (B) examine the application on all grounds other than any conflict
+ between the reference patent(s) or application(s) arising from a possible
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** rejection based on prior art under **[pre-AIA 35 U.S.C. 102(e),
+ (f) and/or (g)](mpep-9015-appx-l.html#d0e302383)**;
+* (C) consider the applicability of any references under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C. 102(e),
+ (f) and/or (g)](mpep-9015-appx-l.html#d0e302383)**, including provisional rejections under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** (see **[MPEP §
+ 2146.03(a)](s2146.html#ch2100_d2c184_12851_21a)**); and
+* (D) apply the best references against the claimed invention by
+ rejections under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)**, including any rejections under **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C. 102(e),
+ (f) and/or (g)](mpep-9015-appx-l.html#d0e302383)**, until such time that the reference is
+ disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+When applying any references that qualify as prior
+ art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** in a rejection under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** against the claims, the examiner should anticipate that
+ the reference may be disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** and
+ consider making an appropriate additional, alternative rejection. See
+ **[MPEP § 2120](s2120.html#ch2100_d2c183_20d28_209)**, subsection I. If a statement of common
+ ownership or assignment is filed in reply to the **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** and the claims are not amended, the examiner may not
+ make the next Office action final if a new rejection is made. See
+ **[MPEP §
+ 706.07(a)](s706.html#d0e68889)**. If the reference is disqualified under the
+ joint research agreement provision of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** and a
+ new subsequent double patenting rejection based upon the disqualified reference is
+ applied, the next Office action, which contains the new double patenting
+ rejection, may be made final even if applicant did not amend the claims (provided
+ that the examiner introduces no other new ground of rejection that was not
+ necessitated by either amendment or an information disclosure statement filed
+ during the time period set forth in **[37 CFR 1.97(c)](mpep-9020-appx-r.html#d0e321609)** with the fee
+ set forth in **[37 CFR 1.17(p)](mpep-9020-appx-r.html#eff_20130320_d0e315199)**). The Office
+ action is properly made final because the new double patenting rejection was
+ necessitated by amendment of the application by applicant.
+ 
+
+
+**II.** **EXAMINATION OF APPLICATIONS OF DIFFERENT INVENTIVE ENTITIES WHERE COMMON
+ OWNERSHIP OR A JOINT RESEARCH AGREEMENT HAS BEEN ESTABLISHED** If the application being examined has established that the reference
+ is disqualified as prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** the
+ examiner will:
+ 
+
+
+* (A) examine the applications as to all grounds, except
+ **[pre-AIA 35
+ U.S.C. 102(e), (f) and (g)](mpep-9015-appx-l.html#d0e302383)** including provisional
+ rejections based on provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)**, as they apply through **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)**;
+* (B) examine the applications for double patenting, including
+ statutory and nonstatutory double patenting, and make a provisional rejection,
+ if appropriate; and
+* (C) invite the applicant to file a terminal disclaimer to overcome
+ any provisional or actual nonstatutory double patenting rejection, if
+ appropriate (see **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)**).
+
+**III.** **DOUBLE PATENTING REJECTIONS**Commonly owned applications of different inventive entities may be
+ rejected on the ground of double patenting, even if the later filed application
+ claims **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** benefit to the earlier application, subject to the
+ conditions discussed in **[MPEP § 804](s804.html#d0e98894)***et seq.* In addition, double patenting rejection may arise as a
+ result of the amendment to **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** by the
+ CREATE Act (Public Law 108-453, 118 Stat. 3596 (2004)). Congress recognized that this
+ amendment to **[35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** would result in situations in which there would
+ be double patenting rejections between applications not owned by the same party (see
+ H.R. Rep. No. 108-425, at 5-6 (2003). For purposes of double patenting analysis, the
+ application or patent and the subject matter disqualified under **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)** as amended by the CREATE Act will be treated as if
+ commonly owned.
+ 
+
+
+A rejection based on a pending application would be a provisional
+ rejection. The practice of rejecting claims on the ground of double patenting in
+ commonly owned applications of different inventive entities is in accordance with
+ existing case law and prevents an organization from obtaining two or more patents
+ with different expiration dates covering nearly identical subject matter. See
+ **[MPEP §
+ 804](s804.html#d0e98894)** for guidance on double patenting issues. In accordance
+ with established patent law doctrines, double patenting rejections can be overcome
+ in certain circumstances by disclaiming, pursuant to the existing provisions of
+ **[37 CFR
+ 1.321](mpep-9020-appx-r.html#d0e326459)**, the terminal portion of the term of the later patent and
+ including in the disclaimer a provision that the patent shall be enforceable only for
+ and during the period the patent is commonly owned with the application or patent
+ which formed the basis for the rejection, thereby eliminating the problem
+ of extending patent life. For a double patenting rejection based on a non-commonly
+ owned patent (treated as if commonly owned pursuant to the CREATE Act), the double
+ patenting rejection may be obviated by filing a terminal disclaimer in accordance
+ with **[37 CFR
+ 1.321(d)](mpep-9020-appx-r.html#d0e326459)**. See **[MPEP §§ 804](s804.html#d0e98894)**, **[804.02](s804.html#d0e101356)** and
+ **[1490](s1490.html#d0e146976)**, subsection VI.
+ 
+
+
+
+# 2146.03(a) Provisional Rejection (Obviousness) Under 35
+ U.S.C. 103 Using Provisional Prior Art Under Pre-AIA 35 U.S.C. 102(e) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is
+ not applicable to applications subject to examination under the first inventor to
+ file provisions of the AIA as explained in **[35 U.S.C. 100
+ (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §
+ 2154](s2154.html#ch2100_d20033_274f5_338)** et seq. for the examination of applications subject
+ to the first inventor to file provisions of the AIA involving, inter alia,
+ rejections based on U.S. patent documents.]*
+
+
+Where two applications of different inventive entities are copending,
+ not published under **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303063)**, and the filing dates differ, a provisional
+ rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302383)** based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** should be made in the later filed application
+ unless the application has been excluded under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. See
+ **[MPEP
+ § 2146.03](s2146.html#ch2100_d2c184_127cc_34b)** for examination procedure with respect to
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. See also **[MPEP § 2136.01](s2136.html#d0e205680)** for examination
+ procedure in determining when provisional rejections are appropriate. Otherwise the
+ confidential status of unpublished application, or any part thereof, under
+ **[35 U.S.C.
+ 122](mpep-9015-appx-l.html#d0e303054)** must be maintained. Such a rejection alerts the applicant
+ that the applicant can expect an actual rejection on the same ground if one of the
+ applications issues and also lets applicant know that action must be taken to avoid
+ the rejection.
+ 
+
+
+This gives applicant the opportunity to analyze the propriety of the
+ rejection and possibly avoid the loss of rights to desired subject matter.
+ Provisional rejections of the obviousness type under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302383)** based on provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** are rejections applied to copending applications having
+ different effective filing dates wherein each application has a common assignee or a
+ common inventor. The earlier filed application, if patented or published, would
+ constitute prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**. The
+ rejection can be overcome by: 
+ 
+
+
+* (A) Arguing patentability over the earlier filed application;
+* (B) Combining the subject matter of the copending applications into
+ a single application claiming benefit under **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** of the prior applications and abandoning the
+ copending applications (Note that a claim in a subsequently filed application
+ that relies on a combination of prior applications may not be entitled to the
+ benefit of an earlier filing date under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** if the
+ earlier filed application does not contain a disclosure which complies with
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** for the claim in the subsequently filed application.
+ *Studiengesellschaft Kohle m.b.H. v. Shell Oil Co.,* 112
+ F.3d 1561, 42 USPQ2d 1674 (Fed. Cir. 1997).);
+* (C) Filing an affidavit or declaration under **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** showing that any unclaimed invention disclosed in
+ the copending application was derived from the inventor of the other
+ application and is thus not invention "by another" (see **[MPEP §§
+ 715.01(a)](s715.html#d0e90674)**, **[715.01(c)](s715.html#d0e90779)**, and
+ **[716.10](s716.html#d0e93797)**);
+* (D) Filing an affidavit or declaration under **[37 CFR
+ 1.131(a)](mpep-9020-appx-r.html#aia_d0e323504)** showing a date of invention prior to the
+ effective U.S. filing date of the copending application. See
+ **[MPEP
+ § 715](s715.html#d0e89737)**; or
+* (E) For an application that is pending on or after December 10,
+ 2004, a showing that (1) the prior art and the claimed invention were, at the
+ time the invention was made, owned by the same person or subject to an
+ obligation of assignment to the same person, or (2) the subject matter is
+ disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**
+ (i.e., joint research agreement disqualification).
+
+
+Where the applications are claiming interfering subject matter as
+ defined in **[37 CFR
+ 41.203(a)](mpep-9020-appx-r.html#d0e359662)**, a terminal disclaimer and an affidavit or
+ declaration under **[37 CFR 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** may be used to
+ overcome a rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** in a common
+ ownership situation if the earlier filed application has been published or matured
+ into a patent. See **[MPEP
+ § 718](s718.html#d0e93900)**. 
+ 
+
+
+If a provisional rejection is made and the copending applications are
+ combined into a single application and the resulting single application is subject to
+ a restriction requirement, the divisional application would not be subject to a
+ provisional or actual rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** since the
+ provisions of **[35
+ U.S.C. 121](mpep-9015-appx-l.html#d0e303040)** preclude the use of a patent issuing therefrom as a
+ reference against the other application. Additionally, the resulting
+ continuation-in-part is entitled to **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** benefit of each of
+ the prior applications. This is illustrated in Example 2, below.
+ 
+
+
+The following examples are illustrative of the application of 35
+ U.S.C. 103 in applications filed prior to November 29, 1999 for which a patent was
+ granted prior to December 10, 2004:
+ 
+
+
+
+***Example 1.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and later files
+ application. 
+  | This is permissible. |
+| 2. B modifies X to XY. B files
+ application before A’s filing. 
+  | No **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)**; provisional
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection made in A’s later-filed application based on B’s application as
+ provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)**. Provisional double patenting rejection
+ made. 
+  |
+| 3. B’s patent issues. | A’s claims rejected over B’s patent under
+ **[35
+ U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** and double
+ patenting.
+  |
+| 4. A files **[37 CFR
+ 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** affidavit to disqualify B’s patent as
+ prior art where interfering subject matter as defined in
+ **[37
+ CFR 41.203(a)](mpep-9020-appx-r.html#d0e359662)** is being claimed. Terminal disclaimer
+ filed under **[37 CFR 1.321(c)](mpep-9020-appx-r.html#aia_d0e326532)**. 
+  | Rejection under **[35
+ U.S.C.103](mpep-9015-appx-l.html#d0e302450)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** may be overcome and
+ double patenting rejection may be overcome if inventions X and XY are
+ commonly owned and all requirements of **[37 CFR
+ 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** and **[1.321](mpep-9020-appx-r.html#aia_d0e326459)** are met.
+  |
+
+
+In situation (2.) above, the result is a
+ provisional rejection under **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** made in the later-filed application based on provisional
+ prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. The rejection is provisional since
+ the subject matter and the prior art are pending applications. 
+ 
+
+
+
+***Example 2.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files application establishing that A and B were
+ both under obligation to assign inventions to C at the time the
+ inventions were made. 
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection made in B’s later-filed application
+ based on A’s application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** made; provisional double patenting rejection
+ made; no **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)** or **[102(g)](mpep-9015-appx-l.html#d0e302424)** made. 
+  |
+| 3. A and B jointly file continuing
+ application claiming priority to both their earlier applications and
+ abandon the earlier applications.
+  | Assume it is proper that restriction be
+ required between X and XY.
+  |
+| 4. X is elected, a patent issues on X,
+ and a divisional application is timely filed on XY. 
+  | No rejection of divisional application
+ under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** in view of
+ **[35
+ U.S.C. 121](mpep-9015-appx-l.html#d0e303040)**.
+  |
+
+
+The following examples are illustrative of rejections under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** in applications that are pending on or after December
+ 10, 2004:
+ 
+
+
+
+***Example 3.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ Employee A’s application, which is pending on or after December 10, 2004, is being
+ examined.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and later files
+ application.
+  | This is permissible. |
+| 2. B modifies X to XY. B files
+ application before A’s filing. A files an application on invention
+ X.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection of A’s later-filed application based
+ on B’s application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** and a provisional double patenting rejection
+ are made.
+  |
+| 3. B’s patent issues. | A’s claims are rejected under
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** based
+ on B’s patent under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** and double patenting.
+  |
+| 4. A files evidence of common ownership
+ of inventions X and XY at the time invention XY was made to disqualify
+ B’s patent as prior art. In addition, A files a terminal disclaimer under
+ **[37
+ CFR 1.321(c)](mpep-9020-appx-r.html#d0e326459)**.
+  | Rejection of A’s claims under
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** based
+ on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** will be withdrawn and double patenting
+ rejection will be obviated if inventions X and XY are commonly owned at
+ the time invention XY was made and all requirements of **[37 CFR
+ 1.321](mpep-9020-appx-r.html#d0e326459)** are met.
+  |
+
+
+In situation (2.) above, the result is a
+ provisional rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ made in the later-filed application based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** (the earlier-filed application). The rejection is
+ provisional since the subject matter and the prior art are pending applications. 
+ 
+
+
+
+***Example 4.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ Employee B’s application, which is pending on or after December 10, 2004, is being
+ examined.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files evidence in B’s application establishing
+ that A and B were both under obligation to assign inventions to C at the
+ time the invention XY was made.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection of B’s claims based on A’s
+ application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** cannot be made; provisional double patenting
+ rejection is made; no **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)** is
+ made.
+  |
+| 3. B files a terminal disclaimer under
+ **[37
+ CFR 1.321(c)](mpep-9020-appx-r.html#d0e326459)**.
+  | The provisional double patenting
+ rejection made in B’s application would be obviated if all requirements
+ of **[37
+ CFR 1.321](mpep-9020-appx-r.html#d0e326459)** are met.
+  |
+
+
+
+***Example 5.*** Assumption: Employee A works for assignee I and Employee B works for
+ assignee J. There is a joint research agreement, pursuant to **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, between assignees I and J. Employees A and B each
+ filed an application as set forth below. Employee B’s invention claimed in his
+ application was made after the joint research agreement was entered into, and it
+ was made as a result of activities undertaken within the scope of the joint
+ agreement. Employee B’s application discloses assignees I and J as the parties to
+ the joint research agreement. Employee B’s application, which is pending on or
+ after December 10, 2004, is being examined.
+ 
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files evidence in B’s application establishing
+ a joint research agreement in compliance with **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302383)** rejection of B’s claims based on A’s
+ application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** cannot be made; provisional double
+ patenting rejection is made; no **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection based on prior art under
+ **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** or **[35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** made. 
+  |
+| 3. B files a terminal disclaimer under
+ **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)**.
+  | The provisional double patenting
+ rejection made in B’s application would be obviated if all
+ requirements of **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)** are
+ met.
+  |
+
+
+
+
+, 
+# 2146.03(a) Provisional Rejection (Obviousness) Under 35
+ U.S.C. 103 Using Provisional Prior Art Under Pre-AIA 35 U.S.C. 102(e) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is
+ not applicable to applications subject to examination under the first inventor to
+ file provisions of the AIA as explained in **[35 U.S.C. 100
+ (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §
+ 2154](s2154.html#ch2100_d20033_274f5_338)** et seq. for the examination of applications subject
+ to the first inventor to file provisions of the AIA involving, inter alia,
+ rejections based on U.S. patent documents.]*
+
+
+Where two applications of different inventive entities are copending,
+ not published under **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303063)**, and the filing dates differ, a provisional
+ rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302383)** based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** should be made in the later filed application
+ unless the application has been excluded under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. See
+ **[MPEP
+ § 2146.03](s2146.html#ch2100_d2c184_127cc_34b)** for examination procedure with respect to
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)**. See also **[MPEP § 2136.01](s2136.html#d0e205680)** for examination
+ procedure in determining when provisional rejections are appropriate. Otherwise the
+ confidential status of unpublished application, or any part thereof, under
+ **[35 U.S.C.
+ 122](mpep-9015-appx-l.html#d0e303054)** must be maintained. Such a rejection alerts the applicant
+ that the applicant can expect an actual rejection on the same ground if one of the
+ applications issues and also lets applicant know that action must be taken to avoid
+ the rejection.
+ 
+
+
+This gives applicant the opportunity to analyze the propriety of the
+ rejection and possibly avoid the loss of rights to desired subject matter.
+ Provisional rejections of the obviousness type under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302383)** based on provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** are rejections applied to copending applications having
+ different effective filing dates wherein each application has a common assignee or a
+ common inventor. The earlier filed application, if patented or published, would
+ constitute prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**. The
+ rejection can be overcome by: 
+ 
+
+
+* (A) Arguing patentability over the earlier filed application;
+* (B) Combining the subject matter of the copending applications into
+ a single application claiming benefit under **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** of the prior applications and abandoning the
+ copending applications (Note that a claim in a subsequently filed application
+ that relies on a combination of prior applications may not be entitled to the
+ benefit of an earlier filing date under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** if the
+ earlier filed application does not contain a disclosure which complies with
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** for the claim in the subsequently filed application.
+ *Studiengesellschaft Kohle m.b.H. v. Shell Oil Co.,* 112
+ F.3d 1561, 42 USPQ2d 1674 (Fed. Cir. 1997).);
+* (C) Filing an affidavit or declaration under **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** showing that any unclaimed invention disclosed in
+ the copending application was derived from the inventor of the other
+ application and is thus not invention "by another" (see **[MPEP §§
+ 715.01(a)](s715.html#d0e90674)**, **[715.01(c)](s715.html#d0e90779)**, and
+ **[716.10](s716.html#d0e93797)**);
+* (D) Filing an affidavit or declaration under **[37 CFR
+ 1.131(a)](mpep-9020-appx-r.html#aia_d0e323504)** showing a date of invention prior to the
+ effective U.S. filing date of the copending application. See
+ **[MPEP
+ § 715](s715.html#d0e89737)**; or
+* (E) For an application that is pending on or after December 10,
+ 2004, a showing that (1) the prior art and the claimed invention were, at the
+ time the invention was made, owned by the same person or subject to an
+ obligation of assignment to the same person, or (2) the subject matter is
+ disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**
+ (i.e., joint research agreement disqualification).
+
+
+Where the applications are claiming interfering subject matter as
+ defined in **[37 CFR
+ 41.203(a)](mpep-9020-appx-r.html#d0e359662)**, a terminal disclaimer and an affidavit or
+ declaration under **[37 CFR 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** may be used to
+ overcome a rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** in a common
+ ownership situation if the earlier filed application has been published or matured
+ into a patent. See **[MPEP
+ § 718](s718.html#d0e93900)**. 
+ 
+
+
+If a provisional rejection is made and the copending applications are
+ combined into a single application and the resulting single application is subject to
+ a restriction requirement, the divisional application would not be subject to a
+ provisional or actual rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** since the
+ provisions of **[35
+ U.S.C. 121](mpep-9015-appx-l.html#d0e303040)** preclude the use of a patent issuing therefrom as a
+ reference against the other application. Additionally, the resulting
+ continuation-in-part is entitled to **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** benefit of each of
+ the prior applications. This is illustrated in Example 2, below.
+ 
+
+
+The following examples are illustrative of the application of 35
+ U.S.C. 103 in applications filed prior to November 29, 1999 for which a patent was
+ granted prior to December 10, 2004:
+ 
+
+
+
+***Example 1.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and later files
+ application. 
+  | This is permissible. |
+| 2. B modifies X to XY. B files
+ application before A’s filing. 
+  | No **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)**; provisional
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection made in A’s later-filed application based on B’s application as
+ provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)**. Provisional double patenting rejection
+ made. 
+  |
+| 3. B’s patent issues. | A’s claims rejected over B’s patent under
+ **[35
+ U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** and double
+ patenting.
+  |
+| 4. A files **[37 CFR
+ 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** affidavit to disqualify B’s patent as
+ prior art where interfering subject matter as defined in
+ **[37
+ CFR 41.203(a)](mpep-9020-appx-r.html#d0e359662)** is being claimed. Terminal disclaimer
+ filed under **[37 CFR 1.321(c)](mpep-9020-appx-r.html#aia_d0e326532)**. 
+  | Rejection under **[35
+ U.S.C.103](mpep-9015-appx-l.html#d0e302450)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** may be overcome and
+ double patenting rejection may be overcome if inventions X and XY are
+ commonly owned and all requirements of **[37 CFR
+ 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** and **[1.321](mpep-9020-appx-r.html#aia_d0e326459)** are met.
+  |
+
+
+In situation (2.) above, the result is a
+ provisional rejection under **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** made in the later-filed application based on provisional
+ prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. The rejection is provisional since
+ the subject matter and the prior art are pending applications. 
+ 
+
+
+
+***Example 2.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files application establishing that A and B were
+ both under obligation to assign inventions to C at the time the
+ inventions were made. 
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection made in B’s later-filed application
+ based on A’s application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** made; provisional double patenting rejection
+ made; no **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)** or **[102(g)](mpep-9015-appx-l.html#d0e302424)** made. 
+  |
+| 3. A and B jointly file continuing
+ application claiming priority to both their earlier applications and
+ abandon the earlier applications.
+  | Assume it is proper that restriction be
+ required between X and XY.
+  |
+| 4. X is elected, a patent issues on X,
+ and a divisional application is timely filed on XY. 
+  | No rejection of divisional application
+ under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302383)** based on prior art under
+ **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** in view of
+ **[35
+ U.S.C. 121](mpep-9015-appx-l.html#d0e303040)**.
+  |
+
+
+The following examples are illustrative of rejections under
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** based on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** in applications that are pending on or after December
+ 10, 2004:
+ 
+
+
+
+***Example 3.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ Employee A’s application, which is pending on or after December 10, 2004, is being
+ examined.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and later files
+ application.
+  | This is permissible. |
+| 2. B modifies X to XY. B files
+ application before A’s filing. A files an application on invention
+ X.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection of A’s later-filed application based
+ on B’s application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** and a provisional double patenting rejection
+ are made.
+  |
+| 3. B’s patent issues. | A’s claims are rejected under
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** based
+ on B’s patent under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** and double patenting.
+  |
+| 4. A files evidence of common ownership
+ of inventions X and XY at the time invention XY was made to disqualify
+ B’s patent as prior art. In addition, A files a terminal disclaimer under
+ **[37
+ CFR 1.321(c)](mpep-9020-appx-r.html#d0e326459)**.
+  | Rejection of A’s claims under
+ **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** based
+ on prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** will be withdrawn and double patenting
+ rejection will be obviated if inventions X and XY are commonly owned at
+ the time invention XY was made and all requirements of **[37 CFR
+ 1.321](mpep-9020-appx-r.html#d0e326459)** are met.
+  |
+
+
+In situation (2.) above, the result is a
+ provisional rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**
+ made in the later-filed application based on provisional prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** (the earlier-filed application). The rejection is
+ provisional since the subject matter and the prior art are pending applications. 
+ 
+
+
+
+***Example 4.*** Assumption: Employees A and B work for C, each with knowledge of the
+ other’s work, and with obligation to assign inventions to C while employed.
+ Employee B’s application, which is pending on or after December 10, 2004, is being
+ examined.
+ 
+
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files evidence in B’s application establishing
+ that A and B were both under obligation to assign inventions to C at the
+ time the invention XY was made.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection of B’s claims based on A’s
+ application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** cannot be made; provisional double patenting
+ rejection is made; no **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**
+ rejection based on prior art under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** or **[102(g)](mpep-9015-appx-l.html#d0e302383)** is
+ made.
+  |
+| 3. B files a terminal disclaimer under
+ **[37
+ CFR 1.321(c)](mpep-9020-appx-r.html#d0e326459)**.
+  | The provisional double patenting
+ rejection made in B’s application would be obviated if all requirements
+ of **[37
+ CFR 1.321](mpep-9020-appx-r.html#d0e326459)** are met.
+  |
+
+
+
+***Example 5.*** Assumption: Employee A works for assignee I and Employee B works for
+ assignee J. There is a joint research agreement, pursuant to **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**, between assignees I and J. Employees A and B each
+ filed an application as set forth below. Employee B’s invention claimed in his
+ application was made after the joint research agreement was entered into, and it
+ was made as a result of activities undertaken within the scope of the joint
+ agreement. Employee B’s application discloses assignees I and J as the parties to
+ the joint research agreement. Employee B’s application, which is pending on or
+ after December 10, 2004, is being examined.
+ 
+
+
+
+
+| **SITUATIONS** | **RESULTS** |
+| --- | --- |
+| 1. A invents X and files application.  | This is permissible. |
+| 2. B modifies X to XY after A’s
+ application is filed. B files evidence in B’s application establishing
+ a joint research agreement in compliance with **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302450)**.
+  | Provisional **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302383)** rejection of B’s claims based on A’s
+ application as provisional prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** cannot be made; provisional double
+ patenting rejection is made; no **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection based on prior art under
+ **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** or **[35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** made. 
+  |
+| 3. B files a terminal disclaimer under
+ **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)**.
+  | The provisional double patenting
+ rejection made in B’s application would be obviated if all
+ requirements of **[37 CFR 1.321](mpep-9020-appx-r.html#d0e326459)** are
+ met.
+  |
+
+
+
+]

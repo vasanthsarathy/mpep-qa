@@ -1,0 +1,197 @@
+[
+# 2126 Availability of a Document as a "Patent" for Purposes of Rejection
+ Under 35 U.S.C. 102(a) or Pre-AIA 35 U.S.C. 102(a), (b), and (d) [R-08.2017]
+
+**I.** **THE NAME "PATENT" ALONE DOES NOT MAKE A DOCUMENT AVAILABLE AS A PRIOR ART PATENT
+ UNDER 35 U.S.C. 102(a) or Pre-AIA 35 U.S.C. 102(a) OR (b)**What a foreign country designates to be a patent may not be a patent
+ for purposes of rejection under **[35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or
+ **[pre-AIA 35 U.S.C.
+ 102(a) and (b)](mpep-9015-appx-l.html#d0e302383)**; it is the substance of the rights conferred and
+ the way information within the "patent" is controlled that is determinative. *In
+ re Ekenstam,* 256 F.2d 321, 118 USPQ 349 (CCPA 1958). See the next
+ subsection for further explanation with respect to when a document can be applied in a
+ rejection as a "patent." See **[MPEP § 2135.01](s2135.html#d0e205339)** for a further discussion
+ of the use of "patents" in **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**
+ rejections.
+ 
+
+**II.** **A SECRET PATENT IS NOT AVAILABLE AS A REFERENCE UNDER 35 U.S.C. 102(a) or Pre-AIA
+ 35 U.S.C. 102(a) or (b) UNTIL IT IS AVAILABLE TO THE PUBLIC BUT IT MAY BE AVAILABLE
+ UNDER Pre-AIA 35 U.S.C. 102(d) AS OF GRANT DATE** Secret patents are defined as patents which are insufficiently
+ accessible to the public to constitute "printed publications." Decisions on the issue of
+ what is sufficiently accessible to be a "printed publication" are located in
+ **[MPEP §
+ 2128](s2128.html#d0e202564)** - **[MPEP § 2128.01](s2128.html#d0e202706)**.
+ 
+
+
+Even if a patent grants an exclusionary right (is enforceable), it is
+ not available as prior art under **[35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or
+ **[pre-AIA 35 U.S.C.
+ 102(a) or (b)](mpep-9015-appx-l.html#d0e302383)** if it is secret or private. *In re
+ Carlson,* 983 F.2d 1032, 1037, 25 USPQ2d 1207, 1211 (Fed. Cir. 1992). The
+ document must be at least minimally available to the public to constitute prior art. The
+ patent is sufficiently available to the public for the purposes of **[35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or **[pre-AIA 35 U.S.C. 102(a) or (b)](mpep-9015-appx-l.html#d0e302383)** if
+ it is laid open for public inspection or disseminated in printed form. See, e.g.,
+ *In re Carlson,* 983 F.2d at 1037, 25 USPQ2d at 1211 ("We recognize
+ that  *Geschmacksmuster* on display for public view in remote cities in
+ a far-away land may create a burden of discovery for one without the time, desire, or
+ resources to journey there in person or by agent to observe that which was registered
+ under German law. Such a burden, however, is by law imposed upon the hypothetical person
+ of ordinary skill in the art who is charged with knowledge of all contents of the
+ relevant prior art."). The date that the patent is made available to the public is the
+ date it is available as a **[35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or
+ **[pre-AIA 35 U.S.C.
+ 102(a) or (b)](mpep-9015-appx-l.html#d0e302383)** reference. *In re Ekenstam,* 256
+ F.2d 321, 118 USPQ 349 (CCPA 1958). But a period of secrecy after granting the patent
+ has been held to have no effect in connection with **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**. These
+ patents are usable in rejections under **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** as of the
+ date patent rights are granted. *In re Kathawala,* 9 F.3d 942, 946, 28
+ USPQ2d 1785, 1788-89 (Fed. Cir. 1993). See **[MPEP § 2135](s2135.html#d0e205278)** - **[MPEP § 2135.01](s2135.html#d0e205339)** for
+ more information on **[pre-AIA 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)**. 
+ 
+
+
+
+# 2126.01 Date of Availability of a Patent as a Reference [R-11.2013]
+
+**DATE FOREIGN PATENT IS EFFECTIVE AS A REFERENCE IS
+ USUALLY THE DATE PATENT RIGHTS ARE FORMALLY AWARDED TO
+ ITS APPLICANT** The date the patent is available as a reference is generally the
+ date that the patent becomes enforceable. This date is the date the sovereign
+ formally bestows patents rights to the applicant. *In re Monks,* 588
+ F.2d 308, 200 USPQ 129 (CCPA 1978). There is an exception to this rule when the
+ patent is secret as of the date the rights are awarded. *In re
+ Ekenstam,* 256 F.2d 321, 118 USPQ 349 (CCPA 1958). 
+ 
+
+
+Note that **[MPEP § 901.05](s901.html#d0e110750)** summarizes in tabular
+ form dates of patenting for many foreign patents. For a list of cases that discuss
+ the date of patenting countries for purposes of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** in
+ particular, see *Chisum,* Patents § 3.06[4] n.2.
+ 
+
+
+
+
+# 2126.02 Scope of Reference’s Disclosure Which Can Be Used to Reject
+ Claims When the Reference Is a "Patent" but Not a "Publication" [R-11.2013]
+
+**OFTEN UNCLAIMED DETAILS FOUND IN THE PATENT SPECIFICATION CAN BE RELIED ON EVEN
+ IF PATENT IS SECRET**When the patented document is used as a patent and not as a
+ publication, the examiner is not restricted to the information conveyed by the patent
+ claims but may use any information provided in the specification which relates to the
+ subject matter of the patented claims when making a rejection under **[35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or **[pre-AIA 35 U.S.C. 102(a), (b) or
+ (d)](mpep-9015-appx-l.html#d0e302383)**. *Ex parte Ovist,* 152 USPQ 709, 710 (Bd.
+ App. 1963) (The claim of an Italian patent was generic and thus embraced the species
+ disclosed in the examples, the Board added that the entire specification was germane
+ to the claimed invention and upheld the examiner’s **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302383)** rejection.); *In re Kathawala,* 9 F.3d
+ 942, 28 USPQ2d 1785 (Fed. Cir. 1993) (The claims at issue were rejected under
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** by applicant’s own parent applications in
+ Greece and Spain. The applicant argued that the "invention ... patented in Spain was
+ not the same ‘invention’ claimed in the U.S. application because the Spanish patent
+ claimed processes for making [compounds for inhibition of cholesterol biosynthesis]
+ and claims 1 and 2 were directed to the compounds themselves." *Id.*
+ at 944, 28 USPQ2d at 1786. The Federal Circuit held that "when an applicant files a
+ foreign application fully disclosing his invention and having the potential to claim
+ his invention in a number of ways, the reference in **[section 102(d)](mpep-9015-appx-l.html#d0e302403)**
+ to ‘invention ... patented’ necessarily includes all disclosed aspects of the
+ invention." *Id.* at 945-46, 28 USPQ2d at 1789.).
+ 
+
+
+Note that *In re Fuge,* 272 F.2d 954, 957, 124 USPQ
+ 105, 107 (CCPA 1959), does not conflict with the above decisions. This decision
+ simply states "that, at the least, the scope of the patent
+ embraces everything included in the [claim]." (emphasis added). 
+ 
+
+
+The courts have interpreted the phrase "invention ... patented" in
+ **[pre-AIA 35
+ U.S.C. 102(a), (b), and (d)](mpep-9015-appx-l.html#d0e302383)** the same way and have cited
+ decisions without regard to which of these subsections of **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** was at issue in the particular case at hand. Therefore, it
+ does not seem to matter to which subsection of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** the cases
+ are directed; the court decisions are interchangeable as to this issue. 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2126.01 Date of Availability of a Patent as a Reference [R-11.2013]
+
+**DATE FOREIGN PATENT IS EFFECTIVE AS A REFERENCE IS
+ USUALLY THE DATE PATENT RIGHTS ARE FORMALLY AWARDED TO
+ ITS APPLICANT** The date the patent is available as a reference is generally the
+ date that the patent becomes enforceable. This date is the date the sovereign
+ formally bestows patents rights to the applicant. *In re Monks,* 588
+ F.2d 308, 200 USPQ 129 (CCPA 1978). There is an exception to this rule when the
+ patent is secret as of the date the rights are awarded. *In re
+ Ekenstam,* 256 F.2d 321, 118 USPQ 349 (CCPA 1958). 
+ 
+
+
+Note that **[MPEP § 901.05](s901.html#d0e110750)** summarizes in tabular
+ form dates of patenting for many foreign patents. For a list of cases that discuss
+ the date of patenting countries for purposes of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** in
+ particular, see *Chisum,* Patents § 3.06[4] n.2.
+ 
+
+
+, 
+# 2126.02 Scope of Reference’s Disclosure Which Can Be Used to Reject
+ Claims When the Reference Is a "Patent" but Not a "Publication" [R-11.2013]
+
+**OFTEN UNCLAIMED DETAILS FOUND IN THE PATENT SPECIFICATION CAN BE RELIED ON EVEN
+ IF PATENT IS SECRET**When the patented document is used as a patent and not as a
+ publication, the examiner is not restricted to the information conveyed by the patent
+ claims but may use any information provided in the specification which relates to the
+ subject matter of the patented claims when making a rejection under **[35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or **[pre-AIA 35 U.S.C. 102(a), (b) or
+ (d)](mpep-9015-appx-l.html#d0e302383)**. *Ex parte Ovist,* 152 USPQ 709, 710 (Bd.
+ App. 1963) (The claim of an Italian patent was generic and thus embraced the species
+ disclosed in the examples, the Board added that the entire specification was germane
+ to the claimed invention and upheld the examiner’s **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302383)** rejection.); *In re Kathawala,* 9 F.3d
+ 942, 28 USPQ2d 1785 (Fed. Cir. 1993) (The claims at issue were rejected under
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#d0e302383)** by applicant’s own parent applications in
+ Greece and Spain. The applicant argued that the "invention ... patented in Spain was
+ not the same ‘invention’ claimed in the U.S. application because the Spanish patent
+ claimed processes for making [compounds for inhibition of cholesterol biosynthesis]
+ and claims 1 and 2 were directed to the compounds themselves." *Id.*
+ at 944, 28 USPQ2d at 1786. The Federal Circuit held that "when an applicant files a
+ foreign application fully disclosing his invention and having the potential to claim
+ his invention in a number of ways, the reference in **[section 102(d)](mpep-9015-appx-l.html#d0e302403)**
+ to ‘invention ... patented’ necessarily includes all disclosed aspects of the
+ invention." *Id.* at 945-46, 28 USPQ2d at 1789.).
+ 
+
+
+Note that *In re Fuge,* 272 F.2d 954, 957, 124 USPQ
+ 105, 107 (CCPA 1959), does not conflict with the above decisions. This decision
+ simply states "that, at the least, the scope of the patent
+ embraces everything included in the [claim]." (emphasis added). 
+ 
+
+
+The courts have interpreted the phrase "invention ... patented" in
+ **[pre-AIA 35
+ U.S.C. 102(a), (b), and (d)](mpep-9015-appx-l.html#d0e302383)** the same way and have cited
+ decisions without regard to which of these subsections of **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** was at issue in the particular case at hand. Therefore, it
+ does not seem to matter to which subsection of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** the cases
+ are directed; the court decisions are interchangeable as to this issue. 
+ 
+
+
+]

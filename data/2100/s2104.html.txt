@@ -1,0 +1,249 @@
+[
+# 2104 Requirements of 35 U.S.C. 101 [R-10.2019]
+
+
+Patents are not granted for all new and useful inventions and discoveries.
+ For example, the subject matter of the invention or discovery must come within the
+ boundaries set forth by **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, which permits a patent to be granted only for "any
+ new and useful process, machine, manufacture, or composition of matter, or any new and
+ useful improvement thereof."
+ 
+
+
+
+#### *35 U.S.C. 101   
+ Inventions patentable*
+
+
+Whoever invents or discovers any new and useful process, machine,
+ manufacture, or composition of matter, or any new and useful improvement thereof, may
+ obtain a patent therefor, subject to the conditions and requirements of this title.
+ 
+
+
+
+**[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** has been interpreted as imposing four requirements, which are
+ described below. 
+ 
+
+**I.** **DOUBLE PATENTING PROHIBITED** **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** requires that whoever
+ invents or discovers an eligible invention may obtain only ONE patent therefor. Thus it
+ prevents two patents issuing on the same invention to the same applicant. The "same
+ invention" means that identical subject matter is being claimed. This requirement forms
+ the basis for statutory double patenting rejections. If more than one patent is sought,
+ a patent applicant will receive a statutory double patenting rejection for claims
+ included in more than one application that are directed to the same invention. 
+ 
+
+
+See **[MPEP § 804](s804.html#d0e98894)** for a full discussion of the
+ prohibition against double patenting. Use form paragraphs **[8.30](#fp8.30)**,
+ **[8.31](#fp8.31)** and **[8.32](#fp8.32)** for
+ statutory double patenting rejections. 
+ 
+
+**II.** **NAMING OF INVENTOR**The inventor(s) must be the applicant in an application
+ filed before September 16, 2012, (except as otherwise provided in **[pre-AIA 37 CFR
+ 1.41(b)](mpep-9020-appx-r.html#d0e317757)**) and the inventor or each joint inventor must be
+ identified in an application filed on or after September 16, 2012. See
+ **[MPEP §
+ 2109](s2109.html#ch2100_d2c183_22374_28b)** for a detailed discussion of inventorship and
+ **[MPEP §
+ 602.01(c)](s602.html#d0e4830ss602)***et seq.* for details regarding correction of inventorship.
+ 
+
+
+In the rare situation where it is clear the application
+ does not name the correct inventorship and the applicant has not filed a request to
+ correct inventorship under **[37 CFR 1.48](mpep-9020-appx-r.html#d0e317930)**, the examiner should
+ reject the claims under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[115](mpep-9015-appx-l.html#d0e302875912)** for
+ applications subject to **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** (see
+ **[MPEP §
+ 2157](s2157.html#ch2100_d20034_1bb92_e7)**) or under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** for
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** (see
+ **[MPEP §
+ 2137](s2137.html#d0e206570)**).
+ 
+
+**III.** **SUBJECT MATTER
+ ELIGIBILITY**A claimed invention must be eligible for patenting. As
+ explained in **[MPEP §
+ 2106](s2106.html#d0e197244)**, there are two criteria for determining subject matter
+ eligibility: (a) first, a claimed invention must fall within one of the four statutory
+ categories of invention set forth in **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, i.e., process,
+ machine, manufacture, or composition of matter; and (b) second, a claimed invention must
+ be directed to patent-eligible subject matter and not a judicial exception (unless the
+ claim as a whole includes additional limitations amounting to significantly more than
+ the exception). The judicial exceptions are subject matter which courts have found to be
+ outside of, or exceptions to, the four statutory categories of invention, and are
+ limited to abstract ideas, laws of nature and natural phenomena (including products of
+ nature). *Alice Corp. Pty. Ltd. v. CLS Bank Int'l,* 573 U.S. 208, 216,
+ 110 USPQ2d 1976, 1980 (2014) (citing *Association for Molecular Pathology v.
+ Myriad Genetics, Inc.,* 569 U.S. 66, 70, 106 USPQ2d 1972, 1979 (2013)). See
+ also *Bilski v. Kappos,* 561 U.S. 593, 601, 95 USPQ2d 1001, 1005-06
+ (2010) (citing *Diamond v. Chakrabarty,* 447 U.S. 303, 309, 206 USPQ
+ 193, 197 (1980)).
+ 
+
+
+See **[MPEP § 2106](s2106.html#d0e197244)** for a discussion of subject
+ matter eligibility in general, and the analytical framework that is to be used during
+ examination for evaluating whether a claim is drawn to patent-eligible subject matter,
+ **[MPEP §
+ 2106.03](s2106.html#ch2100_d29a1b_139b2_397)** for a discussion of the statutory categories of
+ invention, **[MPEP § 2106.04](s2106.html#ch2100_d29a1b_139db_e0)** for a discussion of the judicial exceptions,
+ and **[MPEP §
+ 2106.05](s2106.html#ch2100_d29a1b_13c11_1cb)** for a discussion of how to evaluate claims directed to
+ a judicial exception for eligibility. See **[MPEP §
+ 2106.07(a)(1)](s2106.html#ch2100_d2c183_20b8d_1b9)** for form paragraphs for use in rejections under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** based on a lack of subject matter eligibility. See also
+ **[MPEP §
+ 2105](s2105.html#d0e197008)** for more information about claiming living subject
+ matter, as well as the Leahy-Smith America Invents Act (AIA)'s prohibition against
+ claiming human organisms.
+ 
+
+
+Eligible subject matter is further limited by the Atomic
+ Energy Act explained in **[MPEP § 2104.01](s2104.html#ch2100_d2c188_18a96_2d4)**, which prohibits patents
+ granted on any invention or discovery that is useful solely in the utilization of
+ special nuclear material or atomic energy in an atomic weapon.
+ 
+
+**IV.** **UTILITY**A claimed invention must be useful or have a utility that
+ is specific, substantial and credible.
+ 
+
+
+A rejection on the ground of lack of utility is appropriate when (1) it
+ is not apparent why the invention is "useful" because applicant has failed to identify
+ any specific and substantial utility and there is no well established utility, or (2) an
+ assertion of specific and substantial utility for the invention is not credible. Such a
+ rejection can include the more specific grounds of inoperativeness, such as inventions
+ involving perpetual motion. A rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** for lack of utility
+ should not be based on grounds that the invention is frivolous,
+ fraudulent or against public policy. See *Juicy Whip Inc. v. Orange Bang
+ Inc.,* 185 F.3d 1364, 1367-68, 51 USPQ2d 1700, 1702-03 (Fed. Cir. 1999)
+ ("[Y]ears ago courts invalidated patents on gambling devices on the ground that they
+ were immoral…, but that is no longer the law…Congress never intended that the patent
+ laws should displace the police powers of the States, meaning by that term those powers
+ by which the health, good order, peace and general welfare of the community are
+ promoted…we find no basis in section 101 to hold that inventions can be ruled
+ unpatentable for lack of utility simply because they have the capacity to fool some
+ members of the public.").
+ 
+
+
+ The statutory basis for this rejection is
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)**. See **[MPEP § 2107](s2107.html#d0e198469)** for guidelines governing
+ rejections for lack of utility. See **[MPEP §§ 2107.01](s2107.html#d0e198682)** - **[2107.03](s2107.html#d0e200058)** for legal
+ precedent governing the utility requirement. See **[MPEP § 2107.02](s2107.html#d0e199419)**, subsection IV, for form
+ paragraphs to be used to reject claims under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** for failure to satisfy
+ the utility requirement.
+ 
+
+
+
+# 2104.01 Barred by Atomic Energy Act [R-10.2019]
+
+
+A limitation on what can be patented is imposed by the Atomic Energy Act
+ of 1954. Section 151(a) (42 U.S.C. 2181(a)) thereof reads in part as follows:
+ 
+
+
+No patent shall hereafter be granted for any invention or discovery
+ which is useful solely in the utilization of special nuclear material or atomic energy
+ in an atomic weapon. 
+ 
+
+
+The terms "atomic energy" and "special nuclear material" are defined in
+ Section 11 of the Act (42 U.S.C. 2014).
+ 
+
+
+Sections 151(c) and 151(d) (42 U.S.C. 2181(c) and (d)) set up categories
+ of pending applications relating to atomic energy that must be brought to the attention
+ of the Department of Energy. Under **[37 CFR 1.14(d)](mpep-9020-appx-r.html#d0e314245)**, applications for
+ patents which disclose or which appear to disclose, or which purport to disclose,
+ inventions or discoveries relating to atomic energy are reported to the Department of
+ Energy and the Department will be given access to such applications, but such reporting
+ does not constitute a determination that the subject matter of each application so
+ reported is in fact useful or an invention or discovery or that such application in fact
+ discloses subject matter in categories specified by the Atomic Energy Act.
+ 
+
+
+All applications received in the U.S. Patent and Trademark Office are
+ screened by Technology Center (TC) work group 3640 personnel, under **[37 CFR 1.14(d)](mpep-9020-appx-r.html#d0e314245)**, in
+ order for the Director to fulfill his or her responsibilities under section 151(d) (42
+ U.S.C. 2181(d)) of the Atomic Energy Act. Papers subsequently added must be inspected
+ promptly by the examiner when received to determine whether the application has been
+ amended to relate to atomic energy and those so related must be promptly forwarded to
+ Licensing and Review in TC work group 3640.
+ 
+
+
+All rejections based upon sections 151(a) (42 U.S.C. 2181(a)), 152 (42
+ U.S.C. 2182), and 155 (42 U.S.C. 2185) of the Atomic Energy Act must be made only by TC
+ work group 3640 personnel.
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2104.01 Barred by Atomic Energy Act [R-10.2019]
+
+
+A limitation on what can be patented is imposed by the Atomic Energy Act
+ of 1954. Section 151(a) (42 U.S.C. 2181(a)) thereof reads in part as follows:
+ 
+
+
+No patent shall hereafter be granted for any invention or discovery
+ which is useful solely in the utilization of special nuclear material or atomic energy
+ in an atomic weapon. 
+ 
+
+
+The terms "atomic energy" and "special nuclear material" are defined in
+ Section 11 of the Act (42 U.S.C. 2014).
+ 
+
+
+Sections 151(c) and 151(d) (42 U.S.C. 2181(c) and (d)) set up categories
+ of pending applications relating to atomic energy that must be brought to the attention
+ of the Department of Energy. Under **[37 CFR 1.14(d)](mpep-9020-appx-r.html#d0e314245)**, applications for
+ patents which disclose or which appear to disclose, or which purport to disclose,
+ inventions or discoveries relating to atomic energy are reported to the Department of
+ Energy and the Department will be given access to such applications, but such reporting
+ does not constitute a determination that the subject matter of each application so
+ reported is in fact useful or an invention or discovery or that such application in fact
+ discloses subject matter in categories specified by the Atomic Energy Act.
+ 
+
+
+All applications received in the U.S. Patent and Trademark Office are
+ screened by Technology Center (TC) work group 3640 personnel, under **[37 CFR 1.14(d)](mpep-9020-appx-r.html#d0e314245)**, in
+ order for the Director to fulfill his or her responsibilities under section 151(d) (42
+ U.S.C. 2181(d)) of the Atomic Energy Act. Papers subsequently added must be inspected
+ promptly by the examiner when received to determine whether the application has been
+ amended to relate to atomic energy and those so related must be promptly forwarded to
+ Licensing and Review in TC work group 3640.
+ 
+
+
+All rejections based upon sections 151(a) (42 U.S.C. 2181(a)), 152 (42
+ U.S.C. 2182), and 155 (42 U.S.C. 2185) of the Atomic Energy Act must be made only by TC
+ work group 3640 personnel.
+ 
+
+
+]

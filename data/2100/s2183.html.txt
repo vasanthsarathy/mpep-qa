@@ -1,0 +1,135 @@
+[
+# 2183 Making a *Prima Facie* Case of
+ Equivalence [R-08.2017]
+
+
+*[Editor Note: This MPEP section is **applicable** to applications subject
+ to the first inventor to file (FITF) provisions of the AIA except that the relevant date
+ is the "effective filing date" of the claimed invention instead of the "time of the
+ invention," which is only applicable to applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. See **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq.]*
+
+
+ If the examiner finds that a prior art element 
+
+
+* (A) performs the function specified in the claim,
+* (B) is not excluded by any explicit definition provided in the
+ specification for an equivalent, and
+* (C) is an equivalent of the means- (or step-) plus-function limitation,
+
+
+the examiner should provide an explanation and rationale in the Office
+ action as to why the prior art element is an equivalent. See *In re Bond,*
+ 910 F.2d 831, 833, 15 USPQ2d 1566, 1568 (Fed. Cir. 1990) ("The disclosed and prior art
+ structures are not identical, but the claim may nonetheless be anticipated. … However, the
+ Board made no finding that the delay means of claim 1 and that embodied in the Curtis
+ device are structurally equivalent. Accordingly, its decision as to the anticipation of
+ claim 1 is deficient and must be vacated.")
+ 
+
+
+ Factors that will support a conclusion that the prior art
+ element is an equivalent are: 
+ 
+
+
+* (A) the prior art element performs the identical function specified in
+ the claim in substantially the same way, and produces substantially the same results
+ as the corresponding element disclosed in the specification. **Kemco Sales, Inc. v. Control Papers Co.,** 208 F.3d 1352, 54 USPQ2d 1308 (Fed. Cir. 2000) (An internal adhesive
+ sealing the inner surfaces of an envelope pocket was not held to be equivalent to an
+ adhesive on a flap which attached to the outside of the pocket. Both the claimed
+ invention and the accused device performed the same function of closing the envelope.
+ But the accused device performed it in a substantially different way (by an internal
+ adhesive on the inside of the pocket) with a substantially different result (the
+ adhesive attached the inner surfaces of both sides of the pocket)); **Odetics Inc. v. Storage Tech. Corp.,** 185 F.3d 1259, 1267, 51 USPQ2d 1225, 1229-30 (Fed. Cir. 1999); **Lockheed Aircraft Corp. v. United States,** 193 USPQ 449, 461 (Ct. Cl. 1977). The concepts of equivalents as set forth
+ in *Graver Tank & Mfg. Co. v. Linde Air Products,* 339 U.S. 605,
+ 85 USPQ 328 (1950) are relevant to any "equivalents" determination. **Polumbo v.* *Don-Joy Co.,** 762 F.2d 969, 975 n.4, 226 USPQ 5, 8-9 n.4 (Fed. Cir. 1985).
+* (B) a person of ordinary skill in the art would have recognized the
+ interchangeability of the element shown in the prior art for the corresponding
+ element disclosed in the specification. **Caterpillar Inc. v. Deere & Co.,** 224 F.3d 1374, 56 USPQ2d 1305 (Fed. Cir. 2000); **Al-Site Corp. v. VSI Int’ l, Inc.,** 174 F.3d 1308, 1316, 50 USPQ2d 1161, 1165 (Fed. Cir. 1999); **Chiuminatta Concrete Concepts, Inc. v. Cardinal Indus. Inc.,** 145 F.3d 1303, 1309, 46 USPQ2d 1752, 1757 (Fed. Cir. 1998); **Lockheed Aircraft Corp. v. United States,** 193 USPQ 449, 461 (Ct. Cl. 1977*); *Data Line Corp. v.
+ Micro Technologies, Inc.,** 813 F.2d 1196, 1 USPQ2d 2052 (Fed. Cir. 1987).
+* (C) there are insubstantial differences between the prior art element
+ and the corresponding element disclosed in the specification. **IMS Technology, Inc. v. Haas Automation, Inc.,** 206 F.3d 1422, 1436, 54 USPQ2d 1129, 1138 (Fed. Cir. 2000); **Warner-Jenkinson Co. v. Hilton Davis Chemical Co.,** 520 U.S. 17, 41 USPQ2d 1865, 1875 (1997); **Valmont Industries, Inc. v. Reinke Mfg. Co.,** 983 F.2d 1039, 25 USPQ2d 1451 (Fed. Cir. 1993). See also **Caterpillar Inc. v. Deere & Co.,** 224 F.3d 1374, 56 USPQ2d 1305 (Fed. Cir. 2000) (A structure lacking
+ several components of the overall structure corresponding to the claimed function and
+ also differing in the number and size of the parts may be insubstantially different
+ from the disclosed structure. The limitation in a means- (or step-) plus-function
+ claim is the overall structure corresponding to the claimed function. The individual
+ components of an overall structure that corresponds to the claimed function are not
+ claim limitations. Also, potential advantages of a structure that do not relate to
+ the claimed function should not be considered in an equivalents determination under
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph).
+
+
+A showing of at least one of the above-noted factors by the examiner
+ should be sufficient to support a conclusion that the prior art element is an equivalent.
+ The examiner should then conclude that the claimed limitation is met by the prior art
+ element. In addition to the conclusion that the prior art element is an equivalent,
+ examiners should also demonstrate, where appropriate, why it would have been obvious to one
+ of ordinary skill in the art at the time of the invention to substitute applicant’s
+ described structure, material, or acts for that described in the prior art reference. See
+ *In re Brown,* 459 F.2d 531, 535, 173 USPQ 685, 688 (CCPA 1972). The
+ burden then shifts to applicant to show that the element shown in the prior art is not an
+ equivalent of the structure, material or acts disclosed in the application. *In
+ re**Mulder,* 716 F.2d 1542, 219 USPQ 189 (Fed. Cir. 1983). No further
+ analysis of equivalents is required of the examiner until applicant disagrees with the
+ examiner’s conclusion, and provides reasons why the prior art element should not be
+ considered an equivalent. See also *In re* *Walter,* 618
+ F.2d 758, 768, 205 USPQ 397, 407-08 (CCPA 1980) (treating **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, in the context of a determination of statutory subject matter and noting "[i]f
+ the functionally-defined disclosed means and their equivalents are so broad that they
+ encompass any and every means for performing the recited functions . . . the burden must be
+ placed on the applicant to demonstrate that the claims are truly drawn to specific
+ apparatus distinct from other apparatus capable of performing the identical functions");
+ *In re**Swinehart,* 439 F.2d 210, 212-13, 169 USPQ 226, 229 (CCPA 1971) (treating
+ as improper a rejection under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, of
+ functional language, but noting that "where the Patent Office has reason to believe that a
+ functional limitation asserted to be critical for establishing novelty in the claimed
+ subject matter may, in fact, be an inherent characteristic of the prior art, it possesses
+ the authority to require the applicant to prove that the subject matter shown to be in the
+ prior art does not possess the characteristics relied on"); *In re**Fitzgerald,* 619 F.2d 67, 205 USPQ 594 (CCPA 1980) (indicating that the
+ burden of proof can be shifted to the applicant to show that the subject matter of the
+ prior art does not possess the characteristic relied on whether the rejection is based on
+ inherency under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** or obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**).
+ 
+
+
+See **[MPEP §
+ 2184](s2184.html#d0e220302)** when determining whether the applicant has successfully met
+ the burden of proving that the prior art element is not equivalent to the structure,
+ material or acts described in the applicant’s specification.
+ 
+
+**IF NONEQUIVALENCE SHOWN, EXAMINER MUST CONSIDER OBVIOUSNESS** However, even where the applicant has met that burden of proof and has
+ shown that the prior art element is not equivalent to the structure, material or acts
+ described in the applicant’s specification, the examiner must still make a
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** analysis to determine if the claimed means- (or step-)
+ plus-function is obvious from the prior art to one of ordinary skill in the art. Thus,
+ while a finding of nonequivalence prevents a prior art element from anticipating a
+ means- (or step-) plus-function limitation in a claim, it does not prevent the prior art
+ element from rendering the claim limitation obvious to one of ordinary skill in the art.
+ Because the exact scope of an "equivalent" may be uncertain, it would be appropriate to
+ apply a **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection where the balance of
+ the claim limitations are anticipated by the prior art relied on. A similar approach is
+ authorized in the case of product-by-process claims because the exact identity of the
+ claimed product or the prior art product cannot be determined by the examiner.
+ *In re**Brown,* 450 F.2d 531, 173 USPQ 685 (CCPA 1972). In addition, although
+ it is normally the best practice to rely on only the best prior art references in
+ rejecting a claim, alternative grounds of rejection may be appropriate where the prior
+ art shows elements that are different from each other, and different from the specific
+ structure, material or acts described in the specification, yet perform the function
+ specified in the claim.
+ 
+
+
+[[top]](#top)
+
+
+]

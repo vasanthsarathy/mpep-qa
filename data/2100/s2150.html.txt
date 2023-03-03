@@ -1,0 +1,51 @@
+[
+# 2150 Examination Guidelines for 35 U.S.C. 102 and 103 as
+ Amended by the First Inventor To File Provisions of the Leahy-Smith America Invents
+ Act [R-11.2013]
+
+
+*[Editor Note: See **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine
+ whether an application is subject to examination under the FITF provisions, and
+ **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+Continued Applicability of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**: The Leahy-Smith America Invents Act (AIA) revised
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and thereby, the standard to determine what prior art is
+ available during examination of an application. See Public Law 112-29, 125 Stat. 284
+ (2011). The changes to **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** in the
+ AIA do not apply to any application filed before March 16, 2013. Thus, any application
+ filed before March 16, 2013, is governed by **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)**
+ (i.e., the application is a pre-AIA (first to invent) application (hereinafter "pre-AIA
+ application")). Note that neither the filing of a request for continued examination, nor
+ entry into the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**, constitutes the filing
+ of a new application. Accordingly, even if a request for continued examination under
+ **[37 CFR
+ 1.114](mpep-9020-appx-r.html#d0e322625)** is filed on or after March 16, 2013, in an application that was
+ filed before March 16, 2013, the application remains subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**. Submission of an amendment including a claim that includes new
+ matter on or after March 16, 2013, also does not affect an application’s status as a
+ pre-AIA application. See **[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)**. Similarly, a PCT application filed under
+ **[35 U.S.C.
+ 363](mpep-9015-appx-l.html#d0e306994313)** before March 16, 2013, is subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**, regardless of whether the application enters the national stage
+ under **[35 U.S.C.
+ 371](mpep-9015-appx-l.html#d0e307164)** before or after March 16, 2013. Applications filed on or after
+ March 16, 2013 are also subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** if the
+ application has never contained a claim with an effective filing date on or after March 16,
+ 2013 and has never claimed the benefit of an application that ever contained such a claim.
+ **[MPEP §§
+ 2131](s2131.html#d0e202959)**-**[2138](s2138.html#d0e207005)** provide examination guidance on the
+ prior art available in the examination of applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**.
+ 
+
+
+[[top]](#top)
+
+
+]

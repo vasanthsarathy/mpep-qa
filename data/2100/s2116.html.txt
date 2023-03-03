@@ -1,0 +1,142 @@
+[
+# 2116 [Reserved]
+
+
+
+
+# 2116.01 Novel, Nonobvious Starting Material or End Product [R-10.2019]
+
+
+All the limitations of a claim must be considered when weighing
+ the differences between the claimed invention and the prior art in determining the
+ obviousness of a process or method claim. See **[MPEP § 2143.03](s2143.html#d0e210501)**.
+ 
+
+
+*In re Ochiai,* 71 F.3d 1565, 37 USPQ2d 1127 (Fed. Cir. 1995) and
+ *In re Brouwer,* 77 F.3d 422, 37 USPQ2d 1663 (Fed. Cir. 1996)
+ addressed the issue of whether an otherwise conventional process could be patented if it
+ were limited to making or using a nonobvious product. In both cases, the Federal Circuit
+ held that the use of *per se* rules is improper in applying the test
+ for obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**. Rather, **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** requires a highly
+ fact-dependent analysis involving taking the claimed subject matter as a whole and
+ comparing it to the prior art. "A process yielding a novel and nonobvious product may
+ nonetheless be obvious; conversely, a process yielding a well-known product may yet be
+ nonobvious." *TorPharm, Inc. v. Ranbaxy Pharmaceuticals, Inc.,* 336
+ F.3d 1322, 1327, 67 USPQ2d 1511, 1514 (Fed. Cir. 2003). 
+ 
+
+
+Interpreting the claimed invention as a whole requires consideration of
+ all claim limitations. Thus, proper claim construction requires treating language in a
+ process claim which recites the making or using of a nonobvious product as a material
+ limitation. The decision in *Ochiai* specifically dispelled any
+ distinction between processes of making a product and methods of using a product with
+ regard to the effect of any product limitations in either type of claim.
+ 
+
+
+As noted in *Brouwer,* 77 F.3d at 425, 37 USPQ2d at
+ 1666, the inquiry as to whether a claimed invention would have been obvious is "highly
+ fact-specific by design." Accordingly, obviousness must be assessed on a case-by-case
+ basis. The following decisions are illustrative of the lack of *per se*
+ rules in applying the test for obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** and of the
+ fact-intensive comparison of claimed processes with the prior art: *In re
+ Durden,* 763 F.2d 1406, 226 USPQ 359 (Fed. Cir. 1985) (The examiner rejected
+ a claim directed to a process in which patentable starting materials were reacted to
+ form patentable end products. The prior art showed the same chemical reaction mechanism
+ applied to other chemicals. The court held that the process claim was obvious over the
+ prior art.); *In re Albertson,* 332 F.2d 379, 141 USPQ 730 (CCPA 1964)
+ (Process of chemically reducing one novel, nonobvious material to obtain another novel,
+ nonobvious material was claimed. The process was held obvious because the reduction
+ reaction was old.); *In re Kanter,* 399 F.2d 249, 158 USPQ 331 (CCPA
+ 1968) (Process of siliconizing a patentable base material to obtain a patentable product
+ was claimed. Rejection based on prior art teaching the siliconizing process as applied
+ to a different base material was upheld.); Cf. *In re Pleuddemann,* 910
+ F.2d 823, 15 USPQ2d 1738 (Fed. Cir. 1990) (Methods of bonding polymer and filler using a
+ novel silane coupling agent held patentable even though methods of bonding using other
+ silane coupling agents were well known because the process could not be conducted
+ without the new agent); *In re Kuehl,* 475 F.2d 658, 177 USPQ 250 (CCPA
+ 1973) (Process of cracking hydrocarbons using novel zeolite catalyst found to be
+ patentable even though catalytic cracking process was old. "The test under 103 is
+ whether in view of the prior art the invention as a whole would have been obvious at the
+ time it was made, and the prior art here does not include the zeolite, ZK-22. The
+ obviousness of the process of cracking hydrocarbons with ZK-22 as a catalyst must be
+ determined without reference to knowledge of ZK-22 and its properties." 475 F.2d at
+ 664-665, 177 USPQ at 255.); and *In re Mancy,* 499 F.2d 1289, 182 USPQ
+ 303 (CCPA 1974) (Claim to a process for the production of a known antibiotic by
+ cultivating a novel, nonobvious microorganism was found to be patentable.). 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2116.01 Novel, Nonobvious Starting Material or End Product [R-10.2019]
+
+
+All the limitations of a claim must be considered when weighing
+ the differences between the claimed invention and the prior art in determining the
+ obviousness of a process or method claim. See **[MPEP § 2143.03](s2143.html#d0e210501)**.
+ 
+
+
+*In re Ochiai,* 71 F.3d 1565, 37 USPQ2d 1127 (Fed. Cir. 1995) and
+ *In re Brouwer,* 77 F.3d 422, 37 USPQ2d 1663 (Fed. Cir. 1996)
+ addressed the issue of whether an otherwise conventional process could be patented if it
+ were limited to making or using a nonobvious product. In both cases, the Federal Circuit
+ held that the use of *per se* rules is improper in applying the test
+ for obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**. Rather, **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** requires a highly
+ fact-dependent analysis involving taking the claimed subject matter as a whole and
+ comparing it to the prior art. "A process yielding a novel and nonobvious product may
+ nonetheless be obvious; conversely, a process yielding a well-known product may yet be
+ nonobvious." *TorPharm, Inc. v. Ranbaxy Pharmaceuticals, Inc.,* 336
+ F.3d 1322, 1327, 67 USPQ2d 1511, 1514 (Fed. Cir. 2003). 
+ 
+
+
+Interpreting the claimed invention as a whole requires consideration of
+ all claim limitations. Thus, proper claim construction requires treating language in a
+ process claim which recites the making or using of a nonobvious product as a material
+ limitation. The decision in *Ochiai* specifically dispelled any
+ distinction between processes of making a product and methods of using a product with
+ regard to the effect of any product limitations in either type of claim.
+ 
+
+
+As noted in *Brouwer,* 77 F.3d at 425, 37 USPQ2d at
+ 1666, the inquiry as to whether a claimed invention would have been obvious is "highly
+ fact-specific by design." Accordingly, obviousness must be assessed on a case-by-case
+ basis. The following decisions are illustrative of the lack of *per se*
+ rules in applying the test for obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** and of the
+ fact-intensive comparison of claimed processes with the prior art: *In re
+ Durden,* 763 F.2d 1406, 226 USPQ 359 (Fed. Cir. 1985) (The examiner rejected
+ a claim directed to a process in which patentable starting materials were reacted to
+ form patentable end products. The prior art showed the same chemical reaction mechanism
+ applied to other chemicals. The court held that the process claim was obvious over the
+ prior art.); *In re Albertson,* 332 F.2d 379, 141 USPQ 730 (CCPA 1964)
+ (Process of chemically reducing one novel, nonobvious material to obtain another novel,
+ nonobvious material was claimed. The process was held obvious because the reduction
+ reaction was old.); *In re Kanter,* 399 F.2d 249, 158 USPQ 331 (CCPA
+ 1968) (Process of siliconizing a patentable base material to obtain a patentable product
+ was claimed. Rejection based on prior art teaching the siliconizing process as applied
+ to a different base material was upheld.); Cf. *In re Pleuddemann,* 910
+ F.2d 823, 15 USPQ2d 1738 (Fed. Cir. 1990) (Methods of bonding polymer and filler using a
+ novel silane coupling agent held patentable even though methods of bonding using other
+ silane coupling agents were well known because the process could not be conducted
+ without the new agent); *In re Kuehl,* 475 F.2d 658, 177 USPQ 250 (CCPA
+ 1973) (Process of cracking hydrocarbons using novel zeolite catalyst found to be
+ patentable even though catalytic cracking process was old. "The test under 103 is
+ whether in view of the prior art the invention as a whole would have been obvious at the
+ time it was made, and the prior art here does not include the zeolite, ZK-22. The
+ obviousness of the process of cracking hydrocarbons with ZK-22 as a catalyst must be
+ determined without reference to knowledge of ZK-22 and its properties." 475 F.2d at
+ 664-665, 177 USPQ at 255.); and *In re Mancy,* 499 F.2d 1289, 182 USPQ
+ 303 (CCPA 1974) (Claim to a process for the production of a known antibiotic by
+ cultivating a novel, nonobvious microorganism was found to be patentable.). 
+ 
+
+
+]

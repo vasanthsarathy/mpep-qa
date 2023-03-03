@@ -1,0 +1,280 @@
+[
+# 2166 Rejections Under 35 U.S.C. 112(a) or Pre-AIA 35
+ U.S.C. 112, First Paragraph [R-10.2019]
+
+
+Rejections based on **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or the first paragraph
+ of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** are discussed in **[MPEP §§ 2161](s2161.html#d0e213359)** - **[2165.04](s2165.html#d0e217264)**. For a
+ discussion of the utility requirements of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or the first paragraph
+ of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, and **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, see
+ **[MPEP
+ §§ 2107](s2107.html#d0e198469)** - **[2107.03](s2107.html#d0e200058)**. Form paragraphs
+ **[7.30.01](#fp7.30.01)**, **[7.31.01](#fp7.31.01)** through **[7.31.05](#fp7.31.05)** and **[7.33.01](#fp7.33.01)** should be used,
+ as appropriate, to make rejections under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or the first paragraph
+ of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**.
+ 
+
+
+# ¶ 7.30.01 Statement of Statutory Basis, 35 U.S.C. 112(a) or the first
+ paragraph of pre-AIA 35 U.S.C. 112
+
+
+The following is a quotation of
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**:
+ 
+
+
+
+> 
+> (a) IN GENERAL.—The specification shall contain a written
+>  description of the invention, and of the manner and process of making and using it, in such
+>  full, clear, concise, and exact terms as to enable any person skilled in the art to which
+>  it pertains, or with which it is most nearly connected, to make and use the same, and shall
+>  set forth the best mode contemplated by the inventor or joint inventor of carrying out the
+>  invention.
+>  
+> 
+> 
+> 
+
+
+The following is a quotation of the first paragraph of
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**:
+ 
+
+
+
+> 
+>  The specification shall contain a written description of the
+>  invention, and of the manner and process of making and using it, in such full, clear,
+>  concise, and exact terms as to enable any person skilled in the art to which it pertains,
+>  or with which it is most nearly connected, to make and use the same and shall set forth the
+>  best mode contemplated by the inventor of carrying out his invention.
+>  
+> 
+> 
+> 
+
+
+### Examiner Note:
+
+ * 1. The statute is no longer being
+ re-cited in all Office actions. It is only required in first actions on the merits and
+ final rejections. Where the statute is not being cited in an action on the merits, use
+ paragraph **[7.103](#fp7.103)**.
+* 2. Form paragraphs
+ **[7.30.01](#fp7.30.01)**
+ and **[7.30.02](#fp7.30.02)**
+ are to be used ONLY ONCE in a given Office action.
+
+
+
+# ¶ 7.31.01 Rejection, 35 U.S.C. 112(a) or pre-AIA 35 U.S.C. 112, 1st
+ Paragraph, Description Requirement, Including New Matter Situations
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as
+ failing to comply with the written description requirement. The claim(s) contains subject
+ matter which was not described in the specification in such a way as to reasonably convey to
+ one skilled in the relevant art that the inventor or a joint inventor, or for applications
+ subject to **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, the inventor(s), at the time the application was filed, had
+ possession of the claimed invention. **[2]**
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.01](#fp7.30.01)** or **[7.103](#fp7.103)**.
+* 2. In bracket 1, pluralize "Claim" if necessary, insert claim
+ number(s), and insert --is-- or --are-- as appropriate.
+* 3. In bracket 2, identify (by suitable reference to page and line
+ numbers and/or drawing figures) the subject matter not properly described in the
+ application as filed, and provide an explanation of your position. The explanation
+ should include any questions the examiner asked which were not satisfactorily resolved
+ and consequently raise doubt as to possession of the claimed invention at the time of
+ filing.
+
+
+
+Form paragraph **[7.31.02](#fp7.31.02)** should be used when it is the
+ examiner’s position that nothing within the scope of the claims is enabled. In such a
+ rejection, the examiner should explain all the reasons why nothing within the scope of the
+ claim is enabled. To make sure all relevant issues are raised, this should include any
+ issues regarding the breadth of the claims relative to the guidance in the disclosure. 
+ 
+
+
+# ¶ 7.31.02 Rejection, 35 U.S.C. 112(a) or pre-AIA 35 U.S.C. 112, 1st
+ Paragraph, Enablement
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as
+ failing to comply with the enablement requirement. The claim(s) contains subject matter which
+ was not described in the specification in such a way as to enable one skilled in the art to
+ which it pertains, or with which it is most nearly connected, to make and/or use the
+ invention.  **[2]**
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.01](#fp7.30.01)** or **[7.103](#fp7.103)**.
+* 2. If the problem is one of scope,
+ form paragraph **[7.31.03](#fp7.31.03)** should be used.
+* 3. In bracket 2, identify the claimed subject matter for which the
+ specification is not enabling. Also explain why the specification is not enabling,
+ applying the factors set forth in *In re Wands*, 858 F.2d 731, 737, 8
+ USPQ2d 1400, 1404 (Fed. Cir. 1998) as appropriate. See also **[MPEP §§ 2164.01(a)](s2164.html#d0e215360)**
+ and **[2164.04](s2164.html#d0e215702)**. The explanation should include any questions the
+ examiner may have asked which were not satisfactorily resolved and consequently raise
+ doubt as to enablement.
+* 4. Where an essential component or
+ step of the invention is not recited in the claims, use form paragraph
+ **[7.33.01](#fp7.33.01)**.
+
+
+
+Form paragraph **[7.31.03](#fp7.31.03)** should be used when it is the
+ examiner’s position that something within the scope of the claims is enabled but the claims
+ are not limited to that scope.
+ 
+
+
+# ¶ 7.31.03 Rejection, 35 U.S.C. 112(a) or pre-AIA 35 U.S.C. 112, 1st
+ Paragraph: Scope of Enablement
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph,
+ because the specification, while being enabling for **[2]**, does not reasonably
+ provide enablement for **[3]**. The specification does not enable any person skilled
+ in the art to which it pertains, or with which it is most nearly connected, to
+ **[4]** the invention commensurate in scope with these claims. **[5]**
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.01](#fp7.30.01)** or **[7.103](#fp7.103)**.
+* 2. In bracket 1, pluralize "Claim" if necessary, insert claim
+ number(s), and insert --is-- or --are-- as appropriate.
+* 3. This form paragraph is to be used when the scope of the claims is
+ not commensurate with the scope of the enabling disclosure.
+* 4. In bracket 2, identify the claimed subject matter for which the
+ specification is enabling. This may be by reference to specific portions of the
+ specification.
+* 5. In bracket 3, identify aspect(s) of the claim(s) for which the
+ specification is not enabling.
+* 6. In bracket 4, fill in only the appropriate portion of the statute,
+ i.e., one of the following: --make--, --use--, or --make and use--.
+* 7. In bracket 5, identify the claimed subject matter for which the
+ specification is not enabling. Also explain why the specification is not enabling,
+ applying the factors set forth in *In re Wands*, 858 F.2d 731, 737, 8
+ USPQ2d 1400, 1404 (Fed. Cir. 1998) as appropriate. See also **[MPEP §§ 2164.01(a)](s2164.html#d0e215360)**
+ and **[2164.04](s2164.html#d0e215702)**. The explanation should include any questions posed
+ by the examiner which were not satisfactorily resolved and consequently raise doubt as
+ to enablement.
+
+
+
+# ¶ 7.31.04 Rejection, 35 U.S.C. 112(a) or pre-AIA 35 U.S.C. 112, 1st
+ Paragraph: Best Mode Requirement
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph,
+ because the best mode contemplated by the inventor or a joint inventor, or for applications
+ subject to **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, the inventor(s), has not been disclosed. Evidence of concealment of
+ the best mode is based upon **[2]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.01](#fp7.30.01)** or **[7.103](#fp7.103)**.
+* 2. In bracket 2, insert the basis
+ for holding that the best mode has been concealed, e.g., the quality of applicant’s
+ disclosure is so poor as to effectively result in concealment.
+* 3. Use of this form paragraph
+ should be rare. See **[MPEP
+ §§ 2165](s2165.html#d0e216924)**- **[2165.04](s2165.html#d0e217264)**.
+
+
+
+# ¶ 7.31.05 Rejection, 35 U.S.C. 112(a) or pre-AIA 35 U.S.C. 112, First
+ Paragraph: Scope of Enablement of a "Single Means" Claim
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph,
+ because the claim purports to invoke **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ sixth paragraph, but fails to recite a combination of elements as required by that statutory
+ provision and thus cannot rely on the specification to provide the structure, material or acts
+ to support the claimed function. As such, the claim recites a function that has no limits and
+ covers every conceivable means for achieving the stated function, while the specification
+ discloses at most only those means known to the inventor. Accordingly, the disclosure is not
+ commensurate with the scope of the claim.
+ 
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded by form paragraph
+ **[7.30.01](#fp7.30.01)** or
+ **[7.103](#fp7.103)**.
+* 2. In bracket 1, pluralize "Claim" if necessary, insert claim
+ number(s), and insert --is-- or --are-- as appropriate.
+* 3. This form paragraph is to be used only when the claim recites a
+ single element and that element is in means-plus-function format. This situation should
+ be rare.
+
+
+
+Form paragraph **[7.33.01](#fp7.33.01)** should be used when it is the
+ examiner’s position that a feature considered critical or essential by applicant to the
+ practice of the claimed invention is missing from the claim.
+ 
+
+
+# ¶ 7.33.01 Rejection, 35 U.S.C. 112(a) or pre-AIA 35 U.S.C. 112, 1st
+ Paragraph, Essential Subject Matter Missing From Claims (Enablement)
+
+
+Claim **[1]** rejected under
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as
+ based on a disclosure which is not enabling. The disclosure does not enable one of ordinary
+ skill in the art to practice the invention without **[2]**, which is/are critical or
+ essential to the practice of the invention but not included in the claim(s). See *In
+ re Mayhew*, 527 F.2d 1229, 188 USPQ 356 (CCPA 1976). **[3]**
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.01](#fp7.30.01)** or **[7.103](#fp7.103)**.
+* 2. In bracket 2, recite the subject
+ matter omitted from the claims.
+* 3. In bracket 3, give the rationale
+ for considering the omitted subject matter critical or essential.
+* 4. The examiner shall cite the
+ statement, argument, date, drawing, or other evidence which demonstrates that a
+ particular feature was considered essential by the applicant, is not reflected in the
+ claims which are rejected.
+
+
+
+[[top]](#top)
+
+
+]

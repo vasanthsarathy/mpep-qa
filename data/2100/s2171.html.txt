@@ -1,0 +1,95 @@
+[
+# 2171 Two Separate Requirements for Claims Under 35 U.S.C. 112 (b) or
+ Pre-AIA 35 U.S.C. 112, Second Paragraph [R-11.2013]
+
+
+
+#### *35 U.S.C. 112  
+ Specification*
+
+
+\*\*\*\*\*
+
+
+* (b) CONCLUSION.—The specification shall conclude with
+ one or more claims particularly pointing out and distinctly claiming the subject
+ matter which the inventor or a joint inventor regards as the invention.
+
+
+\*\*\*\*\*
+
+
+
+
+#### *Pre-AIA 35 U.S.C. 112  
+ Specification*
+
+
+\*\*\*\*\*
+
+
+* The specification shall conclude with one or more
+ claims particularly pointing out and distinctly claiming the subject matter which
+ the applicant regards as his invention.
+
+
+\*\*\*\*\*
+
+
+
+Two separate requirements are set forth in **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** and **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph, namely that:
+ 
+
+
+* (A) the claims must set forth the subject matter that the inventor or a
+ joint inventor regards as the invention; and
+* (B) the claims must particularly point out and distinctly define the
+ metes and bounds of the subject matter to be protected by the patent grant.
+
+
+The first requirement is a subjective one because it is dependent on what
+ the inventor or a joint inventor for a patent regards as his or her invention. Note that
+ although **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, uses the phrase "which applicant
+ regards as his invention," **[pre-AIA 37 CFR 1.41(a)](mpep-9020-appx-r.html#d0e317674)** provides that a
+ patent is applied for in the name or names of the actual inventor or inventors. 
+ 
+
+
+The second requirement is an objective one because it is not
+ dependent on the views of the inventor or any particular individual, but is evaluated in
+ the context of whether the claim is definite — i.e., whether the scope of the claim is
+ clear to a hypothetical person possessing the ordinary level of skill in the pertinent
+ art.
+ 
+
+
+Although an essential purpose of the examination process is to determine
+ whether or not the claims define an invention that is both novel and nonobvious over the
+ prior art, another essential purpose of patent examination is to determine whether or not
+ the claims are precise, clear, correct, and unambiguous. The uncertainties of claim scope
+ should be removed, as much as possible, during the examination process.
+ 
+
+
+The inquiry during examination is patentability of the invention as the
+ inventor or a joint inventor regards it. If the claims do not particularly point out and
+ distinctly claim that which the inventor or a joint inventor regards as his or her
+ invention, the appropriate action by the examiner is to reject the claims under
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph. *In re**Zletz,* 893 F.2d 319, 13 USPQ2d 1320 (Fed. Cir. 1989). If a rejection is
+ based on **[35
+ U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph, the examiner should further explain whether the rejection is based on
+ indefiniteness or on the failure to claim what the inventor or a joint invention regards as
+ the invention. *Ex parte**Ionescu,* 222 USPQ 537, 539 (Bd. Pat. App. & Inter. 1984).
+ 
+
+
+[[top]](#top)
+
+
+]

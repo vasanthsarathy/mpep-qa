@@ -1,0 +1,603 @@
+[
+# 2148 Form Paragraphs for Use in Rejections Under
+ Pre-AIA 35 U.S.C. 103 [R-10.2019]
+
+
+The following form paragraphs should be used in making the
+ appropriate rejections under **[pre-AIA 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+# ¶ 7.06 Notice re prior art available under both pre-AIA and
+ AIA
+
+
+In the event the determination of the status of the application as subject
+ to AIA **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** (or as subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**)
+ is incorrect, any correction of the statutory basis for the rejection will not be considered a
+ new ground of rejection if the prior art relied upon, and the rationale supporting the
+ rejection, would be the same under either status.
+ 
+
+
+### Examiner Note:
+
+ * 1.  This form paragraph must be used in all Office
+ Actions when a prior art rejection is made in an application with an actual filing
+ date on or after March 16, 2013, that claims priority to, or the benefit of, an
+ application filed before March 16, 2013.
+* 2.  This form paragraph should only be used ONCE in an
+ Office action.
+
+
+
+# ¶ 7.20.fti Statement of Statutory Basis, Pre-AIA 35 U.S.C.
+ 103(a)
+
+
+The following is a quotation of **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**
+ which forms the basis for all obviousness rejections set forth in this Office action:
+ 
+
+
+
+> 
+> (a) A patent may not be obtained though the invention is not
+>  identically disclosed or described as set forth in section **[102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, if the
+>  differences between the subject matter sought to be patented and the prior art are such
+>  that the subject matter as a whole would have been obvious at the time the invention was
+>  made to a person having ordinary skill in the art to which said subject matter pertains.
+>  Patentability shall not be negatived by the manner in which the invention was made. 
+>  
+> 
+> 
+> 
+
+
+### Examiner Note:
+
+ * 1. The statute is not to be cited in
+ all Office actions. It is only required in first actions on
+ the merits employing **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** and final
+ rejections. Where the statute is being applied, but is not cited in an action on the
+ merits, use paragraph **[7.103](#fp7.103)**.
+* 2. This form paragraph should only be used ONCE in a
+ given Office action.
+* 3. This form paragraph must precede form paragraphs
+ **[7.20.01.fti](#fp7.20.01.fti)** - **[7.22.fti](#fp7.22.fti)** when this form paragraph is
+ used to cite the statute in first actions and final rejections.
+
+
+
+# ¶ 7.20.01.fti Pre-AIA 103(a) Rejection Using Prior Art Under Pre-AIA 102(e),
+ (f), or (g) That Is Not Disqualified Under Pre-AIA 35 U.S.C. 103(c) Because Reference Is Prior
+ Art Under Another Subsection of Pre-AIA 35 U.S.C. 102
+
+
+Applicant has provided a submission in this file that the invention
+ was owned by, or subject to an obligation of assignment to, the same entity as
+ **[1]** at the time this invention was made, or was subject to a joint research
+ agreement at the time this invention was made. However, reference **[2]** qualifies
+ as prior art under another subsection of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, and therefore is
+ not disqualified as prior art under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+ 
+
+
+Applicant may overcome the applied art either by a showing
+ under **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** that the invention disclosed therein was derived from the inventor
+ of this application, and is therefore, not the invention "by another," or by antedating the
+ applied art under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be included following form paragraph
+ 7.20.fti in all actions containing rejections under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** using art
+ that is disqualified under **[pre-AIA 103(c)](mpep-9015-appx-l.html#d0e302521)** using
+ **[pre-AIA
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, **[(f)](mpep-9015-appx-l.html#d0e302420)**, or **[(g)](mpep-9015-appx-l.html#d0e302424)**, but which
+ qualifies under another section of **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**.
+* 2. In bracket 1, identify the common
+ assignee.
+* 3. In bracket 2, identify the reference which has been
+ disqualified.
+
+
+
+# ¶ 7.20.02.fti Joint Inventors, Common Ownership Presumed
+
+
+This application currently names joint inventors. In considering
+ patentability of the claims under pre-AIA **[35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**, the examiner presumes
+ that the subject matter of the various claims was commonly owned at the time any inventions
+ covered therein were made absent any evidence to the contrary. Applicant is advised of the
+ obligation under **[37 CFR
+ 1.56](mpep-9020-appx-r.html#aia_d0e319407)** to point out the inventor and invention dates of each claim that
+ was not commonly owned at the time a later invention was made in order for the examiner to
+ consider the applicability of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** and potential
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, **[(f)](mpep-9015-appx-l.html#d0e302420)** or **[(g)](mpep-9015-appx-l.html#d0e302424)** prior art under pre-AIA
+ **[35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)**.
+ 
+
+
+### Examiner Note:
+
+ * This paragraph must be used in all applications with
+ joint inventors (unless the claims are clearly restricted to only one claimed invention,
+ e.g., only a single claim is presented in the application).
+
+
+
+# ¶ 7.20.04.fti Pre-AIA 103(a) Rejection Using Prior Art Under Pre-AIA 102(e),
+ (f), or (g) That Is Attempted To Be Disqualified Under pre-AIA 35 U.S.C. 103(c) Using the
+ Common Ownership or Assignment Provision
+
+
+Applicant has attempted to disqualify reference **[1]** under
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)** by showing that the invention was owned by, or subject to an
+ obligation of assignment to, the same entity as **[2]** at the time this invention
+ was made. However, applicant has failed to provide a statement that the application and the
+ reference were owned by, or subject to an obligation of assignment to, the same person at the
+ time the invention was made in a conspicuous manner, and therefore, the reference is not
+ disqualified as prior art under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**. Applicant must
+ file the required submission in order to properly disqualify the reference under
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)**. See **[MPEP § 2146.02](s2146.html#ch2100_d2c184_12765_27)**, subsection II.
+ 
+
+
+In addition, applicant may overcome the applied art either
+ by a showing under **[37
+ CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that the invention disclosed therein was derived from the
+ inventor of this application, and is therefore not the invention "by another," or by
+ antedating the applied art under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be included in all actions containing
+ rejections under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** where an attempt has been made to
+ disqualify the reference under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**, but where
+ the applicant has not provided a proper statement indicating common ownership or
+ assignment **at the time the invention was made**.
+* 2. In brackets 1 and 2, identify the commonly owned
+ applied art (e.g., patent or co-pending application).
+
+
+
+# ¶ 7.20.05.fti Pre-AIA 103(a) Rejection Using Prior Art Under Pre-AIA 102(e),
+ (f), or (g) That Is Attempted To Be Disqualified Under Pre-AIA 35 U.S.C. 103(c) Using the
+ Joint Research Agreement Provisions
+
+
+Applicant has attempted to disqualify reference **[1]** under
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)** by showing that the invention was subject to a joint research
+ agreement at the time this invention was made. However, applicant has failed to
+ **[2]**. Applicant must file the missing requirements in order to properly
+ disqualify the reference under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**. See
+ **[37 CFR
+ 1.71(g)](mpep-9020-appx-r.html#d0e320173)** and **[1.104(c)](mpep-9020-appx-r.html#d0e322163)** and **[MPEP §
+ 2146.02](s2146.html#ch2100_d2c184_12765_27)**, subsection III.
+ 
+
+
+In addition, applicant may overcome the applied art either
+ by a showing under **[37
+ CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that the invention disclosed therein was derived from the
+ inventor of this application, and is therefore, not the invention "by another," or by
+ antedating the applied art under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be included in all actions containing
+ rejections under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** where an attempt has been made to
+ disqualify the reference under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** using the
+ joint research agreement provisions but the disqualification attempt is ineffective.
+* 2. In bracket 1, identify the reference which is sought to be
+ disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+* 3. In bracket 2, identify the reason(s) why the disqualification
+ attempt is ineffective. The reason(s) could be noncompliance with the statutory
+ requirements of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** or rule requirements relating to the
+ CREATE Act, such as failure to submit the required statement or failure to amend the
+ specification to include the names of the parties to the joint research agreement. See
+ **[37 CFR
+ 1.104(c)(5)(ii)](mpep-9020-appx-r.html#d0e322235)**.
+
+
+
+# ¶ 7.21.fti Rejection, Pre-AIA 35 U.S.C. 103(a)
+
+
+Claim **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**
+ as being unpatentable over **[2]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This paragraph must be preceded by either form
+ paragraph **[7.20.fti](#fp7.20.fti)** or form paragraph **[7.103](#fp7.103)**.
+* 2. An explanation of the rejection must follow this form paragraph.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+* 3. If the rejection relies upon prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, use **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended
+ by the American Inventors Protection Act to determine the reference’s prior art date,
+ unless the reference is a U.S. patent issued directly, or indirectly, from an
+ international application which has an international filing date prior to November 29,
+ 2000. In other words, use **[pre-AIPA 35 U.S.C.
+ 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** only if the reference is a U.S. patent issued directly
+ or indirectly from either a national stage of an international application (application
+ under **[35 U.S.C.
+ 371](mpep-9015-appx-l.html#d0e307164)**) which has an international filing date prior to November 29,
+ 2000 or a continuing application claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**,
+ **[121](mpep-9015-appx-l.html#d0e303040)** or **[365(c)](mpep-9015-appx-l.html#d0e307053)** to an international
+ application having an international filing date prior to November 29, 2000. See the
+ Examiner Notes for form paragraphs **[7.12.fti](#fp7.12.fti)** and **[7.12.01.fti](#fp7.12.01.fti)** to assist in the
+ determination of the reference’s **[35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date.
+* 4. If the applicability of this rejection (e.g., the availability
+ of the prior art as a reference under **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** or
+ **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302395)**) prevents the reference from being disqualified under
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)**, form paragraph **[7.20.01.fti](#fp7.20.01.fti)** must follow this form
+ paragraph.
+* 5. If this rejection is a provisional **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** rejection based upon a copending application that would
+ comprise prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** if patented
+ or published, use form paragraph **[7.21.01.fti](#fp7.21.01.fti)**  instead of this paragraph.
+* 6. In bracket 1, insert the claim numbers which are
+ under rejection.
+* 7. In bracket 2, insert the prior art relied
+ upon.
+
+
+
+# ¶ 7.21.01.fti Provisional Rejection, Pre-AIA 35 U.S.C. 103(a), Common
+ Assignee, Common Applicant, or at Least One Common Joint Inventor
+
+
+Claim **[1]** is/are provisionally rejected under
+ **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302391)** as being obvious over copending Application No. **[2]**
+ which has a common **[3]** with the instant application. Based upon the earlier
+ effective U.S. filing date of the copending application, it would constitute prior art under
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** if published or patented. This provisional rejection under
+ **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** is based upon a presumption of future publication or patenting of
+ the copending application. **[4]**
+
+
+This provisional rejection might be overcome either by a showing under
+ **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** that any invention disclosed but not claimed in the copending
+ application was derived from the inventor or joint inventors (i.e., the inventive entity) of
+ this application and is thus not the invention "by another," or by a showing of a date of
+ invention for the instant application prior to the effective U.S. filing date of the copending
+ application under **[37 CFR
+ 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**. This rejection might also be overcome by showing that the
+ copending application is disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** as prior art in a
+ rejection under **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**.
+ See
+ **[MPEP §
+ 2146](s2146.html#d0e213206)** et seq.
+ 
+
+
+### Examiner Note:
+
+ * 1. This paragraph is used to provisionally reject claims not
+ patentably distinct from the disclosure in a copending application having an earlier
+ U.S. filing date and also having either a common assignee, a common applicant
+ (**[35 U.S.C.
+ 118](mpep-9015-appx-l.html#d0e302910912)**), or at least one common joint inventor. This form paragraph
+ should not be used when the copending application is disqualified under
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)** as prior art in a **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** rejection.
+ 
+ See **[MPEP §
+ 2146.03(a)](s2146.html#ch2100_d2c184_12851_21a)**.
+* 2. Use **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended
+ by the American Inventors Protection Act (AIPA) to determine the copending application's
+ prior art date, unless the copending application is based directly, or indirectly, from
+ an international application which has an international filing date prior to November
+ 29, 2000. If the copending application is either a national stage of an international
+ application (application under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**) which has an
+ international filing date prior to November 29, 2000, or a continuing application
+ claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to an international
+ application having an international filing date prior to November 29, 2000, use
+ **[pre-AIPA 35
+ U.S.C. 102(e)](mpep-0700.html#ch700_d222ef_29cdb_3ac)** to determine the copending application’s prior art
+ date. See the Examiner Notes for form paragraphs **[7.12.fti](#fp7.12.fti)** and
+ **[7.12.01.fti](#fp7.12.01.fti)** to assist in the determination of the
+ reference’s pre-AIA and pre-AIPA 35 U.S.C. 102(e) dates, respectively.
+* 3. If the claimed invention is fully disclosed in the
+ copending application, use paragraph **[7.15.01.fti](#fp7.15.01.fti)**.
+* 4. In bracket 1, insert the claim number(s) which
+ is/are under rejection.
+* 5. In bracket 2, insert the application
+ number.
+* 6. In bracket 3, insert --assignee--, --applicant--, or
+ --joint inventor--.
+* 7. In bracket 4, insert an explanation of obviousness.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+* 8. If the claimed invention is not patentably distinct
+ from the invention claimed in the copending application, a provisional obviousness
+ double patenting rejection should additionally be made using form paragraphs
+ **[8.33](#fp8.33)** and
+ **[8.37](#fp8.37)**.
+* 9. A rejection should additionally be made under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** using form paragraph **[7.21.fti](#fp7.21.fti)** if:
+	+ evidence indicates that the copending application is
+	 also prior art under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** or
+	 **[(g)](mpep-9015-appx-l.html#d0e302424)** (e.g., applicant has named the prior inventor in response
+	 to a requirement made using form paragraph **[8.28.fti](#fp8.28.fti)**); and
+	+ the copending application has not been
+	 disqualified as prior art in a **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**
+	 rejection pursuant to **[pre-AIA 35 U.S.C.
+	 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+
+
+
+# ¶ 7.21.02.fti Rejection, pre-AIA 35 U.S.C. 103(a), Common Assignee, Common
+ Applicant, or at Least One Common Joint Inventor
+
+
+Claim **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**
+ as being obvious over **[2]**.
+ 
+
+
+The applied reference has a common **[3]** with the instant
+ application. Based upon the earlier effective U.S. filing date of the reference, it
+ constitutes prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. This rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**
+ might be overcome by: (1) a showing under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that any invention disclosed
+ but not claimed in the reference was derived from the inventor of this application and is thus
+ not an invention "by another"; (2) a showing of a date of invention for the claimed subject
+ matter of the application which corresponds to subject matter disclosed but not claimed in the
+ reference, prior to the effective U.S. filing date of the reference under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**; or
+ (3) an oath or declaration under **[37 CFR 1.131(c)](mpep-9020-appx-r.html#ar_d1fc99_2983e_8a)** stating that the
+ application and reference are currently owned by the same party and that the inventor or joint
+ inventors (i.e., the inventive entity) named in the application is the prior inventor under
+ **[pre-AIA 35 U.S.C.
+ 104](mpep-9015-appx-l.html#al_d1fbe1_197a5_8)** as in effect on March 15, 2013, together with a terminal disclaimer
+ in accordance with **[37 CFR
+ 1.321(c)](mpep-9020-appx-r.html#d0e326532)**. This rejection might also be overcome by showing that the
+ reference is disqualified under **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** as prior art in a
+ rejection under **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**.
+ See
+ **[MPEP §
+ 2146](s2146.html#d0e213206)** et seq. **[4]**
+
+
+### Examiner Note:
+
+ * 1. This paragraph is used to reject over a reference (patent or
+ published application) with an earlier filing date that discloses the claimed invention,
+ and that only qualifies as prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. If the
+ reference qualifies as prior art under **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** or
+ **[(b)](mpep-9015-appx-l.html#al_d1d85b_11e7d_156)**, then this form paragraph should not be used (form paragraph
+ **[7.21.fti](#fp7.21.fti)**
+ should be used instead). The reference must have either a common assignee, a common
+ applicant (**[35
+ U.S.C. 118](mpep-9015-appx-l.html#d0e302910912)**), or at least one common joint inventor. This form
+ paragraph should not be used in applications when the reference is disqualified under
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)** as prior art in a **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** rejection.
+ See
+ **[MPEP §
+ 2146.03](s2146.html#ch2100_d2c184_127cc_34b)**.
+* 2. **[Pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended
+ by the American Inventors Protection Act of 1999 (AIPA) must be applied if the reference
+ is by another and is one of the following:
+	+ a U.S. patent or a publication of a U.S.
+	 application for patent filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302678aia)**;
+	+ a U.S. patent issued directly or indirectly from,
+	 or a U.S. or WIPO publication of, an international application (PCT) if the
+	 international application has **an international filing date on or after November
+	 29, 2000**;
+	+ a U.S. patent issued from, or a WIPO publication of, an
+	 international design application that designates the United States.See the Examiner Notes for form paragraph
+ **[7.12.fti](#fp7.12.fti)**
+ to assist in the determination of the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date of the
+ reference.
+* 3. **[Pre-AIPA 35 U.S.C. 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** must be applied if
+ the reference is a U.S. patent issued directly, or indirectly, from an international
+ application filed prior to November 29, 2000. See the Examiner Notes for form paragraph
+ **[7.12.01.fti](#fp7.12.01.fti)** to assist in the determination of the
+ **[pre-AIPA 35 U.S.C. 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** date of the
+ reference.
+* 4. In bracket 1, insert the claim number(s) which
+ is/are under rejection.
+* 5. In bracket 2, insert the prior art reference(s)
+ relied upon for the obviousness rejection.
+* 6. In bracket 3, insert --assignee--, --applicant--, or
+ --joint inventor--.
+* 7. In bracket 4, insert an explanation of obviousness.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+
+
+
+# ¶ 7.22.fti Rejection, pre-AIA 35 U.S.C. 103(a), Further in View
+ Of
+
+
+Claim **[1]** rejected under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** as being unpatentable over **[2]** as applied to claim
+ **[3]** above, and further in view of **[4]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded by form
+ paragraph **[7.21.fti](#fp7.21.fti)**.
+* 2. An explanation of the rejection must follow this form paragraph.
+ See **[MPEP §
+ 2144](s2144.html#d0e210576)**.
+* 3. If the rejection relies upon prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, use **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended
+ by the American Inventors Protection Act to determine the reference’s prior art date,
+ unless the reference is a U.S. patent issued directly, or indirectly, from an
+ international application which has an international filing date prior to November 29,
+ 2000. In other words, use pre-AIPA 35 U.S.C. 102(e) only if the reference is a U.S.
+ patent issued directly or indirectly from either a national stage of an international
+ application (application under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**) which has an
+ international filing date prior to November 29, 2000 or a continuing application
+ claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)** or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to an international
+ application having an international filing date prior to November 29, 2000. See the
+ Examiner Notes for form paragraphs **[7.12.fti](#fp7.12.fti)** and **[7.12.01.fti](#fp7.12.01.fti)** to assist in the
+ determination of the reference’s **[35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date.
+
+
+
+# ¶ 7.23.fti Test for Obviousness
+
+
+The factual inquiries for establishing a background for determining
+ obviousness under **[pre-AIA 35
+ U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** are summarized as follows:
+ 
+
+
+* 1. Determining the scope and contents of the prior art.
+* 2. Ascertaining the differences between the prior art and the
+ claims at issue.
+* 3. Resolving the level of ordinary skill in the pertinent
+ art.
+* 4. Considering objective evidence present in the application
+ indicating obviousness or nonobviousness.
+
+
+### Examiner Note:
+
+
+This form paragraph may be used, if appropriate, in response to an
+ argument regarding the applicability of the factors for determining obviousness.
+ 
+
+
+
+# ¶ 7.27.fti Rejection, pre-AIA 35 U.S.C. 102 or pre-AIA 103(a)
+
+
+Claim(s) **[1]** is/are rejected under **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**(**[2]**) as anticipated by or, in the alternative, under
+ **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** as obvious over **[3]**. 
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is NOT intended to be commonly
+ used as a substitute for a rejection under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. In other
+ words, a single rejection under either **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** or
+ **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** should be made whenever possible using appropriate form
+ paragraphs **[7.15.fti](#fp7.15.fti)** to **[7.19.fti](#fp7.19.fti)**, **[7.21.fti](#fp7.21.fti)** and
+ **[7.22.fti](#fp7.22.fti)**.
+ Examples of circumstances where this paragraph may be used are as
+ follows:
+	+ When the interpretation of the claim(s) is or may
+	 be in dispute, i.e., given one interpretation, a rejection under **[pre-AIA 35 U.S.C.
+	 102](mpep-9015-appx-l.html#d0e302383)** is appropriate and given another interpretation, a
+	 rejection under **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)** is appropriate. See
+	 **[MPEP §§
+	 2111](s2111.html#d0e200352)** -  **[2116.01](s2116.html#d0e201660)** for guidelines on claim
+	 interpretation.
+	+ When the reference discloses all the limitations
+	 of a claim except a property or function, and the examiner cannot determine whether
+	 or not the reference inherently possesses properties which anticipate or render
+	 obvious the claimed invention but has basis for shifting the burden of proof to
+	 applicant as in *In re Fitzgerald*, 619 F.2d 67, 205 USPQ 594 (CCPA
+	 1980). See **[MPEP §§
+	 2112](s2112.html#d0e201036)** - **[2112.02](s2112.html#d0e201360)**.
+	+ When the reference teaches a small genus which
+	 places a claimed species in the possession of the public as in *In re
+	 Schaumann*, 572 F.2d 312, 197 USPQ 5 (CCPA 1978), and the species would
+	 have been obvious even if the genus were not sufficiently small to justify a
+	 rejection under **[35
+	 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**. See **[MPEP §§ 2131.02](s2131.html#d0e203166)** and
+	 **[2144.08](s2144.html#d0e211596)** for more information on anticipation and
+	 obviousness of species by a disclosure of a genus.
+	+ When the reference teaches a product that appears
+	 to be the same as, or an obvious variant of, the product set forth in a
+	 product-by-process claim although produced by a different process. See *In re
+	 Marosi*, 710 F.2d 799, 218 USPQ 289 (Fed. Cir. 1983) and *In re
+	 Thorpe*, 777 F.2d 695, 227 USPQ 964 (Fed. Cir. 1985). See also
+	 **[MPEP §
+	 2113](s2113.html#d0e201450)**.
+	+ When the reference teaches all claim limitations except a
+	 means plus function limitation and the examiner is not certain whether the element
+	 disclosed in the reference is an equivalent of the claimed element and therefore
+	 anticipatory, or whether the prior art element is an obvious variant of the claimed
+	 element. See **[MPEP §§
+	 2183](s2183.html#d0e220121)** - **[2184](s2184.html#d0e220302)**.
+	+ When the ranges disclosed in the reference and
+	 claimed by applicant overlap in scope but the reference does not contain a specific
+	 example within the claimed range. See the concurring opinion in *Ex parte
+	 Lee*, 31 USPQ2d 1105 (Bd. Pat. App. & Inter. 1993). See
+	 **[MPEP §
+	 2131.03](s2131.html#d0e203269)**.
+* 2. If the interpretation of the claim(s) renders the
+ claim(s) indefinite, a rejection under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, 2nd paragraph, may be appropriate.
+* 3. In bracket 1, insert the claim number(s) which is/are
+ under rejection.
+* 4. In bracket 2, insert the appropriate paragraph
+ letter(s) in parenthesis.
+* 5. In bracket 3, insert the prior art reference relied upon for the
+ rejection.
+* 6. A full explanation should follow this form
+ paragraph.
+* 7. If the rejection relies upon prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, use **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended
+ by the American Inventors Protection Act (AIPA) to determine the reference’s prior art
+ date, unless the reference is a U.S. patent issued directly, or indirectly, from an
+ international application which has an international filing date prior to November 29,
+ 2000. In other words, use **[pre-AIPA 35 U.S.C. 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** only
+ if the reference is a U.S. patent issued directly or indirectly from either a national
+ stage of an international application (application under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**)
+ which has an international filing date prior to November 29, 2000, or a continuing
+ application claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** , **[121](mpep-9015-appx-l.html#d0e303040912)** or
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to an international
+ application having an international filing date prior to November 29, 2000. See the
+ Examiner Notes for form paragraphs **[7.12.fti](#fp7.12.fti)** and **[7.12.01.fti](#fp7.12.01.fti)** to assist in the
+ determination of the reference’s pre-AIA and pre-AIPA **[35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ dates, respectively.
+* 8. This form paragraph must be preceded by
+ **[7.07.fti](#fp7.07.fti)**,
+ one or more of form paragraphs **[7.08.fti](#fp7.08.fti)** to **[7.14.fti](#fp7.14.fti)** as appropriate, and form paragraph
+ **[7.20.fti](#fp7.20.fti)**
+ or by form paragraph **[7.103](#fp7.103)**.
+* 9. For applications with an actual filing date on or
+ after March 16, 2013, that claim priority to, or the benefit of, an application filed
+ before March 16, 2013, this form paragraph must be preceded by form paragraph
+ **[7.06](#fp7.06)**.
+
+
+
+[[top]](#top)
+
+
+]

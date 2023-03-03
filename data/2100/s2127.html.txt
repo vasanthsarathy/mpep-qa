@@ -1,0 +1,133 @@
+[
+# 2127 Domestic and Foreign Patent Applications as Prior Art [R-10.2019]
+
+**I.** **ABANDONED APPLICATIONS, INCLUDING PROVISIONAL APPLICATIONS*** 
+
+**Abandoned Applications Disclosed to the Public Can Be Used as Prior Art**"An abandoned patent application may become evidence of prior art
+ only when it has been appropriately disclosed, as, for example, when the abandoned
+ patent [application] is reference[d] in the disclosure of another patent, in a
+ publication, or by voluntary disclosure under [former Defensive Publication rule]
+ **[37 CFR
+ 1.139](mpep-9020-appx-r.html#d0e324067)** [Reserved]." *Lee Pharmaceutical v.**Kreps,* 577 F.2d 610, 613, 198 USPQ 601, 605 (9th Cir. 1978). An
+ abandoned patent application becomes available as prior art only as of the date the
+ public gains access to it. See **[37 CFR 1.14(a)(1)(ii)](mpep-9020-appx-r.html#d0e314245)** and
+ **[(iv)](mpep-9020-appx-r.html#d0e314245)**. However, the subject matter of an abandoned application,
+ including both provisional and nonprovisional applications, referred to in a prior
+ art U.S. patent or U.S. patent application publication may be relied on in a
+ **[35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** or **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**
+ rejection based on that patent or patent application publication if the disclosure of
+ the abandoned application is actually included or incorporated by reference in the
+ patent. Compare *In re Lund,* 376 F.2d 982, 991, 153 USPQ 625, 633
+ (CCPA 1967) (The court reversed a rejection over a patent which was a
+ continuation-in-part of an abandoned application. Applicant’s filing date preceded
+ the issue date of the patent reference. The abandoned application contained subject
+ matter which was essential to the rejection but which was not carried over into the
+ continuation-in-part. The court held that the subject matter of the abandoned
+ application was not available to the public as of either the parent’s or the child’s
+ filing dates and thus could not be relied on in the **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** rejection.). See also **[MPEP § 901.02](s901.html#d0e110072)**. See
+ **[MPEP
+ § 2136.02](s2136.html#d0e205829)** and **[MPEP § 2136.03](s2136.html#d0e205924)** for the
+ **[35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** date of a U.S. patent claiming priority under
+ **[35 U.S.C.
+ 119](mpep-9015-appx-l.html#d0e302921)** or **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**. See
+ **[MPEP
+ § 2154](s2154.html#ch2100_d20033_274f5_338)** for prior art under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+**II.** **APPLICATIONS WHICH HAVE ISSUED AS PATENTS*** 
+
+***A.******A 35 U.S.C. 102(a)(2) or Pre-AIA 35 U.S.C. 102(e) Rejection Cannot Rely
+ on Matter Which Was Canceled from the Application and Thus Did Not Get
+ Published in the Issued Patent or Application Publication***Canceled matter in the application file of a U.S. patent or
+ application publication cannot be relied upon in a rejection under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** or **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)**.
+ *Ex Parte Stalego,* 154 USPQ 52, 53 (Bd. App. 1966). The canceled
+ matter only becomes available as prior art as of the date the application file
+ history becomes available to the public. *In re Lund,* 376 F.2d 982,
+ 153 USPQ 625 (CCPA 1967). However, as discussed below, such matter may be available
+ as prior art under **[35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** or
+ **[pre-AIA 35
+ U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**. For more information on available prior art for
+ use in **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302383)** rejections, see **[MPEP § 2136.02](s2136.html#d0e205829)**.
+ For more information on available prior art for use in **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** rejections, see **[MPEP §
+ 2154](s2154.html#ch2100_d20033_274f5_338)***et seq.*
+
+***B.******A 35 U.S.C. 102(a)(1) or Pre-AIA 35 U.S.C. 102(b) Rejection Over a
+ Published Application May Rely on Information that Was Canceled Prior to
+ Publication***Figures that had been canceled from a Canadian patent application
+ before issuance of the patent were available as prior art under **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302383)** as of the date the application became publicly
+ accessible. The patent at issue and its underlying application were available for
+ public inspection at the Canadian Patent Office more than one year before the
+ effective filing date of the patents in suit. *Bruckelmyer v. Ground Heaters,
+ Inc.,* 445 F.3d 1374, 78 USPQ2d 1684 (Fed. Cir. 2006).
+ 
+
+**III.** **FOREIGN APPLICATIONS OPEN FOR PUBLIC INSPECTION (LAID OPEN APPLICATIONS)** * 
+
+**Laid Open Applications May Constitute "Published" Documents**When the specification is not issued in printed form but is
+ announced in an official journal and anyone can inspect or obtain copies, it is
+ sufficiently accessible to the public to constitute a "publication" within the
+ meaning of **[35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** or
+ **[pre-AIA 35
+ U.S.C. 102(a) and (b)](mpep-9015-appx-l.html#d0e302383)**. See  *In re Wyer,* 655
+ F.2d 221, 210 USPQ 790 (CCPA 1981). 
+ 
+
+
+One board decision, however, has held that laid open patent
+ applications are not "published" and cannot constitute prior art. *Ex parte
+ Haller,* 103 USPQ 332 (Bd. App. 1953). Whether or not a document is
+ "published" for the purposes of **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#d0e302450)** depends on how accessible the document is to the public. As
+ technology has made reproduction of documents easier, the accessibility of the laid
+ open applications has increased. Items provided in easily reproducible form have thus
+ become "printed publications" as the phrase is used in **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.
+ *In re**Wyer,* 655 F.2d 221, 226, 210 USPQ 790, 794 (CCPA 1981) (Laid open
+ Australian patent application held to be a "printed publication" even though only the
+ abstract was published because it was laid open for public inspection, microfilmed,
+ "diazo copies" were distributed to five suboffices having suitable reproduction
+ equipment and the diazo copies were available for sale.). The contents of a foreign
+ patent application should not be relied upon as prior art until the date of
+ publication (i.e., the insertion into the laid open application) can be confirmed by
+ an examiner’s review of a copy of the document. See **[MPEP § 901.05](s901.html#d0e110750)**.
+ 
+
+**IV.** **PENDING U.S. APPLICATIONS**As specified in **[37 CFR 1.14(a)](mpep-9020-appx-r.html#d0e314245)**, all pending U.S.
+ applications are preserved in confidence except for published applications (see also
+ **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303063)**), reissue applications, and applications in which a request
+ to open the complete application to inspection by the public has been granted by the
+ Office (**[37 CFR
+ 1.11(b)](mpep-9020-appx-r.html#d0e314104)**). However, if an application that has not been published
+ has an assignee or inventor in common with the application being examined, a rejection
+ will be proper in some circumstances. For instance, when the claims between the two
+ applications are not independent or distinct, a provisional double patenting rejection
+ is made. See **[MPEP §
+ 804](s804.html#d0e98894)**. If the copending applications differ by at least one
+ inventor and at least one of the applications would have been obvious in view of the
+ other, a provisional rejection over **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** or
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302383)** or **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** is made when
+ appropriate. See **[MPEP §§
+ 2136.01](s2136.html#d0e205680)**, **[2146.03(a)](s2146.html#ch2100_d2c184_12851_21a)** and **[2154.01(d)](s2154.html#ch2100_d2c184_139ba_236)**.
+ 
+
+
+See **[MPEP
+ §§ 804](s804.html#d0e98894)**, **[2120.01](s2120.html#ch2100_d2c183_20d9a_21c)**, **[2136](s2136.html#d0e205544)** *et seq.* and  **[2154](s2154.html#ch2100_d20033_274f5_338)***et seq.* for information pertaining to rejections relying on U.S.
+ application publications.
+ 
+
+
+[[top]](#top)
+
+
+]

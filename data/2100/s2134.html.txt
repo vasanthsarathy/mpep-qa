@@ -1,0 +1,98 @@
+[
+# 2134 Pre-AIA 35 U.S.C. 102(c) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq. for examination of applications subject to those
+ provisions.]*
+
+
+Under **[pre-AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#d0e302383)**, abandonment of the "invention" (as
+ distinguished from abandonment of an application) results in loss of right to a patent.
+ 
+
+
+
+#### *Pre-AIA 35 U.S.C. 102   
+ Conditions for patentability; novelty and loss of right to patent.*
+
+
+A person shall be entitled to a patent unless -
+
+
+\*\*\*\*\*
+
+
+* (c) he has abandoned the invention.
+
+
+\*\*\*\*\*
+
+
+**I.** **UNDER 35 U.S.C. 102(c), AN ABANDONMENT MUST BE INTENTIONAL**"Actual abandonment under **[pre-AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#d0e302383)** requires
+ that the inventor intend to abandon the invention, and intent can be implied from the
+ inventor’s conduct with respect to the invention. *In re Gibbs,*
+ 437 F.2d 486, 168 USPQ 578 (CCPA 1971). Such intent to abandon the invention will not be
+ imputed, and every reasonable doubt should be resolved in favor of the inventor."
+ *Ex parte Dunne,* 20 USPQ2d 1479 (Bd. Pat. App. & Inter.
+ 1991).
+ 
+
+**II.** **DELAY IN MAKING FIRST APPLICATION**Abandonment under **[pre-AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#d0e302383)** requires a
+ deliberate, though not necessarily express, surrender of any rights to a patent. To
+ abandon the invention the inventor must intend a dedication to the public. Such
+ dedication may be either express or implied, by actions or inactions of the inventor.
+ *U.S. Rifle & Cartridge Co. v. Whitney Arms Co.,* 118 U.S. 22,
+ 25 (1886); *Consolidated Fruit–Jar Co. v. Wright,* 94 U.S. 92, 96
+ (1876). Delay alone is not sufficient to infer the requisite intent to abandon.
+ *Lovell v. Peer,* 148 F.2d 212, 214, 65 USPQ 127, 129 (CCPA 1945).
+ See also *Moore v. United**States,* 194 USPQ 423, 428 (Ct. Cl. 1977) (The drafting and retention
+ in his own files of two patent applications by inventor indicates an intent to retain
+ his invention; delay in filing the applications was not sufficient to establish
+ abandonment); but see *Davis Harvester Co., Inc. v. Long Mfg. Co.,* 252
+ F. Supp. 989, 1009-10, 149 USPQ 420, 435-436 (E.D. N.C. 1966) (Where the inventor does
+ nothing over a period of time to develop or patent his invention, ridicules the attempts
+ of another to develop that invention and begins to show active interest in promoting and
+ developing his invention only after successful marketing by another of a device
+ embodying that invention, the inventor has abandoned his invention under
+ **[pre-AIA 35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#d0e302383)**.).
+ 
+
+**III.** **DELAY IN REAPPLYING FOR PATENT AFTER ABANDONMENT OF PREVIOUS PATENT
+ APPLICATION**Where there is no evidence of expressed intent or conduct by inventor
+ to abandon the invention, delay in reapplying for patent after abandonment of a previous
+ application does not constitute abandonment under **[pre-AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#d0e302383)**.
+ *Petersen v. Fee Int’l, Ltd.,* 381 F. Supp. 1071, 182 USPQ 264 (W.D.
+ Okla. 1974).
+ 
+
+**IV.** **DISCLOSURE WITHOUT CLAIMING IN A PRIOR ISSUED PATENT**Any inference of abandonment (i.e., intent to dedicate to the public)
+ of subject matter disclosed but not claimed in a previously issued patent is rebuttable
+ by an application filed at any time before a statutory bar arises. Accordingly, a
+ rejection of a claim of a patent application under **[pre-AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#d0e302383)** predicated
+ solely on the issuance of a patent which discloses the subject matter of the claim in
+ the application without claiming it would be improper, regardless of whether there is
+ copendency between the application at issue and the application which issued as the
+ patent. *In re Gibbs,* 437 F.2d 486, 168 USPQ 578 (CCPA 1971).
+ 
+
+**V.** **ONLY WHEN THERE IS A PRIORITY CONTEST CAN A LAPSE OF TIME BAR A PATENT**The mere lapse of time will not bar a patent. The only exception is
+ when there is a priority contest under **[pre-AIA 35 U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302383)** and
+ applicant abandons, suppresses or conceals the invention. *Panduit Corp. v.
+ Dennison Mfg.**Co.,* 774 F.2d 1082, 1101, 227 USPQ 337, 350 (Fed. Cir. 1985).
+ Abandonment, suppression and concealment are treated by the courts under
+ **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302383)**. See **[MPEP § 2138.03](s2138.html#d0e207478)** for more information on
+ this issue.
+ 
+
+
+[[top]](#top)
+
+
+]

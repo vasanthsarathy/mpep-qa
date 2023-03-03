@@ -1,0 +1,492 @@
+[
+# 2187 Form Paragraphs for Use Relating to 35 U.S.C. 112(f)
+ or Pre-AIA 35 U.S.C. 112, Sixth Paragraph [R-10.2019]
+
+
+Form paragraphs **[7.30.03.h](#fp7.30.03.h)**, **[7.30.03](#fp7.30.03)**, and **[7.30.05](#fp7.30.05)** - **[7.30.07](#fp7.30.07)** should be used, as appropriate,
+ when a claim limitation invokes **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph. See **[MPEP § 2181](s2181.html#d0e219279)**. For rejections under
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph
+ relating to **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ use form paragraphs **[7.34.23](#fp7.34.23)** - **[7.34.24](#fp7.34.24)**
+
+
+# ¶ 7.30.03.h Header for Claim Interpretation
+
+
+*CLAIM INTERPRETATION*
+
+
+### Examiner Note:
+
+ * 1. This form paragraph may be used in a first Office action or
+ when a claim interpretation issue first arises, and need only be used once in an
+ application, when appropriate.
+* 2. This form paragraph may be used to preface any clarifying
+ remarks regarding claim interpretation that the examiner chooses to add to enhance the
+ prosecution record.
+* 3. This form paragraph should precede form paragraphs **[7.30.03](#fp7.30.03)** and
+ **[7.30.05](#fp7.30.05)**,
+ when applicable.
+
+
+
+# ¶ 7.30.03 Statement of Statutory Basis, 35 U.S.C. 112(f) or pre-AIA 35 U.S.C. 112, sixth
+ paragraph
+
+
+The following is a quotation of **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)**:
+ 
+
+
+
+> 
+> * (f) ELEMENT IN CLAIM FOR A
+>  COMBINATION.—An element in a claim for a combination may be
+>  expressed as a means or step for performing a specified function
+>  without the recital of structure, material, or acts in support
+>  thereof, and such claim shall be construed to cover the
+>  corresponding structure, material, or acts described in the
+>  specification and equivalents thereof.
+> 
+> 
+> 
+
+
+The following is a quotation of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph:
+ 
+
+
+
+> 
+> An element in a claim for a combination may
+>  be expressed as a means or step for performing a specified function without the
+>  recital of structure, material, or acts in support thereof, and such claim shall
+>  be construed to cover the corresponding structure, material, or acts described in
+>  the specification and equivalents thereof.
+>  
+> 
+> 
+> 
+
+
+### Examiner Note:
+
+ * 1. The statute is no longer being
+ re-cited in all Office actions. It is only required in first actions on the
+ merits and final rejections. Where the statute is not being cited in an
+ action on the merits, use paragraph **[7.103](#fp7.103)**.
+* 2. Use this paragraph ONLY ONCE in a
+ given Office action when claim elements use "means" (or "step for") or
+ otherwise invoke treatment under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph.
+* 3. This form paragraph must be preceded by
+ **[7.30.03.h](#fp7.30.03.h)** and followed with form paragraph
+ **[7.30.05](#fp7.30.05)**.
+
+
+
+# ¶ 7.30.05 Broadest Reasonable Interpretation under 35 U.S.C.
+ 112(f) or pre-AIA 35 U.S.C. 112, Sixth Paragraph: Use of "Means" (or "Step") in Claim
+ Drafting and Rebuttable Presumptions Raised
+
+
+The claims in this application are given their broadest
+ reasonable interpretation using the plain meaning of the claim language in light of the
+ specification as it would be understood by one of ordinary skill in the art. The
+ broadest reasonable interpretation of a claim element (also commonly referred to as a
+ claim limitation) is limited by the description in the specification when
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, is invoked.
+ 
+
+
+As explained in **[MPEP § 2181](s2181.html#d0e219279)**, subsection I, claim
+ limitations that meet the following three-prong test will be interpreted under
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph:
+ 
+
+
+* (A) the claim limitation uses the term "means" or "step"
+ or a term used as a substitute for "means" that is a generic placeholder
+ (also called a nonce term or a non-structural term having no specific
+ structural meaning) for performing the claimed function;
+* (B) the term "means" or "step" or the generic placeholder
+ is modified by functional language, typically, but not always linked by the
+ transition word "for" (e.g., "means for") or another linking word or phrase,
+ such as "configured to" or "so that"; and
+* (C) the term "means" or "step" or the generic placeholder
+ is not modified by sufficient structure, material, or acts for performing
+ the claimed function.
+
+
+Use of the word "means" (or "step") in a claim with
+ functional language creates a rebuttable presumption that the claim limitation is to be
+ treated in accordance with **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph. The presumption that the claim
+ limitation is interpreted under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph, is rebutted when the claim
+ limitation recites function without reciting sufficient structure, material or acts to
+ entirely perform the recited function.
+ 
+
+
+Absence of the word "means" (or "step") in a claim creates a
+ rebuttable presumption that the claim limitation is not to be treated in accordance with
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph. The presumption that the claim limitation is not interpreted under
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, is rebutted when the claim limitation recites function without reciting
+ sufficient structure, material or acts to entirely perform the recited function.
+ 
+
+
+Claim limitations in this application that use the word
+ "means" (or "step") are being interpreted under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, except as otherwise indicated in an Office action. Conversely, claim
+ limitations in this application that do not use the word "means" (or "step") are not
+ being interpreted under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph, except as otherwise indicated in
+ an Office action.
+ 
+
+
+### Examiner Note:
+
+ * 1. Use this paragraph ONLY ONCE in a given Office
+ action the first time that a claim limitation uses "means" (or "step") or
+ otherwise invokes treatment under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph, by using a substitute term for
+ "means" that serves as a generic placeholder.
+* 2. This paragraph must be preceded with form
+ paragraph **[7.30.03](#fp7.30.03)** unless already cited in a
+ previous Office action.
+* 3. When a claim limitation is being interpreted
+ under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph (i.e., it
+ meets the three-prong test), to provide clarification the examiner may
+ identify the structure, material, or act disclosed in the specification that
+ supports the recited function by adding explanatory remarks after this
+ paragraph.
+* 4. When the presumptions raised are rebutted by the
+ claim language, for example by not using "means" and failing to recite
+ structure that performs the function, or by using "means" along with
+ definite structure that performs the function, use form paragraph
+ **[7.30.06](#fp7.30.06)** and/or
+ **[7.30.07](#fp7.30.07)**.
+	+ Follow this form paragraph with form paragraph
+	 **[7.30.06](#fp7.30.06)** when, despite the absence
+	 of the word "means," a claim limitation is interpreted under
+	 **[35 U.S.C.
+	 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C.
+	 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph.
+	+ Follow this form paragraph with form paragraph
+	 **[7.30.07](#fp7.30.07)** when, despite the presence
+	 of the word "means," a claim limitation is
+	 **not** being interpreted
+	 under **[35 U.S.C.
+	 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C.
+	 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph.
+* 5. A claim limitation interpreted under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph, that raises issues under
+ **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**
+ and/or **[112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first and/or second
+ paragraphs, respectively, should also be addressed, as appropriate. See
+ **[MPEP §
+ 2185](s2185.html#d0e220550)**.
+
+
+
+# ¶ 7.30.06 35 U.S.C. 112(f) or pre-AIA 35 U.S.C. 112, Sixth Paragraph,
+ Invoked Despite Absence of "Means"
+
+
+This application includes one or more claim limitations that do not use
+ the word "means," but are nonetheless being interpreted under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ because the claim limitation(s) uses a generic placeholder that is coupled with functional
+ language without reciting sufficient structure to perform the recited function and the generic
+ placeholder is not preceded by a structural modifier. Such claim limitation(s) is/are:
+ **[1]** in claim **[2]**.
+ 
+
+
+Because this/these claim limitation(s) is/are being interpreted under
+ **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ it/they is/are being interpreted to cover the corresponding structure described in the
+ specification as performing the claimed function, and equivalents thereof.
+ 
+
+
+If applicant does not intend to have this/these limitation(s) interpreted
+ under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ applicant may: (1) amend the claim limitation(s) to avoid it/them being interpreted under
+ **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph
+ (e.g., by reciting sufficient structure to perform the claimed function); or (2) present a
+ sufficient showing that the claim limitation(s) recite(s) sufficient structure to perform the
+ claimed function so as to avoid it/them being interpreted under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph.
+ 
+
+
+### Examiner Note:
+
+ * 1. Use this paragraph ONLY ONCE in a given Office action the
+ first time that a claim limitation invokes treatment under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph by using a substitute term for "means" that serves as a generic
+ placeholder.
+* 2. In bracket 1, identify each claim limitation, and in
+ bracket 2 indicate the claim(s) in which each respective limitation appears.
+* 3. This paragraph must be preceded with form paragraph
+ **[7.30.05](#fp7.30.05)**
+ unless already cited in a previous Office action.
+
+
+
+# ¶ 7.30.07 35 U.S.C. 112(f) or pre-AIA 35 U.S.C. 112, Sixth Paragraph, Not Invoked Despite Presence of "Means" or "Step"
+
+
+This application includes one or more claim limitations that use
+ the word "means" or "step" but are nonetheless **not** being
+ interpreted under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph
+ because the claim limitation(s) recite(s) sufficient structure, materials, or acts to entirely
+ perform the recited function. Such claim limitation(s) is/are: **[1]** in claim
+ **[2]**.
+ 
+
+
+Because this/these claim limitation(s) is/are
+ **not** being interpreted under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ it/they is/are **not** being interpreted to cover only the
+ corresponding structure, material, or acts described in the specification as performing the
+ claimed function, and equivalents thereof.
+ 
+
+
+If applicant intends to have this/these limitation(s) interpreted
+ under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ applicant may: (1) amend the claim limitation(s) to remove the structure, materials, or acts
+ that performs the claimed function; or (2) present a sufficient showing that the claim
+ limitation(s) does/do not recite sufficient structure, materials, or acts to perform the
+ claimed function.
+ 
+
+
+### Examiner Note:
+
+ * 1. Use this paragraph ONLY ONCE in a given Office action the
+ first time that a claim limitation includes the word "means" or "step" but does
+ **not** invoke treatment under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph because sufficient structure, materials, or acts to perform the recited
+ function are present.
+* 2. In bracket 1, identify each claim limitation, and in
+ bracket 2 indicate the claim(s) in which each respective limitation appears.
+* 3. This paragraph must be preceded with form paragraph
+ **[7.30.05](#fp7.30.05)**
+ unless already cited in a previous Office action.
+
+
+
+# ¶ 7.34.23  Rejections Under 35 U.S.C. 112(b) or pre-AIA 35 U.S.C. 112,
+ Second Paragraph: Claim Limitation is Interpreted under 35 U.S.C. 112(f) or pre-AIA 35 U.S.C.
+ 112, Sixth paragraph, but Disclosure of the Structure, Material, or Acts for Performing the
+ Function Recited in a Claim Is Lacking, Insufficient, or Not Clearly Linked
+
+
+Claim limitation "**[1]**" invokes **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph.
+ However, the written description fails to disclose the corresponding structure, material, or
+ acts for performing the entire claimed function and to clearly link the structure, material,
+ or acts to the function. **[2]** Therefore, the claim is indefinite and is rejected
+ under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph.
+ 
+
+
+Applicant may:
+
+
+* (a) Amend the claim so that the claim limitation will no longer be
+ interpreted as a limitation under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph;
+* (b) Amend the written description of the specification such that it
+ expressly recites what structure, material, or acts perform the entire claimed function,
+ without introducing any new matter (**[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)**); or
+* (c) Amend the written description of the specification such that it
+ clearly links the structure, material, or acts disclosed therein to the function recited
+ in the claim, without introducing any new matter (**[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)**).
+
+
+If applicant is of the opinion that the written description of the
+ specification already implicitly or inherently discloses the corresponding structure,
+ material, or acts and clearly links them to the function so that one of ordinary skill in the
+ art would recognize what structure, material, or acts perform the claimed function, applicant
+ should clarify the record by either:
+ 
+
+
+* (a) Amending the written description of the specification such that
+ it expressly recites the corresponding structure, material, or acts for performing the
+ claimed function and clearly links or associates the structure, material, or acts to the
+ claimed function, without introducing any new matter (**[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)**);
+ or
+* (b) Stating on the record what the corresponding structure,
+ material, or acts, which are implicitly or inherently set forth in the written
+ description of the specification, perform the claimed function. For more information,
+ see **[37 CFR
+ 1.75(d)](mpep-9020-appx-r.html#d0e320295)** and **[MPEP §§ 608.01(o)](s608.html#d0e46173)** and
+ **[2181](s2181.html#d0e219279)**.
+
+
+### Examiner Note:
+
+ * 1.  In bracket 1, recite the limitation that invokes **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph.
+* 2.  In bracket 2, explain why there is insufficient disclosure of the
+ corresponding structure, material, or acts for performing the entire claimed function or
+ why there is no clear linkage between the structure, material, or acts and the function.
+ For example, explain that (i) the disclosure is devoid of any structure that performs
+ the function in the claim, (ii) the structure described in the specification does not
+ perform the entire function in the claim, or (iii) no association between the structure
+ and the function can be found in the specification.
+* 3.  This form paragraph must be preceded by form paragraphs
+ **[7.30.03.h](#fp7.30.03.h)**, **[7.30.03](#fp7.30.03)**, and
+ **[7.30.05](#fp7.30.05)**
+ (to set forth the claim interpretation and statutory basis for **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph), and then **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)** and **[7.34.01](#fp7.34.01)** (to set forth the statutory basis for the
+ indefiniteness rejection and identify the claim at issue) and
+ **[7.30.06](#fp7.30.06)**,
+ if appropriate (invoked despite the absence of means).
+* 4. When a rejection is made under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph, because the disclosure is inadequate to support the limitation interpreted
+ under **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, a rejection under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, for lack of written description should also
+ be considered. See **[MPEP §
+ 2181](s2181.html#d0e219279)**, subsection IV.
+
+
+
+# ¶ 7.34.24 Rejections under 35 U.S.C. 112(b) or pre-AIA 35 U.S.C. 112, Second
+ Paragraph: Unclear Whether Claim Limitation Is To Be Interpreted Under 35 U.S.C. 112(f) or
+ pre-AIA 35 U.S.C. 112, Sixth Paragraph – Result of 3-Prong Test Inconclusive
+
+
+Claim limitation **[1]** has been evaluated under the three-prong
+ test set forth in **[MPEP §
+ 2181](s2181.html#d0e219279)**, subsection I, but the result is inconclusive. Thus, it is
+ unclear whether this limitation should be interpreted under **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ because **[2]**. The boundaries of this claim limitation are ambiguous; therefore,
+ the claim is indefinite and is rejected under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ second paragraph. 
+ 
+
+
+In response to this rejection, applicant must clarify whether this
+ limitation should be interpreted under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ sixth paragraph. Mere assertion regarding applicant’s intent to invoke or not invoke
+ **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph is
+ insufficient. Applicant may:
+ 
+
+
+* (a) Amend the claim to clearly invoke **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, by reciting "means" or a generic placeholder for means, or by reciting
+ "step." The "means," generic placeholder, or "step" must be modified by functional
+ language, and must not be modified by sufficient structure, material, or acts for
+ performing the claimed function;
+* (b) Present a sufficient showing that **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, should apply because the claim limitation recites a function to be performed
+ and does not recite sufficient structure, material, or acts to perform that function;
+* (c) Amend the claim to clearly avoid invoking **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, by deleting the function or by reciting sufficient structure, material or
+ acts to perform the recited function; or
+* (d) Present a sufficient showing that **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, does not apply because the limitation does not recite a function or does
+ recite a function along with sufficient structure, material or acts to perform that
+ function.
+
+
+### Examiner Note:
+
+ * 1.  This paragraph should be used after the examiner has attempted to
+ perform the three-prong analysis from **[MPEP § 2181](s2181.html#d0e219279)**, subsection I, and is
+ unable to conclude whether the claim limitation should be treated under
+ **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph, because of ambiguous words in the claim. This situation should be rare.
+* 2.  In bracket 1, identify the claim and claim limitation that causes
+ the claim to be rejected under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph.
+* 3.  In bracket 2, identify the reason that the three-prong test was
+ inclusive. The possibilities include:
+	+ the term "means" or generic placeholder is modified by a
+	 word, which is ambiguous regarding whether it conveys structure or function;
+	+ the term "step" is modified by a word, which is ambiguous
+	 regarding whether it conveys an act or a function;
+	+ the claim limitation uses the word "means" or a generic
+	 placeholder coupled with functional language, but it is modified by some structure or
+	 material that is ambiguous regarding whether that structure or material is sufficient
+	 for performing the claimed function;
+	+ the claim limitation uses the word "step" coupled with
+	 functional language, but it is modified by some act that is ambiguous regarding
+	 whether that act is sufficient for performing the claimed function.
+* 4. This form paragraph may also be used in response to an
+ applicant's reply in which applicant disputes the application of **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph. See **[MPEP §
+ 707.07(a)](s707.html#d0e74584)** for guidance on when the second action may be made
+ final.
+* 5. This form paragraph must be preceded by form paragraphs
+ **[7.30.03.h](#fp7.30.03.h)**, **[7.30.03](#fp7.30.03)**, and
+ **[7.30.05](#fp7.30.05)**
+ (to set forth the claim interpretation and statutory basis for **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph), and then **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)** and **[7.34.01](#fp7.34.01)** (to set forth the statutory basis for the
+ indefiniteness rejection).
+
+
+
+[[top]](#top)
+
+
+]

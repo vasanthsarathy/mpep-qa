@@ -1,0 +1,76 @@
+[
+# 2182 Search and Identification of the Prior Art [R-08.2017]
+
+
+The application of a prior art reference to a means- (or step-)
+ plus-function limitation requires that the prior art element perform the identical function
+ specified in the claim. However, if a prior art reference only teaches identity of function
+ to that specified in a claim, then an examiner carries the initial
+ burden of proof for showing that the prior art structure or step is the same as or
+ equivalent to the structure, material, or acts described in the specification which has
+ been identified as corresponding to the claimed means- (or step-) plus-function. Similarly,
+ if the prior art reference teaches the identical structure or acts but is silent about
+ performing the claimed function, a reasonable presumption is that the prior art structure
+ inherently performs the same function. The examiner must provide a "sound basis for
+ believing" that the prior art structure or acts would be capable of performing the claimed
+ function. *In re Spada,* 911 F.2d 705, 708, 15 USPQ2d 1655, 1658 (Fed.
+ Cir. 1990). See **[MPEP §
+ 2114](s2114.html#d0e201520)**, subsection I, for more information on establishing
+ inherency for functional limitations. 
+ 
+
+
+The means- (or step-) plus- function limitation should be interpreted in a
+ manner consistent with the specification disclosure. The Federal Circuit explained the two
+ step analysis involved in construing means- (or step-) plus- function limitations in
+ *Golight Inc. v. Wal-Mart Stores Inc.,* 355 F.3d 1327, 1333-34, 69
+ USPQ2d 1481, 1486 (Fed. Cir. 2004): 
+ 
+
+
+
+> 
+> The first step in construing a means-plus-function claim limitation is
+>  to define the particular function of the claim limitation. *Budde v.
+>  Harley-Davidson, Inc.,* 250 F.3d 1369, 1376, 58 USPQ2d 1801, 1806 (Fed. Cir.
+>  2001). "The court must construe the function of a means-plus-function limitation to
+>  include the limitations contained in the claim language, and only those limitations."
+>  *Cardiac Pacemakers, Inc. v. St. Jude Med., Inc.,* 296 F.3d 1106,
+>  1113, 63 USPQ2d 1725, 1730 (Fed. Cir. 2002). The next step in construing a
+>  means-plus-function claim limitation is to look to the specification and identify the
+>  corresponding structure for that function. "Under this second step, ‘structure disclosed
+>  in the specification is "corresponding" structure only if the specification or
+>  prosecution history clearly links or associates that structure to the function recited
+>  in the claim.’" *Med. Instrumentation & Diagnostics Corp. v. Elekta
+>  AB,* 344 F.3d 1205, 1210, 68 USPQ2d 1263, 1267 (Fed. Cir. 2003) (quoting
+>  *B. Braun Med. Inc. v. Abbott Labs.,* 124 F.3d 1419, 1424, 43 USPQ2d
+>  1896, 1900 (Fed. Cir. 1997)).
+>  
+> 
+> 
+> 
+
+
+If the specification defines what is meant by the limitation for the
+ purposes of the claimed invention, the examiner should interpret the limitation as having
+ that meaning. If no definition is provided, some judgment must be exercised in determining
+ the scope of the limitation. See, e.g., *B. Braun Medical, Inc. v. Abbott
+ Labs.,* 124 F.3d 1419, 1424, 43 USPQ2d 1896, 1900 (Fed. Cir. 1997) ("We hold
+ that, pursuant to [**[35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph], structure disclosed in the
+ specification is ‘corresponding’ structure only if the specification or prosecution history
+ clearly links or associates that structure to the function recited in the claim. This duty
+ to link or associate structure to function is the *quid pro quo* for the
+ convenience of employing **[112](mpep-9015-appx-l.html#d0e302824)**, paragraph 6." The court refused to interpret a
+ means-plus-function limitation as corresponding to a disclosed valve seat structure, as
+ argued by patentee, since there was no indication in the specification or prosecution
+ history that this structure corresponds to the recited function, and there was an
+ explicitly clear association between that function and a traverse cross section bar
+ structure disclosed in the specification.).
+ 
+
+
+[[top]](#top)
+
+
+]

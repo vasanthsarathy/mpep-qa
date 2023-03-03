@@ -1,0 +1,154 @@
+[
+# 2184 Determining Whether an Applicant Has Met the Burden of Proving
+ Nonequivalence After a *Prima Facie* Case Is Made [R-11.2013]
+
+
+The specification need not necessarily describe the equivalents of the
+ structures, material, or acts corresponding to the means-(or step-) plus-function claim
+ element. See *In re Noll,* 545 F.2d 141, 149-50, 191 USPQ 721, 727 (CCPA
+ 1976) (if the meaning of equivalents is well understood in patent law, then an applicant
+ need not describe in his specification the full range of equivalents of his invention).
+ *Cf.**Hybritech Inc. v. Monoclonal Antibodies, Inc.,* 802 F.2d 1367, 1384, 231
+ USPQ 81, 94 (Fed. Cir. 1986) ("a patent need not teach, and preferably omits, what is well
+ known in the art"). Where, however, the specification is silent as to what constitutes
+ equivalents and the examiner has made out a *prima facie* case of
+ equivalence, the burden is placed upon the applicant to show that a prior art element which
+ performs the claimed function is not an equivalent of the structure, material, or acts
+ disclosed in the specification. See *In re Mulder,* 716 F.2d 1542, 1549,
+ 219 USPQ 189, 196 (Fed. Cir. 1983).
+ 
+
+
+If the applicant disagrees with the inference of equivalence drawn from a
+ prior art reference, the applicant may provide reasons why the applicant believes the prior
+ art element should not be considered an equivalent to the specific structure, material or
+ acts disclosed in the specification. Such reasons may include, but are not limited to: 
+ 
+
+
+* (A) Teachings in the specification that particular prior art is not
+ equivalent;
+* (B) Teachings in the prior art reference itself that may tend to show
+ nonequivalence; or
+* (C) **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** affidavit evidence of facts tending to show
+ nonequivalence.
+
+**I.** **TEACHINGS IN APPLICANT’S SPECIFICATION**When the applicant relies on teachings in applicant’s own
+ specification, the examiner must make sure that the applicant is interpreting the means-
+ (or step-) plus- function limitation in the claim in a manner which is consistent with
+ the disclosure in the specification. If the specification defines what is meant by
+ "equivalents" to the disclosed embodiments for the purpose of the claimed means- (or
+ step-) plus- function, the examiner should interpret the limitation as having that
+ meaning. If no definition is provided, some judgment must be exercised in determining
+ the scope of "equivalents." Generally, an "equivalent" is interpreted as embracing more
+ than the specific elements described in the specification for performing the specified
+ function, but less than any element that performs the function specified in the claim.
+ See, e.g., *NOMOS Corp. v. BrainLAB USA Inc.,* 357 F.3d, 1364, 1368, 69
+ USPQ2d 1853, 1856 (Fed. Cir. 2004) (where only one embodiment is described, the
+ corresponding structure is limited to that embodiment and equivalents thereof). To
+ interpret means- (or step-) plus-function limitations as limited to a particular means
+ (or step) set forth in the specification would nullify the provisions of
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** requiring that the limitation shall be
+ construed to cover the structure described in the specification and equivalents thereof.
+ *D.M.I., Inc.**v.**Deere & Co.,* 755 F.2d 1570, 1574, 225 USPQ 236, 238 (Fed. Cir.
+ 1985).
+ 
+
+
+The scope of equivalents embraced by a claim limitation is dependent on
+ the interpretation of an "equivalent." The interpretation will vary depending on how the
+ element is described in the supporting specification. The claim may or may not be
+ limited to particular structure, material or acts (e.g., steps) as opposed to any and
+ all structure, material or acts performing the claimed function, depending on how the
+ specification treats that question. See, e.g., *Ishida Co. v. Taylor,*
+ 221 F.3d 1310, 55 USPQ2d 1449 (Fed. Cir. 2000) (The court construed the scope of a
+ means-plus-function claim element where the specification disclosed two structurally
+ very different embodiments for performing the claimed function by looking separately to
+ each embodiment to determine corresponding structures. The court declined to adopt a
+ single claim construction encompassing both embodiments since it would be so broad as to
+ describe systems both with and without the fundamental structural features of each
+ embodiment.).
+ 
+
+
+If the disclosure is so broad as to encompass any and all structures,
+ materials or acts for performing the claimed function, the claims must be read
+ accordingly when determining patentability. When this happens the limitation otherwise
+ provided by "equivalents" ceases to be a limitation on the scope of the claim in that an
+ equivalent would be any structure, material or act other than the ones described in the
+ specification that perform the claimed function. For example, this situation will often
+ be found in cases where (A) the claimed invention is a combination of elements, one or
+ more of which are selected from elements that are old, *per se,* or (B)
+ apparatus claims are treated as indistinguishable from method claims. See, for example,
+ *In re**Meyer,* 688 F.2d 789, 215 USPQ 193 (CCPA 1982); *In
+ re**Abele,* 684 F.2d 902, 909, 214 USPQ 682, 688 (CCPA 1982); *In
+ re Walter,* 618 F.2d 758, 767, 205 USPQ 397, 406-07 (CCPA 1980); *In
+ re**Maucorps,* 609 F.2d 481, 203 USPQ 812 (CCPA 1979); *In
+ re**Johnson,* 589 F.2d 1070, 200 USPQ 199 (CCPA 1978); and *In
+ re**Freeman,* 573 F.2d 1237, 1246, 197 USPQ 464, 471 (CCPA 1978). 
+ 
+
+
+On the other end of the spectrum, the "equivalents" limitation as
+ applied to a claim may also operate to constrict the claim scope to the point of
+ covering virtually only the disclosed embodiments. This can happen in circumstances
+ where the specification describes the invention only in the context of a specific
+ structure, material or act that is used to perform the function specified in the
+ claim.
+ 
+
+**II.** **FACTORS TO BE CONSIDERED IN DECIDING EQUIVALENCE**When deciding whether an applicant has met the burden of proof with
+ respect to showing nonequivalence of a prior art element that performs the claimed
+ function, the following factors may be considered. First, unless an element performs the
+ identical function specified in the claim, it cannot be an equivalent for the purposes
+ of **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph. *Pennwalt Corp.**v.**Durand-Wayland, Inc.,* 833 F.2d 931, 4 USPQ2d 1737 (Fed. Cir. 1987),
+ *cert. denied,* 484 U.S. 961 (1988).
+ 
+
+
+Second, while there is no litmus test for an "equivalent" that can be
+ applied with absolute certainty and predictability, there are several indicia that are
+ sufficient to support a conclusion that one element is or is not an "equivalent" of a
+ different element in the context of **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph. Indicia that will support a conclusion that
+ one element is or is not an equivalent of another are set forth in **[MPEP § 2183](s2183.html#d0e220121)**.
+ 
+
+**III.** **MERE ALLEGATIONS OF NONEQUIVALENCE ARE NOT SUFFICIENT** In determining whether arguments or **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)** evidence presented by
+ an applicant are persuasive that the element shown in the prior art is not an
+ equivalent, the examiner should consider and weigh as many of the above-indicated or
+ other indicia as are presented by applicant, and should determine whether, on balance,
+ the applicant has met the burden of proof to show nonequivalence. However, under no
+ circumstance should an examiner accept as persuasive a bare statement or opinion that
+ the element shown in the prior art is not an equivalent embraced by the claim
+ limitation. Moreover, if an applicant argues that the means- (or step-) plus-function
+ language in a claim is limited to certain specific structural or additional functional
+ characteristics (as opposed to "equivalents" thereof) where the specification does not
+ describe the invention as being only those specific characteristics, the claim should
+ not be allowed until the claim is amended to recite those specific structural or
+ additional functional characteristics. Otherwise, a claim could be allowed having broad
+ functional language which, in reality, is limited to only the specific structure or
+ steps disclosed in the specification. This would be contrary to public policy of
+ granting patents which provide adequate notice to the public as to a claim’s true
+ scope.
+ 
+
+**IV.** **APPLICANT MAY AMEND CLAIMS** Finally, as in the past, applicant has the opportunity during
+ proceedings before the Office to amend the claims so that the claimed invention meets
+ all the statutory criteria for patentability. An applicant may choose to amend the claim
+ by further limiting the function so that there is no longer identity of function with
+ that taught by the prior art element, or the applicant may choose to replace the claimed
+ means- (or step-) plus-function limitation with specific structure, material or acts
+ that are not described in the prior art.
+ 
+
+
+[[top]](#top)
+
+
+]

@@ -1,0 +1,23 @@
+[
+# 2122 Discussion of Utility in the Prior Art [R-08.2017]
+
+**UTILITY NEED NOT BE DISCLOSED IN REFERENCE**In order to constitute anticipatory prior art, a reference must
+ identically disclose the claimed compound, but no utility need be disclosed by the
+ reference. *In re**Schoenwald,* 964 F.2d 1122, 1124, 22 USPQ2d 1671, 1673 (Fed. Cir.
+ 1992) (The application claimed compounds used in ophthalmic compositions to treat dry
+ eye syndrome. The examiner found a printed publication which disclosed the claimed
+ compound but did not disclose a use for the compound. The court found that the claim was
+ anticipated since the compound and a process of making it was taught by the reference.
+ The court explained that "no utility need be disclosed for a reference to be
+ anticipatory of a claim to an old compound." It is enough that the claimed compound is
+ taught by the reference.). See also *Impax Labs. Inc. v. Aventis Pharm.
+ Inc.,* 468 F.3d 1366, 1383, 81 USPQ2d 1001, 1013 (Fed. Cir. 2006) ("[P]roof
+ of efficacy is not required for a prior art reference to be enabling for purposes of
+ anticipation.").
+ 
+
+
+[[top]](#top)
+
+
+]

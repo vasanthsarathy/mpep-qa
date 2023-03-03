@@ -1,0 +1,184 @@
+[
+# 2109 Inventorship [R-10.2019]
+
+
+The requirement that the applicant for a patent in an application filed
+ before September 16, 2012 be the inventor(s) (except as otherwise provided in
+ **[pre-AIA 37 CFR
+ 1.41](mpep-9020-appx-r.html#d0e317666)**), and that the inventor or each joint inventor be identified in
+ applications filed on or after September 16, 2012, are characteristics of U.S. patent law
+ not generally shared by other countries. Consequently, foreign applicants may misunderstand
+ U.S. law regarding naming of the actual inventors causing an error in the inventorship of a
+ U.S. application that may claim priority to a previous foreign application under
+ **[35 U.S.C.
+ 119](mpep-9015-appx-l.html#d0e302921)**. A request under **[37 CFR 1.48](mpep-9020-appx-r.html#d0e317930)** is required to correct any
+ error in the inventorship in the U.S. application as filed. See **[MPEP § 602.01(c)](s602.html#d0e4830ss602)***et seq.* Foreign applicants may need to be reminded of the requirement
+ for the same inventor or at least one common joint inventor between a U.S. application and
+ a **[35 U.S.C.
+ 119](mpep-9015-appx-l.html#d0e302921)** priority application. See **[MPEP §
+ 213.02](s213.html#ch200_d1ff72_1b289_213)**, subsection II. 
+ 
+
+
+If a determination is made that the inventive entity named in a U.S.
+ application is not correct, such as when a request under **[37 CFR 1.48(a)](mpep-9020-appx-r.html#d0e317930)** is not
+ granted or is not entered for technical reasons, but the admission therein regarding the
+ error in inventorship is uncontroverted, a rejection should be made on this basis. See
+ **[MPEP §
+ 2157](s2157.html#ch2100_d20034_1bb92_e7)** for rejections under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 115](mpep-9015-appx-l.html#d0e302875912)**, and
+ **[MPEP §
+ 2137](s2137.html#d0e206570)** for rejections under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302383)** (for
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**), for failure to set forth the correct
+ inventorship.
+ 
+
+**I.** **NAMING INVENTORSHIP**The inventor, or each individual who is a joint inventor
+ of a claimed invention, in an application for patent (other than a provisional
+ application) must execute an oath or declaration directed to the application, except as
+ provided for in **[37
+ CFR 1.64](mpep-9020-appx-r.html#aia_d0e319924)**. See **[MPEP § 602.01](s602.html#ch600_d1ff64_24f27_297)** for detailed
+ information pertaining to naming the inventor. See **[MPEP §
+ 602.01(a)](s602.html#ch600_d1ff64_29e5e_a0)** for the requirements of an inventor’s oath or
+ declaration in an application filed on or after September 16, 2012. See
+ **[MPEP §
+ 602.01(b)](s602.html#ch600_d1ffbe_2a437_2a7)** for the requirements of an original oath or
+ declaration in an application filed before September 16, 2012.
+ 
+
+
+For applications filed before September 16, 2012, **[pre-AIA 37 CFR
+ 1.41(a)(1)](mpep-9020-appx-r.html#d0e317678)** defines the inventorship of a nonprovisional
+ application as that inventorship set forth in the oath or declaration filed to comply
+ with the requirements of **[pre-AIA 37 CFR 1.63](mpep-9020-appx-r.html#d0e319759)**, except as
+ otherwise provided. Thus the party or parties executing an oath or declaration under
+ **[pre-AIA 37 CFR
+ 1.63](mpep-9020-appx-r.html#d0e319759)** are presumed to be the inventors. *Driscoll v.
+ Cebalo,* 5 USPQ2d 1477, 1481 (Bd. Pat. Inter. 1982); *In re
+ DeBaun,* 687 F.2d 459, 463, 214 USPQ 933, 936 (CCPA 1982) (The inventor of
+ an element, *per se,* and the inventor of that element as used in a
+ combination may differ. "The existence of combination claims does not evidence
+ inventorship by the patentee of the individual elements or subcombinations thereof if
+ the latter are not separately claimed apart from the combination." (quoting *In
+ re Facius,* 408 F.2d 1396, 1406, 161 USPQ 294, 301 (CCPA 1969) (emphasis in
+ original)); *Brader v. Schaeffer,* 193 USPQ 627, 631 (Bd. Pat. Inter.
+ 1976) (in regard to an inventorship correction: "[a]s between inventors their word is
+ normally taken as to who are the actual inventors" when there is no disagreement). 
+ 
+
+**II.** **AN INVENTOR MUST CONTRIBUTE TO THE CONCEPTION OF THE INVENTION**The definition for inventorship can be simply stated: "The threshold
+ question in determining inventorship is who conceived the invention. Unless a person
+ contributes to the conception of the invention, he is not an inventor. … Insofar as
+ defining an inventor is concerned, reduction to practice, *per se,* is
+ irrelevant [except for simultaneous conception and reduction to practice, *Fiers
+ v. Revel,* 984 F.2d 1164, 1168, 25 USPQ2d 1601, 1604-05 (Fed. Cir. 1993)].
+ One must contribute to the conception to be an inventor." *In re
+ Hardee,* 223 USPQ 1122, 1123 (Comm’r Pat. 1984). ). A person who shares in
+ the conception of a claimed invention is a joint inventor of that invention. *In
+ re VerHoef,* 888 F.3d 1362, 1366-67, 126 F.2d 1561, 1564-65 (Fed. Cir.
+ 2018). See also *Board of Education ex rel. Board of Trustees of Florida State
+ Univ. v. American Bioscience Inc.,* 333 F.3d 1330, 1340, 67 USPQ2d 1252,
+ 1259 (Fed. Cir. 2003) ("Invention requires conception." With regard to the inventorship
+ of chemical compounds, an inventor must have a conception of the specific compounds
+ being claimed. "[G]eneral knowledge regarding the anticipated biological properties of
+ groups of complex chemical compounds is insufficient to confer inventorship status with
+ respect to specifically claimed compounds."); *Ex parte Smernoff,* 215
+ USPQ 545, 547 (Bd. App. 1982) ("one who suggests an idea of a result to be accomplished,
+ rather than the means of accomplishing it, is not an coinventor"). See
+ **[MPEP
+ § 2138.04](s2138.html#d0e207607)** - **[§ 2138.05](s2138.html#d0e207753)** for a discussion of what
+ evidence is required to establish conception or reduction to practice. 
+ 
+
+**III.** **THE INVENTOR IS NOT REQUIRED TO REDUCE THE INVENTION TO PRACTICE**Difficulties arise in separating members of a team effort, where each
+ member of the team has contributed something, into those members that actually
+ contributed to the conception of the invention, such as the physical structure or
+ operative steps, from those members that merely acted under the direction and
+ supervision of the conceivers. *Fritsch v. Lin,* 21 USPQ2d 1737, 1739
+ (Bd. Pat. App. & Inter. 1991) (The inventor "took no part in developing the
+ procedures…for expressing the EPO gene in mammalian host cells and isolating the
+ resulting EPO product." However, "it is not essential for the inventor to be personally
+ involved in carrying out process steps…where implementation of those steps does not
+ require the exercise of inventive skill."); *In re DeBaun,* 687 F.2d
+ 459, 463, 214 USPQ 933, 936 (CCPA 1982) ("there is no requirement that the inventor be
+ the one to reduce the invention to practice so long as the reduction to practice was
+ done on his behalf").
+ 
+
+
+See also *Mattor**v.**Coolegem,* 530 F.2d 1391, 1395, 189 USPQ 201, 204 (CCPA 1976) (one
+ following oral instructions is viewed as merely a technician); *Tucker v.
+ Naito,* 188 USPQ 260, 263 (Bd. Pat. Inter. 1975) (inventors need not
+ "personally construct and test their invention"); *Davis**v.**Carrier,* 81 F.2d 250, 252, 28 USPQ 227, 229 (CCPA 1936)
+ (noninventor’s work was merely that of a skilled mechanic carrying out the details of a
+ plan devised by another). 
+ 
+
+**IV.** **JOINT INVENTORSHIP**Pursuant to **[35 U.S.C. 116](mpep-9015-appx-l.html#d0e302886912)**, "[w]hen an invention
+ is made by two or more persons jointly, they shall apply for patent jointly and each
+ make the required oath, except as otherwise provided in this title. Inventors may apply
+ for a patent jointly even though (1) they did not physically work together or at the
+ same time, (2) each did not make the same type or amount of contribution, or (3) each
+ did not make a contribution to the subject matter of every claim of the patent." 
+ 
+
+
+The inventive entity for a particular application is
+ based on some contribution to at least one of the claims made by each of the named joint
+ inventors. See **[MPEP § 2109.01](s2109.01.html#ch2100_d2c1f8_278a7_1e6)** for a detailed
+ discussion of the requirements for joint inventorship. See **[MPEP §
+ 602.09](s602.html#ch600_d1ff6a_1ba4a_ff)** regarding inquiries about the inventorship of each
+ claimed invention and regarding correction of inventorship when an application is
+ amended such that one (or more) of the named joint inventors is no longer a joint
+ inventor of the subject matter of any claim remaining in the application. 
+ 
+
+**V.** **INVENTORSHIP "BY ANOTHER"**Inventorship is generally "by another" where there are different
+ inventive entities and there is at least one inventor that is not in common. For
+ information relating to inventorship by "another" involving different inventive entities
+ with at least one inventor in common, see **[MPEP §
+ 2153.01(a)](s2153.html#ch2100_d20033_24e66_2ac)** for applications subject to examination under the
+ first inventor to file (FITF) provisions of the AIA, and **[MPEP § 2136.04](s2136.html#d0e206254)** for
+ applications subject to examination under pre-AIA law.
+ 
+
+**VI.** **EXAMINATION OF CONTINUING APPLICATION COMMONLY OWNED WITH ABANDONED PARENT
+ APPLICATION TO WHICH BENEFIT IS CLAIMED UNDER 35 U.S.C. 120**An application claiming the benefit of a prior filed copending national
+ or international application under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** must name as an
+ inventor at least one inventor named in the prior filed application. The prior filed
+ application must also disclose the named inventor’s invention claimed in at least one
+ claim of the later filed application in the manner provided by **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** for applications filed on or after September 16, 2012, or
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph for applications filed prior to September 16,
+ 2012. This practice contrasts with the practice in effect prior to November 8, 1984 (the
+ date of enactment of Public Law 98-622) where the inventorship entity in each of the
+ applications was required to be the same for benefit under **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)**.
+ 
+
+
+So long as the applications have at least one inventor in common and the
+ other requirements are met, the Office will permit a claim for **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**
+ benefit without any additional submissions or notifications from applicants regarding
+ inventorship differences.
+ 
+
+
+In addition to the normal examination conducted by the examiner, the
+ examiner must examine the earlier filed application to determine if the earlier and
+ later applications have at least one inventor in common and that the other
+ **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** and **[37 CFR 1.78](mpep-9020-appx-r.html#aia_d0e320662)** requirements are met.
+ See **[MPEP §
+ 211](s211.html#ch200_d1ff71_1bd25_18b)***et seq.* The claim for **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** benefit will be
+ permitted without examination of the earlier application for disclosure and support of
+ at least one claim of the later filed application under **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** unless it becomes necessary to do so, for example, because of
+ an intervening reference.
+ 
+
+
+[[top]](#top)
+
+
+]

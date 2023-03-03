@@ -1,0 +1,421 @@
+[
+# 2175 Form Paragraphs for Use in Rejections Under 35
+ U.S.C. 112(b) or Pre-AIA 35 U.S.C. 112, Second Paragraph [R-10.2019]
+
+
+Rejections under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112, second
+ paragraph](mpep-9015-appx-l.html#d0e302824)**, are discussed in **[MPEP §§ 2171](s2171.html#d0e217389)** - **[2174](s2174.html#d0e219224)** and
+ **[2181](s2181.html#d0e219279)**, subsection II. Form paragraphs **[7.30.02](#fp7.30.02)**,
+ **[7.34](#fp7.34)** through **[7.34.05](#fp7.34.05)**, **[7.34.07](#fp7.34.07)** through **[7.34.10](#fp7.34.10)**, **[7.34.12](#fp7.34.12)** through
+ **[7.34.15](#fp7.34.15)**,
+ **[7.35](#fp7.35)**, and  **[7.35.01](#fp7.35.01)** should be used to make rejections
+ under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112, second paragraph](mpep-9015-appx-l.html#d0e302824)**.
+ 
+
+
+# ¶ 7.30.02 Statement of Statutory Basis, 35 U.S.C. 112(b) and pre-AIA 35
+ U.S.C. 112, Second Paragraph
+
+
+The following is a quotation of
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)**:
+ 
+
+
+
+> 
+> (B) CONCLUSION.—The specification shall conclude with one or more
+>  claims particularly pointing out and distinctly claiming the subject matter which the
+>  inventor or a joint inventor regards as the invention.
+>  
+> 
+> 
+> 
+
+
+The following is a quotation of **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**,
+ second paragraph:
+ 
+
+
+
+> 
+> The specification shall conclude with one or more claims
+>  particularly pointing out and distinctly claiming the subject matter which the applicant
+>  regards as his invention.
+>  
+> 
+> 
+> 
+
+
+### Examiner Note:
+
+ * 1. The statute is no longer being
+ re-cited in all Office actions. It is only required in first actions on the merits and
+ final rejections. Where the statute is not being cited in an action on the merits, use
+ paragraph **[7.103](#fp7.103)**.
+* 2. Paragraphs
+ **[7.30.01](#fp7.30.01)**
+ and **[7.30.02](#fp7.30.02)**
+ are to be used ONLY ONCE in a given Office action.
+
+
+
+# ¶ 7.34 Rejection, 35 U.S.C. 112(b) or pre-AIA 35 U.S.C. 112, 2nd
+ Paragraph, Failure To Claim Inventor’s Invention
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824912)**, second paragraph,
+ as failing to set forth the subject matter which the inventor or a joint inventor, or for
+ applications subject to **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824912)** the applicant, regards as the invention. Evidence
+ that claim **[2]** fail(s) to correspond in scope with that which the inventor or a
+ joint inventor, or for pre-AIA applications the applicant, regards as the invention can be
+ found in the reply filed **[3]**. In that paper, the inventor or a joint inventor, or
+ for pre-AIA applications the applicant, has stated **[4]**, and this statement
+ indicates that the invention is different from what is defined in the claim(s) because
+ **[5]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)**.
+* 2. This paragraph is to be used
+ only where inventor or applicant has stated, somewhere other than in the application, as
+ filed, that the invention is something different from what is defined in the claim(s).
+* 3. In bracket 3, identify the
+ submission by inventor or applicant (which is not the application, as filed, but may be
+ in the remarks by applicant, in the brief, in an affidavit, etc.) by the date the paper
+ was filed in the USPTO.
+* 4. In bracket 4, set forth what
+ inventor or applicant has stated in the submission to indicate a different
+ invention.
+* 5. In bracket 5, explain how the
+ statement indicates an invention other than what is being claimed.
+
+
+
+# ¶ 7.34.01 Rejection, 35 U.S.C. 112(b) or pre-AIA 35 U.S.C. 112, 2nd
+ Paragraph, Failure To Particularly Point out and Distinctly Claim (Indefinite)
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph,
+ as being indefinite for failing to particularly point out and distinctly claim the subject
+ matter which the inventor or a joint inventor (or for applications subject to
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, the applicant), regards as the invention.
+ 
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)**.
+* 2. In bracket 1, pluralize "Claim" if necessary, insert claim
+ number(s), and insert --is-- or --are-- as appropriate.
+* 3. This form paragraph should be followed by one or more of the
+ following form paragraphs **[7.34.02](#fp7.34.02)** - **[7.34.10](#fp7.34.10)**, and/or **[7.34.23](#fp7.34.23)** - **[7.34.24](#fp7.34.24)** as applicable. If none of
+ these form paragraphs are appropriate, a full explanation of the deficiency of the
+ claims should be supplied. Whenever possible, identify the particular term(s) or
+ limitation(s) which render the claim(s) indefinite and state why such term or limitation
+ renders the claim indefinite. If the scope of the claimed subject matter can be
+ determined by one having ordinary skill in the art, a rejection using this form
+ paragraph would not be appropriate. See **[MPEP §§ 2171](s2171.html#d0e217389)** - **[2174](s2174.html#d0e219224)** for guidance.
+ See also form paragraph **[7.34.15](#fp7.34.15)** for *pro se* applicants.
+
+
+
+# ¶ 7.34.02 Terminology Used Inconsistent with Accepted Meaning
+
+
+Where applicant acts as his or her own lexicographer to specifically
+ define a term of a claim contrary to its ordinary meaning, the written description must
+ clearly redefine the claim term and set forth the uncommon definition so as to put one
+ reasonably skilled in the art on notice that the applicant intended to so redefine that claim
+ term. *Process Control Corp. v. HydReclaim Corp.*, 190 F.3d 1350, 1357, 52
+ USPQ2d 1029, 1033 (Fed. Cir. 1999). The term "**[1]**" in claim **[2]** is
+ used by the claim to mean "**[3]**," while the accepted meaning is
+ "**[4]**." The term is indefinite because the specification does not clearly redefine
+ the term.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 3, point out the meaning that is assigned to the term by applicant’s claims, taking into account the entire disclosure.
+* 2. In bracket 4, point out the accepted meaning of the term. Support for the examiner’s stated accepted meaning should be provided
+ through the citation of an appropriate reference source, e.g., textbook or dictionary. See **[MPEP § 2173.05(a)](s2173.html#d0e217839)**.
+* 3. This paragraph must be preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+* 4. This paragraph should only be used where the specification does not clearly redefine the claim term at issue.
+
+
+
+# ¶ 7.34.03 Relative Term - Term of Degree Rendering Claim Indefinite
+
+
+The term "**[1]"** in claim
+ **[2]** is a relative term which renders the claim indefinite. The term
+ "**[1]**" is not defined by the claim, the specification does not provide a
+ standard for ascertaining the requisite degree, and one of ordinary skill in the art would not
+ be reasonably apprised of the scope of the invention. **[3]**
+
+
+### Examiner Note:
+
+ * 1. In bracket 3, explain which
+ parameter, quantity, or other limitation in the claim has been rendered indefinite by
+ the use of the term appearing in bracket 1.
+* 2. This form paragraph must be
+ preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+
+
+
+# ¶ 7.34.04 Broader Range/Limitation And Narrow Range/Limitation in Same Claim
+
+
+A broad range or limitation together with a narrow range or limitation
+ that falls within the broad range or limitation (in the same claim) may be considered
+ indefinite if the resulting claim does not clearly set forth the metes and bounds of the
+ patent protection desired. See **[MPEP § 2173.05(c)](s2173.html#d0e218152)**. In the present instance, claim **[1]**
+ recites the broad recitation **[2]**, and the claim also recites **[3]**
+ which is the narrower statement of the range/limitation. The claim(s) are considered
+ indefinite because there is a question or doubt as to whether the feature introduced by such
+ narrower language is (a) merely exemplary of the remainder of the claim, and therefore not
+ required, or (b) a required feature of the claims.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 2, insert the broader range/limitation and where it appears in the claim; in bracket 3, insert the narrow range/limitation
+ and where it appears. This form paragraph may be modified to fit other instances of indefiniteness in the claims.
+* 2. This form paragraph must be preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+
+
+
+# ¶ 7.34.05 Lack of Antecedent Basis in the Claims
+
+
+Claim **[1]** recites the limitation **[2]** in **[3]**. There is insufficient antecedent basis for this limitation in the claim.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 2, insert the limitation which lacks antecedent basis, for example --said lever-- or --the lever--.
+* 2. In bracket 3, identify where in the claim(s) the limitation appears, for example, --line 3--, --the 3rd paragraph of the claim--, --the last 2 lines of the claim--, etc.
+* 3. This form paragraph should ONLY be used in aggravated situations where the lack of antecedent basis makes the scope of the
+ claim indeterminate. It must be preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+
+
+
+# ¶ 7.34.07 Claims Are a Literal Translation
+
+
+The claims are generally narrative and indefinite, failing to conform with current U.S. practice. They appear to be a literal
+ translation into English from a foreign document and are replete with grammatical and idiomatic errors.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+ 
+
+
+
+# ¶ 7.34.08 Indefinite Claim Language: "For Example"
+
+
+Regarding claim **[1]**, the phrase "for example" renders the claim indefinite because it is unclear whether the limitation(s) following the phrase
+ are part of the claimed invention. See **[MPEP § 2173.05(d)](s2173.html#d0e218251)**.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+ 
+
+
+
+# ¶ 7.34.09 Indefinite Claim Language: "Or The Like"
+
+
+Regarding claim **[1]**, the phrase "or the like" renders the claim(s) indefinite because the claim(s) include(s) elements not actually disclosed
+ (those encompassed by "or the like"), thereby rendering the scope of the claim(s) unascertainable. See **[MPEP § 2173.05(d)](s2173.html#d0e218251)**.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+ 
+
+
+
+# ¶ 7.34.10 Indefinite Claim Language: "Such As"
+
+
+Regarding claim **[1]**, the phrase "such as" renders the claim indefinite because it is unclear whether the limitations following the phrase are
+ part of the claimed invention. See **[MPEP § 2173.05(d)](s2173.html#d0e218251)**.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph **[7.34.01](#fp7.34.01)**.
+ 
+
+
+
+# ¶ 7.34.12 Essential Steps Omitted
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph,
+ as being incomplete for omitting essential steps, such omission amounting to a gap between the
+ steps. See **[MPEP §
+ 2172.01](s2172.html#d0e217526)**. The omitted steps are: **[2]**
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)**.
+* 2. In bracket 2, recite the steps
+ omitted from the claims.
+* 3. Give the rationale for
+ considering the omitted steps critical or essential.
+
+
+
+# ¶ 7.34.13 Essential Elements Omitted
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph,
+ as being incomplete for omitting essential elements, such omission amounting to a gap between
+ the elements. See **[MPEP §
+ 2172.01](s2172.html#d0e217526)**. The omitted elements are: **[2]**
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)**.
+* 2. In bracket 2, recite the
+ elements omitted from the claims.
+* 3. Give the rationale for
+ considering the omitted elements critical or essential.
+
+
+
+# ¶ 7.34.14 Essential Cooperative Relationships Omitted
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph,
+ as being incomplete for omitting essential structural cooperative relationships of elements,
+ such omission amounting to a gap between the necessary structural connections. See
+ **[MPEP §
+ 2172.01](s2172.html#d0e217526)**. The omitted structural cooperative relationships are:
+ **[2]**
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)**.
+* 2. In bracket 2, recite the
+ structural cooperative relationships of elements omitted from the
+ claims.
+* 3. Give the rationale for
+ considering the omitted structural cooperative relationships of elements being critical
+ or essential.
+
+
+
+# ¶ 7.34.15 Rejection Under 35 U.S.C. 112, Pro Se
+
+
+Claim **[1]** rejected as failing to define the invention in
+ the manner required by **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35
+ U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph.
+ 
+
+
+The claim(s) are narrative in form and replete with indefinite language.
+ The structure which goes to make up the device must be clearly and positively specified. The
+ structure must be organized and correlated in such a manner as to present a complete
+ operative device. The claim(s) must be in one sentence form only. Note the format of the
+ claims in the patent(s) cited.
+ 
+
+
+
+# ¶ 7.35 Rejection, 35 U.S.C. 112(b) or pre-AIA 35 U.S.C. 112, 2nd
+ Paragraph, Failure To Particularly Point out and Distinctly Claim - Omnibus Claim
+
+
+Claim **[1]** rejected under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph,
+ as being indefinite in that it fails to point out what is included or excluded by the claim
+ language. This claim is an omnibus type claim.
+ 
+
+
+### Examiner Note:
+
+ * 1. This rejection must be preceded
+ by form paragraph **[7.30.02](#fp7.30.02)** or **[7.103](#fp7.103)**.
+* 2. Use this paragraph to reject an
+ "omnibus" type claim. No further explanation is necessary.
+* 3. See **[MPEP § 1302.04(b)](s1302.html#d0e132159)** for
+ cancellation of such a claim by examiner’s amendment upon allowance.
+* 4. An example of an omnibus claim
+ is: "A device substantially as shown and described."
+
+
+
+# ¶ 7.35.01 Trademark or Trade Name as a Limitation in the Claim
+
+
+Claim **[1]** contains the
+ trademark/trade name **[2]**. Where a trademark or trade name is used in a claim as a
+ limitation to identify or describe a particular material or product, the claim does not comply
+ with the requirements of **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph. See *Ex parte Simpson*, 218 USPQ
+ 1020 (Bd. App. 1982). The claim scope is uncertain since the trademark or trade name cannot be
+ used properly to identify any particular material or product. A trademark or trade name is
+ used to identify a source of goods, and not the goods themselves. Thus, a trademark or trade
+ name does not identify or describe the goods associated with the trademark or trade name. In
+ the present case, the trademark/trade name is used to identify/describe **[3]** and,
+ accordingly, the identification/description is indefinite.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 2, insert the
+ trademark/trade name and where it is used in the claim.
+* 2. In bracket 3, specify the
+ material or product which is identified or described in the claim by the trademark/trade
+ name.
+
+
+
+[[top]](#top)
+
+
+]

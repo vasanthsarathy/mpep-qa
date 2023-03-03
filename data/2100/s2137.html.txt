@@ -1,0 +1,240 @@
+[
+# 2137 Pre-AIA 35 U.S.C. 102(f) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq. for examination of applications subject to those
+ provisions. See **[MPEP § 2157](s2157.html#ch2100_d20034_1bb92_e7)** for rejections based on
+ improper naming of the inventor in applications subject to the first inventor to file
+ provisions of the AIA.*
+
+
+*"Derivation" or "derived" as used in the
+ discussion below is in the context of pre-AIA law. "Derivation proceedings" as created
+ in the AIA are discussed in **[MPEP § 2310](s2310.html#ch2300_d2988c_24ad0_c7)** et seq.]*
+
+
+
+#### *Pre-AIA 35 U.S.C. 102   
+ Conditions for patentability; novelty and loss of right to patent.*
+
+
+A person shall be entitled to a patent unless -
+
+
+\*\*\*\*\*
+
+
+* (f) he did not himself invent the subject matter sought to be
+ patented.
+
+
+\*\*\*\*\*
+
+
+
+**[Pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** bars the issuance of a patent where an applicant did not
+ invent the subject matter being claimed and sought to be patented. Thus **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** requires that the correct inventor(s) of a claimed invention
+ be named in the patent application (and any subsequently issued patent). *In re
+ VerHoef,* 888 F.3d 1362, 1365, 126 USPQ2d 1561, 1563 (Fed. Cir. 2018);
+ *Pannu v. Iolab Corp.,* 155 F.3d 1344, 1349-50, 47 USPQ2d 1657, 1662
+ (Fed. Cir. 1998). See also **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, which requires that
+ whoever invents or discovers is the party who may obtain a patent for the particular
+ invention or discovery. 
+ 
+
+
+The examiner must presume the applicants are the proper
+ inventors unless there is evidence of record that another made the invention and that
+ applicant derived the invention from the true inventor. In the uncommon situation where it
+ is clear the application does not name the correct inventorship and there has been no
+ request to correct inventorship under **[37 CFR 1.48](mpep-9020-appx-r.html#d0e317930)**, the examiner should reject
+ the claims under **[pre-AIA
+ 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302383)**. *In re VerHoef,* 888 F.3d 1362,
+ 1368, 126 USPQ2d 1561, 1566 (Fed. Cir. 2018)(an affidavit by applicant made it clear that
+ he did not himself solely invent the subject matter sought to be patented because it
+ established that another person was a joint inventor of the claimed invention). 
+ 
+
+
+Where it can be shown that an inventor or at least one joint inventor
+ "derived" an invention from another, a rejection under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302383)** is proper.
+ *Ex parte Kusko,* 215 USPQ 972, 974 (Bd. App. 1981) ("most, if not all,
+ determinations under **[section 102(f)](mpep-9015-appx-l.html#d0e302420)** involve the question of whether one party derived an
+ invention from another").
+ 
+
+
+While derivation will bar the issuance of a patent to the deriver, a
+ disclosure by the deriver, absent a bar under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302383)**, will not bar
+ the issuance of a patent to the party from which the subject matter was derived.
+ *In re Costello,* 717 F.2d 1346, 1349, 219 USPQ 389, 390-91 (Fed. Cir.
+ 1983) ("[a] prior art reference that is not a statutory bar may be overcome [in an
+ application subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**] by two generally recognized methods": an
+ affidavit under **[37
+ CFR 1.131](mpep-9020-appx-r.html#aia_d0e323504)**, or an attribution affidavit under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)**);
+ *In re Facius,* 408 F.2d 1396, 1407, 161 USPQ 294, 302 (CCPA 1969) (if
+ an inventor or at least one joint inventor "… invented the subject matter upon which the
+ relevant disclosure in the patent was based, then the patent may not be used as a reference
+ against him notwithstanding the patent's silence as to the patentee's [inventive entity’s]
+ source of that subject matter."). See **[MPEP §§ 715.01](s715.html#d0e90633)***et seq.* and **[716.10](s716.html#d0e93797)**
+
+
+Where there is a published article identifying the authorship
+ (**[MPEP §
+ 715.01(c)](s715.html#d0e90779)**) or a patent identifying the inventorship
+ (**[MPEP §
+ 715.01(a)](s715.html#d0e90674)**) that discloses subject matter being claimed in an
+ application undergoing examination, the designation of authorship or inventorship does not
+ raise a presumption of inventorship with respect to the subject matter disclosed in the
+ article or with respect to the subject matter disclosed but not claimed in the patent so as
+ to justify a rejection under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302383)**. However, it
+ is incumbent upon the applicant of the application, in reply to an inquiry regarding the
+ appropriate inventorship under **[pre-AIA subsection (f)](mpep-9015-appx-l.html#d0e302420)**, or to rebut a
+ rejection under **[pre-AIA
+ 35 U.S.C. 102(a) or (e)](mpep-9015-appx-l.html#d0e302383)**, to provide a satisfactory showing by way of
+ affidavit under **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** that the inventorship of the application is correct in that the
+ reference discloses subject matter invented by the inventor or at least one joint inventor
+ rather than derived from the author or inventive entity notwithstanding the authorship of
+ the article or the inventorship of the patent, respectively. *In re Katz,*
+ 687 F.2d 450, 455, 215 USPQ 14, 18 (CCPA 1982) (inquiry is appropriate to clarify any
+ ambiguity created by an article regarding inventorship, and it is then incumbent upon the
+ applicant to provide "a satisfactory showing that would lead to a reasonable conclusion
+ that [inventor or at least one joint inventor] is the…inventor" of the subject matter
+ disclosed in the article and claimed in the application).
+ 
+
+
+In addition, subject matter qualifying as prior art only under
+ **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** may also be the basis for an *ex parte*
+ rejection under **[pre‑AIA
+ 35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** . However, **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302450)** states that
+ subsection (f) of **[pre-AIA
+ 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** will not preclude patentability where subject matter
+ developed by another person, that would otherwise qualify under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)**, and the claimed invention of an application under examination
+ were owned by the same person, subject to an obligation of assignment to the same person,
+ or involved in a joint research agreement, which meets the requirements of
+ **[pre-AIA 35 U.S.C.
+ 103(c)(2) and (c)(3)](mpep-9015-appx-l.html#d0e302450)**, at the time the invention was made. See
+ **[MPEP §
+ 2146](s2146.html#d0e213206)**.
+ 
+
+**I.** **DERIVATION REQUIRES COMPLETE CONCEPTION BY ANOTHER AND COMMUNICATION TO THE
+ ALLEGED DERIVER**"The mere fact that a claim recites the use of various components, each
+ of which can be argumentatively assumed to be old, does not provide a proper basis for a
+ rejection under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302383)**." *Ex parte Billottet,*
+ 192 USPQ 413, 415 (Bd. App. 1976). Derivation requires complete conception by another
+ and communication of that conception by any means to the party charged with derivation
+ prior to any date on which it can be shown that the one charged with derivation
+ possessed knowledge of the invention. *Kilbey v. Thiele,* 199 USPQ 290,
+ 294 (Bd. Pat. Inter. 1978).
+ 
+
+
+ See also *Price v. Symsek,* 988 F.2d 1187, 1190,
+ 26 USPQ2d 1031, 1033 (Fed. Cir. 1993); *Hedgewick v. Akers,* 497 F.2d
+ 905, 908, 182 USPQ 167, 169 (CCPA 1974). "Communication of a complete conception must be
+ sufficient to enable one of ordinary skill in the art to construct and successfully
+ operate the invention." *Hedgewick,* 497 F.2d at 908, 182 USPQ at 169.
+ See also *Gambro Lundia AB v. Baxter Healthcare Corp.,* 110 F.3d 1573,
+ 1577, 42 USPQ2d 1378, 1383 (Fed. Cir. 1997) (Issue in proving derivation is "whether the
+ communication enabled one of ordinary skill in the art to make the patented
+ invention.").
+ 
+
+**II.** **PARTY ALLEGING DERIVATION DOES NOT HAVE TO PROVE AN ACTUAL REDUCTION TO PRACTICE,
+ DERIVATION OF PUBLIC KNOWLEDGE, OR DERIVATION IN THIS COUNTRY**The party alleging derivation "need not prove an actual reduction to
+ practice in order to show derivation." *Scott v. Brandenburger,* 216
+ USPQ 326, 327 (Bd. App. 1982). Furthermore, the application of **[subsection (f)](mpep-9015-appx-l.html#d0e302420)** is
+ not limited to public knowledge derived from another, and "the
+ site of derivation need not be in this country to bar a deriver from patenting the
+ subject matter." *Ex parte Andresen,* 212 USPQ 100, 102 (Bd. App.
+ 1981).
+ 
+
+**III.** **DERIVATION DISTINGUISHED FROM PRIORITY OF INVENTION**Although derivation and priority of invention both focus on
+ inventorship, derivation addresses originality (i.e., who invented the subject matter),
+ whereas priority focuses on which party first invented the subject matter.
+ *Price v. Symsek,* 988 F.2d 1187, 1190, 26 USPQ2d 1031, 1033 (Fed.
+ Cir. 1993).
+ 
+
+**IV.** **Pre-AIA 35 U.S.C. 102(f) MAY APPLY WHERE Pre-AIA 35 U.S.C. 102(a) AND Pre-AIA 35
+ U.S.C. 102(e) ARE NOT AVAILABLE STATUTORY GROUNDS FOR REJECTION****[Pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302383)** does not require an inquiry into the relative dates of a
+ reference and the application, and therefore may be applicable where **[pre-AIA subsections (a) and
+ (e)](mpep-9015-appx-l.html#d0e302383)** are not available for references having an effective date
+ subsequent to the effective filing date of the application being examined. However, for
+ a reference having a date later than the effective filing date of the application some
+ evidence may exist that the subject matter of the reference was derived from the
+ inventor or at least one joint inventor in view of the relative dates. *Ex parte
+ Kusko,* 215 USPQ 972, 974 (Bd. App. 1981) (The relative dates of the events
+ are important in determining derivation; a publication dated more than a year after
+ applicant’s filing date that merely lists as literary coauthors individuals other than
+ the inventor is not the strong evidence needed to rebut a declaration by the inventor
+ that he is the sole inventor.).
+ 
+
+
+
+# 2137.01 [Reserved]
+
+
+*[Editor Note: Information pertaining to
+ inventorship has been moved to **[MPEP § 2109](s2109.html#ch2100_d2c183_22374_28b)**, and information
+ specific to joint inventorship has been moved to **[MPEP §
+ 2109.01](s2109.01.html#ch2100_d2c1f8_278a7_1e6)**.]*
+
+
+
+
+
+# 2137.02 [Reserved]
+
+
+*[Editor Note: Information pertaining to
+ the applicability of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** to
+ obviousness rejections relying on **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** subject
+ matter has been moved to **[MPEP § 2137](s2137.html#d0e206570)**. Information regarding
+ inventorship "by another" has been moved to **[MPEP §
+ 2109](s2109.html#ch2100_d2c183_22374_28b)**, subsection V.]*
+
+
+
+[[top]](#top)
+
+
+, 
+# 2137.01 [Reserved]
+
+
+*[Editor Note: Information pertaining to
+ inventorship has been moved to **[MPEP § 2109](s2109.html#ch2100_d2c183_22374_28b)**, and information
+ specific to joint inventorship has been moved to **[MPEP §
+ 2109.01](s2109.01.html#ch2100_d2c1f8_278a7_1e6)**.]*
+
+
+
+, 
+# 2137.02 [Reserved]
+
+
+*[Editor Note: Information pertaining to
+ the applicability of **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** to
+ obviousness rejections relying on **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** subject
+ matter has been moved to **[MPEP § 2137](s2137.html#d0e206570)**. Information regarding
+ inventorship "by another" has been moved to **[MPEP §
+ 2109](s2109.html#ch2100_d2c183_22374_28b)**, subsection V.]*
+
+
+]

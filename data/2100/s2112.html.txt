@@ -1,0 +1,620 @@
+[
+# 2112 Requirements of Rejection Based on Inherency; Burden of Proof [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **applicable** to applications subject
+ to the first inventor to file (FITF) provisions of the AIA except that the relevant date
+ is the "effective filing date" of the claimed invention instead of the "time of the
+ invention," which is only applicable to applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. See **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP §
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** et seq.]*
+
+
+The express, implicit, and inherent disclosures of a prior art reference
+ may be relied upon in the rejection of claims under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** or **[103](mpep-9015-appx-l.html#d0e302450)**. "The inherent
+ teaching of a prior art reference, a question of fact, arises both in the context of
+ anticipation and obviousness." *In re Napier,* 55 F.3d 610, 613, 34 USPQ2d
+ 1782, 1784 (Fed. Cir. 1995) (affirmed a **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** rejection based in part
+ on inherent disclosure in one of the references). See also *In re
+ Grasselli,* 713 F.2d 731, 739, 218 USPQ 769, 775 (Fed. Cir. 1983).
+ 
+
+**I.** **SOMETHING WHICH IS OLD DOES NOT BECOME PATENTABLE UPON THE DISCOVERY OF A NEW
+ PROPERTY**"[T]he discovery of a previously unappreciated property of a prior art
+ composition, or of a scientific explanation for the prior art’s functioning, does not
+ render the old composition patentably new to the discoverer." *Atlas Powder Co.
+ v. IRECO Inc.,* 190 F.3d 1342, 1347, 51 USPQ2d 1943, 1947 (Fed. Cir. 1999).
+ Thus the claiming of a new use, new function or unknown property which is inherently
+ present in the prior art does not necessarily make the claim patentable. *In re
+ Best,* 562 F.2d 1252, 1254, 195 USPQ 430, 433 (CCPA 1977). In *In re
+ Crish,* 393 F.3d 1253, 1258, 73 USPQ2d 1364, 1368 (Fed. Cir. 2004), the
+ court held that the claimed promoter sequence obtained by sequencing a prior art plasmid
+ that was not previously sequenced was anticipated by the prior art plasmid which
+ necessarily possessed the same DNA sequence as the claimed oligonucleotides*.* The court stated that "just as the discovery of properties of a known material
+ does not make it novel, the identification and characterization of a prior art material
+ also does not make it novel." *Id.* See also **[MPEP § 2112.01](s2112.html#d0e201273)** with
+ regard to inherency and product-by-process claims and **[MPEP § 2141.02](s2141.html#d0e209106)** with
+ regard to inherency and rejections under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+**II.** **INHERENT FEATURE NEED NOT BE RECOGNIZED AT THE TIME OF THE INVENTION**There is no requirement that a person of ordinary skill in the art
+ would have recognized the inherent disclosure *at the time of
+ invention,* but only that the subject matter is in fact inherent in the
+ prior art reference. *Schering Corp. v. Geneva Pharm. Inc.,* 339 F.3d
+ 1373, 1377, 67 USPQ2d 1664, 1668 (Fed. Cir. 2003) (rejecting the contention that
+ inherent anticipation requires recognition by a person of ordinary skill in the art
+ before the critical date and allowing expert testimony with respect to post-critical
+ date clinical trials to show inherency); see also *Toro Co. v. Deere &
+ Co.,* 355 F.3d 1313, 1320, 69 USPQ2d 1584, 1590 (Fed. Cir. 2004) ("[T]he
+ fact that a characteristic is a necessary feature or result of a prior-art embodiment
+ (that is itself sufficiently described and enabled) is enough for inherent anticipation,
+ even if that fact was unknown at the time of the prior invention."); *Abbott
+ Labs v. Geneva Pharms., Inc.,* 182 F.3d 1315, 1319, 51 USPQ2d 1307, 1310
+ (Fed.Cir.1999) ("If a product that is offered for sale inherently possesses each of the
+ limitations of the claims, then the invention is on sale, whether or not the parties to
+ the transaction recognize that the product possesses the claimed
+ characteristics."); *Atlas Powder Co. v. IRECO, Inc.,* 190 F.3d
+ 1342, 1348-49, 51 USPQ2d 1943, 1947 (Fed. Cir. 1999) ("Because ‘sufficient aeration’ was
+ inherent in the prior art, it is irrelevant that the prior art did not recognize the key
+ aspect of [the] invention.... An inherent structure, composition, or function is not
+ necessarily known."); *SmithKline Beecham Corp. v. Apotex Corp.,* 403
+ F.3d 1331, 1343-44, 74 USPQ2d 1398, 1406-07 (Fed. Cir. 2005) (holding that a prior art
+ patent to an anhydrous form of a compound "inherently" anticipated the claimed
+ hemihydrate form of the compound because practicing the process in the prior art to
+ manufacture the anhydrous compound "inherently results in at least trace amounts of" the
+ claimed hemihydrate even if the prior art did not discuss or recognize the hemihydrate);
+ *In re Omeprazole Patent Litigation,* 483 F.3d 1364, 1373, 82 USPQ2d
+ 1643, 1650 (Fed. Cir. 2007) (The court noted that although the inventors may not have
+ recognized that a characteristic of the ingredients in the prior art method resulted in
+ an in situ formation of a separating layer, the *in situ* formation was
+ nevertheless inherent. "The record shows formation of the *in situ*
+ separating layer in the prior art even though that process was not recognized at the
+ time. The new realization alone does not render that necessary [sic] prior art
+ patentable.").
+ 
+
+**III.** **A REJECTION UNDER 35 U.S.C. 102 AND 103 CAN BE MADE WHEN THE PRIOR ART PRODUCT
+ SEEMS TO BE IDENTICAL EXCEPT THAT THE PRIOR ART IS SILENT AS TO AN INHERENT
+ CHARACTERISTIC**Where applicant claims a composition in terms of a function, property
+ or characteristic and the composition of the prior art is the same as that of the claim
+ but the function is not explicitly disclosed by the reference, the examiner may make a
+ rejection under both **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. "There is nothing inconsistent
+ in concurrent rejections for obviousness under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** and for anticipation
+ under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**." *In re Best,* 562 F.2d 1252, 1255 n.4, 195
+ USPQ 430, 433 n.4 (CCPA 1977). This same rationale should also apply to product,
+ apparatus, and process claims claimed in terms of function, property or characteristic.
+ Therefore, a **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** rejection is appropriate for
+ these types of claims as well as for composition claims. 
+ 
+
+**IV.** **EXAMINER MUST PROVIDE RATIONALE OR EVIDENCE TO SHOW INHERENCY**The fact that a certain result or characteristic
+ may occur or be present in the prior art is not sufficient to
+ establish the inherency of that result or characteristic. *In re
+ Rijckaert,* 9 F.3d 1531, 1534, 28 USPQ2d 1955, 1957 (Fed. Cir. 1993)
+ (reversed rejection because inherency was based on what would result due to optimization
+ of conditions, not what was necessarily present in the prior art); *In re
+ Oelrich,* 666 F.2d 578, 581-82, 212 USPQ 323, 326 (CCPA 1981). Also, "[a]n
+ invitation to investigate is not an inherent disclosure" where a prior art reference
+ "discloses no more than a broad genus of potential applications of its discoveries."
+ *Metabolite Labs., Inc. v. Lab.**Corp. of Am. Holdings,* 370 F.3d 1354, 1367, 71 USPQ2d 1081,
+ 1091 (Fed. Cir. 2004) (explaining that "[a] prior art reference that discloses a genus
+ still does not inherently disclose all species within that broad category" but must be
+ examined to see if a disclosure of the claimed species has been made or whether the
+ prior art reference merely invites further experimentation to find the species).
+ 
+
+
+"In relying upon the theory of inherency, the examiner must provide a
+ basis in fact and/or technical reasoning to reasonably support the determination that
+ the allegedly inherent characteristic necessarily flows from the
+ teachings of the applied prior art." *Ex parte Levy,* 17 USPQ2d 1461,
+ 1464 (Bd. Pat. App. & Inter. 1990) (emphasis in original) (Applicant’s invention was
+ directed to a biaxially oriented, flexible dilation catheter balloon (a tube which
+ expands upon inflation) used, for example, in clearing the blood vessels of heart
+ patients). The examiner applied a U.S. patent to Schjeldahl which disclosed injection
+ molding a tubular preform and then injecting air into the preform to expand it against a
+ mold (blow molding). The reference did not directly state that the end product balloon
+ was biaxially oriented. It did disclose that the balloon was
+ "formed from a thin flexible inelastic, high tensile strength, biaxially oriented
+ synthetic plastic material." *Id.* at 1462 (emphasis in original). The
+ examiner argued that Schjeldahl’s balloon was inherently biaxially oriented. The Board
+ reversed on the basis that the examiner did not provide objective evidence or cogent
+ technical reasoning to support the conclusion of inherency.).
+ 
+
+
+In *In re Schreiber,* 128 F.3d 1473, 44 USPQ2d 1429
+ (Fed. Cir. 1997), the court affirmed a finding that a prior patent to a conical spout
+ used primarily to dispense oil from an oil can inherently performed the functions
+ recited in applicant’s claim to a conical container top for dispensing popped popcorn.
+ The examiner had asserted inherency based on the structural similarity between the
+ patented spout and applicant’s disclosed top, i.e., both structures had the same general
+ shape. The court stated:
+ 
+
+
+
+> 
+> [N]othing in Schreiber’s [applicant’s] claim suggests that
+>  Schreiber’s container is 'of a different shape’ than Harz’s [patent]. In fact, [ ] an
+>  embodiment according to Harz (Fig. 5) and the embodiment depicted in figure 1 of
+>  Schreiber’s application have the same general shape. For that reason, the examiner
+>  was justified in concluding that the opening of a conically shaped top as disclosed
+>  by Harz is inherently of a size sufficient to ‘allow [ ] several kernels of popped
+>  popcorn to pass through at the same time’ and that the taper of Harz’s conically
+>  shaped top is inherently of such a shape ‘as to by itself jam up the popped popcorn
+>  before the end of the cone and permit the dispensing of only a few kernels at a shake
+>  of a package when the top is mounted to the container.’ The examiner therefore
+>  correctly found that Harz established a prima facie case of anticipation.
+>  
+> 
+> 
+> 
+
+
+*Schreiber,* 128 F.3d at 1478, 44 USPQ2d at 1432.
+ 
+
+**V.** **ONCE A REFERENCE TEACHING PRODUCT APPEARING TO BE SUBSTANTIALLY IDENTICAL IS MADE
+ THE BASIS OF A REJECTION, AND THE EXAMINER PRESENTS EVIDENCE OR REASONING TO SHOW
+ INHERENCY, THE BURDEN OF PRODUCTION SHIFTS TO THE APPLICANT**"[T]he PTO can require an applicant to prove that the prior art
+ products do not necessarily or inherently possess the characteristics of his [or her]
+ claimed product. Whether the rejection is based on ‘inherency’ under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, on
+ ‘*prima facie* obviousness’ under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**,
+ jointly or alternatively, the burden of proof is the same." *In re Best,* 562 F.2d 1252, 1255, 195 USPQ 430, 433-34 (CCPA 1977) (footnote and citation
+ omitted). The burden of proof is similar to that required with respect to
+ product-by-process claims. *In re Fitzgerald,* 619 F.2d 67, 70, 205
+ USPQ 594, 596 (CCPA 1980) (citing *Best,* 562 F.2d at 1255).
+ 
+
+
+In *Fitzgerald,* the claims were directed to a
+ self-locking screw-threaded fastener comprising a metallic threaded fastener having
+ patches of crystallizable thermoplastic bonded thereto. The claim further specified that
+ the thermoplastic had a reduced degree of crystallization shrinkage. The specification
+ disclosed that the locking fastener was made by heating the metal fastener to melt a
+ thermoplastic blank which is pressed against the metal. After the thermoplastic adheres
+ to the metal fastener, the end product is cooled by quenching in water. The examiner
+ made a rejection based on a U.S. patent to Barnes. Barnes taught a self-locking fastener
+ in which the patch of thermoplastic was made by depositing thermoplastic powder on a
+ metallic fastener which was then heated. The end product was cooled in ambient air, by
+ cooling air or by contacting the fastener with a water trough. The court first noted
+ that the two fasteners were identical or only slightly different from each other. "Both
+ fasteners possess the same utility, employ the same crystallizable polymer (nylon 11),
+ and have an adherent plastic patch formed by melting and then cooling the polymer."
+ *Id.* at 596 n.1, 619 F.2d at 70 n.1. The court then noted that the
+ Board had found that Barnes’ cooling rate could reasonably be expected to result in a
+ polymer possessing the claimed crystallization shrinkage rate. Applicants had not
+ rebutted this finding with evidence that the shrinkage rate was indeed different. They
+ had only argued that the crystallization shrinkage rate was dependent on the cool down
+ rate and that the cool down rate of Barnes was much slower than theirs. Because a
+ difference in the cool down rate does not necessarily result in a difference in
+ shrinkage, objective evidence was required to rebut the **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**/**[103](mpep-9015-appx-l.html#d0e302450)***prima facie* case.
+ 
+
+
+In *Schreiber,* 128 F.3d 1473, 1478, 44 USPQ2d 1429,
+ 1432 (Fed.Cir.1997), the court held that applicant’s declaration failed to overcome a
+ *prima facie* case of anticipation because the declaration did not
+ specify the dimensions of either the dispensing top that was tested or the popcorn that
+ was used. Applicant’s declaration merely asserted that a conical dispensing top built
+ according to a figure in the prior art patent was too small to jam and dispense popcorn
+ and thus could not inherently perform the functions recited in applicant’s claims. The
+ court pointed out the disclosure of the prior art patent was not limited to use as an
+ oil can dispenser, but rather was broader than the precise configuration shown in the
+ patent’s figure. The court also noted that the Board of Patent Appeals and Interferences
+ found as a factual matter that a scaled-up version of the top disclosed in the patent
+ would be capable of performing the functions recited in applicant’s claim.
+ 
+
+
+See **[MPEP
+ § 2113](s2113.html#d0e201450)** for more information on the analogous burden of proof
+ applied to product-by-process claims.
+ 
+
+
+
+# 2112.01 Composition, Product, and  Apparatus Claims [R-10.2019]
+
+**I.** **PRODUCT AND APPARATUS CLAIMS — WHEN THE STRUCTURE RECITED IN THE REFERENCE IS
+ SUBSTANTIALLY IDENTICAL TO THAT OF THE CLAIMS, CLAIMED PROPERTIES OR FUNCTIONS ARE
+ PRESUMED TO BE INHERENT**Where the claimed and prior art products are identical or
+ substantially identical in structure or composition, or are produced by identical or
+ substantially identical processes, a *prima facie* case of either
+ anticipation or obviousness has been established. *In re Best,* 562
+ F.2d 1252, 1255, 195 USPQ 430, 433 (CCPA 1977). "When the PTO shows a sound basis for
+ believing that the products of the applicant and the prior art are the same, the
+ applicant has the burden of showing that they are not." *In re
+ Spada,* 911 F.2d 705, 709, 15 USPQ2d 1655, 1658 (Fed. Cir. 1990).
+ Therefore, the *prima facie* case can be rebutted by evidence
+ showing that the prior art products do not necessarily possess
+ the characteristics of the claimed product. *In re Best,* 562 F.2d
+ at 1255, 195 USPQ at 433. See also *Titanium Metals Corp.**v. Banner,* 778 F.2d 775, 227 USPQ 773 (Fed. Cir. 1985) (Claims
+ were directed to a titanium alloy containing 0.2-0.4% Mo and 0.6-0.9% Ni having
+ corrosion resistance. A Russian article disclosed a titanium alloy containing 0.25%
+ Mo and 0.75% Ni but was silent as to corrosion resistance. The Federal Circuit held
+ that the claim was anticipated because the percentages of Mo and Ni were squarely
+ within the claimed ranges. The court went on to say that it was immaterial what
+ properties the alloys had or who discovered the properties because the composition is
+ the same and thus must necessarily exhibit the properties.).
+ 
+
+
+See also *In re Ludtke,* 441 F.2d 660, 169 USPQ 563
+ (CCPA 1971) (Claim 1 was directed to a parachute canopy having concentric
+ circumferential panels radially separated from each other by radially extending tie
+ lines. The panels were separated "such that the critical velocity of each
+ successively larger panel will be less than the critical velocity of the previous
+ panel, whereby said parachute will sequentially open and thus gradually decelerate."
+ The court found that the claim was anticipated by Menget. Menget taught a parachute
+ having three circumferential panels separated by tie lines. The court upheld the
+ rejection finding that applicant had failed to show that Menget did not possess the
+ functional characteristics of the claims.); *Northam Warren Corp.**v.**D. F. Newfield Co.,* 7 F.Supp. 773, 22 USPQ 313 (E.D.N.Y. 1934) (A
+ patent to a pencil for cleaning fingernails was held invalid because a pencil of the
+ same structure for writing was found in the prior art.).
+ 
+
+**II.** **COMPOSITION CLAIMS — IF THE COMPOSITION IS PHYSICALLY THE SAME, IT MUST HAVE
+ THE SAME PROPERTIES**"Products of identical chemical composition can not have mutually
+ exclusive properties." *In re Spada,* 911 F.2d 705, 709, 15 USPQ2d
+ 1655, 1658 (Fed. Cir. 1990). A chemical composition and its properties are
+ inseparable. Therefore, if the prior art teaches the identical chemical structure,
+ the properties applicant discloses and/or claims are necessarily present.
+ *Id.* (Applicant argued that the claimed composition was a
+ pressure sensitive adhesive containing a tacky polymer while the product of the
+ reference was hard and abrasion resistant. "The Board correctly found that the
+ virtual identity of monomers and procedures sufficed to support a *prima
+ facie* case of unpatentability of Spada’s polymer latexes for lack of
+ novelty.").
+ 
+
+**III.** **PRODUCT CLAIMS – NONFUNCTIONAL PRINTED MATTER DOES NOT DISTINGUISH CLAIMED
+ PRODUCT FROM OTHERWISE IDENTICAL PRIOR ART PRODUCT**Where the only difference between a prior art product and a claimed
+ product is printed matter that is not functionally related to the product, the
+ content of the printed matter will not distinguish the claimed product from the prior
+ art. *In re Ngai,* 367 F.3d 1336, 1339, 70 USPQ2d 1862, 1864 (Fed.
+ Cir. 2004) (Claim at issue was a kit requiring instructions and a buffer agent. The
+ Federal Circuit held that the claim was anticipated by a prior art reference that
+ taught a kit that included instructions and a buffer agent, even though the content
+ of the instructions differed, explaining "[i]f we were to adopt [applicant’s]
+ position, anyone could continue patenting a product indefinitely provided that they
+ add a new instruction sheet to the product."). See also *In re
+ Gulack,* 703 F.2d 1381, 1385-86, 217 USPQ 401, 404 (Fed. Cir. 1983)
+ (
+ "Where the printed matter is not functionally
+ related to the substrate, the printed matter will not distinguish the invention
+ from the prior art in terms of patentability….[T]he critical question is whether
+ there exists any new and unobvious functional relationship between the printed
+ matter and the substrate."
+ 
+ 
+ ); *In re Miller,*
+ 418 F.2d 1392, 1396 (CCPA 1969) (finding a new and nonobvious relationship between a
+ measuring cup and writing showing how to "half" a recipe); *In re
+ Seid,* 161 F.2d 229, 73 USPQ 431 (CCPA 1947) (matters relating to
+ ornamentation only which have no mechanical function cannot be relied upon to
+ patentably distinguish the claimed invention from the prior art); *In re
+ Xiao,* 462 Fed. App'x 947, 950-51 (Fed. Cir. 2011) (non-precedential)
+ (affirming an obviousness rejection of claims directed to a tumbler lock that used
+ letters instead of numbers and had a wild-card label instead of one of the letters);
+ *In re Bryan,* 323 Fed. App'x 898, 901 (Fed. Cir. 2009)
+ (non-precedential) (printed matter on game cards bears no new and nonobvious
+ functional relationship to game board). 
+ 
+
+
+The court has extended the rationale in the printed
+ matter cases, in which, for example, written instructions are added to a known
+ product, to method claims in which "an instruction limitation" (i.e., a limitation
+ "informing" someone about the existence of an inherent property of that method) is
+ added to a method known in the art. *King Pharmaceuticals, Inc. v. Eon
+ Labs,* Inc., 616 F.3d 1267, 1279, 95 USPQ2d 1833, 1842 (2010). Similar to
+ the inquiry for products with printed matter thereon, for such method cases the
+ relevant inquiry is whether a new and nonobvious functional relationship with the
+ known method exists. In *King Pharma,* the court found that the
+ relevant determination is whether the "instruction limitation" has a "new and
+ unobvious functional relationship" with the known method of administering the drug
+ with food. *Id.*. The court held that the relationship was
+ non-functional because "[i]nforming a patient about the benefits of a drug in no way
+ transforms the process of taking the drug with food." *Id.* That is,
+ the actual method of taking a drug with food is the same regardless of whether the
+ patient is informed of the benefits. *Id.* "In other words, the
+ ‘informing’ limitation ‘in no way depends on the method, and the method does not
+ depend on the ‘informing’ limitation.’" *Id.* (citing *In re
+ Ngai,* 367 F.3d 1336, 1339 (Fed. Cir. 2004)); see also *In re
+ Kao,* 639 F.3d 1057, 1072-73, 98 USPQ2d 1799, 1811-12 (Fed. Cir.
+ 2011).
+ 
+
+
+
+
+# 2112.02 Process Claims [R-10.2019]
+
+**I.** **PROCESS CLAIMS — PRIOR ART DEVICE ANTICIPATES A CLAIMED PROCESS IF THE DEVICE
+ CARRIES OUT THE PROCESS DURING NORMAL OPERATION**Under the principles of inherency, if a prior art device, in its
+ normal and usual operation, would necessarily perform the method claimed, then the
+ method claimed will be considered to be anticipated by the prior art device. When the
+ prior art device is the same as a device described in the specification for carrying
+ out the claimed method, it can be assumed the device will inherently perform the
+ claimed process. *In re King,* 801 F.2d 1324, 231 USPQ 136 (Fed.
+ Cir. 1986) (The claims were directed to a method of enhancing color effects produced
+ by ambient light through a process of absorption and reflection of the light off a
+ coated substrate. A prior art reference to *Donley* disclosed a
+ glass substrate coated with silver and metal oxide 200-800 angstroms thick. While
+ Donley disclosed using the coated substrate to produce architectural colors, the
+ absorption and reflection mechanisms of the claimed process were not disclosed.
+ However, King’s specification disclosed using a coated substrate of Donley’s
+ structure for use in his process. The Federal Circuit upheld the Board’s finding that
+ 
+ "Donley inherently performs the function
+ disclosed in the method claims on appeal when that device is used in ‘normal and
+ usual operation’"
+ 
+ 
+ and found that a *prima
+ facie* case of anticipation was made out. *Id.* at 138,
+ 801 F.2d at 1326. It was up to applicant to prove that Donley's structure would not
+ perform the claimed method when placed in ambient light.). See also *In re
+ Best,* 562 F.2d 1252, 1255, 195 USPQ 430, 433 (CCPA 1977) (Applicant
+ claimed a process for preparing a hydrolytically-stable zeolitic aluminosilicate
+ which included a step of "cooling the steam zeolite ... at a rate sufficiently rapid
+ that the cooled zeolite exhibits an X-ray diffraction pattern ...." All the process
+ limitations were expressly disclosed by a U.S. patent to Hansford except the cooling
+ step. The court stated that any sample of Hansford’s zeolite would necessarily be
+ cooled to facilitate subsequent handling. Therefore, rejections under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** were properly made. Applicant
+ had failed to introduce any evidence comparing X-ray diffraction patterns showing a
+ difference in cooling rate between the claimed process and that of Hansford or any
+ data showing that the process of Hansford would result in a product with a different
+ X-ray diffraction. Either type of evidence would have rebutted the rejections under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. A further analysis would be necessary to determine if the
+ process was nonobvious under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.); *Ex
+ parte**Novitski,* 26 USPQ2d 1389 (Bd. Pat. App. & Inter. 1993) (The
+ Board rejected a claim directed to a method for protecting a plant from plant
+ pathogenic nematodes by inoculating the plant with a nematode inhibiting strain of
+ *P. cepacia.* A U.S. patent to *Dart* disclosed
+ inoculation using *P. cepacia* type Wisconsin 526 bacteria for
+ protecting the plant from fungal disease. Dart was silent as to nematode inhibition
+ but the Board concluded that nematode inhibition was an inherent property of the
+ bacteria. The Board noted that applicant had stated in the specification that
+ Wisconsin 526 possesses an 18% nematode inhibition rating.). 
+ 
+
+**II.** **PROCESS OF USE CLAIMS — NEW AND NONOBVIOUS USES OF OLD STRUCTURES AND
+ COMPOSITIONS MAY BE PATENTABLE**The discovery of a new use for an old structure based on unknown
+ properties of the structure might be patentable to the discoverer as a process of
+ using. *In re Hack,* 245 F.2d 246, 248, 114 USPQ 161, 163 (CCPA
+ 1957). However, when the claim recites using an old composition or structure and the
+ "use" is directed to a result or property of that composition or structure, then the
+ claim is anticipated. *In re**May,* 574 F.2d 1082, 1090, 197 USPQ 601, 607 (CCPA 1978) (Claims 1
+ and 6, directed to a method of effecting nonaddictive analgesia (pain reduction) in
+ animals, were found to be anticipated by the applied prior art which disclosed the
+ same compounds for effecting analgesia but which was silent as to addiction. The
+ court upheld the rejection and stated that the applicants had merely found a new
+ property of the compound and such a discovery did not constitute a new use. The court
+ went on to reverse the obviousness rejection of claims 2-5 and 7-10 which recited a
+ process of using a new compound. The court relied on evidence showing that the
+ nonaddictive property of the new compound was unexpected.). See also  *In re
+ Tomlinson,* 363 F.2d 928, 150 USPQ 623 (CCPA 1966) (The claim was
+ directed to a process of inhibiting light degradation of polypropylene by mixing it
+ with one of a genus of compounds, including nickel dithiocarbamate. A reference
+ taught mixing polypropylene with nickel dithiocarbamate to lower heat degradation.
+ The court held that the claims read on the obvious process of mixing polypropylene
+ with the nickel dithiocarbamate and that the preamble of the claim was merely
+ directed to the result of mixing the two materials. "While the references do not show
+ a specific recognition of that result, its discovery by appellants is tantamount only
+ to finding a property in the old composition." 363 F.2d at
+ 934, 150 USPQ at 628 (emphasis in original)). 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2112.01 Composition, Product, and  Apparatus Claims [R-10.2019]
+
+**I.** **PRODUCT AND APPARATUS CLAIMS — WHEN THE STRUCTURE RECITED IN THE REFERENCE IS
+ SUBSTANTIALLY IDENTICAL TO THAT OF THE CLAIMS, CLAIMED PROPERTIES OR FUNCTIONS ARE
+ PRESUMED TO BE INHERENT**Where the claimed and prior art products are identical or
+ substantially identical in structure or composition, or are produced by identical or
+ substantially identical processes, a *prima facie* case of either
+ anticipation or obviousness has been established. *In re Best,* 562
+ F.2d 1252, 1255, 195 USPQ 430, 433 (CCPA 1977). "When the PTO shows a sound basis for
+ believing that the products of the applicant and the prior art are the same, the
+ applicant has the burden of showing that they are not." *In re
+ Spada,* 911 F.2d 705, 709, 15 USPQ2d 1655, 1658 (Fed. Cir. 1990).
+ Therefore, the *prima facie* case can be rebutted by evidence
+ showing that the prior art products do not necessarily possess
+ the characteristics of the claimed product. *In re Best,* 562 F.2d
+ at 1255, 195 USPQ at 433. See also *Titanium Metals Corp.**v. Banner,* 778 F.2d 775, 227 USPQ 773 (Fed. Cir. 1985) (Claims
+ were directed to a titanium alloy containing 0.2-0.4% Mo and 0.6-0.9% Ni having
+ corrosion resistance. A Russian article disclosed a titanium alloy containing 0.25%
+ Mo and 0.75% Ni but was silent as to corrosion resistance. The Federal Circuit held
+ that the claim was anticipated because the percentages of Mo and Ni were squarely
+ within the claimed ranges. The court went on to say that it was immaterial what
+ properties the alloys had or who discovered the properties because the composition is
+ the same and thus must necessarily exhibit the properties.).
+ 
+
+
+See also *In re Ludtke,* 441 F.2d 660, 169 USPQ 563
+ (CCPA 1971) (Claim 1 was directed to a parachute canopy having concentric
+ circumferential panels radially separated from each other by radially extending tie
+ lines. The panels were separated "such that the critical velocity of each
+ successively larger panel will be less than the critical velocity of the previous
+ panel, whereby said parachute will sequentially open and thus gradually decelerate."
+ The court found that the claim was anticipated by Menget. Menget taught a parachute
+ having three circumferential panels separated by tie lines. The court upheld the
+ rejection finding that applicant had failed to show that Menget did not possess the
+ functional characteristics of the claims.); *Northam Warren Corp.**v.**D. F. Newfield Co.,* 7 F.Supp. 773, 22 USPQ 313 (E.D.N.Y. 1934) (A
+ patent to a pencil for cleaning fingernails was held invalid because a pencil of the
+ same structure for writing was found in the prior art.).
+ 
+
+**II.** **COMPOSITION CLAIMS — IF THE COMPOSITION IS PHYSICALLY THE SAME, IT MUST HAVE
+ THE SAME PROPERTIES**"Products of identical chemical composition can not have mutually
+ exclusive properties." *In re Spada,* 911 F.2d 705, 709, 15 USPQ2d
+ 1655, 1658 (Fed. Cir. 1990). A chemical composition and its properties are
+ inseparable. Therefore, if the prior art teaches the identical chemical structure,
+ the properties applicant discloses and/or claims are necessarily present.
+ *Id.* (Applicant argued that the claimed composition was a
+ pressure sensitive adhesive containing a tacky polymer while the product of the
+ reference was hard and abrasion resistant. "The Board correctly found that the
+ virtual identity of monomers and procedures sufficed to support a *prima
+ facie* case of unpatentability of Spada’s polymer latexes for lack of
+ novelty.").
+ 
+
+**III.** **PRODUCT CLAIMS – NONFUNCTIONAL PRINTED MATTER DOES NOT DISTINGUISH CLAIMED
+ PRODUCT FROM OTHERWISE IDENTICAL PRIOR ART PRODUCT**Where the only difference between a prior art product and a claimed
+ product is printed matter that is not functionally related to the product, the
+ content of the printed matter will not distinguish the claimed product from the prior
+ art. *In re Ngai,* 367 F.3d 1336, 1339, 70 USPQ2d 1862, 1864 (Fed.
+ Cir. 2004) (Claim at issue was a kit requiring instructions and a buffer agent. The
+ Federal Circuit held that the claim was anticipated by a prior art reference that
+ taught a kit that included instructions and a buffer agent, even though the content
+ of the instructions differed, explaining "[i]f we were to adopt [applicant’s]
+ position, anyone could continue patenting a product indefinitely provided that they
+ add a new instruction sheet to the product."). See also *In re
+ Gulack,* 703 F.2d 1381, 1385-86, 217 USPQ 401, 404 (Fed. Cir. 1983)
+ (
+ "Where the printed matter is not functionally
+ related to the substrate, the printed matter will not distinguish the invention
+ from the prior art in terms of patentability….[T]he critical question is whether
+ there exists any new and unobvious functional relationship between the printed
+ matter and the substrate."
+ 
+ 
+ ); *In re Miller,*
+ 418 F.2d 1392, 1396 (CCPA 1969) (finding a new and nonobvious relationship between a
+ measuring cup and writing showing how to "half" a recipe); *In re
+ Seid,* 161 F.2d 229, 73 USPQ 431 (CCPA 1947) (matters relating to
+ ornamentation only which have no mechanical function cannot be relied upon to
+ patentably distinguish the claimed invention from the prior art); *In re
+ Xiao,* 462 Fed. App'x 947, 950-51 (Fed. Cir. 2011) (non-precedential)
+ (affirming an obviousness rejection of claims directed to a tumbler lock that used
+ letters instead of numbers and had a wild-card label instead of one of the letters);
+ *In re Bryan,* 323 Fed. App'x 898, 901 (Fed. Cir. 2009)
+ (non-precedential) (printed matter on game cards bears no new and nonobvious
+ functional relationship to game board). 
+ 
+
+
+The court has extended the rationale in the printed
+ matter cases, in which, for example, written instructions are added to a known
+ product, to method claims in which "an instruction limitation" (i.e., a limitation
+ "informing" someone about the existence of an inherent property of that method) is
+ added to a method known in the art. *King Pharmaceuticals, Inc. v. Eon
+ Labs,* Inc., 616 F.3d 1267, 1279, 95 USPQ2d 1833, 1842 (2010). Similar to
+ the inquiry for products with printed matter thereon, for such method cases the
+ relevant inquiry is whether a new and nonobvious functional relationship with the
+ known method exists. In *King Pharma,* the court found that the
+ relevant determination is whether the "instruction limitation" has a "new and
+ unobvious functional relationship" with the known method of administering the drug
+ with food. *Id.*. The court held that the relationship was
+ non-functional because "[i]nforming a patient about the benefits of a drug in no way
+ transforms the process of taking the drug with food." *Id.* That is,
+ the actual method of taking a drug with food is the same regardless of whether the
+ patient is informed of the benefits. *Id.* "In other words, the
+ ‘informing’ limitation ‘in no way depends on the method, and the method does not
+ depend on the ‘informing’ limitation.’" *Id.* (citing *In re
+ Ngai,* 367 F.3d 1336, 1339 (Fed. Cir. 2004)); see also *In re
+ Kao,* 639 F.3d 1057, 1072-73, 98 USPQ2d 1799, 1811-12 (Fed. Cir.
+ 2011).
+ 
+
+
+, 
+# 2112.02 Process Claims [R-10.2019]
+
+**I.** **PROCESS CLAIMS — PRIOR ART DEVICE ANTICIPATES A CLAIMED PROCESS IF THE DEVICE
+ CARRIES OUT THE PROCESS DURING NORMAL OPERATION**Under the principles of inherency, if a prior art device, in its
+ normal and usual operation, would necessarily perform the method claimed, then the
+ method claimed will be considered to be anticipated by the prior art device. When the
+ prior art device is the same as a device described in the specification for carrying
+ out the claimed method, it can be assumed the device will inherently perform the
+ claimed process. *In re King,* 801 F.2d 1324, 231 USPQ 136 (Fed.
+ Cir. 1986) (The claims were directed to a method of enhancing color effects produced
+ by ambient light through a process of absorption and reflection of the light off a
+ coated substrate. A prior art reference to *Donley* disclosed a
+ glass substrate coated with silver and metal oxide 200-800 angstroms thick. While
+ Donley disclosed using the coated substrate to produce architectural colors, the
+ absorption and reflection mechanisms of the claimed process were not disclosed.
+ However, King’s specification disclosed using a coated substrate of Donley’s
+ structure for use in his process. The Federal Circuit upheld the Board’s finding that
+ 
+ "Donley inherently performs the function
+ disclosed in the method claims on appeal when that device is used in ‘normal and
+ usual operation’"
+ 
+ 
+ and found that a *prima
+ facie* case of anticipation was made out. *Id.* at 138,
+ 801 F.2d at 1326. It was up to applicant to prove that Donley's structure would not
+ perform the claimed method when placed in ambient light.). See also *In re
+ Best,* 562 F.2d 1252, 1255, 195 USPQ 430, 433 (CCPA 1977) (Applicant
+ claimed a process for preparing a hydrolytically-stable zeolitic aluminosilicate
+ which included a step of "cooling the steam zeolite ... at a rate sufficiently rapid
+ that the cooled zeolite exhibits an X-ray diffraction pattern ...." All the process
+ limitations were expressly disclosed by a U.S. patent to Hansford except the cooling
+ step. The court stated that any sample of Hansford’s zeolite would necessarily be
+ cooled to facilitate subsequent handling. Therefore, rejections under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** were properly made. Applicant
+ had failed to introduce any evidence comparing X-ray diffraction patterns showing a
+ difference in cooling rate between the claimed process and that of Hansford or any
+ data showing that the process of Hansford would result in a product with a different
+ X-ray diffraction. Either type of evidence would have rebutted the rejections under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. A further analysis would be necessary to determine if the
+ process was nonobvious under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.); *Ex
+ parte**Novitski,* 26 USPQ2d 1389 (Bd. Pat. App. & Inter. 1993) (The
+ Board rejected a claim directed to a method for protecting a plant from plant
+ pathogenic nematodes by inoculating the plant with a nematode inhibiting strain of
+ *P. cepacia.* A U.S. patent to *Dart* disclosed
+ inoculation using *P. cepacia* type Wisconsin 526 bacteria for
+ protecting the plant from fungal disease. Dart was silent as to nematode inhibition
+ but the Board concluded that nematode inhibition was an inherent property of the
+ bacteria. The Board noted that applicant had stated in the specification that
+ Wisconsin 526 possesses an 18% nematode inhibition rating.). 
+ 
+
+**II.** **PROCESS OF USE CLAIMS — NEW AND NONOBVIOUS USES OF OLD STRUCTURES AND
+ COMPOSITIONS MAY BE PATENTABLE**The discovery of a new use for an old structure based on unknown
+ properties of the structure might be patentable to the discoverer as a process of
+ using. *In re Hack,* 245 F.2d 246, 248, 114 USPQ 161, 163 (CCPA
+ 1957). However, when the claim recites using an old composition or structure and the
+ "use" is directed to a result or property of that composition or structure, then the
+ claim is anticipated. *In re**May,* 574 F.2d 1082, 1090, 197 USPQ 601, 607 (CCPA 1978) (Claims 1
+ and 6, directed to a method of effecting nonaddictive analgesia (pain reduction) in
+ animals, were found to be anticipated by the applied prior art which disclosed the
+ same compounds for effecting analgesia but which was silent as to addiction. The
+ court upheld the rejection and stated that the applicants had merely found a new
+ property of the compound and such a discovery did not constitute a new use. The court
+ went on to reverse the obviousness rejection of claims 2-5 and 7-10 which recited a
+ process of using a new compound. The court relied on evidence showing that the
+ nonaddictive property of the new compound was unexpected.). See also  *In re
+ Tomlinson,* 363 F.2d 928, 150 USPQ 623 (CCPA 1966) (The claim was
+ directed to a process of inhibiting light degradation of polypropylene by mixing it
+ with one of a genus of compounds, including nickel dithiocarbamate. A reference
+ taught mixing polypropylene with nickel dithiocarbamate to lower heat degradation.
+ The court held that the claims read on the obvious process of mixing polypropylene
+ with the nickel dithiocarbamate and that the preamble of the claim was merely
+ directed to the result of mixing the two materials. "While the references do not show
+ a specific recognition of that result, its discovery by appellants is tantamount only
+ to finding a property in the old composition." 363 F.2d at
+ 934, 150 USPQ at 628 (emphasis in original)). 
+ 
+
+
+]

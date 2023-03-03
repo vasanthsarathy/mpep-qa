@@ -1,0 +1,45 @@
+[
+# 2125 Drawings as Prior Art [R-10.2019]
+
+**I.** **DRAWINGS CAN BE USED AS PRIOR ART**Drawings and pictures can anticipate claims if they clearly show the
+ structure which is claimed. *In re Mraz,* 455 F.2d 1069, 173 USPQ 25
+ (CCPA 1972). However, the picture must show all the claimed structural features and how
+ they are put together. *Jockmus v. Leviton,* 28 F.2d 812 (2d Cir.
+ 1928). The origin of the drawing is immaterial. For instance, drawings in a design
+ patent can anticipate or make obvious the claimed invention as can drawings in utility
+ patents. When the reference is a utility patent, it does not matter that the feature
+ shown is unintended or unexplained in the specification. The drawings must be evaluated
+ for what they reasonably disclose and suggest to one of ordinary skill in the art.
+ *In re Aslanian,* 590 F.2d 911, 200 USPQ 500 (CCPA 1979). See
+ **[MPEP §
+ 2121.04](s2121.html#d0e201980)** for more information on prior art drawings as "enabled
+ disclosures."
+ 
+
+**II.** **PROPORTIONS OF FEATURES IN A DRAWING ARE NOT EVIDENCE OF ACTUAL PROPORTIONS WHEN
+ DRAWINGS ARE NOT TO SCALE**When the reference does not disclose that the drawings are to scale and
+ is silent as to dimensions, arguments based on measurement of the drawing features are
+ of little value. See *Hockerson-Halberstadt, Inc. v. Avia Group Int’l,*
+ 222 F.3d 951, 956, 55 USPQ2d 1487, 1491 (Fed. Cir. 2000) (The disclosure gave no
+ indication that the drawings were drawn to scale. "[I]t is well established that patent
+ drawings do not define the precise proportions of the elements and may not be relied on
+ to show particular sizes if the specification is completely silent on the issue.").
+ However, the description of the article pictured can be relied on, in combination with
+ the drawings, for what they would reasonably teach one of ordinary skill in the art.
+ *In re Wright,* 569 F.2d 1124, 1127-28, 193 USPQ 332, 335-36 (CCPA
+ 1977) ("We disagree with the Solicitor’s conclusion, reached by a comparison of the
+ relative dimensions of appellant’s and Bauer’s [the reference's] drawing figures, that
+ Bauer ‘clearly points to the use of a chime length of roughly 1/2 to 1 inch for a
+ whiskey barrel.’ This ignores the fact that Bauer does not disclose that his drawings
+ are to scale. ... However, we agree with the Solicitor that Bauer’s teaching that
+ whiskey losses are influenced by the distance the liquor needs to ‘traverse the pores of
+ the wood’ (albeit in reference to the thickness of the barrelhead)" would have suggested
+ the desirability of an increased chime length to one of ordinary skill in the art bent
+ on further reducing whiskey losses." 569 F.2d at 1127, 193 USPQ at 335-36.) 
+ 
+
+
+[[top]](#top)
+
+
+]

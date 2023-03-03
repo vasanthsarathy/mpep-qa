@@ -1,0 +1,37 @@
+[
+# 2186 Relationship to the Doctrine of Equivalents [R-08.2017]
+
+
+The doctrine of equivalents arises in the context of an infringement
+ action. If an accused product or process does not literally infringe a patented invention,
+ the accused product or process may be found to infringe under the doctrine of equivalents.
+ The essential objective inquiry is: "Does the accused product or process contain elements
+ identical or equivalent to each claimed element of the patented invention?"
+ *Warner-Jenkinson Co. v. Hilton Davis Chemical Co.,* 520 U.S. 17, 41
+ USPQ2d 1865, 1875 (1997). In determining equivalence, "[a]n analysis of the role played by
+ each element in the context of the specific patent claim will thus inform the inquiry as to
+ whether a substitute element matches the function, way, and result of the claimed element,
+ or whether the substitute plays a role substantially different from the claimed element."
+ 41 USPQ2d at 1875.
+ 
+
+
+**[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph,
+ permit means- (or step-) plus-function limitations in claims to combinations, "with the
+ proviso that application of the broad literal language of such claims must be limited to
+ only those means that are ‘equivalent’ to the actual means shown in the patent
+ specification. This is an application of the doctrine of equivalents in a restrictive role,
+ narrowing the application of broad literal claim elements." 41 USPQ2d at 1870. Accordingly,
+ decisions involving the doctrine of equivalents should be considered, but should not unduly
+ influence a determination under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, sixth paragraph, during *ex parte* examination.
+ See **[MPEP §
+ 2183](s2183.html#d0e220121)**.
+ 
+
+
+[[top]](#top)
+
+
+]

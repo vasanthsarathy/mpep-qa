@@ -1,0 +1,819 @@
+[
+# 2120 Rejection on Prior Art [R-10.2019]
+
+
+
+#### *35 U.S.C. 102  
+ Conditions for patentability; novelty.*
+
+
+*[Editor Note: Applicable to any patent application subject to the first
+ inventor to file provisions of the AIA (see **[35 U.S.C. 100
+ (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**). See **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** for the law
+ applicable to applications and patents not subject to the first inventor to file
+ provisions of the AIA.]*
+
+
+* (a) NOVELTY; PRIOR ART.—A person shall be entitled to a patent unless—
+	+ (1) the claimed invention was patented, described
+	 in a printed publication, or in public use, on sale, or otherwise available
+	 to the public before the effective filing date of the claimed invention; or
+	+ (2) the claimed invention was described in a
+	 patent issued under **[section 151](mpep-9015-appx-l.html#d0e303440)**, or in an
+	 application for patent published or deemed published under **[section
+	 122(b)](mpep-9015-appx-l.html#d0e303063)**, in which the patent or application, as the
+	 case may be, names another inventor and was effectively filed before the
+	 effective filing date of the claimed invention.
+* (b) EXCEPTIONS.—
+	+ (1) DISCLOSURES MADE 1 YEAR OR LESS BEFORE THE
+	 EFFECTIVE FILING DATE OF THE CLAIMED INVENTION.—A disclosure made 1 year or
+	 less before the effective filing date of a claimed invention shall not be
+	 prior art to the claimed invention under subsection (a)(1) if—
+		- (A) the disclosure was made by the inventor or
+		 joint inventor or by another who obtained the subject matter disclosed
+		 directly or indirectly from the inventor or a joint inventor; or
+		- (B) the subject matter disclosed had, before
+		 such disclosure, been publicly disclosed by the inventor or a joint
+		 inventor or another who obtained the subject matter disclosed directly
+		 or indirectly from the inventor or a joint inventor.
+	+ (2) DISCLOSURES APPEARING IN APPLICATIONS AND
+	 PATENTS.—A disclosure shall not be prior art to a claimed invention under
+	 subsection (a)(2) if—
+		- (A) the subject matter disclosed was
+		 obtained directly or indirectly from the inventor or a joint inventor;
+		- (B) the subject matter disclosed had, before
+		 such subject matter was effectively filed under subsection
+		 **[(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, been
+		 publicly disclosed by the inventor or a joint inventor or another who
+		 obtained the subject matter disclosed directly or indirectly from the
+		 inventor or a joint inventor; or
+		- (C) the subject matter disclosed and the
+		 claimed invention, not later than the effective filing date of the
+		 claimed invention, were owned by the same person or subject to an
+		 obligation of assignment to the same person.
+* (c) COMMON OWNERSHIP UNDER JOINT RESEARCH
+ AGREEMENTS.—Subject matter disclosed and a claimed invention shall be deemed to
+ have been owned by the same person or subject to an obligation of assignment to
+ the same person in applying the provisions of subsection (b)(2)(C) if—
+	+ (1) the subject matter disclosed was developed and
+	 the claimed invention was made by, or on behalf of, 1 or more parties to a
+	 joint research agreement that was in effect on or before the effective
+	 filing date of the claimed invention;
+	+ (2) the claimed invention was made as a result of
+	 activities undertaken within the scope of the joint research agreement; and
+	+ (3) the application for patent for the claimed
+	 invention discloses or is amended to disclose the names of the parties to
+	 the joint research agreement.
+* (d) PATENTS AND PUBLISHED APPLICATIONS EFFECTIVE AS
+ PRIOR ART.—For purposes of determining whether a patent or application for patent
+ is prior art to a claimed invention under subsection **[(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, such patent or application shall be considered to
+ have been effectively filed, with respect to any subject matter described in the
+ patent or application—
+	+ (1) if paragraph (2) does not apply, as of
+	 the actual filing date of the patent or the application for patent; or
+	+ (2) if the patent or application for patent
+	 is entitled to claim a right of priority under **[section
+	 119](mpep-9015-appx-l.html#d0e302921)**, **[365(a)](mpep-9015-appx-l.html#d0e307039)**,
+	 **[365(b)](mpep-9015-appx-l.html#d0e307046)**, **[386(a)](mpep-9015-appx-l.html#al_d225a2_29a27_324)**, or
+	 **[386(b)](mpep-9015-appx-l.html#al_d225a2_29a74_1f8)**, or to claim the
+	 benefit of an earlier filing date under **[section
+	 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** based upon 1 or
+	 more prior filed applications for patent, as of the filing date of the
+	 earliest such application that describes the subject matter.
+
+
+
+
+#### *35 U.S.C. 102 (pre-AIA)  
+ Conditions for patentability; novelty and loss of
+ right to patent.*
+
+
+*[Editor Note: With the exception of subsection (g) in limited circumstances,
+ not applicable to any patent application subject to the first inventor to file
+ provisions of the AIA (see **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**). For an
+ application or patent subject to the first inventor to file provisions of the AIA,
+ see **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**.]*
+
+
+A person shall be entitled to a patent unless —
+
+
+* (a) the invention was known or used by others in this
+ country, or patented or described in a printed publication in this or a foreign
+ country, before the invention thereof by the applicant for patent, or
+* (b) the invention was patented or described in a printed
+ publication in this or a foreign country or in public use or on sale in this
+ country, more than one year prior to the date of the application for patent in the
+ United States, or
+* (c) he has abandoned the invention, or
+* (d) the invention was first patented or caused to be patented, or was
+ the subject of an inventor’s certificate, by the applicant or his legal
+ representatives or assigns in a foreign country prior to the date of the
+ application for patent in this country on an application for patent or inventor’s
+ certificate filed more than twelve months before the filing of the application in
+ the United States, or
+* (e) the invention was described in — (1) an application for patent,
+ published under **[section 122(b)](mpep-9015-appx-l.html#d0e303054)**, by another filed in the United States
+ before the invention by the applicant for patent or (2) a patent granted on an
+ application for patent by another filed in the United States before the invention
+ by the applicant for patent, except that an international application filed under
+ the treaty defined in **[section 351(a)](mpep-9015-appx-l.html#d0e306867)** shall have the
+ effects for the purposes of this subsection of an application filed in the United
+ States only if the international application designated the United States and was
+ published under **[Article 21(2)](mpep-9025-appx-t.html#d0e363622)** of such treaty in the English language;
+ or
+* (f) he did not himself invent the subject matter sought to be
+ patented, or
+* (g)(1) during the course of an interference conducted under
+ **[section
+ 135](mpep-9015-appx-l.html#d0e303239)** or **[section 291](mpep-9015-appx-l.html#d0e306203)**, another inventor
+ involved therein establishes, to the extent permitted in **[section 104](mpep-9015-appx-l.html#d0e302559)**,
+ that before such person’s invention thereof the invention was made by such other
+ inventor and not abandoned, suppressed, or concealed, or (2) before such person’s
+ invention thereof, the invention was made in this country by another inventor who
+ had not abandoned, suppressed, or concealed it. In determining priority of
+ invention under this subsection, there shall be considered not only the respective
+ dates of conception and reduction to practice of the invention, but also the
+ reasonable diligence of one who was first to conceive and last to reduce to
+ practice, from a time prior to conception by the other.
+
+
+
+
+#### *35 U.S.C. 103  
+ Conditions for patentability; non-obvious
+ subject matter.*
+
+
+*[Editor Note: Applicable to any patent application subject to the first
+ inventor to file provisions of the AIA (see **[35 U.S.C. 100
+ (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**). See **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** for the law
+ applicable to applications and patents not subject to the first inventor to file
+ provisions of the AIA.]*
+
+
+A patent for a claimed invention may not be obtained,
+ notwithstanding that the claimed invention is not identically disclosed as set forth in
+ **[section
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, if the differences between the claimed invention and the
+ prior art are such that the claimed invention as a whole would have been obvious before
+ the effective filing date of the claimed invention to a person having ordinary skill in
+ the art to which the claimed invention pertains. Patentability shall not be negated by
+ the manner in which the invention was made.
+ 
+
+
+
+
+#### *35 U.S.C. 103 (pre-AIA)   
+ Conditions for patentability; non-obvious subject
+ matter.*
+
+
+*[Editor Note: **Not applicable** to any patent application subject to
+ the first inventor to file provisions of the AIA (see **[35 U.S.C. 100
+ (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**). For an application or patent subject to the first
+ inventor to file provisions of the AIA, see **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**.]*
+
+
+* (a) A patent may not be obtained though the invention is not
+ identically disclosed or described as set forth in **[section 102](mpep-9015-appx-l.html#d0e302383)**,
+ if the differences between the subject matter sought to be patented and the prior
+ art are such that the subject matter as a whole would have been obvious at the
+ time the invention was made to a person having ordinary skill in the art to which
+ said subject matter pertains. Patentability shall not be negatived by the manner
+ in which the invention was made.
+* (b)
+	+ (1) Notwithstanding subsection (a), and upon timely election by
+	 the applicant for patent to proceed under this subsection, a
+	 biotechnological process using or resulting in a composition of matter that
+	 is novel under **[section 102](mpep-9015-appx-l.html#d0e302383)** and
+	 nonobvious under subsection (a) of this section shall be considered
+	 nonobvious if-
+		- (A) claims to the process and the composition of matter
+		 are contained in either the same application for patent or in separate
+		 applications having the same effective filing date; and
+		- (B) the composition of matter, and the process at the time
+		 it was invented, were owned by the same person or subject to an
+		 obligation of assignment to the same person.
+	+ (2) A patent issued on a process under paragraph (1)-
+		- (A) shall also contain the claims to the composition of
+		 matter used in or made by that process, or
+		- (B) shall, if such composition of matter is claimed in
+		 another patent, be set to expire on the same date as such other
+		 patent, notwithstanding **[section 154](mpep-9015-appx-l.html#d0e303482)**.
+	+ (3) For purposes of paragraph (1), the term "biotechnological
+	 process" means-
+		- (A) a process of genetically altering or otherwise
+		 inducing a single- or multi-celled organism to-
+			* (i) express an exogenous nucleotide sequence,
+			* (ii) inhibit, eliminate, augment, or alter expression
+			 of an endogenous nucleotide sequence, or
+			* (iii) express a specific physiological characteristic
+			 not naturally associated with said organism;
+		- (B) cell fusion procedures yielding a cell line that
+		 expresses a specific protein, such as a monoclonal antibody; and
+		- (C) a method of using a product produced by a process
+		 defined by subparagraph (A) or (B), or a combination of subparagraphs
+		 (A) and (B).
+* (c)
+	+ (1) Subject matter developed by another person, which qualifies
+	 as prior art only under one or more of subsections (e), (f), and (g) of
+	 **[section
+	 102](mpep-9015-appx-l.html#d0e302383)**, shall not preclude patentability under this
+	 section where the subject matter and the claimed invention were, at the time
+	 the claimed invention was made, owned by the same person or subject to an
+	 obligation of assignment to the same person.
+	+ (2) For purposes of this subsection, subject matter developed by
+	 another person and a claimed invention shall be deemed to have been owned by
+	 the same person or subject to an obligation of assignment to the same person
+	 if —
+		- (A) the claimed invention was made by or on behalf of
+		 parties to a joint research agreement that was in effect on or before
+		 the date the claimed invention was made;
+		- (B) the claimed invention was made as a result of
+		 activities undertaken within the scope of the joint research
+		 agreement; and
+		- (C) the application for patent for the claimed invention
+		 discloses or is amended to disclose the names of the parties to the
+		 joint research agreement.
+	+ (3) For purposes of paragraph (2), the term "joint research
+	 agreement" means a written contract, grant, or cooperative agreement entered
+	 into by two or more persons or entities for the performance of experimental,
+	 developmental, or research work in the field of the claimed invention.
+
+
+**I.** **CHOICE OF PRIOR ART; BEST AVAILABLE**Prior art rejections should ordinarily be confined strictly to the best
+ available art. Exceptions may properly be made, for example, where:
+ 
+
+
+* (A) the propriety of a **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** or
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** rejection depends on a particular interpretation of a
+ claim;
+* (B) a claim is met by a prior art disclosure which does not disclose
+ the inventive concept involved;
+* (C) for cases examined under the first inventor to file provisions of
+ the AIA, the most pertinent disclosure could be shown not to be prior art by
+ invoking an exception in a **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** affidavit or
+ declaration or could be antedated by a **[37 CFR 1.131](mpep-9020-appx-r.html#aia_d0e323504)** affidavit or
+ declaration, depending on the applicable version of **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**; or
+* (D) for cases examined under pre-AIA law, an
+ obviousness rejection is based on prior art that qualifies only under
+ **[pre-AIA 35
+ U.S.C. 102(e), (f), or (g)](mpep-9015-appx-l.html#d0e302407)** so that the rejection could be
+ overcome by establishing that the prior art is disqualified under
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)**.
+
+
+In the interest of compact prosecution, such rejections should be backed
+ up by the best other art rejections available. Keep in mind the best backup rejection(s)
+ could be based on alternate embodiments from the same "best available" reference(s). For
+ example, if an anticipation rejection could be overcome by invoking an exception in a
+ **[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)** declaration, it would be appropriate to make an
+ additional obviousness rejection over another disclosure in the same reference. Merely
+ cumulative rejections, i.e., those which would clearly fall if the primary rejection
+ were not sustained, should be avoided. 
+ 
+
+
+See also **[MPEP § 707.05](s707.html#d0e73405)**.
+ 
+
+**II.** **RELIANCE UPON ABSTRACTS AND FOREIGN LANGUAGE DOCUMENTS IN SUPPORT OF A
+ REJECTION**Prior art uncovered in searching the claimed subject matter of a patent
+ application often includes English language abstracts of underlying documents, such as
+ technical literature or foreign patent documents which may not be in the English
+ language. When both the abstract and the underlying document qualify as prior art, the
+ underlying document should normally be used to support a rejection. When an abstract is
+ used to support a rejection, the evidence relied upon is the facts contained in the
+ abstract, not additional facts that may be contained in the underlying full text
+ document. Citation of and reliance upon an abstract without citation of and reliance
+ upon the underlying scientific document is generally inappropriate where both the
+ abstract and the underlying document are prior art. See *Ex parte
+ Jones*, 62 USPQ2d 1206, 1208 (Bd. Pat. App. & Inter. 2001)
+ (unpublished). To determine whether both the abstract and the underlying document are
+ prior art, a copy of the underlying document must be obtained and analyzed. If the
+ document is in a language other than English and the examiner seeks to rely on that
+ document, a translation must be obtained so that the record is clear as to the precise
+ facts the examiner is relying upon in support of the rejection. The record must also
+ be clear as to whether the examiner is relying upon the abstract or the full text
+ document to support a rejection. The rationale for this is several-fold. It is not
+ uncommon for a full text document to reveal that the document fully anticipates an
+ invention that the abstract renders obvious at best. The converse may also be true, that
+ the full text document will include teachings away from the invention that will preclude
+ an obviousness rejection under **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**, when the abstract
+ alone appears to support the rejection. An abstract can have a different effective
+ publication date than the full text document. Because all patentability determinations
+ are fact dependent, obtaining and considering full text documents at the earliest
+ practicable time in the examination process will yield the fullest available set of
+ facts upon which to determine patentability, thereby improving quality and reducing
+ pendency. In limited circumstances, it may be appropriate for the examiner to make a
+ rejection in a non-final Office action based in whole or in part on the abstract only
+ without relying on the full text document. In such circumstances, the full text document
+ and a translation (if not in English) may be supplied in the next Office action.
+ 
+
+
+ Examiners may rely on a machine translation of a foreign
+ language document unless the machine translation is not of sufficient quality to be
+ adequate evidence of the contents of the document. See *In re Orbital
+ Technologies Corporation,* 603 Fed. App’x 924, 932 (Fed. Cir. 2015). A
+ request by the applicant for the examiner to obtain a human language translation should
+ be granted if the applicant provides evidence (e.g., a translation inconsistent with the
+ machine translation) showing the machine translation does not accurately represent the
+ document’s contents.
+ 
+
+
+An Office action supplying a full text document and/or
+ translation may be made final if the conditions described in **[MPEP § 706.07(a)](s706.html#d0e69118)** or
+ for a first Office action or RCE, in **[MPEP § 706.07(b)](s706.html#d0e69408)**, have been met.
+ 
+
+
+Some translation resources available to examiners are
+ discussed in **[MPEP §
+ 901.05(d)](s901.html#d0e113207)**.
+ 
+
+**III.** **DISTINCTION BETWEEN 35 U.S.C. 102 AND 103**The distinction between rejections based on **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ those based on **[35
+ U.S.C. 103](mpep-9015-appx-l.html#d0e302450)** should be kept in mind. Under the former, the claim is
+ anticipated by the reference. No question of obviousness is present. In other words, for
+ anticipation under **[35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, the reference must teach every aspect of the claimed
+ invention either explicitly or impliedly. Any feature not directly taught must be
+ inherently present. Whereas, in a rejection based on **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**, the reference
+ teachings must somehow be modified in order to meet the claims. The modification must be
+ one which would have been obvious to one of ordinary skill in the art before the
+ effective filing date of the claimed invention for applications or patents subject to
+ the first inventor to file provisions of the AIA or at the time the invention was made
+ for applications or patents subject to pre-AIA law. See **[MPEP §§ 2131](s2131.html#d0e202959)** -
+ **[2146](s2146.html#d0e213206)** and **[2150](s2150.html#ch2100_d2002f_22805_16e)** -
+ **[2159.04](s2159.html#ch2100_d222e3_140d7_1bb)** for guidance on patentability determinations under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+
+# 2120.01 Rejections Under 35 U.S.C. 102(a)(1) and (a)(2)
+ and Pre-AIA 35 U.S.C. 102(a), (b), or (e): Printed Publication or Patent [R-10.2019]
+
+
+Once the examiner conducts a search and finds a printed publication or
+ patent which discloses the claimed invention, the examiner should determine whether the
+ rejection should be made under **[35 U.S.C. 102(a)(1) or (a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** or, if
+ the application is subject to the former prior art regime, **[pre-AIA 35 U.S.C. 102(a), (b), or
+ (e)](mpep-9015-appx-l.html#d0e302391)**. See **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** for guidance. Form
+ paragraph **[7.03.aia](#fp7.03.aia)** or **[7.03.fti](#fp7.03.fti)** should be used in an Office
+ action to indicate whether the application is being examined under the first inventor to
+ file provisions of the AIA or the pre-AIA prior art provisions, respectively.
+ 
+
+
+# ¶ 7.03.aia Application Examined Under AIA First Inventor to File
+ Provisions
+
+
+The present application, filed on or after March 16, 2013, is being
+ examined under the first inventor to file provisions of the AIA.
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph should be used in any application subject to
+ the first inventor to file provisions of the AIA.
+
+
+
+# ¶ 7.03.fti Application Examined Under First to Invent
+ provisions
+
+
+The present application, filed on or after March 16, 2013, is being
+ examined under the pre-AIA first to invent provisions. 
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph should be used in any application filed
+ on or after March 16, 2013 that is subject to the pre-AIA prior art provisions.
+
+
+
+In order to determine which paragraph of **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ applies, the effective filing date of the application and each claimed invention must be
+ determined and compared with the date of the reference. See **[MPEP §
+ 2139.01](s2139.html#ch2100_d2c184_12530_2b6)** regarding determination of effective filing date of
+ the claimed invention under pre-AIA law and **[MPEP §
+ 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** regarding determination of effective filing date of
+ the claimed invention under AIA law.
+ 
+
+
+The examiner must also determine the issue or publication
+ date of the reference so that a proper comparison between the application and reference
+ dates can be made. See **[MPEP §§ 2124](s2124.html#d0e202094)**, **[2126](s2126.html#d0e202195)**, **[2128](s2128.html#d0e202564)** -
+ **[2128.02](s2128.html#d0e202804)**, and **[2152.02](s2152.html#ch2100_d20033_1d66c_1e5)**
+ - **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** for case law relevant to reference date
+ determination.
+ 
+
+
+See **[MPEP § 2152.05](s2152.html#ch2100_d2c184_13c9f_236)** for determining whether
+ to apply **[35
+ U.S.C. 102(a)(1) or (a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. See **[MPEP §
+ 2139.02](s2139.html#ch2100_d2c184_125d3_2ef)** for determining whether to apply **[pre-AIA 35 U.S.C. 102(a), (b), or
+ (e)](mpep-9015-appx-l.html#d0e302383)**. 
+ 
+
+
+In all applications, an applicant may overcome a **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ rejection by persuasively arguing that the claims are patentably distinguishable from
+ the prior art, or by amending the claims to patentably distinguish over the prior art.
+ Additional ways available to overcome a rejection based on **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ prior art depend on whether or not any claim in the application being examined is
+ subject to the first inventor to file provisions of the AIA. 
+ 
+
+
+See **[MPEP § 2152.06](s2152.html#ch2100_d2c184_13ec5_303)** for overcoming a
+ rejection under **[35 U.S.C. 102(a)(1) or (a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. See
+ **[MPEP §§
+ 2132.01](s2132.html#d0e203530)**, **[2133.02(a)](s2133.html#ch2100_d2c183_21092_1c6)**, and **[2136.05](s2136.html#d0e206333)***et seq.* for overcoming prior art rejections under **[pre-AIA 35 U.S.C. 102(a), (b), and
+ (e)](mpep-9015-appx-l.html#d0e302383)**, respectively.
+ 
+
+
+
+
+# 2120.02 Rejections Under 35 U.S.C. 102(a)(1) or Pre-AIA
+ 35 U.S.C. 102(a) or (b): Knowledge by Others, or Public Use, or On Sale [R-10.2019]
+
+
+An applicant may make an admission, or submit evidence of sale of the
+ invention or knowledge of the invention by others, or the examiner may have personal
+ knowledge that the invention was sold by applicant or known by others. See
+ **[MPEP §§
+ 2152.02(c)](s2152.html#ch2100_d20033_1e416_252)**-**[2152.02(e)](s2152.html#ch2100_d20033_228c0_21c)** for a discussion of when public use of a claimed
+ invention, placing a claimed invention on sale, or otherwise making a claimed invention
+ available to the public might preclude patentability under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. See **[MPEP §§ 2132](s2132.html#d0e203390)** and **[2133.03](s2133.html#d0e203781)***et seq.* for a discussion of when public knowledge, public use, or
+ sale of a claimed invention might preclude patentability under **[pre-AIA 35 U.S.C. 102(a) or
+ (b)](mpep-9015-appx-l.html#d0e302383)**. If the activity is by an entity other than the inventors or
+ assignee, such as sale by another, manufacture by another or disclosure of the invention
+ by applicant to another then both **[pre-AIA 35 U.S.C. 102(a) and (b)](mpep-9015-appx-l.html#d0e302383)** may
+ be applicable. If the evidence only points to knowledge within the year prior to the
+ effective filing date then **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302383)** applies.
+ However, no rejection under **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302383)** should be
+ made if there is evidence that applicant made the invention and only disclosed it to
+ others within the year prior to the effective filing date. 
+ 
+
+
+Note that as an aid to resolving public use or on sale issues, as well
+ as to other related matters of public availability or public knowledge, an applicant may
+ be required to answer specific questions posed by the examiner and to explain or
+ supplement any evidence of record. See **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)** and **[37 CFR
+ 1.104(a)(2)](mpep-9020-appx-r.html#d0e322124)**. Information sought should be restricted to that which is
+ reasonably necessary for the examiner to render a decision on patentability. The
+ examiner may consider making a requirement for information under  **[37 CFR 1.105](mpep-9020-appx-r.html#d0e322262)**
+ where the evidence of record indicates reasonable necessity. See **[MPEP § 704.10](s704.html#d0e55758)***et seq.*
+
+
+A 2-month time period should be set by the examiner for any reply to the
+ requirement, unless the requirement is part of an Office action having a shortened
+ statutory period, in which case the period for reply to the Office action will also
+ apply to the requirement. If applicant fails to reply in a timely fashion to a
+ requirement for information, the application will be regarded as abandoned.
+ **[35 U.S.C.
+ 133](mpep-9015-appx-l.html#d0e303207aia)**. 
+ 
+
+
+If there is not enough information on which to base a public use or on
+ sale rejection, the examiner should make a requirement for more information. Form
+ paragraph **[7.104.aia](#fp7.104.aia)** or **[7.104.fti](#fp7.104.fti)** can be used.
+ 
+
+
+# ¶ 7.104.aia Requirement for Information, Public Use or Sale or Other Public
+ Availability
+
+
+An issue of public use, on sale activity, or other public
+ availability has been raised in this application. In order for the examiner to properly
+ consider patentability of the claimed invention under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, additional information regarding this issue is required as
+ follows: **[1]**
+
+
+Applicant is reminded that failure to fully reply to this
+ requirement for information will result in a holding of abandonment.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded by form paragraph
+ **[7.105](#fp7.105)**, and should be followed by form paragraphs
+ **[7.122](#fp7.122)** –
+ **[7.126](#fp7.126)** as
+ appropriate.
+* 2. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 3. Information sought should be restricted to that
+ which is reasonably necessary for the examiner to render a decision on patentability.
+ See **[MPEP §
+ 2133.03](s2133.html#d0e203781)**.
+* 4. A two month time period should be set by the examiner
+ for reply to the requirement unless it is part of an Office action having a shortened
+ statutory period (SSP), in which case the period for reply will apply also to the
+ requirement.
+* 5. If sufficient evidence already exists to establish a
+ *prima facie* case of public use, sale, or other public availability
+ use form paragraph **[7.16.aia](#fp7.16.aia)** to make a rejection under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. See **[MPEP § 2133.03](s2133.html#d0e203781)**.
+
+
+
+# ¶ 7.104.fti Requirement for Information, Public Use or Sale
+
+
+An issue of public use or on sale activity has been raised
+ in this application. In order for the examiner to properly consider patentability of the
+ claimed invention under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**, additional
+ information regarding this issue is required as follows: **[1]**
+
+
+Applicant is reminded that failure to fully reply to this
+ requirement for information will result in a holding of abandonment.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded by form
+ paragraph **[7.105](#fp7.105)**, and should be followed by form paragraphs
+ **[7.122](#fp7.122)**
+ –**[7.126](#fp7.126)** as
+ appropriate.
+* 2. Information sought should be restricted to that which
+ is reasonably necessary for the examiner to render a decision on patentability. See
+ **[MPEP §
+ 2133.03](s2133.html#d0e203781)**.
+* 3. A two month time period should be set by the examiner for reply
+ to the requirement unless it is part of an Office action having an SSP, in which case
+ the SSP will apply also to the requirement.
+* 4. If sufficient evidence already exists to establish a
+ *prima facie* case of public use or on sale, use form paragraph
+ **[7.16.fti](#fp7.16.fti)**
+ to make a rejection under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**. See
+ **[MPEP §
+ 2133.03](s2133.html#d0e203781)**.
+
+
+
+
+
+[[top]](#top)
+
+
+, 
+# 2120.01 Rejections Under 35 U.S.C. 102(a)(1) and (a)(2)
+ and Pre-AIA 35 U.S.C. 102(a), (b), or (e): Printed Publication or Patent [R-10.2019]
+
+
+Once the examiner conducts a search and finds a printed publication or
+ patent which discloses the claimed invention, the examiner should determine whether the
+ rejection should be made under **[35 U.S.C. 102(a)(1) or (a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** or, if
+ the application is subject to the former prior art regime, **[pre-AIA 35 U.S.C. 102(a), (b), or
+ (e)](mpep-9015-appx-l.html#d0e302391)**. See **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** for guidance. Form
+ paragraph **[7.03.aia](#fp7.03.aia)** or **[7.03.fti](#fp7.03.fti)** should be used in an Office
+ action to indicate whether the application is being examined under the first inventor to
+ file provisions of the AIA or the pre-AIA prior art provisions, respectively.
+ 
+
+
+# ¶ 7.03.aia Application Examined Under AIA First Inventor to File
+ Provisions
+
+
+The present application, filed on or after March 16, 2013, is being
+ examined under the first inventor to file provisions of the AIA.
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph should be used in any application subject to
+ the first inventor to file provisions of the AIA.
+
+
+
+# ¶ 7.03.fti Application Examined Under First to Invent
+ provisions
+
+
+The present application, filed on or after March 16, 2013, is being
+ examined under the pre-AIA first to invent provisions. 
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph should be used in any application filed
+ on or after March 16, 2013 that is subject to the pre-AIA prior art provisions.
+
+
+
+In order to determine which paragraph of **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ applies, the effective filing date of the application and each claimed invention must be
+ determined and compared with the date of the reference. See **[MPEP §
+ 2139.01](s2139.html#ch2100_d2c184_12530_2b6)** regarding determination of effective filing date of
+ the claimed invention under pre-AIA law and **[MPEP §
+ 2152.01](s2152.html#ch2100_d20033_1afb3_e6)** regarding determination of effective filing date of
+ the claimed invention under AIA law.
+ 
+
+
+The examiner must also determine the issue or publication
+ date of the reference so that a proper comparison between the application and reference
+ dates can be made. See **[MPEP §§ 2124](s2124.html#d0e202094)**, **[2126](s2126.html#d0e202195)**, **[2128](s2128.html#d0e202564)** -
+ **[2128.02](s2128.html#d0e202804)**, and **[2152.02](s2152.html#ch2100_d20033_1d66c_1e5)**
+ - **[2154.02(c)](s2154.html#ch2100_d20034_145f0_210)** for case law relevant to reference date
+ determination.
+ 
+
+
+See **[MPEP § 2152.05](s2152.html#ch2100_d2c184_13c9f_236)** for determining whether
+ to apply **[35
+ U.S.C. 102(a)(1) or (a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. See **[MPEP §
+ 2139.02](s2139.html#ch2100_d2c184_125d3_2ef)** for determining whether to apply **[pre-AIA 35 U.S.C. 102(a), (b), or
+ (e)](mpep-9015-appx-l.html#d0e302383)**. 
+ 
+
+
+In all applications, an applicant may overcome a **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ rejection by persuasively arguing that the claims are patentably distinguishable from
+ the prior art, or by amending the claims to patentably distinguish over the prior art.
+ Additional ways available to overcome a rejection based on **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ prior art depend on whether or not any claim in the application being examined is
+ subject to the first inventor to file provisions of the AIA. 
+ 
+
+
+See **[MPEP § 2152.06](s2152.html#ch2100_d2c184_13ec5_303)** for overcoming a
+ rejection under **[35 U.S.C. 102(a)(1) or (a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. See
+ **[MPEP §§
+ 2132.01](s2132.html#d0e203530)**, **[2133.02(a)](s2133.html#ch2100_d2c183_21092_1c6)**, and **[2136.05](s2136.html#d0e206333)***et seq.* for overcoming prior art rejections under **[pre-AIA 35 U.S.C. 102(a), (b), and
+ (e)](mpep-9015-appx-l.html#d0e302383)**, respectively.
+ 
+
+
+, 
+# 2120.02 Rejections Under 35 U.S.C. 102(a)(1) or Pre-AIA
+ 35 U.S.C. 102(a) or (b): Knowledge by Others, or Public Use, or On Sale [R-10.2019]
+
+
+An applicant may make an admission, or submit evidence of sale of the
+ invention or knowledge of the invention by others, or the examiner may have personal
+ knowledge that the invention was sold by applicant or known by others. See
+ **[MPEP §§
+ 2152.02(c)](s2152.html#ch2100_d20033_1e416_252)**-**[2152.02(e)](s2152.html#ch2100_d20033_228c0_21c)** for a discussion of when public use of a claimed
+ invention, placing a claimed invention on sale, or otherwise making a claimed invention
+ available to the public might preclude patentability under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. See **[MPEP §§ 2132](s2132.html#d0e203390)** and **[2133.03](s2133.html#d0e203781)***et seq.* for a discussion of when public knowledge, public use, or
+ sale of a claimed invention might preclude patentability under **[pre-AIA 35 U.S.C. 102(a) or
+ (b)](mpep-9015-appx-l.html#d0e302383)**. If the activity is by an entity other than the inventors or
+ assignee, such as sale by another, manufacture by another or disclosure of the invention
+ by applicant to another then both **[pre-AIA 35 U.S.C. 102(a) and (b)](mpep-9015-appx-l.html#d0e302383)** may
+ be applicable. If the evidence only points to knowledge within the year prior to the
+ effective filing date then **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302383)** applies.
+ However, no rejection under **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302383)** should be
+ made if there is evidence that applicant made the invention and only disclosed it to
+ others within the year prior to the effective filing date. 
+ 
+
+
+Note that as an aid to resolving public use or on sale issues, as well
+ as to other related matters of public availability or public knowledge, an applicant may
+ be required to answer specific questions posed by the examiner and to explain or
+ supplement any evidence of record. See **[35 U.S.C. 132](mpep-9015-appx-l.html#d0e303187)** and **[37 CFR
+ 1.104(a)(2)](mpep-9020-appx-r.html#d0e322124)**. Information sought should be restricted to that which is
+ reasonably necessary for the examiner to render a decision on patentability. The
+ examiner may consider making a requirement for information under  **[37 CFR 1.105](mpep-9020-appx-r.html#d0e322262)**
+ where the evidence of record indicates reasonable necessity. See **[MPEP § 704.10](s704.html#d0e55758)***et seq.*
+
+
+A 2-month time period should be set by the examiner for any reply to the
+ requirement, unless the requirement is part of an Office action having a shortened
+ statutory period, in which case the period for reply to the Office action will also
+ apply to the requirement. If applicant fails to reply in a timely fashion to a
+ requirement for information, the application will be regarded as abandoned.
+ **[35 U.S.C.
+ 133](mpep-9015-appx-l.html#d0e303207aia)**. 
+ 
+
+
+If there is not enough information on which to base a public use or on
+ sale rejection, the examiner should make a requirement for more information. Form
+ paragraph **[7.104.aia](#fp7.104.aia)** or **[7.104.fti](#fp7.104.fti)** can be used.
+ 
+
+
+# ¶ 7.104.aia Requirement for Information, Public Use or Sale or Other Public
+ Availability
+
+
+An issue of public use, on sale activity, or other public
+ availability has been raised in this application. In order for the examiner to properly
+ consider patentability of the claimed invention under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, additional information regarding this issue is required as
+ follows: **[1]**
+
+
+Applicant is reminded that failure to fully reply to this
+ requirement for information will result in a holding of abandonment.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded by form paragraph
+ **[7.105](#fp7.105)**, and should be followed by form paragraphs
+ **[7.122](#fp7.122)** –
+ **[7.126](#fp7.126)** as
+ appropriate.
+* 2. This form paragraph should only be used in an application filed
+ on or after March 16, 2013, where the claims are being examined under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**/**[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** as amended by the Leahy-Smith
+ America Invents Act. This form paragraph must be preceded by form paragraph
+ **[7.03.aia](#fp7.03.aia)**.
+* 3. Information sought should be restricted to that
+ which is reasonably necessary for the examiner to render a decision on patentability.
+ See **[MPEP §
+ 2133.03](s2133.html#d0e203781)**.
+* 4. A two month time period should be set by the examiner
+ for reply to the requirement unless it is part of an Office action having a shortened
+ statutory period (SSP), in which case the period for reply will apply also to the
+ requirement.
+* 5. If sufficient evidence already exists to establish a
+ *prima facie* case of public use, sale, or other public availability
+ use form paragraph **[7.16.aia](#fp7.16.aia)** to make a rejection under **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**. See **[MPEP § 2133.03](s2133.html#d0e203781)**.
+
+
+
+# ¶ 7.104.fti Requirement for Information, Public Use or Sale
+
+
+An issue of public use or on sale activity has been raised
+ in this application. In order for the examiner to properly consider patentability of the
+ claimed invention under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**, additional
+ information regarding this issue is required as follows: **[1]**
+
+
+Applicant is reminded that failure to fully reply to this
+ requirement for information will result in a holding of abandonment.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded by form
+ paragraph **[7.105](#fp7.105)**, and should be followed by form paragraphs
+ **[7.122](#fp7.122)**
+ –**[7.126](#fp7.126)** as
+ appropriate.
+* 2. Information sought should be restricted to that which
+ is reasonably necessary for the examiner to render a decision on patentability. See
+ **[MPEP §
+ 2133.03](s2133.html#d0e203781)**.
+* 3. A two month time period should be set by the examiner for reply
+ to the requirement unless it is part of an Office action having an SSP, in which case
+ the SSP will apply also to the requirement.
+* 4. If sufficient evidence already exists to establish a
+ *prima facie* case of public use or on sale, use form paragraph
+ **[7.16.fti](#fp7.16.fti)**
+ to make a rejection under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**. See
+ **[MPEP §
+ 2133.03](s2133.html#d0e203781)**.
+
+
+
+
+]

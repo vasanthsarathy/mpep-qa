@@ -1,0 +1,136 @@
+[
+# 2190 Prosecution Laches and Res Judicata [R-10.2019]
+
+**I.** **PROSECUTION LACHES**The Federal Circuit affirmed a rejection of claims in a patent
+ application on the ground that applicant had forfeited his right to a patent under the
+ doctrine of prosecution history laches for unreasonable and undue delay in prosecution.
+ *In re Bogese,* 303 F.3d 1362, 1369, 64 USPQ2d 1448, 1453 (Fed. Cir.
+ 2002) (Applicant "filed twelve continuation applications over an eight-year period and
+ did not substantively advance prosecution when required and given an opportunity to do
+ so by the PTO."). While there are no firm guidelines for determining when laches is
+ triggered, it applies only in egregious cases of unreasonable and unexplained delay in
+ prosecution. For example, where there are "multiple examples of repetitive filings that
+ demonstrate a pattern of unjustified delayed prosecution," laches may be triggered.
+ *Symbol Tech. Inc. v. Lemelson Med., Educ., & Research Found.,*
+ 422 F.3d 1378, 1385, 76 USPQ2d 1354, 1360 (Fed. Cir. 2005)(Court discussed difference
+ between legitimate reasons for refiling patent applications and refilings for the
+ business purpose of delaying the issuance of previously allowed claims.). An examiner
+ should obtain approval from the TC Director before making a rejection on the grounds of
+ prosecution history laches. 
+ 
+
+**II.** **RES JUDICATA**A patent owner or applicant may be precluded from seeking a claim that
+ is not patentably distinct from a claim that was finally refused or canceled during an
+ administrative trial or federal court proceeding under the doctrine of *res
+ judicata.* Similarly, a patent owner may be precluded from seeking an
+ amendment of a specification or drawing that was denied entry during a trial if the
+ application or patent for which the amendment is sought has the same written description
+ as the patent or application that was the subject of the administrative trial or federal
+ court proceeding. See **[37 CFR 42.73(d)(3)](mpep-9020-appx-r.html#ar_d1d8bb_2c8a7_20a)**.
+ 
+
+
+A patent owner or applicant may be precluded from
+ seeking a claim that is not patentably distinct from a claim that was previously
+ rejected if the rejection was affirmed on appeal and the decision on appeal became
+ final. A *res judicata* rejection should be applied only when the
+ earlier decision was a decision of the Patent Trial and Appeal Board (or its predecessor
+ Board) or any one of the reviewing courts and when there is no opportunity for further
+ court review of the earlier decision. See *In re Hitchings,* 342 F.2d
+ 80, 85, 144 USPQ 637, 641 (CCPA 1965) (holding that unappealed rejections from examiners
+ cannot have a preclusive effect).
+ 
+
+
+When making a rejection on  *res judicata,* any prior
+ art rejection under **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** or **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** should ordinarily be made on the basis of the same prior art,
+ especially in continuing applications. In most situations, the same prior art which was
+ relied upon in the earlier decision would again be applicable.
+ 
+
+
+In the following cases, a rejection of a claim based on the ground of
+ *res judicata* was sustained where it was based on a prior
+ adjudication, against the inventor, on the same claim, a patentably nondistinct claim,
+ or a claim involving the same issue.
+ 
+
+
+*Edgerton v. Kingsland,* 168 F. 2d 121, 75 USPQ 307 (D.C. Cir.
+ 1947).
+ 
+
+
+*In re Katz,* 467 F.2d 939, 167 USPQ 487 (CCPA 1970) (prior decision by
+ a district court).
+ 
+
+
+In the following cases, *res judicata* rejections were
+ reversed for various reasons.
+ 
+
+
+*In re Fried,* 312 F.2d 930, 136 USPQ 429 (CCPA 1963) (*res
+ judicata* not applicable based on the definition of a "final" Board decision
+ found in an older version of the MPEP).
+ 
+
+
+*In re Hellbaum,* 371 F.2d 1022, 152 USPQ 571 (CCPA 1967) (*res
+ judicata* not applicable because the previously adjudicated and current
+ claims were too different to satisfy the "identity of issues" element of *res
+ judicata*).
+ 
+
+
+*In re Herr,* 377 F.2d 610, 153 USPQ 548 (CCPA 1967) (*res
+ judicata* not applicable despite similarities between previously adjudicated
+ and current claims because applicant provided new evidence of patentability).
+ 
+
+
+*In re Kaghan,* 387 F.2d 398, 156 USPQ 130 (CCPA 1967) (*res
+ judicata* not applicable based on the definition of a "final" Board decision
+ found in an older version of the MPEP).
+ 
+
+
+*In re Craig,* 411 F.2d 1333, 162 USPQ 157 (CCPA 1969) (*res
+ judicata* not applicable because the previously adjudicated and current
+ claims were too different to satisfy the "identity of issues" element of *res
+ judicata*).
+ 
+
+
+*In re Fisher,* 427 F.2d 833, 166 USPQ 18 (CCPA 1970) (*res
+ judicata* not applicable because the previously adjudicated and current
+ claims were too different to satisfy the "identity of issues" element of *res
+ judicata*).
+ 
+
+
+*In re Russell,* 439 F.2d 1228, 169 USPQ 426 (CCPA 1971) (*res
+ judicata* not applicable despite similarities between previously adjudicated
+ and current claims because applicant provided new evidence of patentability).
+ 
+
+
+*In re Ackermann,* 444 F.2d 1172, 170 USPQ 340 (CCPA 1971)
+ (*res judicata* not applicable because the previously adjudicated
+ and current claims were too different to satisfy the "identity of issues" element of
+ *res judicata*).
+ 
+
+
+*Plastic Contact Lens Co. v. Gottschalk,* 484 F.2d 837, 179 USPQ 262
+ (D.C. Cir. 1973) (*res judicata* not applicable based on the definition
+ of a "final" Board decision found in an older version of the MPEP).
+ 
+
+
+[[top]](#top)
+
+
+]

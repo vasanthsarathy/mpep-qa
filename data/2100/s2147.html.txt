@@ -1,0 +1,149 @@
+[
+# 2147 Biotechnology Process Applications; Pre-AIA 35
+ U.S.C. 103(b) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file provisions of the AIA as
+ explained in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**.]*
+
+
+
+#### *Pre-AIA 35 U.S.C. 103   
+ Conditions for patentability; non-obvious
+ subject matter.*
+
+
+\*\*\*\*\*
+
+
+* (b)
+	+ (1) Notwithstanding subsection (a), and upon timely election by
+	 the applicant for patent to proceed under this subsection, a
+	 biotechnological process using or resulting in a composition of matter that
+	 is novel under **[section 102](mpep-9015-appx-l.html#d0e302383)** and
+	 nonobvious under subsection (a) of this section shall be considered
+	 nonobvious if-
+		- (A) claims to the process and the composition of matter
+		 are contained in either the same application for patent or in separate
+		 applications having the same effective filing date; and
+		- (B) the composition of matter, and the process at the time
+		 it was invented, were owned by the same person or subject to an
+		 obligation of assignment to the same person.
+	+ (2) A patent issued on a process under paragraph (1)-
+		- (A) shall also contain the claims to the composition of
+		 matter used in or made by that process, or
+		- (B) shall, if such composition of matter is claimed in
+		 another patent, be set to expire on the same date as such other
+		 patent, notwithstanding **[section 154](mpep-9015-appx-l.html#al_d1fbe1_19854_1ee)**.
+	+ (3) For purposes of paragraph (1), the term "biotechnological
+	 process" means-
+		- (A) a process of genetically altering or otherwise
+		 inducing a single- or multi-celled organism to-
+			* (i) express an exogenous nucleotide sequence,
+			* (ii) inhibit, eliminate, augment, or alter expression
+			 of an endogenous nucleotide sequence, or
+			* (iii) express a specific physiological characteristic
+			 not naturally associated with said organism;
+		- (B) cell fusion procedures yielding a cell line that
+		 expresses a specific protein, such as a monoclonal antibody; and
+		- (C) a method of using a product produced by a process
+		 defined by subparagraph (A) or (B), or a combination of subparagraphs
+		 (A) and (B).
+
+
+\*\*\*\*\*
+
+
+
+**[Pre-AIA 35 U.S.C.
+ 103(b)](mpep-9015-appx-l.html#d0e302450)** is applicable to biotechnological processes only.
+ **[Pre-AIA 35 U.S.C.
+ 103(b)](mpep-9015-appx-l.html#d0e302450)** precludes a rejection of process claims which involve the use
+ or making of certain nonobvious biotechnological compositions of matter under
+ **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302450)**. Only applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ are subject to **[pre-AIA 35
+ U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302462)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)**.
+ 
+
+
+**[Pre-AIA 35 U.S.C.
+ 103(b)](mpep-9015-appx-l.html#d0e302450)** requires that:
+ 
+
+
+* (A) the biotechnological process and composition of matter be contained
+ in either the same application or in separate applications having the same effective
+ filing date;
+* (B) both the biotechnological process and composition of matter be owned
+ or subject to an assignment to the same person at the time the process was
+ invented;
+* (C) a patent issued on the process also contain the claims to the
+ composition of matter used in or made by the process, or, if the process and
+ composition of matter are in different patents, the patents expire on the same
+ date;
+* (D) the biotechnological process falls within the definition set forth in
+ **[pre-AIA 35
+ U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302450)**; and
+* (E) a timely election be made to proceed under the provisions of
+ **[pre-AIA 35
+ U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302450)**.
+
+
+An election to proceed under **[pre-AIA 35 U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302450)** shall be made
+ by way of petition under **[37 CFR 1.182](mpep-9020-appx-r.html#d0e324988)**. The petition must establish that all the requirements
+ set forth in **[pre-AIA
+ 35 U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302450)** have been satisfied.
+ 
+
+
+An election will normally be considered timely if it is made no later than
+ the earlier of either the payment of the issue fee or the filing of an appeal brief in an
+ application which contains a composition of matter claim which has not been rejected under
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** or **[103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+
+In an application where at least one composition of matter claim has not
+ been rejected under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** or **[103](mpep-9015-appx-l.html#d0e302450)**, a **[pre-AIA 35 U.S.C.
+ 103(b)](mpep-9015-appx-l.html#d0e302450)** election may be made by submitting the petition and an
+ amendment requesting entry of process claims which correspond to the composition of matter
+ claim.
+ 
+
+
+For applications pending on or after November 1, 1995, in which the issue
+ fee has been paid prior to March 26, 1996, the timeliness requirement for an election under
+ **[pre-AIA 35 U.S.C.
+ 103(b)](mpep-9015-appx-l.html#d0e302450)** will be considered satisfied if the conditions of 37 CFR
+ 1.312(b) are met. However, if a patent is granted on an application entitled to the benefit
+ of **[pre-AIA 35 U.S.C.
+ 103(b)](mpep-9015-appx-l.html#d0e302450)** without an election having been made as a result of error,
+ patentees may file a reissue application to permit consideration of process claims which
+ qualify for **[pre-AIA 35
+ U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302450)** treatment. See **[MPEP § 1412.02](s1412.html#d0e136811)**, subsection II.
+ 
+
+
+See **[MPEP §
+ 2116.01](s2116.html#d0e201660)** for a discussion of the Federal Circuit’s decisions in
+ *In re Ochiai,* 71 F.3d 1565, 37 USPQ 1127 (Fed. Cir. 1995) and
+ *In re Brouwer,* 77 F.3d 422, 37 USPQ2d 1663 (Fed. Cir. 1996)
+ which address the general issue of whether an otherwise conventional process could be
+ patented if it were limited to making or using a nonobvious product. In view of the Federal
+ Circuit’s decisions in *Ochiai* and *Brouwer*, an
+ applicant’s need to rely upon **[pre-AIA 35 U.S.C. 103(b)](mpep-9015-appx-l.html#d0e302450)** should be
+ rare. See also 1184 OG 86 (Comm’r Pat. 1996). See **[35 U.S.C. 282](mpep-9015-appx-l.html#d0e305845)** for the effect of a
+ determination of nonobviousness under **[pre-AIA 35 U.S.C. 103(b)(1)](mpep-9015-appx-l.html#d0e302450)** on the
+ presumption of validity.
+ 
+
+
+[[top]](#top)
+
+
+]

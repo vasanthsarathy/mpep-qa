@@ -1,0 +1,402 @@
+[
+# 2103 Patent Examination Process [R-10.2019]
+
+**I.** **DETERMINE WHAT INVENTION IS SOUGHT TO BE PATENTED**It is essential that patent applicants obtain a prompt yet
+ complete examination of their applications. Under the principles of compact prosecution,
+ each claim should be reviewed for compliance with every statutory requirement for
+ patentability in the initial review of the application, even if one or more claims are
+ found to be deficient with respect to some statutory requirement. Thus, examiners should
+ state all reasons and bases for rejecting claims in the first Office action.
+ Deficiencies should be explained clearly, particularly when they serve as a basis for a
+ rejection. Whenever practicable, examiners and patent reexamination specialists should
+ indicate how rejections may be overcome and how problems may be resolved. Where a
+ rejection not based on prior art is proper (lack of adequate written description,
+ enablement, or utility, etc.) such rejection should be stated with a full development of
+ the reasons rather than by a mere conclusion. A failure to follow this approach can lead
+ to unnecessary delays in the prosecution of the application.
+ 
+
+
+The examination of reissue applications is covered in
+ **[MPEP Chapter
+ 1400](mpep-1400.html#d0e134581)**, reexamination proceedings are covered in
+ **[MPEP Chapters
+ 2200](mpep-2200.html#d0e220689)** (*ex parte*) and **[2600](mpep-2600.html#d0e249708)** (*inter
+ partes*), and supplemental examination is covered in **[MPEP Chapter
+ 2800](mpep-2800.html#ch2800_d1fea8_279ab_9)**. 
+ 
+
+
+Prior to focusing on specific statutory requirements,
+ examiners must begin examination by determining what, precisely, the inventor or joint
+ inventor has invented and is seeking to patent, and how the claims relate to and define
+ that invention. Examiners will review the complete specification, including the detailed
+ description of the invention, any specific embodiments that have been disclosed, the
+ claims and any specific, substantial, and credible utilities that have been asserted for
+ the invention. 
+ 
+
+
+After obtaining an understanding of what applicant
+ invented, the examiner will conduct a search of the prior art and determine whether the
+ invention as claimed complies with all statutory requirements. 
+ 
+
+***A.*** ***Identify and Understand Any Utility for the Invention***The claimed invention as a whole must be useful. The
+ purpose of this requirement is to limit patent protection to inventions that possess
+ a certain level of "real world" value, as opposed to subject matter that represents
+ nothing more than an idea or concept, or is simply a starting point for future
+ investigation or research *(Brenner v. Manson,* 383 U.S. 519,
+ 528-36, 148 USPQ 689, 693-96 (1966); *In re Fisher,* 421 F.3d 1365,
+ 76 USPQ2d 1225 (Fed. Cir. 2005); *In re Ziegler,* 992 F.2d 1197,
+ 1200-03, 26 USPQ2d 1600, 1603-06 (Fed. Cir. 1993)).
+ 
+
+
+Examiners should review the application to identify any
+ asserted utility. The applicant is in the best position to explain why an invention
+ is believed useful. Accordingly, a complete disclosure should contain some indication
+ of the practical application for the claimed invention, i.e., why the applicant
+ believes the claimed invention is useful. Such a statement will usually explain the
+ purpose of the invention or how the invention may be used (e.g., a compound is
+ believed to be useful in the treatment of a particular disorder). Note that the
+ concept of a "practical application" in the evaluation of utility is different from
+ the concept of whether a judicial exception is integrated into a "practical
+ application" in the evaluation of subject matter eligibility. Regardless of the form
+ of statement of utility, it must enable one ordinarily skilled in the art to
+ understand why the applicant believes the claimed invention is useful. See
+ **[MPEP §
+ 2106](s2106.html#d0e197244)** for subject matter eligibility guidelines and
+ **[MPEP §
+ 2107](s2107.html#d0e198469)** for utility examination guidelines. An applicant may
+ assert more than one utility and practical application, but only one is necessary.
+ Alternatively, an applicant may rely on the contemporaneous art to provide that the
+ claimed invention has a well-established utility.
+ 
+
+***B.*** ***Review the Detailed Disclosure and Specific Embodiments of the Invention
+ To Understand What the Applicant Has Invented***The written description will provide the clearest
+ explanation of the applicant’s invention, by exemplifying the invention, explaining
+ how it relates to the prior art and explaining the relative significance of various
+ features of the invention. Accordingly, examiners should continue their evaluation
+ by
+ 
+
+
+* (A) determining the function of the invention,
+ that is, what the invention does when used as disclosed (e.g., the
+ functionality of a programmed computer); and
+* (B) determining the features necessary to
+ accomplish at least one asserted practical application.
+
+
+Patent applicants can assist the USPTO by preparing
+ applications that clearly set forth these aspects of an invention.
+ 
+
+***C.*** ***Review the Claims***The claims define the property rights provided by a
+ patent, and thus require careful scrutiny. The goal of claim analysis is to identify
+ the boundaries of the protection sought by the applicant and to understand how the
+ claims relate to and define what the applicant has indicated is the invention.
+ Examiners must first determine the scope of a claim by thoroughly analyzing the
+ language of the claim before determining if the claim complies with each statutory
+ requirement for patentability. See *In re Hiniker Co.,* 150 F.3d
+ 1362, 1369, 47 USPQ2d 1523, 1529 (Fed. Cir. 1998) ("[T]he name of the game is the
+ claim."). 
+ 
+
+
+Examiners should begin claim analysis by identifying
+ and evaluating each claim limitation. For processes, the claim limitations will
+ define steps or acts to be performed. For products, the claim limitations will define
+ discrete physical structures or materials. Product claims are claims that are
+ directed to either machines, manufactures or compositions of matter. 
+ 
+
+
+Examiners should then correlate each claim limitation
+ to all portions of the disclosure that describe the claim limitation. This is to be
+ done in all cases, regardless of whether the claimed invention is defined using
+ means- (or step-) plus- function language. The correlation step will ensure that
+ examiners correctly interpret each claim limitation in light of the specification. 
+ 
+
+
+The subject matter of a properly construed claim is
+ defined by the terms that limit the scope of the claim when given their broadest
+ reasonable interpretation. It is this subject matter that must be examined. As a
+ general matter, grammar and the plain meaning of terms as understood by one having
+ ordinary skill in the art used in a claim will dictate whether, and to what extent,
+ the language limits the claim scope. See **[MPEP § 2111.01](s2111.html#d0e200409)** for more information
+ on the plain meaning of claim language. Language that suggests or makes a feature or
+ step optional but does not require that feature or step does not limit the scope of a
+ claim under the broadest reasonable claim interpretation. The following types of
+ claim language may raise a question as to its limiting effect:
+ 
+
+
+* (A) statements of intended use or field of use,
+ including statements of purpose or intended use in the preamble,
+* (B) "adapted to" or "adapted for" clauses,
+* (C) "wherein" or "whereby" clauses,
+* (D) contingent limitations,
+* (E) printed matter, or
+* (F) terms with associated functional
+ language.
+
+
+This list of examples is not intended to be exhaustive.
+ The determination of whether particular language is a limitation in a claim depends
+ on the specific facts of the case. See, e.g., *Griffin v. Bertina,*
+ 285 F.3d 1029, 1034, 62 USPQ2d 1431 (Fed. Cir. 2002)(finding that a "wherein" clause
+ limited a process claim where the clause gave "meaning and purpose to the
+ manipulative steps"). For more information about these types of claim language and
+ how to determine whether they have a limiting effect on claim scope, see
+ **[MPEP §§
+ 2111.02](s2111.html#d0e200689)** through **[2111.05](s2111.html#ch2100_d1b148_1ea0c_2c0)**.
+ 
+
+
+ Examiners are to give claims their broadest
+ reasonable interpretation in light of the supporting disclosure. See
+ **[MPEP §
+ 2111](s2111.html#d0e200352)**. Disclosure may be express, implicit, or inherent.
+ Examiners are to give claimed means- (or step-) plus- function limitations their
+ broadest reasonable interpretation consistent with all corresponding structures (or
+ materials or acts) described in the specification and their equivalents. See
+ *In re Aoyama,* 656 F.3d 1293, 1297, 99 USPQ2d 1936, 1939 (Fed.
+ Cir. 2011). Further guidance in interpreting the scope of equivalents is provided in
+ **[MPEP §§
+ 2181](s2181.html#d0e219279)** through  **[2186](s2186.html#d0e220631)**. 
+ 
+
+
+While it is appropriate to use the specification to
+ determine what applicant intends a term to mean, a positive limitation from the
+ specification cannot be read into a claim that does not itself impose that
+ limitation. See **[MPEP §
+ 2111.01](s2111.html#d0e200409)**, subsection II. As explained in
+ **[MPEP §
+ 2111](s2111.html#d0e200352)**, giving a claim its broadest reasonable interpretation
+ during prosecution will reduce the possibility that the claim, when issued, will be
+ interpreted more broadly than is justified.
+ 
+
+
+Finally, when evaluating the scope of a claim, every
+ limitation in the claim must be considered. Examiners may not dissect a claimed
+ invention into discrete elements and then evaluate the elements in isolation.
+ Instead, the claim as a whole must be considered. See, e.g., *Diamond v.
+ Diehr,* 450 U.S. 175, 188-89, 209 USPQ 1, 9 (1981) ("In determining the
+ eligibility of respondents’ claimed process for patent protection under
+ **[§
+ 101](mpep-9015-appx-l.html#d0e302376)**, their claims must be considered as a whole. It is
+ inappropriate to dissect the claims into old and new elements and then to ignore the
+ presence of the old elements in the analysis. This is particularly true in a process
+ claim because a new combination of steps in a process may be patentable even though
+ all the constituents of the combination were well known and in common use before the
+ combination was made."). 
+ 
+
+**II.** **CONDUCT A THOROUGH SEARCH OF THE PRIOR ART**Prior to evaluating the claimed invention for
+ patentability, examiners are expected to conduct a thorough search of the prior art. See
+ **[MPEP §§
+ 904](s904.html#d0e115569)** through  **[904.03](s904.html#d0e115840)** for more information about how
+ to conduct a search. In many cases, the result of such a search will contribute to
+ examiners understanding of the invention. Both claimed and unclaimed aspects of the
+ invention described in the specification should be searched if there is a reasonable
+ expectation that the unclaimed aspects may be later claimed. A search must take into
+ account any structure or material described in the specification and its equivalents
+ which correspond to the claimed means- (or step-) plus- function limitation, in
+ accordance with **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** and
+ **[MPEP §
+ 2181](s2181.html#d0e219279)** through **[MPEP § 2186](s2186.html#d0e220631)**.
+ 
+
+**III.** **DETERMINE WHETHER THE CLAIMED INVENTION COMPLIES WITH 35 U.S.C. 101*** 
+
+***A.*** ***Consider the Breadth of 35 U.S.C. 101 Under Controlling Law*****[Section
+ 101](mpep-9015-appx-l.html#d0e302376)** of title 35, United States Code, provides:
+ 
+
+
+
+> 
+> Whoever invents or discovers any new and useful
+>  process, machine, manufacture, or composition of matter, or any new and useful
+>  improvement thereof, may obtain a patent therefor, subject to the conditions and
+>  requirements of this title.
+>  
+> 
+> 
+> 
+
+
+**[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** has been interpreted as imposing four requirements: (i)
+ only one patent may be obtained for an invention; (ii) the inventor(s) must be
+ identified in an application filed on or after September 16, 2012 or must be the
+ applicant in applications filed before September 16, 2012; (iii) the claimed
+ invention must be eligible for patenting; and, (iv) the claimed invention must be
+ useful (have utility). 
+ 
+
+
+See **[MPEP §
+ 2104](s2104.html#ch2100_d1b13f_1b012_1f4)** for a discussion of the four requirements,
+ **[MPEP §
+ 2106](s2106.html#d0e197244)** for a discussion of eligibility, and
+ **[MPEP §
+ 2107](s2107.html#d0e198469)** for the utility examination guidelines.
+ 
+
+
+The patent eligibility inquiry under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**
+ is a threshold inquiry. Even if a claimed invention qualifies as eligible subject
+ matter under **[35
+ U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, it must also satisfy the other conditions and
+ requirements of the patent laws, including the requirements for novelty
+ (**[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**), nonobviousness (**[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**), and adequate
+ description and definite claiming (**[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**). *Bilski
+ v. Kappos,* 561 U.S. 593, 602, 95 USPQ2d 1001, 1006 (2010). Therefore,
+ examiners should avoid focusing on only issues of patent-eligibility under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** to the detriment of considering an application for
+ compliance with the requirements of **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**,
+ and **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, and should avoid treating an application solely on the
+ basis of patent-eligibility under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** except in the most
+ extreme cases. 
+ 
+
+**IV.** **EVALUATE APPLICATION FOR COMPLIANCE WITH 35 U.S.C. 112*** 
+
+***A.*** ***Determine Whether the Claimed Invention Complies with 35 U.S.C. 112(b)
+ or Pre-AIA 35 U.S.C. 112, Second Paragraph Requirements*** **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** contains two separate and distinct requirements: (A)
+ that the claim(s) set forth the subject matter the inventor or a joint inventor
+ regards as the invention, and (B) that the claim(s) particularly point out and
+ distinctly claim the invention. An application will be deficient under the first
+ requirement of **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** when evidence
+ outside the application as filed, e.g., admissions, shows that the inventor or a
+ joint inventor regards the invention to be different from what is claimed (see
+ **[MPEP §
+ 2171](s2171.html#d0e217389)** - **[MPEP § 2172.01](s2172.html#d0e217526)**). 
+ 
+
+
+An application fails to comply with the second
+ requirement of **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** when the claims
+ do not set out and define the invention with a reasonable degree of precision and
+ particularity. In this regard, the definiteness of the language must be analyzed, not
+ in a vacuum, but always in light of the teachings of the disclosure as it would be
+ interpreted by one of ordinary skill in the art. Applicant’s claims, interpreted in
+ light of the disclosure, must reasonably apprise a person of ordinary skill in the
+ art of the invention. 
+ 
+
+
+The scope of a limitation that invokes
+ **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** is defined as the corresponding structure or
+ material set forth by the inventor in the written description and equivalents thereof
+ that perform the claimed function. See **[MPEP § 2181](s2181.html#d0e219279)** through
+ **[MPEP §
+ 2186](s2186.html#d0e220631)**. See **[MPEP § 2173](s2173.html#d0e217564)***et seq.* for a discussion of a variety of issues pertaining to the
+ **[35
+ U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** requirement that the claims particularly point
+ out and distinctly claim the invention. 
+ 
+
+***B.*** ***Determine Whether the Claimed Invention Complies with 35 U.S.C. 112(a)
+ or 35 U.S.C. 112, First Paragraph Requirements*****[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** contains three separate and distinct requirements:
+ 
+
+
+* (A) adequate written description,
+* (B) enablement, and
+* (C) best mode.
+
+**1.** **Adequate Written Description**For the written description requirement, an
+ applicant’s specification must reasonably convey to those skilled in the art that
+ the applicant was in possession of the claimed invention as of the date of
+ invention. See **[MPEP
+ § 2163](s2163.html#d0e213583)** for further guidance with respect to the
+ evaluation of a patent application for compliance with the written description
+ requirement.
+ 
+
+**2.** **Enabling Disclosure**An applicant’s specification must enable a person
+ skilled in the art to make and use the claimed invention without undue
+ experimentation. The fact that experimentation is complex, however, will not make
+ it undue if a person of skill in the art routinely engages in such
+ experimentation. 
+ 
+
+
+See **[MPEP § 2164](s2164.html#d0e215224)***et seq.* for detailed guidance with regard to the enablement
+ requirement of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**.
+ 
+
+**3.** **Best Mode**Determining compliance with the best mode
+ requirement requires a two-prong inquiry:
+ 
+
+
+* (1) at the time the application was filed, did
+ the inventor possess a best mode for practicing the invention; and
+* (2) if the inventor did possess a best mode,
+ does the written description disclose the best mode in such a manner that a
+ person of ordinary skill in the art could practice the best mode.
+
+
+See **[MPEP § 2165](s2165.html#d0e216924)***et seq.* for additional guidance. Deficiencies related to
+ disclosure of the best mode for carrying out the claimed invention are not usually
+ encountered during examination of an application because evidence to support such
+ a deficiency is seldom in the record. *Fonar Corp. v. General Elec.
+ Co.,* 107 F.3d 1543, 1548-49, 41 USPQ2d 1801, 1804-05 (Fed. Cir.
+ 1997). 
+ 
+
+**V.** **DETERMINE WHETHER THE CLAIMED INVENTION COMPLIES WITH 35 U.S.C. 102 AND
+ 103**Reviewing a claimed invention for compliance with
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[35 U.S.C.103](mpep-9015-appx-l.html#d0e302450)** begins with a
+ comparison of the claimed subject matter to what is known in the prior art. See
+ **[MPEP §§
+ 2131](s2131.html#d0e202959)** -  **[2146](s2146.html#d0e213206)** and **[MPEP §§
+ 2150](s2150.html#ch2100_d2002f_22805_16e)** - **[2159](s2159.html#ch2100_d20034_1dc34_1dd)** for specific guidance on
+ patentability determinations under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**. If
+ no differences are found between the claimed invention and the prior art, then the
+ claimed invention lacks novelty and is to be rejected by USPTO personnel under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. Once differences are identified between the claimed invention
+ and the prior art, those differences must be assessed and resolved in light of the
+ knowledge possessed by a person of ordinary skill in the art. Against this backdrop, one
+ must determine whether the invention would have been obvious to one of ordinary skill in
+ the art. If not, the claimed invention satisfies **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.
+ 
+
+**VI.** **CLEARLY COMMUNICATE FINDINGS, CONCLUSIONS AND THEIR BASES**Once examiners have completed the above analyses of the
+ claimed invention under all the statutory provisions, including **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**,
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, and **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**,
+ they should review all the proposed rejections and their bases to confirm that a
+ *prima facie* case of unpatentability exists. Only then should any
+ rejection be imposed in an Office action. The Office action should clearly communicate
+ the findings, conclusions and reasons which support them.
+ 
+
+
+EXAMINERS SHOULD USE THE APPLICABLE FORM PARAGRAPHS IN
+ OFFICE ACTIONS TO STATE THE BASIS FOR ANY OBJECTIONS OR REJECTIONS TO REDUCE THE CHANCE
+ OF A MISUNDERSTANDING AS TO THE GROUNDS OF OBJECTION OR REJECTION. 
+ 
+
+
+[[top]](#top)
+
+
+]

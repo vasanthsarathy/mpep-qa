@@ -1,0 +1,383 @@
+[
+# 2159 Applicability Date Provisions and Determining
+ Whether an Application Is Subject to the First Inventor To File Provisions of the
+ AIA [R-11.2013]
+
+
+Because the changes to **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** in the AIA apply only to
+ specific applications filed on or after March 16, 2013, determining the effective filing
+ date of a claimed invention for purposes of applying **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** provisions or **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)** provisions is critical.
+ 
+
+
+
+# 2159.01 Applications Filed Before March 16,
+ 2013 [R-11.2013]
+
+
+The changes to **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** in the AIA do not apply to any
+ application filed before March 16, 2013. Thus, any application filed before March 16,
+ 2013, is governed by **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** (i.e., the application is a
+ pre-AIA first to invent application). Note that neither the filing of a request for
+ continued examination, nor entry into the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**,
+ constitutes the filing of a new application. Accordingly, even if a request for
+ continued examination under **[37 CFR 1.114](mpep-9020-appx-r.html#d0e322625)** is filed on or after
+ March 16, 2013, in an application that was filed before March 16, 2013, the application
+ remains subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. Similarly, a PCT application
+ filed under **[35
+ U.S.C. 363](mpep-9015-appx-l.html#d0e306994313)** before March 16, 2013, is subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**, regardless of whether the
+ application enters the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)** before or after March
+ 16, 2013. Additionally, adding claims after March 16, 2013 in an application filed
+ before March 16, 2013 via an amendment which contains new matter does not make the
+ changes to **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** in the AIA applicable
+ to the application because **[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)** prohibits the
+ introduction of new matter into the disclosure. If new matter is added via amendment,
+ claims directed to the new matter will be rejected under **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. See **[MPEP § 608.04](s608.html#d0e50812)**.
+ 
+
+
+
+
+# 2159.02 Applications Filed on or After March 16,
+ 2013 [R-11.2013]
+
+
+**[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** took effect on March 16, 2013.
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply to any patent application
+ that contains or contained at any time a claim to a claimed invention that has an
+ effective filing date that is on or after March 16, 2013. If a patent application (1)
+ contains or contained at any time a claim to a claimed invention having an effective
+ filing date as defined in **[35 U.S.C. 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that is on or after
+ March 16, 2013 or (2) claims or ever claimed the benefit of an earlier filing date under
+ **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** , **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365](mpep-9015-appx-l.html#d0e307034)** based upon an
+ earlier application that ever contained such a claim, then **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#d0e302450)** apply to the application, (i.e.,
+ the application is an AIA application). If there is ever even a single claim to a
+ claimed invention in the application having an effective filing date on or after March
+ 16, 2013, **[AIA
+ 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply in determining the
+ patentability of every claimed invention in the application. This is the situation even
+ if the remaining claimed inventions all have an effective filing date before March 16,
+ 2013, and even if the claim to a claimed invention having an effective filing date on or
+ after March 16, 2013, is canceled.
+ 
+
+
+If an application filed on or after March 16, 2013, that
+ did not previously contain any claim to a claimed invention having an effective filing
+ date on or after March 16, 2013, (a pre-AIA application) is amended to contain a claim
+ to a claimed invention having an effective filing date on or after March 16, 2013, the
+ application becomes an AIA application (**[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply to the application), provided that the newly added
+ claimed invention has support under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** in the application
+ filed on or after March 16, 2013. The application also becomes subject to
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** even if the claim to a claimed
+ invention having an effective filing date on or after March 16, 2013, is subsequently
+ canceled. If an amendment after an Office action causes the application to change from
+ being governed by **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** (from being a pre-AIA
+ application) to being governed by **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** (to being a AIA application), any new ground of rejection
+ necessitated by the change in applicable law would be considered a new ground of
+ rejection necessitated by an amendment for purposes of determining whether the next
+ Office action may be made final. See **[MPEP § 706.07(a)](s706.html#d0e69118)**.
+ 
+
+
+As **[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)** prohibits the
+ introduction of new matter into the disclosure, an application may not contain a claim
+ to a claimed invention that does not have support under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** in the application (that is directed to new matter). Thus,
+ an application cannot "contain" a claim to a claimed invention that is directed to new
+ matter for purposes of determining whether the application ever contained a claim to a
+ claimed invention having an effective filing date on or after March 16, 2013. Amendments
+ that are believed to contain new matter should be treated as follows: (1) a new drawing
+ should not be entered if the examiner discovers that the drawing contains new matter
+ (**[MPEP §
+ 608.02](s608.html#d0e47639)**, subsection II.); and (2) amendments to the written
+ description or claims involving new matter are ordinarily entered, but the new matter is
+ required to be canceled from the written description and the claims directed to the new
+ matter are rejected under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**
+ (**[MPEP §
+ 608.04](s608.html#d0e50812)**). This process for treating amendments containing new
+ matter is purely an administrative process for handling an amendment seeking to
+ introduce new matter into the disclosure of the invention in violation of
+ **[35 U.S.C.
+ 132(a)](mpep-9015-appx-l.html#d0e303192)**, and for resolving disputes between the applicant and an
+ examiner as to whether a new drawing or amendment to the written description or claims
+ would actually introduce new matter into the disclosure of the invention. Therefore, an
+ amendment (other than a preliminary amendment filed on the same day as such application)
+ seeking to add a claim to a claimed invention that is directed to new matter in an
+ application filed on or after March 16, 2013, that, as originally filed, discloses and
+ claims only subject matter also disclosed in an earlier application filed before March
+ 16, 2013 to which the application filed on or after March 16, 2013, is entitled to
+ priority or benefit under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**, **[120](mpep-9015-appx-l.html#d0e303023313)**,
+ **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365](mpep-9015-appx-l.html#d0e307034)**, would not change the
+ application from a pre-AIA application into an AIA application.
+ 
+
+
+
+
+# 2159.03 Applications Subject to the AIA but Also
+ Containing a Claimed Invention Having an Effective Filing Date Before March 16,
+ 2013 [R-11.2013]
+
+
+Even if **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply to a patent application, **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** also applies to every claim in the application if it: (1)
+ contains or contained at any time a claimed invention having an effective filing date as
+ defined in **[35 U.S.C. 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that occurs before March 16, 2013; or (2) is
+ ever designated as a continuation, divisional, or continuation-in-part of an application
+ that contains or contained at any time such a claim. **[Pre-AIA 35 U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302424)** also
+ applies to any patent resulting from an application to which **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** applied. See **[MPEP § 2138](s2138.html#d0e207005)**.
+ 
+
+
+Thus, if an application contains, or contained at any
+ time, any claim having an effective filing date that occurs before March 16, 2013, and
+ also contains, or contained at any time, any claim having an effective filing date that
+ is on or after March 16, 2013, each claim must be patentable under **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, as well as **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)**, for the applicant to be entitled to a patent. However, an
+ application will not otherwise be concurrently subject to both **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** and **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**.
+ 
+
+
+For these reasons, when subject matter is claimed in an
+ application filed on or after March 16, 2013 having priority to or the benefit (e.g.,
+ under **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365(c)](mpep-9015-appx-l.html#d0e307053)**) of a prior
+ application filed before March 16, 2013, care must be taken to accurately determine
+ whether AIA or **[pre-AIA
+ 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** applies to the application. See
+ Also **[MPEP §
+ 2151](s2151.html#ch2100_d2002f_22873_3d8)**.
+ 
+
+
+
+
+# 2159.04 Applicant Statement in Transition Applications
+ Containing a Claimed Invention Having an Effective Filing Date on or After March 16,
+ 2013 [R-11.2013]
+
+
+The Office revised **[37 CFR 1.55](mpep-9020-appx-r.html#plt_d0e319215)** and **[1.78](mpep-9020-appx-r.html#aia_d0e320662)** to
+ require that if a nonprovisional application filed on or after March 16, 2013, claims
+ the benefit of or priority to an application where the filing date of a foreign, U.S.
+ provisional, U.S. nonprovisional, or international application is prior to March 16,
+ 2013 (termed as "a transition application"), and also contains or contained at any time
+ a claimed invention having an effective filing date on or after March 16, 2013, the
+ applicant must provide a statement to that effect ("the **[37 CFR 1.55](mpep-9020-appx-r.html#plt_d0e319215)** or
+ **[1.78](mpep-9020-appx-r.html#aia_d0e320662)** statement"). This information will assist the Office in
+ determining whether the transition application is subject to **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** or **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. However, applicant is not
+ required to provide this information if the transition application claims the benefit of
+ an earlier transition application in which a **[37 CFR 1.55](mpep-9020-appx-r.html#plt_d0e319215)** or **[37 CFR 1.78](mpep-9020-appx-r.html#aia_d0e320662)**
+ statement has been filed. See **[37 CFR 1.78(c)(6)(i)](mpep-9020-appx-r.html#ar_d1fc99_20810_23e)**. See also
+ **[MPEP §
+ 210](s210.html#ch200_d1ff71_1b3fd_92)**.
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2159.01 Applications Filed Before March 16,
+ 2013 [R-11.2013]
+
+
+The changes to **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** in the AIA do not apply to any
+ application filed before March 16, 2013. Thus, any application filed before March 16,
+ 2013, is governed by **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** (i.e., the application is a
+ pre-AIA first to invent application). Note that neither the filing of a request for
+ continued examination, nor entry into the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**,
+ constitutes the filing of a new application. Accordingly, even if a request for
+ continued examination under **[37 CFR 1.114](mpep-9020-appx-r.html#d0e322625)** is filed on or after
+ March 16, 2013, in an application that was filed before March 16, 2013, the application
+ remains subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. Similarly, a PCT application
+ filed under **[35
+ U.S.C. 363](mpep-9015-appx-l.html#d0e306994313)** before March 16, 2013, is subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**, regardless of whether the
+ application enters the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)** before or after March
+ 16, 2013. Additionally, adding claims after March 16, 2013 in an application filed
+ before March 16, 2013 via an amendment which contains new matter does not make the
+ changes to **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** in the AIA applicable
+ to the application because **[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)** prohibits the
+ introduction of new matter into the disclosure. If new matter is added via amendment,
+ claims directed to the new matter will be rejected under **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. See **[MPEP § 608.04](s608.html#d0e50812)**.
+ 
+
+
+, 
+# 2159.02 Applications Filed on or After March 16,
+ 2013 [R-11.2013]
+
+
+**[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** took effect on March 16, 2013.
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply to any patent application
+ that contains or contained at any time a claim to a claimed invention that has an
+ effective filing date that is on or after March 16, 2013. If a patent application (1)
+ contains or contained at any time a claim to a claimed invention having an effective
+ filing date as defined in **[35 U.S.C. 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that is on or after
+ March 16, 2013 or (2) claims or ever claimed the benefit of an earlier filing date under
+ **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)** , **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365](mpep-9015-appx-l.html#d0e307034)** based upon an
+ earlier application that ever contained such a claim, then **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#d0e302450)** apply to the application, (i.e.,
+ the application is an AIA application). If there is ever even a single claim to a
+ claimed invention in the application having an effective filing date on or after March
+ 16, 2013, **[AIA
+ 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply in determining the
+ patentability of every claimed invention in the application. This is the situation even
+ if the remaining claimed inventions all have an effective filing date before March 16,
+ 2013, and even if the claim to a claimed invention having an effective filing date on or
+ after March 16, 2013, is canceled.
+ 
+
+
+If an application filed on or after March 16, 2013, that
+ did not previously contain any claim to a claimed invention having an effective filing
+ date on or after March 16, 2013, (a pre-AIA application) is amended to contain a claim
+ to a claimed invention having an effective filing date on or after March 16, 2013, the
+ application becomes an AIA application (**[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply to the application), provided that the newly added
+ claimed invention has support under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** in the application
+ filed on or after March 16, 2013. The application also becomes subject to
+ **[AIA 35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** even if the claim to a claimed
+ invention having an effective filing date on or after March 16, 2013, is subsequently
+ canceled. If an amendment after an Office action causes the application to change from
+ being governed by **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** (from being a pre-AIA
+ application) to being governed by **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** (to being a AIA application), any new ground of rejection
+ necessitated by the change in applicable law would be considered a new ground of
+ rejection necessitated by an amendment for purposes of determining whether the next
+ Office action may be made final. See **[MPEP § 706.07(a)](s706.html#d0e69118)**.
+ 
+
+
+As **[35 U.S.C. 132(a)](mpep-9015-appx-l.html#d0e303192)** prohibits the
+ introduction of new matter into the disclosure, an application may not contain a claim
+ to a claimed invention that does not have support under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** in the application (that is directed to new matter). Thus,
+ an application cannot "contain" a claim to a claimed invention that is directed to new
+ matter for purposes of determining whether the application ever contained a claim to a
+ claimed invention having an effective filing date on or after March 16, 2013. Amendments
+ that are believed to contain new matter should be treated as follows: (1) a new drawing
+ should not be entered if the examiner discovers that the drawing contains new matter
+ (**[MPEP §
+ 608.02](s608.html#d0e47639)**, subsection II.); and (2) amendments to the written
+ description or claims involving new matter are ordinarily entered, but the new matter is
+ required to be canceled from the written description and the claims directed to the new
+ matter are rejected under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**
+ (**[MPEP §
+ 608.04](s608.html#d0e50812)**). This process for treating amendments containing new
+ matter is purely an administrative process for handling an amendment seeking to
+ introduce new matter into the disclosure of the invention in violation of
+ **[35 U.S.C.
+ 132(a)](mpep-9015-appx-l.html#d0e303192)**, and for resolving disputes between the applicant and an
+ examiner as to whether a new drawing or amendment to the written description or claims
+ would actually introduce new matter into the disclosure of the invention. Therefore, an
+ amendment (other than a preliminary amendment filed on the same day as such application)
+ seeking to add a claim to a claimed invention that is directed to new matter in an
+ application filed on or after March 16, 2013, that, as originally filed, discloses and
+ claims only subject matter also disclosed in an earlier application filed before March
+ 16, 2013 to which the application filed on or after March 16, 2013, is entitled to
+ priority or benefit under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)**, **[120](mpep-9015-appx-l.html#d0e303023313)**,
+ **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365](mpep-9015-appx-l.html#d0e307034)**, would not change the
+ application from a pre-AIA application into an AIA application.
+ 
+
+
+, 
+# 2159.03 Applications Subject to the AIA but Also
+ Containing a Claimed Invention Having an Effective Filing Date Before March 16,
+ 2013 [R-11.2013]
+
+
+Even if **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and
+ **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply to a patent application, **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** also applies to every claim in the application if it: (1)
+ contains or contained at any time a claimed invention having an effective filing date as
+ defined in **[35 U.S.C. 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that occurs before March 16, 2013; or (2) is
+ ever designated as a continuation, divisional, or continuation-in-part of an application
+ that contains or contained at any time such a claim. **[Pre-AIA 35 U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302424)** also
+ applies to any patent resulting from an application to which **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** applied. See **[MPEP § 2138](s2138.html#d0e207005)**.
+ 
+
+
+Thus, if an application contains, or contained at any
+ time, any claim having an effective filing date that occurs before March 16, 2013, and
+ also contains, or contained at any time, any claim having an effective filing date that
+ is on or after March 16, 2013, each claim must be patentable under **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, as well as **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)**, for the applicant to be entitled to a patent. However, an
+ application will not otherwise be concurrently subject to both **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** and **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**.
+ 
+
+
+For these reasons, when subject matter is claimed in an
+ application filed on or after March 16, 2013 having priority to or the benefit (e.g.,
+ under **[35 U.S.C.
+ 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365(c)](mpep-9015-appx-l.html#d0e307053)**) of a prior
+ application filed before March 16, 2013, care must be taken to accurately determine
+ whether AIA or **[pre-AIA
+ 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** applies to the application. See
+ Also **[MPEP §
+ 2151](s2151.html#ch2100_d2002f_22873_3d8)**.
+ 
+
+
+, 
+# 2159.04 Applicant Statement in Transition Applications
+ Containing a Claimed Invention Having an Effective Filing Date on or After March 16,
+ 2013 [R-11.2013]
+
+
+The Office revised **[37 CFR 1.55](mpep-9020-appx-r.html#plt_d0e319215)** and **[1.78](mpep-9020-appx-r.html#aia_d0e320662)** to
+ require that if a nonprovisional application filed on or after March 16, 2013, claims
+ the benefit of or priority to an application where the filing date of a foreign, U.S.
+ provisional, U.S. nonprovisional, or international application is prior to March 16,
+ 2013 (termed as "a transition application"), and also contains or contained at any time
+ a claimed invention having an effective filing date on or after March 16, 2013, the
+ applicant must provide a statement to that effect ("the **[37 CFR 1.55](mpep-9020-appx-r.html#plt_d0e319215)** or
+ **[1.78](mpep-9020-appx-r.html#aia_d0e320662)** statement"). This information will assist the Office in
+ determining whether the transition application is subject to **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** or **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)**. However, applicant is not
+ required to provide this information if the transition application claims the benefit of
+ an earlier transition application in which a **[37 CFR 1.55](mpep-9020-appx-r.html#plt_d0e319215)** or **[37 CFR 1.78](mpep-9020-appx-r.html#aia_d0e320662)**
+ statement has been filed. See **[37 CFR 1.78(c)(6)(i)](mpep-9020-appx-r.html#ar_d1fc99_20810_23e)**. See also
+ **[MPEP §
+ 210](s210.html#ch200_d1ff71_1b3fd_92)**.
+ 
+
+
+]

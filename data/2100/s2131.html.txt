@@ -1,0 +1,773 @@
+[
+# 2131 Anticipation — Application of 35 U.S.C. 102 [R-08.2017]
+
+
+ A claimed invention may be rejected under **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** when the invention is anticipated (or is "not novel") over a
+ disclosure that is available as prior art. To reject a claim as anticipated by a reference,
+ the disclosure must teach every element required by the claim under its broadest reasonable
+ interpretation. See, e.g., **[MPEP § 2114](s2114.html#d0e201520)**, subsections II and IV.
+ 
+
+
+"A claim is anticipated only if each and every element as set forth in the
+ claim is found, either expressly or inherently described, in a single prior art reference."
+ *Verdegaal Bros. v. Union Oil Co. of California,* 814 F.2d 628, 631, 2
+ USPQ2d 1051, 1053 (Fed. Cir. 1987). "When a claim covers several structures or
+ compositions, either generically or as alternatives, the claim is deemed anticipated if any
+ of the structures or compositions within the scope of the claim is known in the prior art."
+ *Brown v. 3M,* 265 F.3d 1349, 1351, 60 USPQ2d 1375, 1376 (Fed. Cir.
+ 2001) (claim to a system for setting a computer clock to an offset time to address the Year
+ 2000 (Y2K) problem, applicable to records with year date data in "at least one of
+ two-digit, three-digit, or four-digit" representations, was held anticipated by a system
+ that offsets year dates in only two-digit formats). See also **[MPEP § 2131.02](s2131.html#d0e203166)**. "The
+ identical invention must be shown in as complete detail as is contained in the ... claim."
+ *Richardson v. Suzuki Motor Co.,* 868 F.2d 1226, 1236, 9 USPQ2d 1913,
+ 1920 (Fed. Cir. 1989). The elements must be arranged as required by the claim, but this is
+ not an *ipsissimis verbis* test, i.e., identity of terminology is not
+ required. *In re Bond,* 910 F.2d 831, 15 USPQ2d 1566 (Fed. Cir. 1990).
+ Note that, in some circumstances, it is permissible to use multiple references in a
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** rejection. See **[MPEP § 2131.01](s2131.html#d0e203057)**.
+ 
+
+
+
+# 2131.01 Multiple Reference 35 U.S.C. 102 Rejections [R-11.2013]
+
+
+Normally, only one reference should be used in making a rejection under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. However, a **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** rejection over
+ multiple references has been held to be proper when the extra references are cited
+ to:
+ 
+
+
+* (A) Prove the primary reference contains an "enabled disclosure;"
+* (B) Explain the meaning of a term used in the primary reference; or
+* (C) Show that a characteristic not disclosed in the reference is
+ inherent.
+
+
+See subsections I-III below for more explanation of each
+ circumstance.
+ 
+
+**I.** **TO PROVE REFERENCE CONTAINS AN "ENABLED DISCLOSURE"*****Extra References and Extrinsic Evidence Can Be Used To Show the
+ Primary Reference Contains an "Enabled Disclosure"***When the claimed composition or machine is disclosed identically
+ by the reference, an additional reference may be relied on to show that the
+ primary reference has an "enabled disclosure." *In re Samour,* 571 F.2d 559, 197 USPQ 1 (CCPA 1978) and *In re
+ Donohue,* 766 F.2d 531, 226 USPQ 619 (Fed. Cir. 1985) (Compound claims
+ were rejected under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302383)** over
+ a publication in view of two patents. The publication disclosed the claimed
+ compound structure while the patents taught methods of making compounds of that
+ general class. The applicant argued that there was no motivation to combine the
+ references because no utility was previously known for the compound and that the
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** rejection over multiple references was improper. The
+ court held that the publication taught all the elements of the claim and thus
+ motivation to combine was not required. The patents were only submitted as
+ evidence of what was in the public's possession before applicant’s invention.).
+ 
+ 
+
+**II.** **TO EXPLAIN THE MEANING OF A TERM USED IN THE PRIMARY REFERENCE*****Extra References or Other Evidence Can Be Used to Show Meaning of a
+ Term Used in the Primary Reference***Extrinsic evidence may be used to explain but not expand the
+ meaning of terms and phrases used in the reference relied upon as anticipatory of
+ the claimed subject matter. *In re Baxter Travenol**Labs.,* 952 F.2d 388, 21 USPQ2d 1281 (Fed. Cir. 1991) (Baxter
+ Travenol Labs. invention was directed to a blood bag system incorporating a bag
+ containing DEHP, an additive to the plastic which improved the bag’s red blood
+ cell storage capability. The examiner rejected the claims over a technical
+ progress report by Becker which taught the same blood bag system but did not
+ expressly disclose the presence of DEHP. The report, however, did disclose using
+ commercial blood bags. It also disclosed the blood bag system as "very similar to
+ [Baxter] Travenol’s commercial two bag blood container." Extrinsic evidence
+ (depositions, declarations and Baxter Travenol’s own admissions) showed that
+ commercial blood bags, at the time Becker’s report was written, contained DEHP.
+ Therefore, one of ordinary skill in the art would have known that "commercial
+ blood bags" meant bags containing DEHP. The claims were thus held to be
+ anticipated.).
+ 
+
+**III.** **TO SHOW THAT A CHARACTERISTIC NOT DISCLOSED IN THE REFERENCE IS INHERENT** ***Extra Reference or Evidence Can Be Used To Show an Inherent
+ Characteristic of the Thing Taught by the Primary Reference***"To serve as an anticipation when the reference is silent about
+ the asserted inherent characteristic, such gap in the reference may be filled with
+ recourse to extrinsic evidence. Such evidence must make clear that the missing
+ descriptive matter is necessarily present in the thing described in the reference,
+ and that it would be so recognized by persons of ordinary skill."
+ *Continental Can Co. USA v. Monsanto Co.,* 948 F.2d 1264,
+ 1268, 20 USPQ2d 1746, 1749-50 (Fed. Cir. 1991) (The court went on to explain that
+ "this modest flexibility in the rule that ‘anticipation’ requires that every
+ element of the claims appear in a single reference accommodates situations in
+ which the common knowledge of technologists is not recorded in the reference; that
+ is, where technological facts are known to those in the field of the invention,
+ albeit not known to judges." 948 F.2d at 1268, 20 USPQ at 1749-50.). Note that as
+ long as there is evidence of record establishing inherency, failure of those
+ skilled in the art to contemporaneously recognize an inherent property, function
+ or ingredient of a prior art reference does not preclude a finding of
+ anticipation. *Atlas Powder Co. v. IRECO, Inc.,* 190 F.3d 1342,
+ 1349, 51 USPQ2d 1943, 1948 (Fed. Cir. 1999) (Two prior art references disclosed
+ blasting compositions containing water-in-oil emulsions with identical ingredients
+ to those claimed, in overlapping ranges with the claimed composition. The only
+ element of the claims arguably not present in the prior art compositions was
+ "sufficient aeration . . . entrapped to enhance sensitivity to a substantial
+ degree." The Federal Circuit found that the emulsions described in both references
+ would inevitably and inherently have "sufficient aeration" to sensitize the
+ compound in the claimed ranges based on the evidence of record (including test
+ data and expert testimony). This finding of inherency was not defeated by the fact
+ that one of the references taught away from air entrapment or purposeful
+ aeration.). See also *In re King,* 801 F.2d 1324, 1327, 231 USPQ
+ 136, 139 (Fed. Cir. 1986); *Titanium Metals Corp. v. Banner,* 778
+ F.2d 775, 782, 227 USPQ 773, 778 (Fed. Cir. 1985). See **[MPEP § 2112](s2112.html#d0e201036)** -
+ **[§
+ 2112.02](s2112.html#d0e201360)** for case law on inherency. Also note that the
+ critical date of extrinsic evidence showing a universal fact need not antedate the
+ filing date. See **[MPEP § 2124](s2124.html#d0e202094)**. 
+ 
+
+
+
+
+# 2131.02 Genus-Species Situations [R-08.2017]
+
+**I.** **A SPECIES WILL ANTICIPATE A CLAIM TO A GENUS**"A generic claim cannot be allowed to an applicant if the prior art
+ discloses a species falling within the claimed genus." The species in that case will
+ anticipate the genus. *In re Slayter,* 276 F.2d 408, 411, 125 USPQ
+ 345, 347 (CCPA 1960); *In re Gosteli,* 872 F.2d 1008, 10 USPQ2d 1614
+ (Fed. Cir. 1989) (Gosteli claimed a genus of 21 specific chemical species of bicyclic
+ thia-aza compounds in Markush claims. The prior art reference applied against the
+ claims disclosed two of the chemical species. The parties agreed that the prior art
+ species would anticipate the claims unless applicant was entitled to his foreign
+ priority date.).
+ 
+
+**II.** **A REFERENCE THAT CLEARLY NAMES THE CLAIMED SPECIES ANTICIPATES THE CLAIM NO
+ MATTER HOW MANY OTHER SPECIES ARE NAMED**A genus does not always anticipate a claim to a species within the
+ genus. However, when the species is clearly named, the species claim is anticipated
+ no matter how many other species are additionally named. See *Ex
+ parte**A,* 17 USPQ2d 1716 (Bd. Pat. App. & Inter. 1990) (The claimed
+ compound was named in a reference which also disclosed 45 other compounds. The Board
+ held that the comprehensiveness of the listing did not negate the fact that the
+ compound claimed was specifically taught. The Board compared the facts to the
+ situation in which the compound was found in the *Merck Index,*
+ saying that "the tenth edition of the *Merck Index* lists ten
+ thousand compounds. In our view, each and every one of those compounds is ‘described’
+ as that term is used in **[[pre-AIA] 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)**, in
+ that publication."). *Id.* at 1718. See also  *In re
+ Sivaramakrishnan,* 673 F.2d 1383, 213 USPQ 441 (CCPA 1982) (The claims
+ were directed to polycarbonate containing cadmium laurate as an additive. The court
+ upheld the Board’s finding that a reference specifically naming cadmium laurate as an
+ additive amongst a list of many suitable salts in polycarbonate resin anticipated the
+ claims. The applicant had argued that cadmium laurate was only disclosed as
+ representative of the salts and was expected to have the same properties as the other
+ salts listed while, as shown in the application, cadmium laurate had unexpected
+ properties. The court held that it did not matter that the salt was not disclosed as
+ being preferred, the reference still anticipated the claims and because the claim was
+ anticipated, the unexpected properties were immaterial.).
+ 
+
+**III.** **A GENERIC DISCLOSURE WILL ANTICIPATE A CLAIMED SPECIES COVERED BY THAT
+ DISCLOSURE WHEN THE SPECIES CAN BE "AT ONCE ENVISAGED" FROM THE DISCLOSURE** "[W]hether a generic disclosure necessarily
+ anticipates everything within the genus … depends on the factual aspects of the
+ specific disclosure and the particular products at issue." *Sanofi-Synthelabo
+ v. Apotex, Inc.,* 550 F.3d 1075, 1083, 89 USPQ2d 1370, 1375 (Fed. Cir.
+ 2008). See also *Osram Sylvania Inc. v. American Induction Tech.
+ Inc.,* 701 F.3d 698, 706, 105 USPQ2d 1368, 1374 (Fed. Cir. 2012) ("how
+ one of ordinary skill in the art would understand the relative size of a genus or
+ species in a particular technology is of critical importance").
+ 
+
+
+A reference disclosure can anticipate a claim even if
+ the reference does not describe "the limitations arranged or combined as in the
+ claim, if a person of skill in the art, reading the reference, would ‘at once
+ envisage’ the claimed arrangement or combination." *Kennametal, Inc. v.
+ Ingersoll Cutting Tool Co.,* 780 F.3d 1376, 1381, 114 USPQ2d 1250, 1254
+ (Fed. Cir. 2015) (quoting *In re Petering,* 301 F.2d 676, 681(CCPA
+ 1962)). In *Kennametal,* the challenged claim was to a cutting tool
+ requiring a ruthenium binding agent with a physical vapor deposition (PVD) coating.
+ Claim 5 of the reference disclosed all the elements of the claimed coated cutting
+ tool, however, ruthenium was one of five specified binding agents and the claim did
+ not specify a particular coating technique. The specification of the reference
+ disclosed PVD as one of three suitable coating techniques. The Federal Circuit stated
+ that the reference’s "express ‘contemplat[ion]’ of PVD coatings provided sufficient
+ evidence that a reasonable mind could find that a person of skill in the art… would
+ immediately envisage applying a PVD coating. Thus, substantial evidence supports the
+ Board's conclusion that [the reference] effectively teaches 15 combinations, of which
+ one anticipates pending claim 1. Though it is true that there is no evidence in [the
+ reference] of ‘actual performance’ of combining the ruthenium binder and PVD
+ coatings, this is not required." *Kennametal,* 780 F.3d at 1383, 114
+ USPQ2d at 1255 (citations omitted).
+ 
+
+
+When a claimed compound is not specifically named in a reference,
+ but instead it is necessary to select portions of teachings within the reference and
+ combine them, e.g., select various substituents from a list of alternatives given for
+ placement at specific sites on a generic chemical formula to arrive at a specific
+ composition, anticipation can only be found if the classes of substituents are
+ sufficiently limited or well delineated. *Ex parte A,* 17 USPQ2d
+ 1716 (Bd. Pat. App. & Inter. 1990). If one of ordinary skill in the art is able
+ to "at once envisage" the specific compound within the generic chemical formula, the
+ compound is anticipated. One of ordinary skill in the art must be able to draw the
+ structural formula or write the name of each of the compounds included in the generic
+ formula before any of the compounds can be "at once envisaged." One may look to the
+ preferred embodiments to determine which compounds can be anticipated. *In re
+ Petering,* 301 F.2d 676, 133 USPQ 275 (CCPA 1962).
+ 
+
+
+In *In re Petering,* the prior art disclosed a
+ generic chemical formula "wherein X, Y, Z, P, and R'-
+ represent either hydrogen or alkyl radicals, R a side chain containing an OH group."
+ The court held that this formula, without more, could not anticipate a claim to
+ 7-methyl-9-[d, l'-ribityl]-isoalloxazine because the
+ generic formula encompassed a vast number and perhaps even an infinite number of
+ compounds. However, the reference also disclosed preferred substituents for X, Y, Z,
+ P, R, and R' as follows: where X, P, and
+ R' are hydrogen, where Y and Z may be hydrogen or
+ methyl, and where R is one of eight specific isoalloxazines. The court determined
+ that this more limited generic class consisted of about 20 compounds. The limited
+ number of compounds covered by the preferred formula in combination with the fact
+ that the number of substituents was low at each site, the ring positions were
+ limited, and there was a large unchanging structural nucleus, resulted in a finding
+ that the reference sufficiently described "each of the various permutations here
+ involved as fully as if he had drawn each structural formula or had written each
+ name." The claimed compound was 1 of these 20 compounds. Therefore, the reference
+ "described" the claimed compound and the reference anticipated the claims.
+ 
+
+
+In *In re Schauman,* 572 F.2d 312, 197 USPQ 5 (CCPA
+ 1978), claims to a specific compound were anticipated because the prior art taught a
+ generic formula embracing a limited number of compounds closely related to each other
+ in structure and the properties possessed by the compound class of the prior art was
+ that disclosed for the claimed compound. The broad generic formula seemed to describe
+ an infinite number of compounds but claim 1 was limited to a structure with only one
+ variable substituent R. This substituent was limited to low alkyl radicals. One of
+ ordinary skill in the art would at once envisage the subject matter within claim 1 of
+ the reference. 
+ 
+
+
+Compare *In re Meyer,* 599 F.2d 1026, 202 USPQ 175
+ (CCPA 1979) (A reference disclosing "alkaline chlorine or bromine solution" embraces
+ a large number of species and cannot be said to anticipate claims to "alkali metal
+ hypochlorite."); *Akzo N.V.**v.**International Trade Comm’n,* 808 F.2d 1471, 1 USPQ2d 1241 (Fed.
+ Cir. 1986) (Claims to a process for making aramid fibers using a 98% solution of
+ sulfuric acid were not anticipated by a reference which disclosed using sulfuric acid
+ solution but which did not disclose using a 98% concentrated sulfuric acid
+ solution.). See **[MPEP §
+ 2144.08](s2144.html#d0e211596)** for a discussion of obviousness in genus-species
+ situations.
+ 
+
+
+
+
+# 2131.03 Anticipation of Ranges [R-10.2019]
+
+**I.** **A SPECIFIC EXAMPLE IN THE PRIOR ART WHICH IS WITHIN A CLAIMED RANGE
+ ANTICIPATES THE RANGE**"[W]hen, as by a recitation of ranges or otherwise, a claim covers
+ several compositions, the claim is ‘anticipated’ if *one* of them is
+ in the prior art." *Titanium Metals Corp.**v. Banner,* 778 F.2d 775, 227 USPQ 773 (Fed. Cir. 1985) (citing
+ *In re**Petering,* 301 F.2d 676, 682, 133 USPQ 275, 280 (CCPA 1962))
+ (emphasis in original) (Claims to titanium (Ti) alloy with 0.6-0.9% nickel (Ni) and
+ 0.2-0.4% molybdenum (Mo) were held anticipated by a graph in a Russian article on
+ Ti-Mo-Ni alloys because the graph contained an actual data point corresponding to a
+ Ti alloy containing 0.25% Mo and 0.75% Ni and this composition was within the claimed
+ range of compositions.).
+ 
+
+**II.** **PRIOR ART WHICH TEACHES A RANGE OVERLAPPING OR TOUCHING THE CLAIMED RANGE
+ ANTICIPATES IF THE PRIOR ART RANGE DISCLOSES THE CLAIMED RANGE WITH "SUFFICIENT
+ SPECIFICITY"**When the prior art discloses a range which touches or overlaps the
+ claimed range, but no specific examples falling within the claimed range are
+ disclosed, a case by case determination must be made as to anticipation. In order to
+ anticipate the claims, the claimed subject matter must be disclosed in the reference
+ with "sufficient specificity to constitute an anticipation under the statute." What
+ constitutes a "sufficient specificity" is fact dependent. If the claims are directed
+ to a narrow range, and the reference teaches a broader range, other facts of the
+ case, must be considered when determining whether the narrow range is disclosed with
+ "sufficient specificity" to constitute an anticipation of the claims. Compare
+ *ClearValue Inc. v. Pearl River Polymers Inc.,* 668 F.3d 1340,
+ 101 USPQ2d 1773 (Fed. Cir. 2012) with *Atofina v. Great Lakes Chem.
+ Corp,* 441 F.3d 991, 999, 78 USPQ2d 1417, 1423 (Fed. Cir. 2006).
+ 
+
+
+In *ClearValue,* the claim at issue
+ was directed to a process of clarifying water with alkalinity below 50 ppm, whereas
+ the prior art taught that the same process works for systems with alkalinity of 150
+ ppm or less. In holding the claim anticipated, the court observed that "there is no
+ allegation of criticality or any evidence demonstrating any difference across the
+ range." *Id.* at 1345, 101 USPQ2d at 1777. In
+ *Atofina,* the court held that a reference temperature range of
+ 100-500 degrees C did not describe the claimed range of 330-450 degrees C with
+ sufficient specificity to be anticipatory, even though there was a slight overlap
+ between the reference’s preferred range (150-350 degrees C) and the claimed range.
+ "[T]he disclosure of a range is no more a disclosure of the end points of the range
+ than it is each of the intermediate points." *Id.* at 1000, 78
+ USPQ2d at 1424. Patentee described claimed temperature range as "critical" to enable
+ the process to operate effectively, and showed that one of ordinary skill would have
+ expected the synthesis process to operate differently outside the claimed range. 
+ 
+
+
+If the prior art disclosure does not disclose a
+ claimed range with "sufficient specificity" to anticipate a claimed invention, any
+ evidence of unexpected results within the narrow range may render the claims
+ nonobvious. See **[MPEP §
+ 716.02](s716.html#d0e92844)***et seq.* The question of "sufficient specificity" is similar to
+ that of "clearly envisaging" a species from a generic teaching. See
+ **[MPEP
+ § 2131.02](s2131.html#d0e203166)**. 
+ 
+
+
+A **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)** combination rejection is permitted if it is unclear if the
+ reference teaches the range with "sufficient specificity." The examiner must, in this
+ case, provide reasons for anticipation as well as a reasoned statement regarding
+ obviousness. *Ex parte Lee,* 31 USPQ2d 1105 (Bd. Pat. App. &
+ Inter. 1993) (expanded Board). For a discussion of the obviousness of ranges see
+ **[MPEP
+ § 2144.05](s2144.html#d0e211255)**.
+ 
+
+**III.** **PRIOR ART WHICH TEACHES A VALUE OR RANGE THAT IS VERY CLOSE TO, BUT DOES NOT
+ OVERLAP OR TOUCH, THE CLAIMED RANGE DOES NOT ANTICIPATE THE CLAIMED RANGE**"[A]nticipation under **[§ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** can be found only when the
+ reference discloses exactly what is claimed and that where there are differences
+ between the reference disclosure and the claim, the rejection must be based on
+ **[§
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** which takes differences into account." *Titanium
+ Metals Corp. v. Banner,* 778 F.2d 775, 227 USPQ 773 (Fed. Cir. 1985)
+ (Claims to titanium (Ti) alloy with 0.8% nickel (Ni) and 0.3% molybdenum (Mo) were
+ not anticipated by, although they were held obvious over, a graph in a Russian
+ article on Ti-Mo-Ni alloys in which the graph contained an actual data point
+ corresponding to a Ti alloy containing 0.25% Mo and 0.75% Ni.).
+ 
+
+
+
+
+# 2131.04 Secondary Considerations [R-08.2012]
+
+
+Evidence of secondary considerations, such as unexpected results or
+ commercial success, is irrelevant to **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** rejections and thus
+ cannot overcome a rejection so based. *In re Wiggins,* 488 F.2d 538,
+ 543, 179 USPQ 421, 425 (CCPA 1973).
+ 
+
+
+
+
+# 2131.05 Nonanalogous or Disparaging Prior Art [R-08.2012]
+
+
+"Arguments that the alleged anticipatory prior art is ‘nonanalogous
+ art’ or ‘teaches away from the invention’ or is not recognized as solving the problem
+ solved by the claimed invention, [are] not ‘germane’ to a rejection under
+ **[section
+ 102](mpep-9015-appx-l.html#d0e302383)**." *Twin Disc, Inc.**v. United States,* 231 USPQ 417, 424 (Cl. Ct. 1986) (quoting
+ *In re Self,* 671 F.2d 1344, 213 USPQ 1, 7 (CCPA 1982)). See also
+ *State Contracting & Eng’ g Corp. v. Condotte America, Inc.,*
+ 346 F.3d 1057, 1068, 68 USPQ2d 1481, 1488 (Fed. Cir. 2003) (The question of whether a
+ reference is analogous art is not relevant to whether that reference anticipates. A
+ reference may be directed to an entirely different problem than the one addressed by the
+ inventor, or may be from an entirely different field of endeavor than that of the
+ claimed invention, yet the reference is still anticipatory if it explicitly or
+ inherently discloses every limitation recited in the claims.).
+ 
+
+
+A reference is no less anticipatory if, after disclosing the invention,
+ the reference then disparages it. The question whether a reference "teaches away" from
+ the invention is inapplicable to an anticipation analysis. *Celeritas
+ Technologies Ltd. v. Rockwell International Corp.,* 150 F.3d 1354, 1361, 47
+ USPQ2d 1516, 1522-23 (Fed. Cir. 1998) (The prior art was held to anticipate the claims
+ even though it taught away from the claimed invention. "The fact that a modem with a
+ single carrier data signal is shown to be less than optimal does not vitiate the fact
+ that it is disclosed."). See *Upsher-Smith Labs. v. Pamlab, LLC,* 412
+ F.3d 1319, 1323, 75 USPQ2d 1213, 1215 (Fed. Cir. 2005)(claimed composition that
+ expressly excluded an ingredient held anticipated by reference composition that
+ optionally included that same ingredient); see also *Atlas Powder Co. v. IRECO,
+ Inc.,* 190 F.3d 1342, 1349, 51 USPQ2d 1943, 1948 (Fed. Cir. 1999) (Claimed
+ composition was anticipated by prior art reference that inherently met claim limitation
+ of "sufficient aeration" even though reference taught away from air entrapment or
+ purposeful aeration.).
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2131.01 Multiple Reference 35 U.S.C. 102 Rejections [R-11.2013]
+
+
+Normally, only one reference should be used in making a rejection under
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**. However, a **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** rejection over
+ multiple references has been held to be proper when the extra references are cited
+ to:
+ 
+
+
+* (A) Prove the primary reference contains an "enabled disclosure;"
+* (B) Explain the meaning of a term used in the primary reference; or
+* (C) Show that a characteristic not disclosed in the reference is
+ inherent.
+
+
+See subsections I-III below for more explanation of each
+ circumstance.
+ 
+
+**I.** **TO PROVE REFERENCE CONTAINS AN "ENABLED DISCLOSURE"*****Extra References and Extrinsic Evidence Can Be Used To Show the
+ Primary Reference Contains an "Enabled Disclosure"***When the claimed composition or machine is disclosed identically
+ by the reference, an additional reference may be relied on to show that the
+ primary reference has an "enabled disclosure." *In re Samour,* 571 F.2d 559, 197 USPQ 1 (CCPA 1978) and *In re
+ Donohue,* 766 F.2d 531, 226 USPQ 619 (Fed. Cir. 1985) (Compound claims
+ were rejected under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302383)** over
+ a publication in view of two patents. The publication disclosed the claimed
+ compound structure while the patents taught methods of making compounds of that
+ general class. The applicant argued that there was no motivation to combine the
+ references because no utility was previously known for the compound and that the
+ **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** rejection over multiple references was improper. The
+ court held that the publication taught all the elements of the claim and thus
+ motivation to combine was not required. The patents were only submitted as
+ evidence of what was in the public's possession before applicant’s invention.).
+ 
+ 
+
+**II.** **TO EXPLAIN THE MEANING OF A TERM USED IN THE PRIMARY REFERENCE*****Extra References or Other Evidence Can Be Used to Show Meaning of a
+ Term Used in the Primary Reference***Extrinsic evidence may be used to explain but not expand the
+ meaning of terms and phrases used in the reference relied upon as anticipatory of
+ the claimed subject matter. *In re Baxter Travenol**Labs.,* 952 F.2d 388, 21 USPQ2d 1281 (Fed. Cir. 1991) (Baxter
+ Travenol Labs. invention was directed to a blood bag system incorporating a bag
+ containing DEHP, an additive to the plastic which improved the bag’s red blood
+ cell storage capability. The examiner rejected the claims over a technical
+ progress report by Becker which taught the same blood bag system but did not
+ expressly disclose the presence of DEHP. The report, however, did disclose using
+ commercial blood bags. It also disclosed the blood bag system as "very similar to
+ [Baxter] Travenol’s commercial two bag blood container." Extrinsic evidence
+ (depositions, declarations and Baxter Travenol’s own admissions) showed that
+ commercial blood bags, at the time Becker’s report was written, contained DEHP.
+ Therefore, one of ordinary skill in the art would have known that "commercial
+ blood bags" meant bags containing DEHP. The claims were thus held to be
+ anticipated.).
+ 
+
+**III.** **TO SHOW THAT A CHARACTERISTIC NOT DISCLOSED IN THE REFERENCE IS INHERENT** ***Extra Reference or Evidence Can Be Used To Show an Inherent
+ Characteristic of the Thing Taught by the Primary Reference***"To serve as an anticipation when the reference is silent about
+ the asserted inherent characteristic, such gap in the reference may be filled with
+ recourse to extrinsic evidence. Such evidence must make clear that the missing
+ descriptive matter is necessarily present in the thing described in the reference,
+ and that it would be so recognized by persons of ordinary skill."
+ *Continental Can Co. USA v. Monsanto Co.,* 948 F.2d 1264,
+ 1268, 20 USPQ2d 1746, 1749-50 (Fed. Cir. 1991) (The court went on to explain that
+ "this modest flexibility in the rule that ‘anticipation’ requires that every
+ element of the claims appear in a single reference accommodates situations in
+ which the common knowledge of technologists is not recorded in the reference; that
+ is, where technological facts are known to those in the field of the invention,
+ albeit not known to judges." 948 F.2d at 1268, 20 USPQ at 1749-50.). Note that as
+ long as there is evidence of record establishing inherency, failure of those
+ skilled in the art to contemporaneously recognize an inherent property, function
+ or ingredient of a prior art reference does not preclude a finding of
+ anticipation. *Atlas Powder Co. v. IRECO, Inc.,* 190 F.3d 1342,
+ 1349, 51 USPQ2d 1943, 1948 (Fed. Cir. 1999) (Two prior art references disclosed
+ blasting compositions containing water-in-oil emulsions with identical ingredients
+ to those claimed, in overlapping ranges with the claimed composition. The only
+ element of the claims arguably not present in the prior art compositions was
+ "sufficient aeration . . . entrapped to enhance sensitivity to a substantial
+ degree." The Federal Circuit found that the emulsions described in both references
+ would inevitably and inherently have "sufficient aeration" to sensitize the
+ compound in the claimed ranges based on the evidence of record (including test
+ data and expert testimony). This finding of inherency was not defeated by the fact
+ that one of the references taught away from air entrapment or purposeful
+ aeration.). See also *In re King,* 801 F.2d 1324, 1327, 231 USPQ
+ 136, 139 (Fed. Cir. 1986); *Titanium Metals Corp. v. Banner,* 778
+ F.2d 775, 782, 227 USPQ 773, 778 (Fed. Cir. 1985). See **[MPEP § 2112](s2112.html#d0e201036)** -
+ **[§
+ 2112.02](s2112.html#d0e201360)** for case law on inherency. Also note that the
+ critical date of extrinsic evidence showing a universal fact need not antedate the
+ filing date. See **[MPEP § 2124](s2124.html#d0e202094)**. 
+ 
+
+
+, 
+# 2131.02 Genus-Species Situations [R-08.2017]
+
+**I.** **A SPECIES WILL ANTICIPATE A CLAIM TO A GENUS**"A generic claim cannot be allowed to an applicant if the prior art
+ discloses a species falling within the claimed genus." The species in that case will
+ anticipate the genus. *In re Slayter,* 276 F.2d 408, 411, 125 USPQ
+ 345, 347 (CCPA 1960); *In re Gosteli,* 872 F.2d 1008, 10 USPQ2d 1614
+ (Fed. Cir. 1989) (Gosteli claimed a genus of 21 specific chemical species of bicyclic
+ thia-aza compounds in Markush claims. The prior art reference applied against the
+ claims disclosed two of the chemical species. The parties agreed that the prior art
+ species would anticipate the claims unless applicant was entitled to his foreign
+ priority date.).
+ 
+
+**II.** **A REFERENCE THAT CLEARLY NAMES THE CLAIMED SPECIES ANTICIPATES THE CLAIM NO
+ MATTER HOW MANY OTHER SPECIES ARE NAMED**A genus does not always anticipate a claim to a species within the
+ genus. However, when the species is clearly named, the species claim is anticipated
+ no matter how many other species are additionally named. See *Ex
+ parte**A,* 17 USPQ2d 1716 (Bd. Pat. App. & Inter. 1990) (The claimed
+ compound was named in a reference which also disclosed 45 other compounds. The Board
+ held that the comprehensiveness of the listing did not negate the fact that the
+ compound claimed was specifically taught. The Board compared the facts to the
+ situation in which the compound was found in the *Merck Index,*
+ saying that "the tenth edition of the *Merck Index* lists ten
+ thousand compounds. In our view, each and every one of those compounds is ‘described’
+ as that term is used in **[[pre-AIA] 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)**, in
+ that publication."). *Id.* at 1718. See also  *In re
+ Sivaramakrishnan,* 673 F.2d 1383, 213 USPQ 441 (CCPA 1982) (The claims
+ were directed to polycarbonate containing cadmium laurate as an additive. The court
+ upheld the Board’s finding that a reference specifically naming cadmium laurate as an
+ additive amongst a list of many suitable salts in polycarbonate resin anticipated the
+ claims. The applicant had argued that cadmium laurate was only disclosed as
+ representative of the salts and was expected to have the same properties as the other
+ salts listed while, as shown in the application, cadmium laurate had unexpected
+ properties. The court held that it did not matter that the salt was not disclosed as
+ being preferred, the reference still anticipated the claims and because the claim was
+ anticipated, the unexpected properties were immaterial.).
+ 
+
+**III.** **A GENERIC DISCLOSURE WILL ANTICIPATE A CLAIMED SPECIES COVERED BY THAT
+ DISCLOSURE WHEN THE SPECIES CAN BE "AT ONCE ENVISAGED" FROM THE DISCLOSURE** "[W]hether a generic disclosure necessarily
+ anticipates everything within the genus … depends on the factual aspects of the
+ specific disclosure and the particular products at issue." *Sanofi-Synthelabo
+ v. Apotex, Inc.,* 550 F.3d 1075, 1083, 89 USPQ2d 1370, 1375 (Fed. Cir.
+ 2008). See also *Osram Sylvania Inc. v. American Induction Tech.
+ Inc.,* 701 F.3d 698, 706, 105 USPQ2d 1368, 1374 (Fed. Cir. 2012) ("how
+ one of ordinary skill in the art would understand the relative size of a genus or
+ species in a particular technology is of critical importance").
+ 
+
+
+A reference disclosure can anticipate a claim even if
+ the reference does not describe "the limitations arranged or combined as in the
+ claim, if a person of skill in the art, reading the reference, would ‘at once
+ envisage’ the claimed arrangement or combination." *Kennametal, Inc. v.
+ Ingersoll Cutting Tool Co.,* 780 F.3d 1376, 1381, 114 USPQ2d 1250, 1254
+ (Fed. Cir. 2015) (quoting *In re Petering,* 301 F.2d 676, 681(CCPA
+ 1962)). In *Kennametal,* the challenged claim was to a cutting tool
+ requiring a ruthenium binding agent with a physical vapor deposition (PVD) coating.
+ Claim 5 of the reference disclosed all the elements of the claimed coated cutting
+ tool, however, ruthenium was one of five specified binding agents and the claim did
+ not specify a particular coating technique. The specification of the reference
+ disclosed PVD as one of three suitable coating techniques. The Federal Circuit stated
+ that the reference’s "express ‘contemplat[ion]’ of PVD coatings provided sufficient
+ evidence that a reasonable mind could find that a person of skill in the art… would
+ immediately envisage applying a PVD coating. Thus, substantial evidence supports the
+ Board's conclusion that [the reference] effectively teaches 15 combinations, of which
+ one anticipates pending claim 1. Though it is true that there is no evidence in [the
+ reference] of ‘actual performance’ of combining the ruthenium binder and PVD
+ coatings, this is not required." *Kennametal,* 780 F.3d at 1383, 114
+ USPQ2d at 1255 (citations omitted).
+ 
+
+
+When a claimed compound is not specifically named in a reference,
+ but instead it is necessary to select portions of teachings within the reference and
+ combine them, e.g., select various substituents from a list of alternatives given for
+ placement at specific sites on a generic chemical formula to arrive at a specific
+ composition, anticipation can only be found if the classes of substituents are
+ sufficiently limited or well delineated. *Ex parte A,* 17 USPQ2d
+ 1716 (Bd. Pat. App. & Inter. 1990). If one of ordinary skill in the art is able
+ to "at once envisage" the specific compound within the generic chemical formula, the
+ compound is anticipated. One of ordinary skill in the art must be able to draw the
+ structural formula or write the name of each of the compounds included in the generic
+ formula before any of the compounds can be "at once envisaged." One may look to the
+ preferred embodiments to determine which compounds can be anticipated. *In re
+ Petering,* 301 F.2d 676, 133 USPQ 275 (CCPA 1962).
+ 
+
+
+In *In re Petering,* the prior art disclosed a
+ generic chemical formula "wherein X, Y, Z, P, and R'-
+ represent either hydrogen or alkyl radicals, R a side chain containing an OH group."
+ The court held that this formula, without more, could not anticipate a claim to
+ 7-methyl-9-[d, l'-ribityl]-isoalloxazine because the
+ generic formula encompassed a vast number and perhaps even an infinite number of
+ compounds. However, the reference also disclosed preferred substituents for X, Y, Z,
+ P, R, and R' as follows: where X, P, and
+ R' are hydrogen, where Y and Z may be hydrogen or
+ methyl, and where R is one of eight specific isoalloxazines. The court determined
+ that this more limited generic class consisted of about 20 compounds. The limited
+ number of compounds covered by the preferred formula in combination with the fact
+ that the number of substituents was low at each site, the ring positions were
+ limited, and there was a large unchanging structural nucleus, resulted in a finding
+ that the reference sufficiently described "each of the various permutations here
+ involved as fully as if he had drawn each structural formula or had written each
+ name." The claimed compound was 1 of these 20 compounds. Therefore, the reference
+ "described" the claimed compound and the reference anticipated the claims.
+ 
+
+
+In *In re Schauman,* 572 F.2d 312, 197 USPQ 5 (CCPA
+ 1978), claims to a specific compound were anticipated because the prior art taught a
+ generic formula embracing a limited number of compounds closely related to each other
+ in structure and the properties possessed by the compound class of the prior art was
+ that disclosed for the claimed compound. The broad generic formula seemed to describe
+ an infinite number of compounds but claim 1 was limited to a structure with only one
+ variable substituent R. This substituent was limited to low alkyl radicals. One of
+ ordinary skill in the art would at once envisage the subject matter within claim 1 of
+ the reference. 
+ 
+
+
+Compare *In re Meyer,* 599 F.2d 1026, 202 USPQ 175
+ (CCPA 1979) (A reference disclosing "alkaline chlorine or bromine solution" embraces
+ a large number of species and cannot be said to anticipate claims to "alkali metal
+ hypochlorite."); *Akzo N.V.**v.**International Trade Comm’n,* 808 F.2d 1471, 1 USPQ2d 1241 (Fed.
+ Cir. 1986) (Claims to a process for making aramid fibers using a 98% solution of
+ sulfuric acid were not anticipated by a reference which disclosed using sulfuric acid
+ solution but which did not disclose using a 98% concentrated sulfuric acid
+ solution.). See **[MPEP §
+ 2144.08](s2144.html#d0e211596)** for a discussion of obviousness in genus-species
+ situations.
+ 
+
+
+, 
+# 2131.03 Anticipation of Ranges [R-10.2019]
+
+**I.** **A SPECIFIC EXAMPLE IN THE PRIOR ART WHICH IS WITHIN A CLAIMED RANGE
+ ANTICIPATES THE RANGE**"[W]hen, as by a recitation of ranges or otherwise, a claim covers
+ several compositions, the claim is ‘anticipated’ if *one* of them is
+ in the prior art." *Titanium Metals Corp.**v. Banner,* 778 F.2d 775, 227 USPQ 773 (Fed. Cir. 1985) (citing
+ *In re**Petering,* 301 F.2d 676, 682, 133 USPQ 275, 280 (CCPA 1962))
+ (emphasis in original) (Claims to titanium (Ti) alloy with 0.6-0.9% nickel (Ni) and
+ 0.2-0.4% molybdenum (Mo) were held anticipated by a graph in a Russian article on
+ Ti-Mo-Ni alloys because the graph contained an actual data point corresponding to a
+ Ti alloy containing 0.25% Mo and 0.75% Ni and this composition was within the claimed
+ range of compositions.).
+ 
+
+**II.** **PRIOR ART WHICH TEACHES A RANGE OVERLAPPING OR TOUCHING THE CLAIMED RANGE
+ ANTICIPATES IF THE PRIOR ART RANGE DISCLOSES THE CLAIMED RANGE WITH "SUFFICIENT
+ SPECIFICITY"**When the prior art discloses a range which touches or overlaps the
+ claimed range, but no specific examples falling within the claimed range are
+ disclosed, a case by case determination must be made as to anticipation. In order to
+ anticipate the claims, the claimed subject matter must be disclosed in the reference
+ with "sufficient specificity to constitute an anticipation under the statute." What
+ constitutes a "sufficient specificity" is fact dependent. If the claims are directed
+ to a narrow range, and the reference teaches a broader range, other facts of the
+ case, must be considered when determining whether the narrow range is disclosed with
+ "sufficient specificity" to constitute an anticipation of the claims. Compare
+ *ClearValue Inc. v. Pearl River Polymers Inc.,* 668 F.3d 1340,
+ 101 USPQ2d 1773 (Fed. Cir. 2012) with *Atofina v. Great Lakes Chem.
+ Corp,* 441 F.3d 991, 999, 78 USPQ2d 1417, 1423 (Fed. Cir. 2006).
+ 
+
+
+In *ClearValue,* the claim at issue
+ was directed to a process of clarifying water with alkalinity below 50 ppm, whereas
+ the prior art taught that the same process works for systems with alkalinity of 150
+ ppm or less. In holding the claim anticipated, the court observed that "there is no
+ allegation of criticality or any evidence demonstrating any difference across the
+ range." *Id.* at 1345, 101 USPQ2d at 1777. In
+ *Atofina,* the court held that a reference temperature range of
+ 100-500 degrees C did not describe the claimed range of 330-450 degrees C with
+ sufficient specificity to be anticipatory, even though there was a slight overlap
+ between the reference’s preferred range (150-350 degrees C) and the claimed range.
+ "[T]he disclosure of a range is no more a disclosure of the end points of the range
+ than it is each of the intermediate points." *Id.* at 1000, 78
+ USPQ2d at 1424. Patentee described claimed temperature range as "critical" to enable
+ the process to operate effectively, and showed that one of ordinary skill would have
+ expected the synthesis process to operate differently outside the claimed range. 
+ 
+
+
+If the prior art disclosure does not disclose a
+ claimed range with "sufficient specificity" to anticipate a claimed invention, any
+ evidence of unexpected results within the narrow range may render the claims
+ nonobvious. See **[MPEP §
+ 716.02](s716.html#d0e92844)***et seq.* The question of "sufficient specificity" is similar to
+ that of "clearly envisaging" a species from a generic teaching. See
+ **[MPEP
+ § 2131.02](s2131.html#d0e203166)**. 
+ 
+
+
+A **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)** combination rejection is permitted if it is unclear if the
+ reference teaches the range with "sufficient specificity." The examiner must, in this
+ case, provide reasons for anticipation as well as a reasoned statement regarding
+ obviousness. *Ex parte Lee,* 31 USPQ2d 1105 (Bd. Pat. App. &
+ Inter. 1993) (expanded Board). For a discussion of the obviousness of ranges see
+ **[MPEP
+ § 2144.05](s2144.html#d0e211255)**.
+ 
+
+**III.** **PRIOR ART WHICH TEACHES A VALUE OR RANGE THAT IS VERY CLOSE TO, BUT DOES NOT
+ OVERLAP OR TOUCH, THE CLAIMED RANGE DOES NOT ANTICIPATE THE CLAIMED RANGE**"[A]nticipation under **[§ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** can be found only when the
+ reference discloses exactly what is claimed and that where there are differences
+ between the reference disclosure and the claim, the rejection must be based on
+ **[§
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** which takes differences into account." *Titanium
+ Metals Corp. v. Banner,* 778 F.2d 775, 227 USPQ 773 (Fed. Cir. 1985)
+ (Claims to titanium (Ti) alloy with 0.8% nickel (Ni) and 0.3% molybdenum (Mo) were
+ not anticipated by, although they were held obvious over, a graph in a Russian
+ article on Ti-Mo-Ni alloys in which the graph contained an actual data point
+ corresponding to a Ti alloy containing 0.25% Mo and 0.75% Ni.).
+ 
+
+
+, 
+# 2131.04 Secondary Considerations [R-08.2012]
+
+
+Evidence of secondary considerations, such as unexpected results or
+ commercial success, is irrelevant to **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** rejections and thus
+ cannot overcome a rejection so based. *In re Wiggins,* 488 F.2d 538,
+ 543, 179 USPQ 421, 425 (CCPA 1973).
+ 
+
+
+, 
+# 2131.05 Nonanalogous or Disparaging Prior Art [R-08.2012]
+
+
+"Arguments that the alleged anticipatory prior art is ‘nonanalogous
+ art’ or ‘teaches away from the invention’ or is not recognized as solving the problem
+ solved by the claimed invention, [are] not ‘germane’ to a rejection under
+ **[section
+ 102](mpep-9015-appx-l.html#d0e302383)**." *Twin Disc, Inc.**v. United States,* 231 USPQ 417, 424 (Cl. Ct. 1986) (quoting
+ *In re Self,* 671 F.2d 1344, 213 USPQ 1, 7 (CCPA 1982)). See also
+ *State Contracting & Eng’ g Corp. v. Condotte America, Inc.,*
+ 346 F.3d 1057, 1068, 68 USPQ2d 1481, 1488 (Fed. Cir. 2003) (The question of whether a
+ reference is analogous art is not relevant to whether that reference anticipates. A
+ reference may be directed to an entirely different problem than the one addressed by the
+ inventor, or may be from an entirely different field of endeavor than that of the
+ claimed invention, yet the reference is still anticipatory if it explicitly or
+ inherently discloses every limitation recited in the claims.).
+ 
+
+
+A reference is no less anticipatory if, after disclosing the invention,
+ the reference then disparages it. The question whether a reference "teaches away" from
+ the invention is inapplicable to an anticipation analysis. *Celeritas
+ Technologies Ltd. v. Rockwell International Corp.,* 150 F.3d 1354, 1361, 47
+ USPQ2d 1516, 1522-23 (Fed. Cir. 1998) (The prior art was held to anticipate the claims
+ even though it taught away from the claimed invention. "The fact that a modem with a
+ single carrier data signal is shown to be less than optimal does not vitiate the fact
+ that it is disclosed."). See *Upsher-Smith Labs. v. Pamlab, LLC,* 412
+ F.3d 1319, 1323, 75 USPQ2d 1213, 1215 (Fed. Cir. 2005)(claimed composition that
+ expressly excluded an ingredient held anticipated by reference composition that
+ optionally included that same ingredient); see also *Atlas Powder Co. v. IRECO,
+ Inc.,* 190 F.3d 1342, 1349, 51 USPQ2d 1943, 1948 (Fed. Cir. 1999) (Claimed
+ composition was anticipated by prior art reference that inherently met claim limitation
+ of "sufficient aeration" even though reference taught away from air entrapment or
+ purposeful aeration.).
+ 
+
+
+]

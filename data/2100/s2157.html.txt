@@ -1,0 +1,159 @@
+[
+# 2157 Improper Naming of Inventors [R-10.2019]
+
+
+Although the AIA eliminated **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)**, the patent laws still require the naming of the actual
+ inventor or joint inventors of the claimed subject matter. See **[35 U.S.C.
+ 115(a)](mpep-9015-appx-l.html#al_d1d85b_2ae82_81)** ("[a]n application for patent that is filed under
+ **[[35 U.S.C.]
+ 111(a)](mpep-9015-appx-l.html#d0e302678aia)** or commences the national stage under **[[35 U.S.C.] 371](mpep-9015-appx-l.html#d0e307164)** shall
+ include, or be amended to include, the name of the inventor for any invention claimed in
+ the application"). The Office presumes that the named inventor or joint inventors in the
+ application are the actual inventor or joint inventors to be named on the patent. See
+ **[MPEP §
+ 2109](s2109.html#ch2100_d2c183_22374_28b)**. A situation in which an application names a person who is
+ not the actual inventor as the inventor will be handled in a derivation proceeding under
+ **[35 U.S.C.
+ 135](mpep-9015-appx-l.html#al_d1fbe1_19834_19b)** (see **[MPEP §§ 2310](s2310.html#ch2300_d2988c_24ad0_c7)**-**[2315](s2315.html#ch2300_d2988f_2725a_1ac)**), by
+ a correction of inventorship under **[37 CFR 1.48](mpep-9020-appx-r.html#d0e317930)** to name the actual
+ inventor, or through a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 115](mpep-9015-appx-l.html#d0e302875912)**, as
+ appropriate. 
+ 
+
+
+Where an application names an incorrect inventorship, the
+ applicant should submit a request to correct inventorship under **[37 CFR 1.48](mpep-9020-appx-r.html#d0e317930)**. See
+ **[MPEP §
+ 602.01(c)](s602.html#d0e4830ss602)** *et seq.* In the rare situation where it is clear that the application
+ does not name the correct inventorship and the applicant has not filed a request to correct
+ inventorship under **[37 CFR
+ 1.48](mpep-9020-appx-r.html#d0e317930)**, Office personnel should reject the claims under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 115](mpep-9015-appx-l.html#d0e302875912)**. 
+ 
+
+
+ Use Form Paragraph **[7.04.02.aia](#fp7.04.02.aia)** to reject claims under
+ **[35 U.S.C.
+ 101](mpep-9015-appx-l.html#d0e302376)** and **[115](mpep-9015-appx-l.html#d0e302875912)** for failing to set forth the
+ correct inventorship.
+ 
+
+
+# ¶ 7.04.101.aia Statement of Statutory Bases, 35 U.S.C. 101 and 35 U.S.C. 115—
+ Improper Inventorship
+
+
+**[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** reads as
+ follows:
+ 
+
+
+Whoever invents or discovers any new and useful process,
+ machine, manufacture, or composition of matter, or any new and useful improvement thereof, may
+ obtain a patent therefor, subject to the conditions and requirements of this
+ title.
+ 
+
+
+**[35 U.S.C. 115(a)](mpep-9015-appx-l.html#al_d1d85b_2ae82_81)** reads as follows (in
+ part):
+ 
+
+
+An application for patent that is filed under section
+ **[111(a)](mpep-9015-appx-l.html#d0e302678aia)** or commences the national stage under section **[371](mpep-9015-appx-l.html#d0e307164)** shall
+ include, or be amended to include, the name of the inventor for any invention claimed in the
+ application.
+ 
+
+
+The present application sets forth the incorrect
+ inventorship because **[1]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. If form paragraph **[7.04.01](#fp7.04.01)** is already being used for a
+ rejection that is not based on improper inventorship, then in lieu of this form
+ paragraph, use form paragraph **[7.04.102.aia](#fp7.04.102.aia)** with form paragraph
+ **[7.04.01](#fp7.04.01)**
+ for a rejection based on improper inventorship.
+* 2. In bracket 1, insert the basis for concluding that
+ the inventorship is incorrect.
+* 3. This form paragraph must be followed by form
+ paragraph **[7.04.02.aia](#fp7.04.02.aia)**.
+
+
+
+# ¶ 7.04.102.aia Statement of Statutory Basis, 35 U.S.C. 115— Improper
+ Inventorship
+
+
+**[35 U.S.C. 115(a)](mpep-9015-appx-l.html#al_d1d85b_2ae82_81)** reads as follows (in
+ part):
+ 
+
+
+An application for patent that is filed under section
+ **[111(a)](mpep-9015-appx-l.html#d0e302678aia)** or commences the national stage under section  **[371](mpep-9015-appx-l.html#d0e307164)** shall
+ include, or be amended to include, the name of the inventor for any invention claimed in the
+ application.
+ 
+
+
+The present application sets forth the incorrect
+ inventorship because **[1]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is to be used ONLY when a
+ rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** on another basis has been made and the statutory
+ text thereof is already present.
+* 2. This form paragraph must be preceded by form
+ paragraph **[7.04.01](#fp7.04.01)** for a rejection based on improper
+ inventorship.
+* 3. In bracket 1, insert an explanation of the
+ supporting evidence establishing that an improper inventor is named.
+
+
+
+# ¶ 7.04.02.aia Rejection, 35 U.S.C. 101/115
+
+
+Claim **[1]** rejected under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and
+ **[35 U.S.C.
+ 115](mpep-9015-appx-l.html#d0e302875912)** for failing to set forth the correct inventorship for the reasons
+ stated above. 
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 1, pluralize "Claim" if necessary, insert
+ "is" or "are" as appropriate, and insert the claim number(s) which are under
+ rejection.
+* 2. This rejection must be preceded by either form
+ paragraph **[7.04.101.aia](#fp7.04.101.aia)** or **[7.04.102.aia](#fp7.04.102.aia)**.
+
+
+
+Note that a rejection under **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)** should not be made if the application is subject to
+ examination under the first inventor to file (FITF) provisions of the AIA. See
+ **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)***et seq.* to determine whether an application is subject to examination
+ under the FITF provisions, and **[MPEP § 2137](s2137.html#d0e206570)** for information pertaining to
+ **[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)**.
+ 
+
+
+[[top]](#top)
+
+
+]

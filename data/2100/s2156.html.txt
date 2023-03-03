@@ -1,0 +1,124 @@
+[
+# 2156 Joint Research Agreements [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP § 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** and
+ **[MPEP §
+ 2146](s2146.html#d0e213206)** for examination of applications subject to
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**.]*
+
+
+
+#### *35 U.S.C. 102  
+ Conditions for patentability; novelty.*
+
+
+\*\*\*\*\*
+
+
+* (c) COMMON OWNERSHIP UNDER JOINT RESEARCH
+ AGREEMENTS.—Subject matter disclosed and a claimed invention shall be deemed to
+ have been owned by the same person or subject to an obligation of assignment to
+ the same person in applying the provisions of subsection (b)(2)(C) if—
+	+ (1) the subject matter disclosed was developed
+	 and the claimed invention was made by, or on behalf of, 1 or more parties to
+	 a joint research agreement that was in effect on or before the effective
+	 filing date of the claimed invention;
+	+ (2) the claimed invention was made as a result
+	 of activities undertaken within the scope of the joint research agreement;
+	 and
+	+ (3) the application for patent for the claimed
+	 invention discloses or is amended to disclose the names of the parties to
+	 the joint research agreement.
+
+
+\*\*\*\*\*
+
+
+
+**[AIA 35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** provides three conditions that must be satisfied in order for
+ subject matter disclosed which might otherwise qualify as prior art, and a claimed
+ invention, to be treated as having been owned by the same person or subject to an
+ obligation of assignment to the same person in applying common ownership provisions of
+ **[AIA 35
+ U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** in the context of a joint research agreement.
+ First, the subject matter disclosed must have been developed and the claimed invention must
+ have been made by, or on behalf of, one or more parties to a joint research agreement that
+ was in effect on or before the effective filing date of the claimed invention. See
+ **[35 U.S.C.
+ 102(c)(1)](mpep-9015-appx-l.html#al_d1d85b_11e8f_161)**. The AIA defines the term "joint research agreement" as a
+ written contract, grant, or cooperative agreement entered into by two or more persons or
+ entities for the performance of experimental, developmental, or research work in the field
+ of the claimed invention. See **[35 U.S.C. 100(h)](mpep-9015-appx-l.html#al_d1d85b_11e10_359)**. Second, the claimed
+ invention must have been made as a result of activities undertaken within the scope of the
+ joint research agreement. See **[35 U.S.C. 102(c)(2)](mpep-9015-appx-l.html#al_d1d85b_11e8f_175)**. Third, the
+ application for patent for the claimed invention must disclose, or be amended to disclose,
+ the names of the parties to the joint research agreement. See **[35 U.S.C.
+ 102(c)(3)](mpep-9015-appx-l.html#al_d1d85b_11e8f_183)**. Joint research agreement subject matter under
+ **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is treated under **[37 CFR
+ 1.104(c)(5)(ii)](mpep-9020-appx-r.html#d0e322235)**, joint research agreement subject matter under
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** is treated under **[37 CFR
+ 1.104(c)(5)(ii)](mpep-9020-appx-r.html#d0e322235)**. If these conditions are met, the joint research
+ agreement prior art is not available as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+The provisions of **[AIA 35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** generally track those of the Cooperative Research and
+ Technology Enhancement Act of 2004 (CREATE Act). See **[MPEP §
+ 2146.01](s2146.html#ch2100_d2c184_126fa_f3)**. The major differences between **[AIA 35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** and the CREATE Act are that: (1) the AIA provision is keyed to
+ the effective filing date of the claimed invention, while the CREATE Act focuses on the
+ date that the claimed invention was made; and (2) the CREATE Act provisions only apply to
+ obviousness rejections and not to anticipation rejections.
+ 
+
+
+In order to invoke a joint research agreement to except a
+ disclosure as prior art, the applicant (or the applicant's representative of record) must
+ provide a statement that the disclosure of the subject matter on which the rejection is
+ based and the claimed invention were made by or on behalf of parties to a joint research
+ agreement under **[AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)**. The statement must also assert that the
+ agreement was in effect on or before the effective filing date of the claimed invention,
+ and that the claimed invention was made as a result of activities undertaken within the
+ scope of the joint research agreement. When relying on the provisions of **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)**, the applicant or his attorney or agent of record can provide
+ a similar statement to disqualify the cited prior art as to the issue of obviousness. If
+ the names of the parties to the joint research agreement are not already stated in the
+ application, it is necessary to amend the application to include the names of the parties
+ to the joint research agreement in accordance with **[37 CFR 1.71(g)](mpep-9020-appx-r.html#d0e320173)**.
+ 
+
+
+As is the case with establishing common ownership, the
+ applicant may, but is not required to, present evidence supporting the existence of the
+ joint research agreement. Furthermore, the Office will not request corroborating evidence
+ in the absence of independent evidence which raises doubt as to the existence of the joint
+ research agreement.
+ 
+
+
+As discussed previously, the **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** exception does not apply to a disclosure that qualifies
+ as prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** (disclosures
+ made before the effective filing date of the claimed invention). Thus, if the issue date or
+ publication date of a U.S. patent document is before the effective filing date of the
+ claimed invention, it may be prior art under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, regardless of
+ the fact that the claimed invention resulted from a joint research agreement and the
+ disclosure was by a party to the agreement.
+ 
+
+
+[[top]](#top)
+
+
+]

@@ -1,0 +1,49 @@
+[
+# 2174 Relationship Between the Requirements of 35 U.S.C. 112(a) and (b)
+ or Pre-AIA 35 U.S.C. 112, First and Second Paragraphs [R-11.2013]
+
+
+The requirements of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** and **[(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or the
+ first and second paragraphs of **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** are separate and
+ distinct. If a description or the enabling disclosure of a specification is not
+ commensurate in scope with the subject matter encompassed by a claim, that fact alone does
+ not render the claim imprecise or indefinite or otherwise not in compliance with
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph; rather, the claim is based on an insufficient disclosure (**[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph)
+ and should be rejected on that ground. *In re**Borkowski,* 422 F.2d 904, 164 USPQ 642 (CCPA 1970). If the specification
+ discloses that a particular feature or element is critical or essential to the practice of
+ the invention, failure to recite or include that particular feature or element in the
+ claims may provide a basis for a rejection based on the ground that those claims are not
+ supported by an enabling disclosure. *In re Mayhew,* 527 F.2d 1229, 188
+ USPQ 356 (CCPA 1976). In *Mayhew,* the examiner argued that the only mode
+ of operation of the process disclosed in the specification involved the use of a cooling
+ zone at a particular location in the processing cycle. The claims were rejected because
+ they failed to specify either a cooling step or the location of the step in the process.
+ The court was convinced that the cooling bath and its location were essential, and held
+ that claims which failed to recite the use of a cooling zone, specifically located, were
+ not supported by an enabling disclosure (**[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph).
+ 
+
+
+In addition, if a claim is amended to include an invention that is not
+ described in the application as filed, a rejection of that claim under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph,
+ as being directed to subject matter that is not described in the specification as filed may
+ be appropriate.  *In re**Simon,* 302 F.2d 737, 133 USPQ 524 (CCPA 1962). In
+ *Simon,* which involved a reissue application containing claims to a
+ reaction product of a composition, applicant presented claims to a reaction product of a
+ composition comprising the subcombination A+B+C, whereas the original claims and
+ description of the invention were directed to a composition comprising the combination
+ A+B+C+D+E. The court found no significant support for the argument that ingredients D+E
+ were not essential to the claimed reaction product and concluded that claims directed to
+ the reaction product of a subcombination A+B+C were not described (**[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph) in the application as filed. See also *In re**Panagrossi,* 277 F.2d 181, 125 USPQ 410 (CCPA 1960).
+ 
+
+
+[[top]](#top)
+
+
+]

@@ -1,0 +1,1022 @@
+[
+# 2161 Three Separate Requirements for Specification Under 35 U.S.C.
+ 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph [R-07.2015]
+
+**I.** **THE SPECIFICATION MUST INCLUDE A WRITTEN DESCRIPTION OF THE INVENTION,
+ ENABLEMENT, AND BEST MODE OF CARRYING OUT THE CLAIMED INVENTION*** 
+
+35 U.S.C. 112(a) (applicable to applications
+ filed on or after September 16, 2012) provides:
+ 
+> 
+> (a) IN GENERAL.—The specification shall contain a
+>  written description of the invention, and of the manner and process of making and
+>  using it, in such full, clear, concise, and exact terms as to enable any person
+>  skilled in the art to which it pertains, or with which it is most nearly
+>  connected, to make and use the same, and shall set forth the best mode
+>  contemplated by the inventor or joint inventor of carrying out the invention. 
+>  
+> 
+> 
+> 
+
+
+The first paragraph of **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** (applicable to
+ applications filed before September 16, 2012) provides:
+ 
+
+
+
+> 
+> The specification shall contain a written
+>  description of the invention, and of the manner and process of making
+>  and using it, in such full, clear, concise, and exact terms as to
+>  enable any person skilled in the art to which it pertains,
+>  or with which it is most nearly connected, to make and use the same, and shall set
+>  forth the best mode contemplated by the inventor of carrying
+>  out his invention. [emphasis added].
+>  
+> 
+> 
+> 
+
+
+**[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** and **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph require that the specification include the following:
+ 
+
+
+* (A) A written description of the invention;
+* (B) The manner and process of making and using the invention (the
+ enablement requirement); and
+* (C) The best mode contemplated by the inventor of carrying out his
+ invention.
+
+**II.** **THE THREE REQUIREMENTS ARE SEPARATE AND DISTINCT FROM EACH OTHER**The written description requirement is separate and distinct from the
+ enablement requirement. *Ariad Pharm., Inc. v. Eli Lilly and Co.,* 598
+ F.3d 1336, 1341, 94 USPQ2d 1161, 1167 (Fed. Cir. 2010) *(en banc)* (If
+ Congress had intended enablement to be the sole description requirement of
+ **[§
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, the statute would have been written
+ differently.) *Vas-Cath, Inc.**v.**Mahurkar,* 935 F.2d 1555, 1562, 19 USPQ2d 1111, 1115 (Fed. Cir. 1991)
+ (While acknowledging that some of its cases concerning the written description
+ requirement and the enablement requirement are confusing, the Federal Circuit reaffirmed
+ that under **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, the written description requirement is
+ separate and distinct from the enablement requirement and gave an example thereof.);
+ *In re Barker,* 559 F.2d 588, 194 USPQ 470 (CCPA 1977), cert.
+ denied, 434 U.S. 1064 (1978). See also, e.g., *Vasudevan Software, Inc. v.
+ MicroStrategy, Inc.,* 782 F.3d 671, 681-685, 114 USPQ2d 1349, 1356, 1357
+ (Fed. Cir. 2015) (reversing and remanding the district court's grant of summary judgment
+ of invalidity for lack of an adequate written description and lack of enablement because
+ there were genuine issues of material fact regarding 1) whether the claims had
+ sufficient written description support ("[t]he fact that . . . the specification do[es]
+ not speak in haec verba of accessing ‘disparate databases’ does not eliminate as a
+ genuine issue of material fact that the existence of at least some discussion, and
+ therefore, possession, of the accessing of disparate databases, as claimed"); and 2)
+ whether the claims were enabled ("the effort it took the inventor to reduce the
+ invention to practice does not conclusively show lack of enablement"). An invention may
+ be described without the disclosure being enabling (e.g., a chemical compound for which
+ there is no disclosed or apparent method of making), and a disclosure could be enabling
+ without describing the invention (e.g., a specification describing a method of making
+ and using a paint composition made of functionally defined ingredients within broad
+ ranges would be enabling for formulations falling within the description but would not
+ describe any specific formulation). See *In re**Armbruster,* 512 F.2d 676, 677, 185 USPQ 152, 153 (CCPA 1975) ("[A]
+ specification which ‘describes’ does not necessarily also ‘enable’ one skilled in the
+ art to make or use the claimed invention."). Best mode is a separate and distinct
+ requirement from the enablement requirement. *In re**Newton,* 414 F.2d 1400, 163 USPQ 34 (CCPA 1969).
+ 
+
+
+
+# 2161.01 Computer Programming, Computer Implemented Inventions, and 35
+ U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph [R-10.2019]
+
+
+The statutory requirements for computer-implemented
+ inventions are the same as for all inventions, such as the subject matter eligibility
+ and utility requirements under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** (see
+ **[MPEP §§
+ 2106](s2106.html#d0e197244)** and **[2107](s2107.html#d0e198469)**, respectively), the novelty
+ requirement of **[35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, the nonobviousness requirement of **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**, the
+ definiteness requirement of **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, and the three separate and distinct
+ requirements of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. In addition, claims with
+ computer-implemented functional claim limitations may invoke **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph. See **[MPEP §
+ 2181](s2181.html#d0e219279)**, subsection II.B, and **[§ 2181](s2181.html#d0e219279)**, subsection
+ IV. for information regarding means- (or step-) plus- function limitations.
+ 
+
+
+Even if a claim is not construed as a means-plus-
+ function limitation under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)**,
+ computer-implemented functional claim language must still be evaluated for sufficient
+ disclosure under the written description and enablement requirements of
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**.
+ 
+
+**I.** **DETERMINING WHETHER THERE IS ADEQUATE WRITTEN DESCRIPTION FOR A
+ COMPUTER-IMPLEMENTED FUNCTIONAL CLAIM LIMITATION**The **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or first
+ paragraph of **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** contains a written description
+ requirement that is separate and distinct from the enablement requirement.
+ *Ariad Pharm., Inc. v. Eli Lilly & Co.,* 598 F.3d 1336, 1340,
+ 94 USPQ2d 1161, 1167 (Fed. Cir. 2010) *(en banc)*. To satisfy the
+ written description requirement, the specification must describe the claimed
+ invention in sufficient detail that one skilled in the art can reasonably conclude
+ that the inventor had possession of the claimed invention at the time of filing.
+ *Reiffin v. Microsoft Corp.,* 214 F.3d 1342, 1345 (Fed. Cir.
+ 2000) ("The purpose of [the written description requirement] is to ensure that the
+ scope of the right to exclude, as set forth in the claims, does not overreach the
+ scope of the inventor’s contribution to the field of art as described in the patent
+ specification"); *LizardTech Inc. v. Earth Resource Mapping Inc.,*
+ 424 F.3d 1336, 1345 (Fed. Cir. 2005) ("Whether the flaw in the specification is
+ regarded as a failure to demonstrate that the applicant possessed the full scope of
+ the invention recited in [the claim] or a failure to enable the full breadth of that
+ claim, the specification provides inadequate support for the claim under
+ [**[§
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**]"); cf. *id.* ("A claim will not be
+ invalidated on **[[§] 112](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** grounds simply because
+ the embodiments of the specification do not contain examples explicitly covering the
+ full scope of the claim language."). While "[t]here is no special rule for supporting
+ a genus by the disclosure of a species," the Federal Circuit has stated that
+ "[w]hether the genus is supported vel non depends upon the state of the art and the
+ nature and breadth of the genus." *Hynix Semiconductor Inc. v. Rambus
+ Inc.,* 645 F.3d 1336, 1352 (Fed. Cir. 2011); *id.*
+ (further explaining that "so long as disclosure of the species is sufficient to
+ convey to one skilled in the art that the inventor possessed the subject matter of
+ the genus, the genus will be supported by an adequate written description."). See
+ also *Rivera v. Int'l Trade Comm’n,* 857 F.3d 1315, 1319-21 (Fed.
+ Cir. 2017) (affirming the Commission’s findings that "the specification did not
+ provide the necessary written description support for the full breadth of the
+ asserted claims," where the claims were broadly drawn to a "container . . . adapted
+ to hold brewing material" while the specification disclosed only a "pod adapter
+ assembly" or "receptacle" designed to hold a "pod"). 
+ 
+
+
+ Specifically, the specification must describe the
+ claimed invention in a manner understandable to a person of ordinary skill in the art
+ in a way that shows that the inventor actually invented the claimed invention at the
+ time of filing. *Id.;**Ariad,* 598 F.3d at 1351, 94 USPQ2d at 1172. The function of the
+ written description requirement is to ensure that the inventor had possession of the
+ specific subject matter later claimed as of the filing date of the application relied
+ on; how the specification accomplishes this is not material. *In re
+ Herschler,* 591 F.2d 693, 700-01, 200 USPQ 711, 717 (CCPA 1979), further
+ reiterated in *In re Kaslow,* 707 F.2d 1366, 217 USPQ 1089 (Fed.
+ Cir. 1983); see also **[MPEP §§ 2163](s2163.html#d0e213583)** - **[2163.04](s2163.html#d0e214731)**. 
+ 
+
+
+The written description requirement of
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, applies to all claims including original claims that are part of the
+ disclosure as filed. *Ariad,* 598 F.3d at 1349, 94 USPQ2d at 1170.
+ As stated by the Federal Circuit, "[a]lthough many original claims will satisfy the
+ written description requirement, certain claims may not." *Id.* at
+ 1349, 94 USPQ2d at 1170-71; see also *LizardTech, Inc. v. Earth Res. Mapping,
+ Inc.,* 424 F.3d 1336, 1343-46, 76 USPQ2d 1724, 1730-33 (Fed. Cir. 2005);
+ *Regents of the Univ. of Cal. v. Eli Lilly & Co.,* 119 F.3d
+ 1559, 1568, 43 USPQ2d 1398, 1405-06 (Fed. Cir. 1997)("The description requirement of
+ the patent statute requires a description of an invention, not an indication of a
+ result that one might achieve if one made that invention."). Problems satisfying the
+ written description requirement for original claims often occur when claim language
+ is generic or functional, or both. *Ariad,* 593 F.3d at 1349, 94
+ USPQ2d at 1171 ("The problem is especially acute with genus claims that use
+ functional language to define the boundaries of a claimed genus. In such a case, the
+ functional claim may simply claim a desired result, and may do so without describing
+ species that achieve that result. But the specification must demonstrate that the
+ applicant has made a generic invention that achieves the claimed result and do so by
+ showing that the applicant has invented species sufficient to support a claim to the
+ functionally-defined genus.").
+ 
+
+
+For instance, generic claim language in the original
+ disclosure does not satisfy the written description requirement if it fails to
+ support the scope of the genus claimed. *Ariad,* 598 F.3d at
+ 1349-50, 94 USPQ2d at 1171 ("[A]n adequate written description of a claimed genus
+ requires more than a generic statement of an invention’s boundaries.") (citing
+ *Eli Lilly,* 119 F.3d at 1568, 43 USPQ2d at 1405-06);
+ *Enzo Biochem, Inc. v. Gen-Probe, Inc.,* 323 F.3d 956, 968, 63
+ USPQ2d 1609, 1616 (Fed. Cir. 2002) (holding that generic claim language appearing in
+ *ipsis verbis* in the original specification did not satisfy the
+ written description requirement because it failed to support the scope of the genus
+ claimed); *Fiers v. Revel,* 984 F.2d 1164, 1170, 25 USPQ2d 1601,
+ 1606 (Fed. Cir. 1993) (rejecting the argument that "only similar language in the
+ specification or original claims is necessary to satisfy the written description
+ requirement").
+ 
+
+
+The Federal Circuit has explained that a
+ specification cannot always support expansive claim language and satisfy the
+ requirements of 35 U.S.C. 112 "merely by clearly describing one embodiment of the
+ thing claimed." *LizardTech v. Earth Resource Mapping, Inc.,* 424
+ F.3d 1336, 1346, 76 USPQ2d 1731, 1733 (Fed. Cir. 2005). The issue is whether a person
+ skilled in the art would understand applicant to have invented, and been in
+ possession of, the invention as broadly claimed. In *LizardTech,*
+ claims to a generic method of making a seamless discrete wavelet transformation (DWT)
+ were held invalid under 35 U.S.C. 112, first paragraph, because the specification
+ taught only one particular method for making a seamless DWT and there was no evidence
+ that the specification contemplated a more generic method. "[T]he description of one
+ method for creating a seamless DWT does not entitle the inventor . . . to claim any
+ and all means for achieving that objective." *LizardTech,* 424 F.3d
+ at 1346, 76 USPQ2d at 1733. 
+ 
+
+
+Similarly, original claims may lack written
+ description when the claims define the invention in functional language specifying a
+ desired result but the specification does not sufficiently describe how the function
+ is performed or the result is achieved. For software, this can occur when the
+ algorithm or steps/procedure for performing the computer function are not explained
+ at all or are not explained in sufficient detail (simply restating the function
+ recited in the claim is not necessarily sufficient). In other words, the algorithm or
+ steps/procedure taken to perform the function must be described with sufficient
+ detail so that one of ordinary skill in the art would understand
+ how the inventor intended the function to be performed. See
+ **[MPEP §§
+ 2163.02](s2163.html#d0e214553)** and **[2181](s2181.html#d0e219279)**, subsection IV.
+ 
+ 
+
+
+The level of detail required to satisfy the written
+ description requirement varies depending on the nature and scope of the claims and on
+ the complexity and predictability of the relevant technology.
+ *Ariad,* 598 F.3d at 1351, 94 USPQ2d at 1172; *Capon v.
+ Eshhar,* 418 F.3d 1349, 1357-58, 76 USPQ2d 1078, 1083-84 (Fed. Cir.
+ 2005). Computer-implemented inventions are often disclosed and claimed in terms of
+ their functionality. For computer-implemented inventions, the determination of the
+ sufficiency of disclosure will require an inquiry into the sufficiency of both the
+ disclosed hardware and the disclosed software due to the interrelationship and
+ interdependence of computer hardware and software. The critical inquiry is whether
+ the disclosure of the application relied upon reasonably conveys to those skilled in
+ the art that the inventor had possession of the claimed subject matter as of the
+ filing date. *Vasudevan Software, Inc. v. MicroStrategy, Inc.,* 782
+ F.3d 671, 682. 114 USPQ2d 1349, 1356 (citing *Ariad Pharm., Inc. V. Eli Lilly
+ & Co,* 598 F.3d 1336, 1351, 94 USPQ2d 1161, 1172 (Fed. Cir. 2010) in
+ the context of determining possession of a claimed means of accessing disparate
+ databases). 
+ 
+
+
+When examining computer-implemented functional claims,
+ examiners should determine whether the specification discloses the computer and the
+ algorithm (e.g., the necessary steps and/or flowcharts) that perform the claimed
+ function in sufficient detail such that one of ordinary skill in the art can
+ reasonably conclude that the inventor possessed the claimed subject matter at the
+ time of filing. An algorithm is defined, for example, as "a finite sequence of steps
+ for solving a logical or mathematical problem or performing a task." Microsoft
+ Computer Dictionary (5th ed., 2002). Applicant may "express that algorithm in any
+ understandable terms including as a mathematical formula, in prose, or as a flow
+ chart, or in any other manner that provides sufficient structure." *Finisar
+ Corp. v. DirecTV Grp., Inc.,* 523 F.3d 1323, 1340 (Fed. Cir. 2008)
+ (internal citation omitted). It is not enough that one skilled in the art could write
+ a program to achieve the claimed function because the specification must explain how
+ the inventor intends to achieve the claimed function to satisfy the written
+ description requirement. See, e.g., *Vasudevan Software, Inc. v.
+ MicroStrategy, Inc.,* 782 F.3d 671, 681-683, 114 USPQ2d 1349, 1356, 1357
+ (Fed. Cir. 2015) (reversing and remanding the district court’s grant of summary
+ judgment of invalidity for lack of adequate written description where there were
+ genuine issues of material fact regarding "whether the specification show[ed]
+ possession by the inventor of how accessing disparate databases is achieved"). If the
+ specification does not provide a disclosure of the computer and algorithm in
+ sufficient detail to demonstrate to one of ordinary skill in the art that the
+ inventor possessed the invention a rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, for lack of written description must be made. For more information
+ regarding the written description requirement, see **[MPEP § 2162](s2162.html#d0e213567)**-
+ **[§
+ 2163.07(b)](s2163.html#d0e215198)**. If the specification does not provide a
+ disclosure of sufficient corresponding structure, materials, or acts that perform the
+ entire claimed function of a means- (or step-) plus- function limitation in a claim
+ under **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or the sixth paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, "the applicant has in effect failed to particularly point
+ out and distinctly claim the invention" as required by the **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** [or the second paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**]. *In re Donaldson Co.,* 16 F.3d 1189,
+ 1195, 29 USPQ2d 1845, 1850 (Fed. Cir. 1994) (en banc). A rejection under
+ **[35
+ U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or the second paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** must be made in addition to the written description
+ rejection. See also **[MPEP § 2181](s2181.html#d0e219279)**, subsection II.B.2(a).
+ 
+
+**II.****BEST MODE**The purpose of the best mode requirement is to "restrain inventors
+ from applying for patents while at the same time concealing from the public the
+ preferred embodiments of their inventions which they have in fact conceived."
+ *In re Gay,* 309 F.2d 769, 772, 135 USPQ 311, 315 (CCPA 1962).
+ Only evidence of concealment, "whether accidental or intentional," is considered in
+ judging the adequacy of the disclosure for compliance with the best mode requirement.
+ *Spectra-Physics, Inc. v. Coherent, Inc.,*827 F.2d 1524, 1535, 3
+ USPQ2d 1737, 1745 (Fed. Cir. 1987). "That evidence, in order to result in affirmance
+ of a best mode rejection, must tend to show that the quality of an applicant’s best
+ mode disclosure is so poor as to effectively result in concealment." *In re
+ Sherwood,* 613 F.2d 809, 816-817, 204 USPQ 537, 544 (CCPA 1980)(emphasis
+ omitted); *White Consol. Indus. v. Vega Servo-Control Inc.,* 214
+ USPQ 796, 824 (S.D. Mich. 1982), *aff’d on related grounds,* 713
+ F.2d 788, 218 USPQ 961 (Fed. Cir. 1983); see also **[MPEP §§ 2165](s2165.html#d0e216924)** -
+ **[2165.04](s2165.html#d0e217264)**.
+ 
+
+
+There are two factual inquiries to be made in determining whether a
+ specification satisfies the best mode requirement. First, there must be a subjective
+ determination as to whether the inventor knew of a best mode of practicing the
+ invention at the time the application was filed. Second, if the inventor had a best
+ mode of practicing the invention in mind, there must be an objective determination as
+ to whether that best mode was disclosed in sufficient detail to allow one skilled in
+ the art to practice it. *Fonar Corp. v. Gen. Elect. Co.,* 107 F.3d
+ 1543, 41 USPQ2d 1801, 1804 (Fed. Cir. 1997); *Chemcast Corp. v. Arco
+ Indus.,* 913 F.2d 923, 927-28, 16 USPQ2d 1033, 1036 (Fed. Cir. 1990). "As
+ a general rule, where software constitutes part of a best mode of carrying out an
+ invention, description of such a best mode is satisfied by a disclosure of the
+ functions of the software. This is because, normally, writing code for such software
+ is within the skill of the art, not requiring undue experimentation, once its
+ functions have been disclosed. . . . [F]low charts or source code listings are not a
+ requirement for adequately disclosing the functions of software." *Fonar
+ Corp.,* 107 F.3d at 1549, 41 USPQ2d at 1805 (citations omitted).
+ 
+
+**III.** **DETERMINING WHETHER THE FULL SCOPE OF A COMPUTER-IMPLEMENTED FUNCTIONAL CLAIM
+ LIMITATION IS ENABLED**To satisfy the enablement requirement of
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, the specification must teach those skilled in the art how to make and use
+ the full scope of the claimed invention without "undue experimentation." See, e.g.,
+ *In re Wright,* 999 F.2d 1557, 1561, 27 USPQ2d 1510, 1513 (Fed.
+ Cir. 1993); *In re Wands,* 858 F.2d 731, 736-37, 8 USPQ2d 1400, 1402
+ (Fed. Cir. 1988). In *In re Wands,* the court set forth the
+ following factors to consider when determining whether undue experimentation is
+ needed: (1) the breadth of the claims; (2) the nature of the invention; (3) the state
+ of the prior art; (4) the level of one of ordinary skill; (5) the level of
+ predictability in the art; (6) the amount of direction provided by the inventor; (7)
+ the existence of working examples; and (8) the quantity of experimentation needed to
+ make or use the invention based on the content of the disclosure. *Wands,* 858 F.2d at 737, 8 USPQ2d 1404. The undue experimentation
+ determination is not a single factual determination; rather, it is a conclusion
+ reached by weighing all the factual considerations. *Id.*
+
+
+All questions of enablement under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** are evaluated against the claimed subject matter with
+ the focus of the examination inquiry being whether everything within the scope of the
+ claim is enabled. Accordingly, examiners should determine what each claim recites and
+ what subject matter is encompassed by the claim when the claim is considered as a
+ whole and not analyze the claim elements individually.
+ 
+
+
+When basing a rejection on the failure of the applicant’s disclosure
+ to meet the enablement provisions of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or the first
+ paragraph of **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, USPTO personnel must establish on the
+ record a reasonable basis for questioning the adequacy of the
+ disclosure to enable a person of ordinary skill in the art to make and use the
+ claimed invention without resorting to *undue experimentation*. See
+ *In re Brown,* 477 F.2d 946, 177 USPQ 691 (CCPA 1973);
+ *In re Ghiron,* 442 F.2d 985, 169 USPQ 723 (CCPA 1971). Once
+ USPTO personnel have advanced a reasonable basis for questioning the adequacy of the
+ disclosure, it becomes incumbent on the applicant to rebut that challenge and
+ factually demonstrate that the application disclosure is sufficient. See *In
+ re Doyle,* 482 F.2d 1385, 1392, 179 USPQ 227, 232 (CCPA 1973);
+ *In re Scarbrough,* 500 F.2d 560, 566, 182 USPQ 298, 302 (CCPA
+ 1974); *In re Ghiron, supra*; see also **[MPEP §§ 2164](s2164.html#d0e215224)** -
+ **[2164.08(c)](s2164.html#d0e216899)**.
+ 
+
+
+When a claim is not limited to any particular
+ structure for performing a recited function and does not invoke **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)**, any claim language reciting the ability to perform a
+ function per se would typically be construed broadly to cover any and all embodiments
+ that perform the recited function. Because such a claim encompasses all devices or
+ structures that perform the recited function, there is a concern regarding whether
+ the applicant's disclosure sufficiently enables the full scope of protection sought
+ by the claim. *In re Swinehart,* 439 F.2d 210, 213, 169 USPQ 226,
+ 229 (CCPA 1971); *AK Steel Corp. v. Sollac,* 344 F.3d 1234, 1244, 68
+ USPQ2d 1280, 1287 (Fed. Cir. 2003); *In re Moore,* 439 F.2d 1232,
+ 1236, 169 USPQ 236, 239 (CCPA 1971). Applicants who present broad claim language must
+ ensure the claims are fully enabled. Specifically, the scope of the claims must be
+ less than or equal to the scope of the enablement provided by the specification.
+ *Sitrick v. Dreamworks, LLC,* 516 F.3d 993, 999, 85 USPQ2d 1826,
+ 1830 (Fed. Cir. 2008) ("The scope of the claims must be less than or equal to the
+ scope of the enablement to ensure that the public knowledge is enriched by the patent
+ specification to a degree at least commensurate with the scope of the claims."
+ (quotation omitted)). 
+ 
+
+
+For example, the claims in *Sitrick*
+ were directed to "integrating" or "substituting" a user’s audio signal or visual
+ image into a pre-existing video game or movie. While the claims covered both video
+ games and movies, the specification only taught the skilled artisan how to substitute
+ and integrate user images into video games. The Federal Circuit held that the
+ specification failed to enable the full scope of the claims because the skilled
+ artisan could not substitute a user image for a preexisting character image in movies
+ without undue experimentation. Specifically, the court recognized that one skilled in
+ the art could not apply the teachings of the specification regarding video games to
+ movies, because movies, unlike video games, do not have easily separable character
+ functions. Because the specification did not teach how the substitution and
+ integration of character functions for a user image would be accomplished in movies,
+ the claims were not enabled. *Sitrick,* 516 F.3d at 999-1001, 85
+ USPQ2d at 1830-32. 
+ 
+
+
+In *MagSil Corp. v. Hitachi Global Storage
+ Techs., Inc.* 687 F.3d 1377, 103 USPQ2d 1769 (Fed. Cir. 2012), the
+ Federal Circuit stated that "a patentee chooses broad claim language at the peril of
+ losing any claim that cannot be enabled across its full scope of coverage," finding
+ "one skilled in the art could not have taken the disclosure in the specification
+ regarding ‘change in the resistance by at least 10% at room temperature’ and achieved
+ a change in resistance in the full scope of that term without undue experimentation."
+ 687 F.3d at 1381-82. "Thus, the specification enabled a marginal advance over the
+ prior art, but did not enable at the time of filing a tunnel junction of resistive
+ changes reaching even up to 20%, let alone the more recent achievements above 600%."
+ The court held that the "claims [were] invalid for lack of enablement because their
+ broad scope [was] not reasonably supported by the scope of enablement in the
+ specification." 687 F.3d at 1381-1382, 1384, 103 USPQ2d at 1771, 1772, 1774 ("MagSil
+ did not fully enable its broad claim scope. Therefore, it cannot claim an exclusive
+ right to exclude later tri-layer tunnel junctions that greatly exceed a 10% resistive
+ change."). See also *Convolve, Inc. v. Compaq Computer Corp.,* 527
+ Fed. App'x 910, 931 (Fed. Cir. 2013) (non-precedential), quoting *MagSil
+ Corp.*)(affirming grant of summary judgment of invalidity due to lack of
+ enablement where the patentee "[b]y choosing such broad claim language, ... put
+ itself ‘at the peril of losing any claim that cannot be enabled across its full scope
+ of coverage.’"). 
+ 
+
+
+The specification need not teach what is well known in
+ the art. However, applicant cannot rely on the knowledge of one skilled in the art to
+ supply information that is required to enable the novel aspect of the claimed
+ invention when the enabling knowledge is in fact not known in the art. *ALZA
+ Corp. v. Andrx Pharms., LLC,* 603 F.3d 935, 941, 94 USPQ2d 1823, 1827
+ (Fed. Cir. 2010) ("ALZA was required to provide an adequate enabling disclosure in
+ the specification; it cannot simply rely on the knowledge of a person of ordinary
+ skill to serve as a substitute for the missing information in the specification.");
+ *Auto. Techs. Int’l, Inc. v. BMW of N. Am., Inc.,* 501 F.3d 1274,
+ 1283, 84 USPQ2d 1108, 1114-15 (Fed. Cir. 2007) ("Although the knowledge of one
+ skilled in the art is indeed relevant, the novel aspect of an invention must be
+ enabled in the patent."). The Federal Circuit has stated that "‘[i]t is the
+ specification, not the knowledge of one skilled in the art, that must supply the
+ novel aspects of an invention in order to constitute adequate enablement.’"
+ *Auto. Technologies,* 501 F.3d at 1283, 84 USPQ2d at 1115
+ (quoting *Genentech, Inc. v. Novo Nordisk A/S,* 108 F.3d 1361, 1366,
+ 42 USPQ2d 1001, 1005 (Fed. Cir. 1997)). The rule that a specification need not
+ disclose what is well known in the art is "merely a rule of supplementation, not a
+ substitute for a basic enabling disclosure." *Genentech,* 108 F.3d
+ at 1366, 42 USPQ2d 1005; see also *ALZA Corp.,* 603 F.3d at 940-41,
+ 94 USPQ2d at 1827. Therefore, the specification must contain the information
+ necessary to enable the novel aspects of the claimed invention.
+ *Id.* at 941, 94 USPQ2d at 1827; *Auto.
+ Technologies,* 501 F.3d at 1283-84, 84 USPQ2d at 1115 ("[T]he ‘omission
+ of minor details does not cause a specification to fail to meet the enablement
+ requirement. However, when there is no disclosure of any specific starting material
+ or of any of the conditions under which a process can be carried out, undue
+ experimentation is required.’") (quoting *Genentech,* 108 F.3d at
+ 1366, 42 USPQ2d at 1005). For instance, in *Auto. Technologies,* the
+ claim limitation "means responsive to the motion of said mass" was construed to
+ include both mechanical side impact sensors and electronic side impact sensors for
+ performing the function of initiating an occupant protection apparatus.
+ *Auto. Technologies,* 501 F.3d at 1282, 84 USPQ2d at 1114. The
+ specification did not include any discussion of the details or circuitry involved in
+ the electronic side impact sensor and thus, failed to apprise one of ordinary skill
+ how to make and use the electronic sensor. Because the novel aspect of the invention
+ was side impact sensors, the patentee could not rely on the knowledge of one skilled
+ in the art to supply the missing information. *Auto. Technologies,*
+ 501 F.3d at 1283, 84 USPQ2d at 1114.
+ 
+
+
+Not everything necessary to practice the invention
+ need be disclosed. *Trs. of Bos. Univ. v. Everlight Elecs. Co.,
+ LTD.,* 896 F.3d 1357, 1364 (Fed. Cir. 2018) (explaining that while "the
+ specification must enable the full scope of the claimed invention[,]" "[t]his is not
+ to say that the specification must expressly spell out every possible iteration of
+ every claim."). For instance, "‘a specification need not disclose what is well known
+ in the art.’" *Id.* (quoting *Genentech, Inc.v. Novo Nordisk
+ A/S,* 108 F.3d 1361, 1366 (Fed. Cir. 1997)); see also *AK Steel
+ Corp. v. Sollac & Ugine,* 344 F.3d 1234, 1244 (Fed. Cir. 2003). This
+ is of particular importance with respect to computer-implemented inventions due to
+ the high level of skill in the art and the similarly high level of predictability in
+ generating programs to achieve an intended result without undue experimentation. See
+ **[MPEP §
+ 2164.08](s2164.html#d0e216700)**.
+ 
+
+
+The Federal Circuit has repeatedly held that the
+ specification must teach those skilled in the art how to make and use the full scope
+ of the claimed invention without undue experimentation. See *Trs. of Bos.
+ Univ.,* 896 F.3d at 1364 ("‘The scope of enablement . . . is that which
+ is disclosed in the specification plus the scope of what would be known to one of
+ ordinary skill in the art without undue experimentation.’" (quoting *Nat’l
+ Recovery Techs., Inc. v. Magnetic Separation Sys., Inc.,* 166 F.3d 1190,
+ 1196 (Fed. Cir. 1999))). For example, in *Sitrick v. Dreamworks,
+ LLC,* 516 F.3d 993 (Fed. Cir. 2008), the claims at issue were directed to
+ "integrating" or "substituting" a user’s audio signal or visual image into a
+ pre-existing video game or movie. *Id.* at 995-97. While the claims
+ covered both video games and movies, the specification only taught the skilled
+ artisan how to substitute and integrate user images into video games.
+ *Id.* at 1000. The Federal Circuit held that the specification
+ "did not enable the full scope of the asserted claims" because "one skilled in the
+ art could not take the disclosure in the specification with respect to substitution
+ or integration of user images in video games and substitute a user image for a pre-
+ existing character image in movies without undue experimentation."
+ *Id.*
+
+
+ A rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph for lack of enablement must be made when the specification does not enable
+ the full scope of the claim. USPTO personnel should establish a reasonable basis to
+ question the enablement provided for the claimed invention and provide reasons for
+ the uncertainty of the enablement. For more information regarding the enablement
+ requirement, see **[MPEP
+ §§ 2164.01(a)](s2164.html#d0e215360)** - **[2164.08(c)](s2164.html#d0e216899)**, especially,
+ **[MPEP §
+ 2164.06(c)](s2164.html#d0e216273)** for examples of computer programming cases. See
+ also **[MPEP §
+ 2181](s2181.html#d0e219279)**, subsection IV.
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2161.01 Computer Programming, Computer Implemented Inventions, and 35
+ U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First Paragraph [R-10.2019]
+
+
+The statutory requirements for computer-implemented
+ inventions are the same as for all inventions, such as the subject matter eligibility
+ and utility requirements under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** (see
+ **[MPEP §§
+ 2106](s2106.html#d0e197244)** and **[2107](s2107.html#d0e198469)**, respectively), the novelty
+ requirement of **[35
+ U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**, the nonobviousness requirement of **[35 U.S.C. 103](mpep-9015-appx-l.html#d0e302450)**, the
+ definiteness requirement of **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, and the three separate and distinct
+ requirements of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph. In addition, claims with
+ computer-implemented functional claim limitations may invoke **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, sixth
+ paragraph. See **[MPEP §
+ 2181](s2181.html#d0e219279)**, subsection II.B, and **[§ 2181](s2181.html#d0e219279)**, subsection
+ IV. for information regarding means- (or step-) plus- function limitations.
+ 
+
+
+Even if a claim is not construed as a means-plus-
+ function limitation under **[35 U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)**,
+ computer-implemented functional claim language must still be evaluated for sufficient
+ disclosure under the written description and enablement requirements of
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**.
+ 
+
+**I.** **DETERMINING WHETHER THERE IS ADEQUATE WRITTEN DESCRIPTION FOR A
+ COMPUTER-IMPLEMENTED FUNCTIONAL CLAIM LIMITATION**The **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or first
+ paragraph of **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** contains a written description
+ requirement that is separate and distinct from the enablement requirement.
+ *Ariad Pharm., Inc. v. Eli Lilly & Co.,* 598 F.3d 1336, 1340,
+ 94 USPQ2d 1161, 1167 (Fed. Cir. 2010) *(en banc)*. To satisfy the
+ written description requirement, the specification must describe the claimed
+ invention in sufficient detail that one skilled in the art can reasonably conclude
+ that the inventor had possession of the claimed invention at the time of filing.
+ *Reiffin v. Microsoft Corp.,* 214 F.3d 1342, 1345 (Fed. Cir.
+ 2000) ("The purpose of [the written description requirement] is to ensure that the
+ scope of the right to exclude, as set forth in the claims, does not overreach the
+ scope of the inventor’s contribution to the field of art as described in the patent
+ specification"); *LizardTech Inc. v. Earth Resource Mapping Inc.,*
+ 424 F.3d 1336, 1345 (Fed. Cir. 2005) ("Whether the flaw in the specification is
+ regarded as a failure to demonstrate that the applicant possessed the full scope of
+ the invention recited in [the claim] or a failure to enable the full breadth of that
+ claim, the specification provides inadequate support for the claim under
+ [**[§
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**]"); cf. *id.* ("A claim will not be
+ invalidated on **[[§] 112](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** grounds simply because
+ the embodiments of the specification do not contain examples explicitly covering the
+ full scope of the claim language."). While "[t]here is no special rule for supporting
+ a genus by the disclosure of a species," the Federal Circuit has stated that
+ "[w]hether the genus is supported vel non depends upon the state of the art and the
+ nature and breadth of the genus." *Hynix Semiconductor Inc. v. Rambus
+ Inc.,* 645 F.3d 1336, 1352 (Fed. Cir. 2011); *id.*
+ (further explaining that "so long as disclosure of the species is sufficient to
+ convey to one skilled in the art that the inventor possessed the subject matter of
+ the genus, the genus will be supported by an adequate written description."). See
+ also *Rivera v. Int'l Trade Comm’n,* 857 F.3d 1315, 1319-21 (Fed.
+ Cir. 2017) (affirming the Commission’s findings that "the specification did not
+ provide the necessary written description support for the full breadth of the
+ asserted claims," where the claims were broadly drawn to a "container . . . adapted
+ to hold brewing material" while the specification disclosed only a "pod adapter
+ assembly" or "receptacle" designed to hold a "pod"). 
+ 
+
+
+ Specifically, the specification must describe the
+ claimed invention in a manner understandable to a person of ordinary skill in the art
+ in a way that shows that the inventor actually invented the claimed invention at the
+ time of filing. *Id.;**Ariad,* 598 F.3d at 1351, 94 USPQ2d at 1172. The function of the
+ written description requirement is to ensure that the inventor had possession of the
+ specific subject matter later claimed as of the filing date of the application relied
+ on; how the specification accomplishes this is not material. *In re
+ Herschler,* 591 F.2d 693, 700-01, 200 USPQ 711, 717 (CCPA 1979), further
+ reiterated in *In re Kaslow,* 707 F.2d 1366, 217 USPQ 1089 (Fed.
+ Cir. 1983); see also **[MPEP §§ 2163](s2163.html#d0e213583)** - **[2163.04](s2163.html#d0e214731)**. 
+ 
+
+
+The written description requirement of
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, applies to all claims including original claims that are part of the
+ disclosure as filed. *Ariad,* 598 F.3d at 1349, 94 USPQ2d at 1170.
+ As stated by the Federal Circuit, "[a]lthough many original claims will satisfy the
+ written description requirement, certain claims may not." *Id.* at
+ 1349, 94 USPQ2d at 1170-71; see also *LizardTech, Inc. v. Earth Res. Mapping,
+ Inc.,* 424 F.3d 1336, 1343-46, 76 USPQ2d 1724, 1730-33 (Fed. Cir. 2005);
+ *Regents of the Univ. of Cal. v. Eli Lilly & Co.,* 119 F.3d
+ 1559, 1568, 43 USPQ2d 1398, 1405-06 (Fed. Cir. 1997)("The description requirement of
+ the patent statute requires a description of an invention, not an indication of a
+ result that one might achieve if one made that invention."). Problems satisfying the
+ written description requirement for original claims often occur when claim language
+ is generic or functional, or both. *Ariad,* 593 F.3d at 1349, 94
+ USPQ2d at 1171 ("The problem is especially acute with genus claims that use
+ functional language to define the boundaries of a claimed genus. In such a case, the
+ functional claim may simply claim a desired result, and may do so without describing
+ species that achieve that result. But the specification must demonstrate that the
+ applicant has made a generic invention that achieves the claimed result and do so by
+ showing that the applicant has invented species sufficient to support a claim to the
+ functionally-defined genus.").
+ 
+
+
+For instance, generic claim language in the original
+ disclosure does not satisfy the written description requirement if it fails to
+ support the scope of the genus claimed. *Ariad,* 598 F.3d at
+ 1349-50, 94 USPQ2d at 1171 ("[A]n adequate written description of a claimed genus
+ requires more than a generic statement of an invention’s boundaries.") (citing
+ *Eli Lilly,* 119 F.3d at 1568, 43 USPQ2d at 1405-06);
+ *Enzo Biochem, Inc. v. Gen-Probe, Inc.,* 323 F.3d 956, 968, 63
+ USPQ2d 1609, 1616 (Fed. Cir. 2002) (holding that generic claim language appearing in
+ *ipsis verbis* in the original specification did not satisfy the
+ written description requirement because it failed to support the scope of the genus
+ claimed); *Fiers v. Revel,* 984 F.2d 1164, 1170, 25 USPQ2d 1601,
+ 1606 (Fed. Cir. 1993) (rejecting the argument that "only similar language in the
+ specification or original claims is necessary to satisfy the written description
+ requirement").
+ 
+
+
+The Federal Circuit has explained that a
+ specification cannot always support expansive claim language and satisfy the
+ requirements of 35 U.S.C. 112 "merely by clearly describing one embodiment of the
+ thing claimed." *LizardTech v. Earth Resource Mapping, Inc.,* 424
+ F.3d 1336, 1346, 76 USPQ2d 1731, 1733 (Fed. Cir. 2005). The issue is whether a person
+ skilled in the art would understand applicant to have invented, and been in
+ possession of, the invention as broadly claimed. In *LizardTech,*
+ claims to a generic method of making a seamless discrete wavelet transformation (DWT)
+ were held invalid under 35 U.S.C. 112, first paragraph, because the specification
+ taught only one particular method for making a seamless DWT and there was no evidence
+ that the specification contemplated a more generic method. "[T]he description of one
+ method for creating a seamless DWT does not entitle the inventor . . . to claim any
+ and all means for achieving that objective." *LizardTech,* 424 F.3d
+ at 1346, 76 USPQ2d at 1733. 
+ 
+
+
+Similarly, original claims may lack written
+ description when the claims define the invention in functional language specifying a
+ desired result but the specification does not sufficiently describe how the function
+ is performed or the result is achieved. For software, this can occur when the
+ algorithm or steps/procedure for performing the computer function are not explained
+ at all or are not explained in sufficient detail (simply restating the function
+ recited in the claim is not necessarily sufficient). In other words, the algorithm or
+ steps/procedure taken to perform the function must be described with sufficient
+ detail so that one of ordinary skill in the art would understand
+ how the inventor intended the function to be performed. See
+ **[MPEP §§
+ 2163.02](s2163.html#d0e214553)** and **[2181](s2181.html#d0e219279)**, subsection IV.
+ 
+ 
+
+
+The level of detail required to satisfy the written
+ description requirement varies depending on the nature and scope of the claims and on
+ the complexity and predictability of the relevant technology.
+ *Ariad,* 598 F.3d at 1351, 94 USPQ2d at 1172; *Capon v.
+ Eshhar,* 418 F.3d 1349, 1357-58, 76 USPQ2d 1078, 1083-84 (Fed. Cir.
+ 2005). Computer-implemented inventions are often disclosed and claimed in terms of
+ their functionality. For computer-implemented inventions, the determination of the
+ sufficiency of disclosure will require an inquiry into the sufficiency of both the
+ disclosed hardware and the disclosed software due to the interrelationship and
+ interdependence of computer hardware and software. The critical inquiry is whether
+ the disclosure of the application relied upon reasonably conveys to those skilled in
+ the art that the inventor had possession of the claimed subject matter as of the
+ filing date. *Vasudevan Software, Inc. v. MicroStrategy, Inc.,* 782
+ F.3d 671, 682. 114 USPQ2d 1349, 1356 (citing *Ariad Pharm., Inc. V. Eli Lilly
+ & Co,* 598 F.3d 1336, 1351, 94 USPQ2d 1161, 1172 (Fed. Cir. 2010) in
+ the context of determining possession of a claimed means of accessing disparate
+ databases). 
+ 
+
+
+When examining computer-implemented functional claims,
+ examiners should determine whether the specification discloses the computer and the
+ algorithm (e.g., the necessary steps and/or flowcharts) that perform the claimed
+ function in sufficient detail such that one of ordinary skill in the art can
+ reasonably conclude that the inventor possessed the claimed subject matter at the
+ time of filing. An algorithm is defined, for example, as "a finite sequence of steps
+ for solving a logical or mathematical problem or performing a task." Microsoft
+ Computer Dictionary (5th ed., 2002). Applicant may "express that algorithm in any
+ understandable terms including as a mathematical formula, in prose, or as a flow
+ chart, or in any other manner that provides sufficient structure." *Finisar
+ Corp. v. DirecTV Grp., Inc.,* 523 F.3d 1323, 1340 (Fed. Cir. 2008)
+ (internal citation omitted). It is not enough that one skilled in the art could write
+ a program to achieve the claimed function because the specification must explain how
+ the inventor intends to achieve the claimed function to satisfy the written
+ description requirement. See, e.g., *Vasudevan Software, Inc. v.
+ MicroStrategy, Inc.,* 782 F.3d 671, 681-683, 114 USPQ2d 1349, 1356, 1357
+ (Fed. Cir. 2015) (reversing and remanding the district court’s grant of summary
+ judgment of invalidity for lack of adequate written description where there were
+ genuine issues of material fact regarding "whether the specification show[ed]
+ possession by the inventor of how accessing disparate databases is achieved"). If the
+ specification does not provide a disclosure of the computer and algorithm in
+ sufficient detail to demonstrate to one of ordinary skill in the art that the
+ inventor possessed the invention a rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, for lack of written description must be made. For more information
+ regarding the written description requirement, see **[MPEP § 2162](s2162.html#d0e213567)**-
+ **[§
+ 2163.07(b)](s2163.html#d0e215198)**. If the specification does not provide a
+ disclosure of sufficient corresponding structure, materials, or acts that perform the
+ entire claimed function of a means- (or step-) plus- function limitation in a claim
+ under **[35
+ U.S.C. 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)** or the sixth paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, "the applicant has in effect failed to particularly point
+ out and distinctly claim the invention" as required by the **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** [or the second paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**]. *In re Donaldson Co.,* 16 F.3d 1189,
+ 1195, 29 USPQ2d 1845, 1850 (Fed. Cir. 1994) (en banc). A rejection under
+ **[35
+ U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or the second paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** must be made in addition to the written description
+ rejection. See also **[MPEP § 2181](s2181.html#d0e219279)**, subsection II.B.2(a).
+ 
+
+**II.****BEST MODE**The purpose of the best mode requirement is to "restrain inventors
+ from applying for patents while at the same time concealing from the public the
+ preferred embodiments of their inventions which they have in fact conceived."
+ *In re Gay,* 309 F.2d 769, 772, 135 USPQ 311, 315 (CCPA 1962).
+ Only evidence of concealment, "whether accidental or intentional," is considered in
+ judging the adequacy of the disclosure for compliance with the best mode requirement.
+ *Spectra-Physics, Inc. v. Coherent, Inc.,*827 F.2d 1524, 1535, 3
+ USPQ2d 1737, 1745 (Fed. Cir. 1987). "That evidence, in order to result in affirmance
+ of a best mode rejection, must tend to show that the quality of an applicant’s best
+ mode disclosure is so poor as to effectively result in concealment." *In re
+ Sherwood,* 613 F.2d 809, 816-817, 204 USPQ 537, 544 (CCPA 1980)(emphasis
+ omitted); *White Consol. Indus. v. Vega Servo-Control Inc.,* 214
+ USPQ 796, 824 (S.D. Mich. 1982), *aff’d on related grounds,* 713
+ F.2d 788, 218 USPQ 961 (Fed. Cir. 1983); see also **[MPEP §§ 2165](s2165.html#d0e216924)** -
+ **[2165.04](s2165.html#d0e217264)**.
+ 
+
+
+There are two factual inquiries to be made in determining whether a
+ specification satisfies the best mode requirement. First, there must be a subjective
+ determination as to whether the inventor knew of a best mode of practicing the
+ invention at the time the application was filed. Second, if the inventor had a best
+ mode of practicing the invention in mind, there must be an objective determination as
+ to whether that best mode was disclosed in sufficient detail to allow one skilled in
+ the art to practice it. *Fonar Corp. v. Gen. Elect. Co.,* 107 F.3d
+ 1543, 41 USPQ2d 1801, 1804 (Fed. Cir. 1997); *Chemcast Corp. v. Arco
+ Indus.,* 913 F.2d 923, 927-28, 16 USPQ2d 1033, 1036 (Fed. Cir. 1990). "As
+ a general rule, where software constitutes part of a best mode of carrying out an
+ invention, description of such a best mode is satisfied by a disclosure of the
+ functions of the software. This is because, normally, writing code for such software
+ is within the skill of the art, not requiring undue experimentation, once its
+ functions have been disclosed. . . . [F]low charts or source code listings are not a
+ requirement for adequately disclosing the functions of software." *Fonar
+ Corp.,* 107 F.3d at 1549, 41 USPQ2d at 1805 (citations omitted).
+ 
+
+**III.** **DETERMINING WHETHER THE FULL SCOPE OF A COMPUTER-IMPLEMENTED FUNCTIONAL CLAIM
+ LIMITATION IS ENABLED**To satisfy the enablement requirement of
+ **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, the specification must teach those skilled in the art how to make and use
+ the full scope of the claimed invention without "undue experimentation." See, e.g.,
+ *In re Wright,* 999 F.2d 1557, 1561, 27 USPQ2d 1510, 1513 (Fed.
+ Cir. 1993); *In re Wands,* 858 F.2d 731, 736-37, 8 USPQ2d 1400, 1402
+ (Fed. Cir. 1988). In *In re Wands,* the court set forth the
+ following factors to consider when determining whether undue experimentation is
+ needed: (1) the breadth of the claims; (2) the nature of the invention; (3) the state
+ of the prior art; (4) the level of one of ordinary skill; (5) the level of
+ predictability in the art; (6) the amount of direction provided by the inventor; (7)
+ the existence of working examples; and (8) the quantity of experimentation needed to
+ make or use the invention based on the content of the disclosure. *Wands,* 858 F.2d at 737, 8 USPQ2d 1404. The undue experimentation
+ determination is not a single factual determination; rather, it is a conclusion
+ reached by weighing all the factual considerations. *Id.*
+
+
+All questions of enablement under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** are evaluated against the claimed subject matter with
+ the focus of the examination inquiry being whether everything within the scope of the
+ claim is enabled. Accordingly, examiners should determine what each claim recites and
+ what subject matter is encompassed by the claim when the claim is considered as a
+ whole and not analyze the claim elements individually.
+ 
+
+
+When basing a rejection on the failure of the applicant’s disclosure
+ to meet the enablement provisions of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or the first
+ paragraph of **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, USPTO personnel must establish on the
+ record a reasonable basis for questioning the adequacy of the
+ disclosure to enable a person of ordinary skill in the art to make and use the
+ claimed invention without resorting to *undue experimentation*. See
+ *In re Brown,* 477 F.2d 946, 177 USPQ 691 (CCPA 1973);
+ *In re Ghiron,* 442 F.2d 985, 169 USPQ 723 (CCPA 1971). Once
+ USPTO personnel have advanced a reasonable basis for questioning the adequacy of the
+ disclosure, it becomes incumbent on the applicant to rebut that challenge and
+ factually demonstrate that the application disclosure is sufficient. See *In
+ re Doyle,* 482 F.2d 1385, 1392, 179 USPQ 227, 232 (CCPA 1973);
+ *In re Scarbrough,* 500 F.2d 560, 566, 182 USPQ 298, 302 (CCPA
+ 1974); *In re Ghiron, supra*; see also **[MPEP §§ 2164](s2164.html#d0e215224)** -
+ **[2164.08(c)](s2164.html#d0e216899)**.
+ 
+
+
+When a claim is not limited to any particular
+ structure for performing a recited function and does not invoke **[35 U.S.C.
+ 112(f)](mpep-9015-appx-l.html#al_d1d85b_2ae7b_ec)**, any claim language reciting the ability to perform a
+ function per se would typically be construed broadly to cover any and all embodiments
+ that perform the recited function. Because such a claim encompasses all devices or
+ structures that perform the recited function, there is a concern regarding whether
+ the applicant's disclosure sufficiently enables the full scope of protection sought
+ by the claim. *In re Swinehart,* 439 F.2d 210, 213, 169 USPQ 226,
+ 229 (CCPA 1971); *AK Steel Corp. v. Sollac,* 344 F.3d 1234, 1244, 68
+ USPQ2d 1280, 1287 (Fed. Cir. 2003); *In re Moore,* 439 F.2d 1232,
+ 1236, 169 USPQ 236, 239 (CCPA 1971). Applicants who present broad claim language must
+ ensure the claims are fully enabled. Specifically, the scope of the claims must be
+ less than or equal to the scope of the enablement provided by the specification.
+ *Sitrick v. Dreamworks, LLC,* 516 F.3d 993, 999, 85 USPQ2d 1826,
+ 1830 (Fed. Cir. 2008) ("The scope of the claims must be less than or equal to the
+ scope of the enablement to ensure that the public knowledge is enriched by the patent
+ specification to a degree at least commensurate with the scope of the claims."
+ (quotation omitted)). 
+ 
+
+
+For example, the claims in *Sitrick*
+ were directed to "integrating" or "substituting" a user’s audio signal or visual
+ image into a pre-existing video game or movie. While the claims covered both video
+ games and movies, the specification only taught the skilled artisan how to substitute
+ and integrate user images into video games. The Federal Circuit held that the
+ specification failed to enable the full scope of the claims because the skilled
+ artisan could not substitute a user image for a preexisting character image in movies
+ without undue experimentation. Specifically, the court recognized that one skilled in
+ the art could not apply the teachings of the specification regarding video games to
+ movies, because movies, unlike video games, do not have easily separable character
+ functions. Because the specification did not teach how the substitution and
+ integration of character functions for a user image would be accomplished in movies,
+ the claims were not enabled. *Sitrick,* 516 F.3d at 999-1001, 85
+ USPQ2d at 1830-32. 
+ 
+
+
+In *MagSil Corp. v. Hitachi Global Storage
+ Techs., Inc.* 687 F.3d 1377, 103 USPQ2d 1769 (Fed. Cir. 2012), the
+ Federal Circuit stated that "a patentee chooses broad claim language at the peril of
+ losing any claim that cannot be enabled across its full scope of coverage," finding
+ "one skilled in the art could not have taken the disclosure in the specification
+ regarding ‘change in the resistance by at least 10% at room temperature’ and achieved
+ a change in resistance in the full scope of that term without undue experimentation."
+ 687 F.3d at 1381-82. "Thus, the specification enabled a marginal advance over the
+ prior art, but did not enable at the time of filing a tunnel junction of resistive
+ changes reaching even up to 20%, let alone the more recent achievements above 600%."
+ The court held that the "claims [were] invalid for lack of enablement because their
+ broad scope [was] not reasonably supported by the scope of enablement in the
+ specification." 687 F.3d at 1381-1382, 1384, 103 USPQ2d at 1771, 1772, 1774 ("MagSil
+ did not fully enable its broad claim scope. Therefore, it cannot claim an exclusive
+ right to exclude later tri-layer tunnel junctions that greatly exceed a 10% resistive
+ change."). See also *Convolve, Inc. v. Compaq Computer Corp.,* 527
+ Fed. App'x 910, 931 (Fed. Cir. 2013) (non-precedential), quoting *MagSil
+ Corp.*)(affirming grant of summary judgment of invalidity due to lack of
+ enablement where the patentee "[b]y choosing such broad claim language, ... put
+ itself ‘at the peril of losing any claim that cannot be enabled across its full scope
+ of coverage.’"). 
+ 
+
+
+The specification need not teach what is well known in
+ the art. However, applicant cannot rely on the knowledge of one skilled in the art to
+ supply information that is required to enable the novel aspect of the claimed
+ invention when the enabling knowledge is in fact not known in the art. *ALZA
+ Corp. v. Andrx Pharms., LLC,* 603 F.3d 935, 941, 94 USPQ2d 1823, 1827
+ (Fed. Cir. 2010) ("ALZA was required to provide an adequate enabling disclosure in
+ the specification; it cannot simply rely on the knowledge of a person of ordinary
+ skill to serve as a substitute for the missing information in the specification.");
+ *Auto. Techs. Int’l, Inc. v. BMW of N. Am., Inc.,* 501 F.3d 1274,
+ 1283, 84 USPQ2d 1108, 1114-15 (Fed. Cir. 2007) ("Although the knowledge of one
+ skilled in the art is indeed relevant, the novel aspect of an invention must be
+ enabled in the patent."). The Federal Circuit has stated that "‘[i]t is the
+ specification, not the knowledge of one skilled in the art, that must supply the
+ novel aspects of an invention in order to constitute adequate enablement.’"
+ *Auto. Technologies,* 501 F.3d at 1283, 84 USPQ2d at 1115
+ (quoting *Genentech, Inc. v. Novo Nordisk A/S,* 108 F.3d 1361, 1366,
+ 42 USPQ2d 1001, 1005 (Fed. Cir. 1997)). The rule that a specification need not
+ disclose what is well known in the art is "merely a rule of supplementation, not a
+ substitute for a basic enabling disclosure." *Genentech,* 108 F.3d
+ at 1366, 42 USPQ2d 1005; see also *ALZA Corp.,* 603 F.3d at 940-41,
+ 94 USPQ2d at 1827. Therefore, the specification must contain the information
+ necessary to enable the novel aspects of the claimed invention.
+ *Id.* at 941, 94 USPQ2d at 1827; *Auto.
+ Technologies,* 501 F.3d at 1283-84, 84 USPQ2d at 1115 ("[T]he ‘omission
+ of minor details does not cause a specification to fail to meet the enablement
+ requirement. However, when there is no disclosure of any specific starting material
+ or of any of the conditions under which a process can be carried out, undue
+ experimentation is required.’") (quoting *Genentech,* 108 F.3d at
+ 1366, 42 USPQ2d at 1005). For instance, in *Auto. Technologies,* the
+ claim limitation "means responsive to the motion of said mass" was construed to
+ include both mechanical side impact sensors and electronic side impact sensors for
+ performing the function of initiating an occupant protection apparatus.
+ *Auto. Technologies,* 501 F.3d at 1282, 84 USPQ2d at 1114. The
+ specification did not include any discussion of the details or circuitry involved in
+ the electronic side impact sensor and thus, failed to apprise one of ordinary skill
+ how to make and use the electronic sensor. Because the novel aspect of the invention
+ was side impact sensors, the patentee could not rely on the knowledge of one skilled
+ in the art to supply the missing information. *Auto. Technologies,*
+ 501 F.3d at 1283, 84 USPQ2d at 1114.
+ 
+
+
+Not everything necessary to practice the invention
+ need be disclosed. *Trs. of Bos. Univ. v. Everlight Elecs. Co.,
+ LTD.,* 896 F.3d 1357, 1364 (Fed. Cir. 2018) (explaining that while "the
+ specification must enable the full scope of the claimed invention[,]" "[t]his is not
+ to say that the specification must expressly spell out every possible iteration of
+ every claim."). For instance, "‘a specification need not disclose what is well known
+ in the art.’" *Id.* (quoting *Genentech, Inc.v. Novo Nordisk
+ A/S,* 108 F.3d 1361, 1366 (Fed. Cir. 1997)); see also *AK Steel
+ Corp. v. Sollac & Ugine,* 344 F.3d 1234, 1244 (Fed. Cir. 2003). This
+ is of particular importance with respect to computer-implemented inventions due to
+ the high level of skill in the art and the similarly high level of predictability in
+ generating programs to achieve an intended result without undue experimentation. See
+ **[MPEP §
+ 2164.08](s2164.html#d0e216700)**.
+ 
+
+
+The Federal Circuit has repeatedly held that the
+ specification must teach those skilled in the art how to make and use the full scope
+ of the claimed invention without undue experimentation. See *Trs. of Bos.
+ Univ.,* 896 F.3d at 1364 ("‘The scope of enablement . . . is that which
+ is disclosed in the specification plus the scope of what would be known to one of
+ ordinary skill in the art without undue experimentation.’" (quoting *Nat’l
+ Recovery Techs., Inc. v. Magnetic Separation Sys., Inc.,* 166 F.3d 1190,
+ 1196 (Fed. Cir. 1999))). For example, in *Sitrick v. Dreamworks,
+ LLC,* 516 F.3d 993 (Fed. Cir. 2008), the claims at issue were directed to
+ "integrating" or "substituting" a user’s audio signal or visual image into a
+ pre-existing video game or movie. *Id.* at 995-97. While the claims
+ covered both video games and movies, the specification only taught the skilled
+ artisan how to substitute and integrate user images into video games.
+ *Id.* at 1000. The Federal Circuit held that the specification
+ "did not enable the full scope of the asserted claims" because "one skilled in the
+ art could not take the disclosure in the specification with respect to substitution
+ or integration of user images in video games and substitute a user image for a pre-
+ existing character image in movies without undue experimentation."
+ *Id.*
+
+
+ A rejection under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph for lack of enablement must be made when the specification does not enable
+ the full scope of the claim. USPTO personnel should establish a reasonable basis to
+ question the enablement provided for the claimed invention and provide reasons for
+ the uncertainty of the enablement. For more information regarding the enablement
+ requirement, see **[MPEP
+ §§ 2164.01(a)](s2164.html#d0e215360)** - **[2164.08(c)](s2164.html#d0e216899)**, especially,
+ **[MPEP §
+ 2164.06(c)](s2164.html#d0e216273)** for examples of computer programming cases. See
+ also **[MPEP §
+ 2181](s2181.html#d0e219279)**, subsection IV.
+ 
+
+
+]

@@ -1,0 +1,37 @@
+[
+# 2162 Policy Underlying 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, First
+ Paragraph [R-08.2017]
+
+
+To obtain a valid patent, a patent application must contain a full and
+ clear description of the invention for which a patent is sought in the manner prescribed by
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph.
+ The requirement for an adequate written description ensures that the public receives
+ something in return for the exclusionary rights that are granted to the inventor by a
+ patent. The grant of a patent helps to foster and enhance the development and disclosure of
+ new ideas and the advancement of scientific knowledge. Upon the grant of a patent in the
+ U.S., information contained in the patent becomes a part of the information available to
+ the public for further research and development, subject only to the patentee’s right to
+ exclude others during the life of the patent.
+ 
+
+
+In exchange for the patent rights granted, **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph,
+ sets forth the minimum requirements for the quality and quantity of information that must
+ be contained in a patent application to justify the grant of a patent. As discussed in more
+ detail below, the patentee must disclose sufficient information to demonstrate that the
+ inventor had possession of the invention at the time of filing and to enable those skilled
+ in the art to make and use the invention. The applicant must not conceal from the public
+ the best way of practicing the invention that was known to the patentee at the time of
+ filing the patent application. Failure to fully comply with the disclosure requirements
+ could result in the denial of a patent, or in a holding of invalidity of an issued
+ patent.
+ 
+
+
+[[top]](#top)
+
+
+]

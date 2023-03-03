@@ -1,0 +1,157 @@
+[
+# 2114 Apparatus and Article Claims — Functional Language [R-07.2015]
+
+
+For a discussion of case law which provides guidance in interpreting the
+ functional portion of means-plus-function limitations see **[MPEP § 2181](s2181.html#d0e219279)** -
+ **[§
+ 2186](s2186.html#d0e220631)**.
+ 
+
+**I.** **INHERENCY AND FUNCTIONAL LIMITATIONS IN APPARATUS CLAIMS**Features of an apparatus may be recited either structurally or
+ functionally. *In re Schreiber,* 128 F.3d 1473, 1478, 44 USPQ2d 1429,
+ 1432 (Fed. Cir. 1997). See also **[MPEP § 2173.05(g)](s2173.html#d0e218409)**. If an examiner
+ concludes that a functional limitation is an inherent characteristic of the prior art,
+ then to establish a prima case of anticipation or obviousness, the examiner should
+ explain that the prior art structure inherently possesses the functionally defined
+ limitations of the claimed apparatus. *In re Schreiber,* 128 F.3d at
+ 1478, 44 USPQ2d at 1432. See also *Bettcher Industries, Inc. v. Bunzl USA,
+ Inc.,* 661 F.3d 629, 639-40,100 USPQ2d 1433, 1440 (Fed. Cir. 2011). The
+ burden then shifts to applicant to establish that the prior art does not possess the
+ characteristic relied on. *In re Schreiber,* 128 F.3d at 1478, 44
+ USPQ2d at 1432; *In re Swinehart,* 439 F.2d 210, 213, 169 USPQ 226, 228
+ (CCPA 1971) ("where the Patent Office has reason to believe that a functional limitation
+ asserted to be critical for establishing novelty in the claimed subject matter may, in
+ fact, be an inherent characteristic of the prior art, it possesses the authority to
+ require the applicant to prove that the subject matter shown to be in the prior art does
+ not possess the characteristic relied on").
+ 
+
+**II.** **MANNER OF OPERATING THE DEVICE DOES NOT DIFFERENTIATE APPARATUS CLAIM FROM THE
+ PRIOR ART**"[A]pparatus claims cover what a device *is,* not what
+ a device *does*." *Hewlett-Packard Co.**v.**Bausch & Lomb Inc.,* 909 F.2d 1464, 1469, 15 USPQ2d 1525, 1528
+ (Fed. Cir. 1990) (emphasis in original). A claim containing a "recitation with respect
+ to the manner in which a claimed apparatus is intended to be employed does not
+ differentiate the claimed apparatus from a prior art apparatus" if the prior art
+ apparatus teaches all the structural limitations of the claim.
+ *Ex parte Masham,* 2 USPQ2d 1647 (Bd. Pat. App. & Inter. 1987)
+ (The preamble of claim 1 recited that the apparatus was "for mixing flowing developer
+ material" and the body of the claim recited "means for mixing ..., said mixing means
+ being stationary and completely submerged in the developer material." The claim was
+ rejected over a reference which taught all the structural limitations of the claim for
+ the intended use of mixing flowing developer. However, the mixer was only partially
+ submerged in the developer material. The Board held that the amount of submersion is
+ immaterial to the structure of the mixer and thus the claim was properly rejected.).
+ 
+ 
+
+**III.** **A PRIOR ART DEVICE CAN PERFORM ALL THE FUNCTIONS OF THE APPARATUS CLAIM AND STILL
+ NOT ANTICIPATE THE CLAIM**Even if the prior art device performs all the functions recited in the
+ claim, the prior art cannot anticipate the claim if there is any structural difference.
+ It should be noted, however, that means-plus-function limitations are met by structures
+ which are equivalent to the corresponding structures recited in the specification.
+ *In re Donaldson,* 16 F.3d 1189, 1193, 29 USPQ2d 1845, 1848 (Fed.
+ Cir. 1994). See also *In re Robertson,* 169 F.3d 743, 745, 49 USPQ2d
+ 1949, 1951 (Fed. Cir. 1999) (The claims were drawn to a disposable diaper having three
+ fastening elements. The reference disclosed two fastening elements that could perform
+ the same function as the three fastening elements in the claims. The court construed the
+ claims to require three separate elements and held that the reference did not disclose a
+ separate third fastening element, either expressly or inherently.).
+ 
+
+**IV.** **DETERMINING WHETHER A COMPUTER-IMPLEMENTED FUNCTIONAL CLAIM LIMITATION IS
+ PATENTABLE OVER THE PRIOR ART UNDER 35 U.S.C. 102 AND 103**Functional claim language that is not limited to a
+ specific structure covers all devices that are capable of performing the recited
+ function. Therefore, if the prior art discloses a device that can inherently perform the
+ claimed function, a rejection under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and/or
+ **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** may be appropriate. See *In re Translogic Technology,
+ Inc.,* 504 F.3d 1249, 1258, 84 USPQ2d 1929, 1935-1936 (Fed. Cir. 2007) (The
+ claims were drawn to multiplexer circuit. The patent at issue claimed "coupled to" and
+ "coupled to receive" between various portions of the circuitry. In reference to the
+ claim phrase "input terminals ‘coupled to receive’ first and second input variables,"
+ the court held that "the claimed circuit does not require any specific input or
+ connection … [a]s such, ‘coupled to’ and ‘coupled to receive’ are clearly different …
+ [a]s shown in [the figures of the] patent, input terminals … only need to be ‘capable of
+ receiving’ an input variable for the multiplexer circuit as claimed". Therefore, the
+ specification supported the claim construction "that ‘coupled to receive’ means ‘capable
+ of receiving.’"); *Intel Corp. v. U.S. Int'l Trade Comm’n,* 946 F.2d
+ 821, 832, 20 USPQ2d 1161, 1171 (Fed. Cir. 1991) (The court held that "programmable"
+ claim language required only that the accused product could be programmed to perform the
+ claimed functionality.);*In re Schreiber,* 128 F.3d 1473, 1478, 44
+ USPQ2d 1429, 1432 (Fed. Cir. 1997); *In re Best,* 562 F.2d 1252, 1254,
+ 195 USPQ 430, 433 (CCPA 1977); *In re Ludtke,* 441 F.2d 660, 663-64,
+ 169 USPQ 563, 566-67 (CCPA 1971); *In re Swinehart,* 439 F.2d 210,
+ 212-13, 169 USPQ 226, 228-29 (CCPA 1971) ("[I]t is elementary that the mere recitation
+ of a newly discovered function or property, inherently possessed by things in the prior
+ art, does not cause a claim drawn to those things to distinguish over the prior art").
+ See **[MPEP §
+ 2112](s2112.html#d0e201036)** for more information. 
+ 
+
+
+Conversely, computer-implemented functional claim
+ limitations may narrow the functionality of the device, by limiting the specific
+ structure capable of performing the recited function. *Nazomi Communications,
+ Inc. v. Nokia Corp.,* 739 F.3d 1339, 1345, 109 USPQ2d 1258, 1262 (Fed Cir.
+ 2014) (The claims were drawn to a CPU that can perform processing of both register-based
+ and stack-based instructions. Appellant alleged infringement of the claims based on
+ claim construction requiring only hardware capable of performing the claimed
+ functionalities. Contrasted with the finding of *Intel Corp. v. U.S. Int'l Trade
+ Comm’n,* 846 F.2d 821, 832, 20 USPQ2d 1161, 1171 (Fed. Cir. 1991), the court
+ found that "[s]ince hardware cannot meet these limitations in the absence of enabling
+ software, the claims are properly construed as claiming an apparatus comprising a
+ combination of hardware and software capable of practicing the claim limitations."). 
+ 
+
+
+Computer-implemented functional claim limitations may
+ also be broad because the term "computer" is commonly understood by one of ordinary
+ skill in the art to describe a variety of devices with varying degrees of complexity and
+ capabilities. *In re Paulsen,* 30 F.3d 1475, 1479-80, 31 USPQ2d 1671,
+ 1674 (Fed. Cir. 1994). Therefore, a claim containing the term "computer" should not be
+ construed as limited to a computer having a specific set of characteristics and
+ capabilities, unless the term is modified by other claim terms or clearly defined in the
+ specification to be different from its common meaning. *Id.* In
+ *Paulsen,* the claims, directed to a portable computer, were
+ rejected as anticipated under **[35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** by a reference that
+ disclosed a calculator, because the term "computer" was given the broadest reasonable
+ interpretation consistent with the specification to include a calculator, and a
+ calculator was considered to be a particular type of computer by those of ordinary skill
+ in the art. *Id.*
+
+
+When determining whether a computer-implemented
+ functional claim would have been obvious, examiners should note that broadly claiming an
+ automated means to replace a manual function to accomplish the same result does not
+ distinguish over the prior art. See *Leapfrog Enters., Inc. v. Fisher-Price,
+ Inc.,* 485 F.3d 1157, 1161, 82 USPQ2d 1687, 1691 (Fed. Cir. 2007)
+ ("Accommodating a prior art mechanical device that accomplishes [a desired] goal to
+ modern electronics would have been reasonably obvious to one of ordinary skill in
+ designing children’s learning devices. Applying modern electronics to older mechanical
+ devices has been commonplace in recent years."); *In re Venner,* 262
+ F.2d 91, 95, 120 USPQ 193, 194 (CCPA 1958); see also **[MPEP § 2144.04](s2144.html#d0e210929)**.
+ Furthermore, implementing a known function on a computer has been deemed obvious to one
+ of ordinary skill in the art if the automation of the known function on a general
+ purpose computer is nothing more than the predictable use of prior art elements
+ according to their established functions. *KSR Int’l Co. v. Teleflex
+ Inc.,* 550 U.S. 398, 417, 82 USPQ2d 1385, 1396 (2007); see also
+ **[MPEP §
+ 2143](s2143.html#d0e209516)**, Exemplary Rationales D and F. Likewise, it has been
+ found to be obvious to adapt an existing process to incorporate Internet and Web browser
+ technologies for communicating and displaying information because these technologies had
+ become commonplace for those functions. *Muniauction, Inc. v. Thomson
+ Corp.,* 532 F.3d 1318, 1326-27, 87 USPQ2d 1350, 1357 (Fed. Cir. 2008).
+ 
+
+
+ For more information on the obviousness determination,
+ see **[MPEP §
+ 2141](s2141.html#d0e208143)**. 
+ 
+
+
+[[top]](#top)
+
+
+]

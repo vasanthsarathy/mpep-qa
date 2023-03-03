@@ -1,0 +1,240 @@
+[
+# 2172 Subject Matter Which the Inventor or a Joint Inventor Regards as
+ The Invention [R-10.2019]
+
+**I.** **FOCUS FOR EXAMINATION**A rejection based on the failure to satisfy this requirement is
+ appropriate only where an inventor has stated, somewhere other than in the application
+ as filed, that the invention is something different from what is defined by the claims.
+ In other words, the invention set forth in the claims must be presumed, in the absence
+ of evidence to the contrary, to be that which the inventor or a joint inventor regards
+ as the invention. *In re**Moore,* 439 F.2d 1232, 169 USPQ 236 (CCPA 1971). See also *In
+ re Zahn,* 617 F.2d 261, 204 USPQ 988 (CCPA 1980).
+ 
+
+**II.** **EVIDENCE TO THE CONTRARY**Evidence that shows that a claim does not correspond in scope with that
+ which an inventor regards as an inventor’s invention may be found, for example, in
+ contentions or admissions contained in briefs or remarks filed by applicant (see e.g.,
+ *Solomon v. Kimberly-Clark Corp.,* 216 F.3d 1372, 55 USPQ2d 1279
+ (Fed. Cir. 2000) and *In re**Prater,* 415 F.2d 1393, 162 USPQ 541 (CCPA 1969)), or in affidavits
+ filed under **[37 CFR
+ 1.132](mpep-9020-appx-r.html#d0e323552)** (see, e.g., *In re**Cormany,* 476 F.2d 998, 177 USPQ 450 (CCPA 1973)). The content of the
+ specification is not used as evidence that the scope of the claims is inconsistent with
+ the subject matter which an inventor regards as his or her invention. As noted in
+ *In re**Ehrreich,* 590 F.2d 902, 200 USPQ 504 (CCPA 1979), agreement, or lack
+ thereof, between the claims and the specification is properly considered only with
+ respect to **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph; it is irrelevant to compliance with the **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph.
+ 
+
+**III.** **SHIFT IN CLAIMS PERMITTED****[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or the second paragraph of **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)** does not prohibit the inventor or a joint inventor from
+ changing what inventor or a joint inventor regards as the invention during the pendency
+ of the application. *In re**Saunders,* 444 F.2d 599, 170 USPQ 213 (CCPA 1971) (permitting claims
+ and submission of comparative evidence with respect to claimed subject matter which
+ originally was only the preferred embodiment within much broader claims (directed to a
+ method)). The fact that claims in a continuation application were directed to originally
+ disclosed subject matter which had not been regarded as part of the invention when the
+ parent application was filed was held not to prevent the continuation application from
+ receiving benefits of the filing date of the parent application under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**.
+ *In re**Brower,* 433 F.2d 813, 167 USPQ 684 (CCPA 1970).
+ 
+
+
+
+# 2172.01 Unclaimed Essential Matter [R-10.2019]
+
+
+This section pertains to guidance for determining
+ whether to make a rejection under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, as failing to claim the subject matter that
+ the inventor or a joint inventor (or, for applications subject to **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, the applicant) regards as his or her invention.
+ 
+
+
+Depending on the specific facts at issue, a claim which omits matter
+ disclosed to be essential to the invention as described in the specification or in other
+ statements of record may be rejected under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as not enabling (see, e.g., *In re
+ Mayhew,* 527 F.2d 1229, 188 USPQ 356 (CCPA 1976)); under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, as lacking an adequate written description (see, e.g., *Gentry
+ Gallery, Inc. v. Berkline Corp.,* 134 F.3d 1473, 45 USPQ2d 1498 (Fed. Cir.
+ 1998)); under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, as indefinite (see, e.g., *In re
+ Venezia,* 530 F.2d 956, 189 USPQ 149 (CCPA 1976)); or under
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph, as failing to claim the subject matter that the inventor or a joint inventor
+ (or, for applications subject to **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, the
+ applicant) regards as the invention (see, e.g., *In re Collier,* 397
+ F.2d 1003, 158 USPQ 266 (CCPA 1968)). Such essential matter may include missing
+ elements, steps or necessary structural cooperative relationships of elements described
+ by the applicant(s) as necessary to practice the invention.
+ 
+
+
+If a claim omits matter that appears to be necessary to
+ adequately describe the invention, or to make and use the invention, follow the guidance
+ set forth in **[MPEP §
+ 2163](s2163.html#d0e213583)***et seq.* (especially **[§ 2163](s2163.html#d0e213583)**, subsection I, and
+ **[§
+ 2163.05](s2163.html#d0e214820)**) and **[MPEP § 2164](s2164.html#d0e215224)** *et seq.*
+ (especially **[§
+ 2164.08(c)](s2164.html#d0e216899)**), respectively, to determine whether a rejection
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, based on an inadequate written description and/or lack of enablement should
+ be made.
+ 
+
+
+If a claim fails to interrelate essential elements of the invention as
+ defined by applicant(s) in the specification, the claim may be rejected under
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph, as indefinite. See *In re Venezia,* 530 F.2d 956, 189 USPQ
+ 149 (CCPA 1976). But see *Ex parte Nolden,* 149 USPQ 378, 380 (Bd. Pat.
+ App. & Inter. 1965) ("[I]t is not essential to a patentable combination that there
+ be interdependency between the elements of the claimed device or that all the elements
+ operate concurrently toward the desired result"); *Ex parte Huber,* 148
+ USPQ 447, 448-49 (Bd. Pat. App. & Inter. 1965) (A claim does not necessarily fail to
+ comply with **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph where the various elements do not function
+ simultaneously, are not directly functionally related, do not directly intercooperate,
+ and/or serve independent purposes.). See **[MPEP § 2172](s2172.html#d0e217446)** for guidance in determining
+ whether a rejection based on indefiniteness would be appropriate. 
+ 
+
+
+Rejections under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** (or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph) for failing to claim the subject matter that the inventor or a joint inventor
+ regards as the invention based on the omission of essential matter must explain the
+ basis for concluding that the inventor regards the omitted matter to be essential to the
+ invention. See, e.g., *Ex parte Robertson,* Appeal 2016-001938, op. at
+ 4 (PTAB 2017)(Rejection reversed because examiner failed to identify where in the
+ specification the unclaimed elements were described as essential. Board noted that
+ summary of the invention in the specification did not include features alleged by
+ examiner to be essential.); *Ex parte Mehta,* Appeal No. 2000-0160, op.
+ at 5-6 (Bd. Pat. App. & Inter. 2002)(Claims that did not require an inert coating
+ failed to comply with the second paragraph of 35 U.S.C. 112 because "it is clear from
+ Appellant’s brief that Appellant regards his invention as including the inert coating.
+ Absent an inert electrically conducting coating, there is nothing to protect the exposed
+ metal surfaces from damaging interactions with chemicals that lead to the problem of
+ exploding vias as argued by Appellant."). Features described as preferred or
+ illustrative in the specification are not critical or essential. See, e.g., *In
+ re Goffe,* 542 F.2d 564, 191 USPQ 429 (CCPA 1976)("In determining whether an
+ unclaimed feature is critical, the entire disclosure must be considered. Broad language
+ in the disclosure (including the abstract) omitting an allegedly critical feature tends
+ to rebut the argument of criticality … [and] features that are merely preferred are not
+ critical." *Id.* at 567, 191 USPQ at 431 (citations omitted).). 
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2172.01 Unclaimed Essential Matter [R-10.2019]
+
+
+This section pertains to guidance for determining
+ whether to make a rejection under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, as failing to claim the subject matter that
+ the inventor or a joint inventor (or, for applications subject to **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, the applicant) regards as his or her invention.
+ 
+
+
+Depending on the specific facts at issue, a claim which omits matter
+ disclosed to be essential to the invention as described in the specification or in other
+ statements of record may be rejected under **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph, as not enabling (see, e.g., *In re
+ Mayhew,* 527 F.2d 1229, 188 USPQ 356 (CCPA 1976)); under **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, as lacking an adequate written description (see, e.g., *Gentry
+ Gallery, Inc. v. Berkline Corp.,* 134 F.3d 1473, 45 USPQ2d 1498 (Fed. Cir.
+ 1998)); under **[35 U.S.C. 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph, as indefinite (see, e.g., *In re
+ Venezia,* 530 F.2d 956, 189 USPQ 149 (CCPA 1976)); or under
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph, as failing to claim the subject matter that the inventor or a joint inventor
+ (or, for applications subject to **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, the
+ applicant) regards as the invention (see, e.g., *In re Collier,* 397
+ F.2d 1003, 158 USPQ 266 (CCPA 1968)). Such essential matter may include missing
+ elements, steps or necessary structural cooperative relationships of elements described
+ by the applicant(s) as necessary to practice the invention.
+ 
+
+
+If a claim omits matter that appears to be necessary to
+ adequately describe the invention, or to make and use the invention, follow the guidance
+ set forth in **[MPEP §
+ 2163](s2163.html#d0e213583)***et seq.* (especially **[§ 2163](s2163.html#d0e213583)**, subsection I, and
+ **[§
+ 2163.05](s2163.html#d0e214820)**) and **[MPEP § 2164](s2164.html#d0e215224)** *et seq.*
+ (especially **[§
+ 2164.08(c)](s2164.html#d0e216899)**), respectively, to determine whether a rejection
+ under **[35
+ U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, first
+ paragraph, based on an inadequate written description and/or lack of enablement should
+ be made.
+ 
+
+
+If a claim fails to interrelate essential elements of the invention as
+ defined by applicant(s) in the specification, the claim may be rejected under
+ **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph, as indefinite. See *In re Venezia,* 530 F.2d 956, 189 USPQ
+ 149 (CCPA 1976). But see *Ex parte Nolden,* 149 USPQ 378, 380 (Bd. Pat.
+ App. & Inter. 1965) ("[I]t is not essential to a patentable combination that there
+ be interdependency between the elements of the claimed device or that all the elements
+ operate concurrently toward the desired result"); *Ex parte Huber,* 148
+ USPQ 447, 448-49 (Bd. Pat. App. & Inter. 1965) (A claim does not necessarily fail to
+ comply with **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, second paragraph where the various elements do not function
+ simultaneously, are not directly functionally related, do not directly intercooperate,
+ and/or serve independent purposes.). See **[MPEP § 2172](s2172.html#d0e217446)** for guidance in determining
+ whether a rejection based on indefiniteness would be appropriate. 
+ 
+
+
+Rejections under **[35 U.S.C.
+ 112(b)](mpep-9015-appx-l.html#al_d1d85b_2ae65_215)** (or **[pre-AIA 35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)**, second
+ paragraph) for failing to claim the subject matter that the inventor or a joint inventor
+ regards as the invention based on the omission of essential matter must explain the
+ basis for concluding that the inventor regards the omitted matter to be essential to the
+ invention. See, e.g., *Ex parte Robertson,* Appeal 2016-001938, op. at
+ 4 (PTAB 2017)(Rejection reversed because examiner failed to identify where in the
+ specification the unclaimed elements were described as essential. Board noted that
+ summary of the invention in the specification did not include features alleged by
+ examiner to be essential.); *Ex parte Mehta,* Appeal No. 2000-0160, op.
+ at 5-6 (Bd. Pat. App. & Inter. 2002)(Claims that did not require an inert coating
+ failed to comply with the second paragraph of 35 U.S.C. 112 because "it is clear from
+ Appellant’s brief that Appellant regards his invention as including the inert coating.
+ Absent an inert electrically conducting coating, there is nothing to protect the exposed
+ metal surfaces from damaging interactions with chemicals that lead to the problem of
+ exploding vias as argued by Appellant."). Features described as preferred or
+ illustrative in the specification are not critical or essential. See, e.g., *In
+ re Goffe,* 542 F.2d 564, 191 USPQ 429 (CCPA 1976)("In determining whether an
+ unclaimed feature is critical, the entire disclosure must be considered. Broad language
+ in the disclosure (including the abstract) omitting an allegedly critical feature tends
+ to rebut the argument of criticality … [and] features that are merely preferred are not
+ critical." *Id.* at 567, 191 USPQ at 431 (citations omitted).). 
+ 
+
+
+]

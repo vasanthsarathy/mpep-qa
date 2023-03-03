@@ -1,0 +1,60 @@
+[
+# 2123 Rejection Over Prior Art’s Broad Disclosure Instead of Preferred
+ Embodiments [R-08.2012]
+
+**I.** **PATENTS ARE RELEVANT AS PRIOR ART FOR ALL THEY CONTAIN**"The use of patents as references is not limited to what the patentees
+ describe as their own inventions or to the problems with which they are concerned. They
+ are part of the literature of the art, relevant for all they contain." *In re
+ Heck,* 699 F.2d 1331, 1332-33, 216 USPQ 1038, 1039 (Fed. Cir. 1983) (quoting
+  *In re Lemelson,* 397 F.2d 1006, 1009, 158 USPQ 275, 277 (CCPA
+ 1968)). 
+ 
+
+
+A reference may be relied upon for all that it would have reasonably
+ suggested to one having ordinary skill the art, including nonpreferred embodiments.
+ *Merck & Co. v.**Biocraft Laboratories,* 874 F.2d 804, 10 USPQ2d 1843 (Fed. Cir.),
+ *cert. denied,* 493 U.S. 975 (1989). See also *Upsher-Smith
+ Labs. v. Pamlab, LLC,* 412 F.3d 1319, 1323, 75 USPQ2d 1213, 1215 (Fed. Cir.
+ 2005) (reference disclosing optional inclusion of a particular component teaches
+ compositions that both do and do not contain that component); *Celeritas
+ Technologies Ltd. v. Rockwell International Corp.,* 150 F.3d 1354, 1361, 47
+ USPQ2d 1516, 1522-23 (Fed. Cir. 1998) (The court held that the prior art anticipated the
+ claims even though it taught away from the claimed invention. "The fact that a modem
+ with a single carrier data signal is shown to be less than optimal does not vitiate the
+ fact that it is disclosed.").
+ 
+
+
+See also **[MPEP § 2131.05](s2131.html#d0e203351)** and **[§ 2145](s2145.html#d0e212553)**, subsection X.D., which discuss
+ prior art that teaches away from the claimed invention in the context of anticipation
+ and obviousness, respectively.
+ 
+
+**II.** **NONPREFERRED AND ALTERNATIVE EMBODIMENTS CONSTITUTE PRIOR ART**Disclosed examples and preferred embodiments do not constitute a
+ teaching away from a broader disclosure or nonpreferred embodiments. *In re
+ Susi,* 440 F.2d 442, 169 USPQ 423 (CCPA 1971). "A known or obvious
+ composition does not become patentable simply because it has been described as somewhat
+ inferior to some other product for the same use." *In re Gurley,* 27
+ F.3d 551, 554, 31 USPQ2d 1130, 1132 (Fed. Cir. 1994) (The invention was directed to an
+ epoxy impregnated fiber-reinforced printed circuit material. The applied prior art
+ reference taught a printed circuit material similar to that of the claims but
+ impregnated with polyester-imide resin instead of epoxy. The reference, however,
+ disclosed that epoxy was known for this use, but that epoxy impregnated circuit boards
+ have "relatively acceptable dimensional stability" and "some degree of flexibility," but
+ are inferior to circuit boards impregnated with polyester-imide resins. The court upheld
+ the rejection concluding that applicant’s argument that the reference teaches away from
+ using epoxy was insufficient to overcome the rejection since "Gurley asserted no
+ discovery beyond what was known in the art." *Id.* at 554, 31 USPQ2d at
+ 1132.). Furthermore, "[t]he prior art’s mere disclosure of more than one alternative
+ does not constitute a teaching away from any of these alternatives because such
+ disclosure does not criticize, discredit, or otherwise discourage the solution
+ claimed…." *In re Fulton,* 391 F.3d 1195, 1201, 73 USPQ2d 1141, 1146
+ (Fed. Cir. 2004).
+ 
+
+
+[[top]](#top)
+
+
+]

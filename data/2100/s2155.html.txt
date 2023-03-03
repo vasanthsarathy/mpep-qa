@@ -1,0 +1,647 @@
+[
+# 2155 Use of Affidavits or Declarations Under 37 CFR 1.130
+ To Overcome Prior Art Rejections [R-07.2015]
+
+
+ *[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP § 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for
+ examination of applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]* 
+
+
+
+#### *37 CFR 1.130 Affidavit or declaration of attribution or prior public disclosure under the
+ Leahy-Smith America Invents Act.*
+
+
+* (a) *Affidavit or declaration of attribution*. When any claim of an
+ application or a patent under reexamination is rejected, the applicant or patent
+ owner may submit an appropriate affidavit or declaration to disqualify a
+ disclosure as prior art by establishing that the disclosure was made by the
+ inventor or a joint inventor, or the subject matter disclosed was obtained
+ directly or indirectly from the inventor or a joint inventor.
+* (b) *Affidavit or declaration of prior public disclosure*. When any
+ claim of an application or a patent under reexamination is rejected, the applicant
+ or patent owner may submit an appropriate affidavit or declaration to disqualify a
+ disclosure as prior art by establishing that the subject matter disclosed had,
+ before such disclosure was made or before such subject matter was effectively
+ filed, been publicly disclosed by the inventor or a joint inventor or another who
+ obtained the subject matter disclosed directly or indirectly from the inventor or
+ a joint inventor. An affidavit or declaration under this paragraph must identify
+ the subject matter publicly disclosed and provide the date such subject matter was
+ publicly disclosed by the inventor or a joint inventor or another who obtained the
+ subject matter disclosed directly or indirectly from the inventor or a joint
+ inventor.
+	+ (1) If the subject matter publicly disclosed on
+	 that date was in a printed publication, the affidavit or declaration must be
+	 accompanied by a copy of the printed publication.
+	+ (2) If the subject matter publicly disclosed on
+	 that date was not in a printed publication, the affidavit or declaration
+	 must describe the subject matter with sufficient detail and particularity to
+	 determine what subject matter had been publicly disclosed on that date by
+	 the inventor or a joint inventor or another who obtained the subject matter
+	 disclosed directly or indirectly from the inventor or a joint inventor.
+* (c) *When this section is not available*. The provisions of this
+ section are not available if the rejection is based upon a disclosure made more
+ than one year before the effective filing date of the claimed invention. The
+ provisions of this section may not be available if the rejection is based upon a
+ U.S. patent or U.S. patent application publication of a patented or pending
+ application naming another inventor, the patent or pending application claims an
+ invention that is the same or substantially the same as the applicant's or patent
+ owner's claimed invention, and the affidavit or declaration contends that an
+ inventor named in the U.S. patent or U.S. patent application publication derived
+ the claimed invention from the inventor or a joint inventor named in the
+ application or patent, in which case an applicant or a patent owner may file a
+ petition for a derivation proceeding pursuant to **[§
+ 42.401](mpep-9020-appx-r.html#ar_d1fd69_16c42_18a)***et seq.* of this title.
+* (d) *Applications and patents to which this section is applicable*.
+ The provisions of this section apply to any application for patent, and to any
+ patent issuing thereon, that contains, or contained at any time:
+	+ (1) A claim to a claimed invention that has an
+	 effective filing date as defined in **[§ 1.109](mpep-9020-appx-r.html#d0e322413)** that is on or
+	 after March 16, 2013; or
+	+ (2) A specific reference under **[35 U.S.C.
+	 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to any patent or
+	 application that contains, or contained at any time, a claim to a claimed
+	 invention that has an effective filing date as defined in **[§
+	 1.109](mpep-9020-appx-r.html#d0e322413)** that is on or after March 16, 2013.
+
+
+
+The Office has provided a mechanism in **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** for
+ filing an affidavit or declaration to establish that a disclosure is not prior art under
+ **[AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** due to an exception in **[AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#al_d1d85b_11e7d_156)**. Under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)**, an affidavit or
+ declaration of attribution may be submitted to disqualify a disclosure as prior art because
+ it was made by the inventor or a joint inventor, or the subject matter disclosed was
+ obtained directly or indirectly from the inventor or a joint inventor. Under
+ **[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)**, an affidavit or declaration of prior public disclosure may
+ be submitted to disqualify an intervening disclosure as prior art if the subject matter
+ disclosed had, before such disclosure was made or before such subject matter was
+ effectively filed in a U.S. patent, U.S. patent application publication, or WIPO published
+ application, been publicly disclosed by the inventor or a joint inventor or another who
+ obtained the subject matter disclosed directly or indirectly from the inventor or a joint
+ inventor.
+ 
+
+
+
+# 2155.01 Showing That the Disclosure Was Made by the
+ Inventor or a Joint Inventor [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides that a grace period disclosure shall
+ not be prior art to a claimed invention under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if the disclosure was made by the inventor or a joint
+ inventor. An applicant may show that a disclosure was made by the inventor or a joint
+ inventor by way of an affidavit or declaration under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** (an affidavit or
+ declaration of attribution). See *In re Katz,* 687 F.2d 450, 455, 215
+ USPQ 14, 18 (CCPA 1982) and **[MPEP § 718](s718.html#d0e93900)**. Where the authorship of the
+ prior art disclosure includes the inventor or a joint inventor named in the application,
+ an "unequivocal" statement from the inventor or a joint inventor that the inventor or
+ joint inventor (or some specific combination of named inventors) invented the subject
+ matter of the disclosure, accompanied by a reasonable explanation of the presence of
+ additional authors, may be acceptable in the absence of evidence to the contrary. See
+ *In re DeBaun,* 687 F.2d 459, 463, 214 USPQ 933, 936 (CCPA 1982).
+ However, an affidavit or declaration under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that is only a naked
+ assertion of inventorship and that fails to provide any context, explanation or evidence
+ to support that assertion is insufficient to show that the relied-upon subject matter
+ was the inventor’s own work. See *EmeraChem Holdings, LLC v. Volkswagen Grp. of
+ Am., Inc.,* 859 F.3d 1341, 123 USPQ2d 1146 (Fed. Cir. 2017) (finding that a
+ declaration submitted by inventor Campbell insufficient to establish that he and Guth
+ (now deceased) were inventors of the subject matter disclosed in a patent naming
+ Campbell, Guth, Danziger, and Padron because "[n]othing in the declaration itself, or in
+ addition to the declaration, provides any context, explanation, or evidence to lend
+ credence to the inventor's bare assertion" and more than twenty years had passed since
+ the alleged events occurred. *Id.* at 1345; 123 USPQ2d at 1149.). See
+ also *Ex parte Kroger,* 219 USPQ 370 (Bd. App. 1982) (affirming
+ rejection notwithstanding declarations by the alleged actual inventors as to their
+ inventorship in view of a nonapplicant author submitting a letter declaring the
+ nonapplicant author's inventorship). This is similar to the current process for
+ disqualifying a publication as not being by "others" discussed in **[MPEP § 2132.01](s2132.html#d0e203530)**,
+ except that **[AIA 35 U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** requires only that the disclosure be
+ by the inventor or a joint inventor.
+ 
+
+
+
+
+# 2155.02 Showing That the Subject Matter Disclosed Had
+ Been Previously Publicly Disclosed by the Inventor or a Joint Inventor [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** provides that a grace period disclosure shall
+ not be prior art to a claimed invention under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if subject matter disclosed had, before such disclosure,
+ been publicly disclosed by the inventor or a joint inventor. Similarly,
+ **[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides that a disclosure shall not be prior
+ art to a claimed invention under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if the
+ subject matter disclosed had, before such subject matter was effectively filed under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, been publicly disclosed by the inventor or a
+ joint inventor. An applicant may show that the subject matter disclosed had been
+ publicly disclosed by the inventor or a joint inventor before the disclosure or
+ effective filing date of the subject matter on which the rejection was based by way of
+ an affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)** (an affidavit or
+ declaration of prior public disclosure). Specifically, the affidavit or declaration must
+ identify the subject matter publicly disclosed and establish the date and content of
+ their earlier public disclosure. If the earlier public disclosure is a printed
+ publication, the affidavit or declaration must be accompanied by a copy of the printed
+ publication in accordance with**[37 CFR 1.130(b)(1)](mpep-9020-appx-r.html#ar_d1fc99_280b3_345)**. If the earlier
+ disclosure is not a printed publication, the affidavit or declaration must describe the
+ earlier disclosure with sufficient detail and particularity to determine that the
+ earlier disclosure is a public disclosure of the subject matter, as required by
+ **[37 CFR
+ 1.130(b)(2)](mpep-9020-appx-r.html#ar_d1fc99_28122_1d7)**.
+ 
+
+
+The manner of disclosure of subject matter referenced in
+ an affidavit or declaration under **[37 CFR 1.130(b)(2)](mpep-9020-appx-r.html#ar_d1fc99_28122_1d7)** is not critical.
+ Just as the prior art provision of **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** encompasses
+ any disclosure that renders a claimed invention "available to the public," any manner of
+ disclosure may be evidenced in an affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**.
+ That is, when using an affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)** to
+ disqualify an intervening disclosure as prior art based on a prior public disclosure by
+ an inventor or a joint inventor, it is not necessary for the subject matter to have been
+ disclosed in the same manner or using the same words. For example, the inventor or a
+ joint inventor may have publicly disclosed the subject matter in question via a slide
+ presentation at a scientific meeting, while the intervening disclosure of the subject
+ matter may have been made in a journal article. This difference in the manner of
+ disclosure or differences in the words used to describe the subject matter will not
+ preclude the inventor from submitting an affidavit or declaration under
+ **[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)** to disqualify the intervening disclosure (e.g., a journal
+ article) as prior art.
+ 
+
+
+
+
+# 2155.03 Showing That the Disclosure was Made, or That
+ Subject Matter had Been Previously Publicly Disclosed, by Another Who Obtained the
+ Subject Matter Disclosed Directly or Indirectly From the Inventor or a Joint
+ Inventor [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)**, **[102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**, **[102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)**, and **[102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** each provide similar
+ treatment for disclosures of subject matter by another who obtained the subject matter
+ disclosed directly or indirectly from the inventor or a joint inventor. Specifically,
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides that a grace period disclosure shall
+ not be prior art to a claimed invention under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if the disclosure was made by another who obtained the
+ subject matter disclosed directly or indirectly from the inventor or a joint inventor,
+ and **[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides that a disclosure shall not be prior
+ art to a claimed invention under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if the
+ subject matter disclosed was obtained directly or indirectly from the inventor or a
+ joint inventor.
+ 
+
+
+In addition, **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** and **[102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** respectively provide
+ that a grace period disclosure under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, and that a
+ disclosure under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** shall not be
+ prior art to a claimed invention, if the subject matter disclosed had, before such grace
+ disclosure was made or before such subject matter was effectively filed according to
+ **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, been publicly disclosed by another who obtained the
+ subject matter disclosed directly or indirectly from the inventor or a joint inventor.
+ An applicant may also show that another obtained the subject matter disclosed directly
+ or indirectly from the inventor or a joint inventor in an affidavit or declaration under
+ **[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)** or **[(b)](mpep-9020-appx-r.html#d0e323497)**. Thus, an applicant may
+ establish a prior public disclosure by another during the grace period if the applicant
+ can establish that subject matter disclosed originated with the inventor or a joint
+ inventor and that the subject matter was communicated by the inventor or a joint
+ inventor, directly or indirectly. Any documentation which provides evidence of the
+ communication of the subject matter by the inventor or a joint inventor to the entity
+ that made the disclosure of the subject matter directly or indirectly, such as by an
+ assignee of the inventor, should accompany the affidavit or declaration.
+ 
+
+
+
+
+# 2155.04 Enablement [R-11.2013]
+
+
+*[Editor Note: This MPEP section is only applicable to applications subject to
+ examination under the first inventor to file (FITF) provisions of the AIA as set
+ forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject
+ to examination under the FITF provisions, and **[MPEP § 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for
+ examination of applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+An affidavit or declaration under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** or
+ **[(b)](mpep-9020-appx-r.html#d0e323497)** need not demonstrate that the disclosure by the inventor, a
+ joint inventor, or another who obtained the subject matter disclosed directly or
+ indirectly from an inventor or a joint inventor was an "enabling" disclosure of the
+ subject matter within the meaning of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. Rather, an
+ affidavit or declaration under **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** must show that: (1) the
+ disclosure in question was made by the inventor or a joint inventor, or the subject
+ matter disclosed was obtained directly or indirectly from the inventor or a joint
+ inventor (**[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)**); or (2) the subject matter disclosed had, before such
+ disclosure was made or before such subject matter was effectively filed, been publicly
+ disclosed by the inventor or a joint inventor or another who obtained the subject matter
+ disclosed directly or indirectly from the inventor or a joint inventor
+ (**[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)**). 
+ 
+
+
+
+
+# 2155.05 Who May File an Affidavit or Declaration Under 37
+ CFR 1.130 [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+In accordance with **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)**, the applicant or
+ patent owner may submit an affidavit or declaration. When an assignee, obligated
+ assignee, or person showing sufficient proprietary interest is the applicant under
+ **[35 U.S.C.
+ 118](mpep-9015-appx-l.html#d0e302910912)** rather than the inventor, the inventor may sign an affidavit
+ or declaration under **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** to disqualify a disclosure of the invention as prior
+ art, but the declaration must be filed by a party having authority to take action in the
+ application. Authority to file papers in an application generally does not lie with the
+ inventor if the inventor is not the applicant.
+ 
+
+
+
+
+# 2155.06 Situations in Which an Affidavit or Declaration
+ Is Not Available [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+The provisions of **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** are not available if
+ the rejection is based upon a disclosure made more than one year before the effective
+ filing date of the claimed invention. A disclosure made more than one year before the
+ effective filing date of a claimed invention is prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** that cannot be excepted as prior art under
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**.
+ 
+
+
+Additionally, the provisions of **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** may
+ not be available if the rejection is based upon a U.S. patent or U.S. patent application
+ publication naming another inventor if: (1) the patent or pending application claims an
+ invention that is the same or substantially the same as the applicant's or patent
+ owner's claimed invention; and (2) the affidavit or declaration contends that an
+ inventor named in the U.S. patent or U.S. patent application publication derived the
+ claimed invention from the inventor or a joint inventor named in the application or
+ patent. The provisions of **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** are not available if it
+ would result in the Office issuing or confirming two patents containing patentably
+ indistinct claims to two different parties. See *In re Deckler,* 977
+ F.2d 1449, 1451-52, 24 USPQ2d 1448, 1449 (Fed. Cir. 1992) (**[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, and **[135](mpep-9015-appx-l.html#al_d1fbe1_19834_19b)**
+ "clearly contemplate—where different inventive entities are concerned—only one patent
+ should issue for inventions which are either identical to or not patentably distinct
+ from each other") (quoting *Aelony v. Arni,* 547 F.2d 566, 570, 192
+ USPQ 486, 490 (CCPA 1977)). In this situation, an applicant or patent owner may file a
+ petition for a derivation proceeding pursuant to **[37 CFR
+ 42.401](mpep-9020-appx-r.html#ar_d1fd69_16c42_18a)** *et seq.* (**[37 CFR 1.130(c)](mpep-9020-appx-r.html#ar_d1fc99_281d7_1f)**).
+ 
+
+
+
+[[top]](#top)
+
+
+, 
+# 2155.01 Showing That the Disclosure Was Made by the
+ Inventor or a Joint Inventor [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides that a grace period disclosure shall
+ not be prior art to a claimed invention under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if the disclosure was made by the inventor or a joint
+ inventor. An applicant may show that a disclosure was made by the inventor or a joint
+ inventor by way of an affidavit or declaration under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** (an affidavit or
+ declaration of attribution). See *In re Katz,* 687 F.2d 450, 455, 215
+ USPQ 14, 18 (CCPA 1982) and **[MPEP § 718](s718.html#d0e93900)**. Where the authorship of the
+ prior art disclosure includes the inventor or a joint inventor named in the application,
+ an "unequivocal" statement from the inventor or a joint inventor that the inventor or
+ joint inventor (or some specific combination of named inventors) invented the subject
+ matter of the disclosure, accompanied by a reasonable explanation of the presence of
+ additional authors, may be acceptable in the absence of evidence to the contrary. See
+ *In re DeBaun,* 687 F.2d 459, 463, 214 USPQ 933, 936 (CCPA 1982).
+ However, an affidavit or declaration under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that is only a naked
+ assertion of inventorship and that fails to provide any context, explanation or evidence
+ to support that assertion is insufficient to show that the relied-upon subject matter
+ was the inventor’s own work. See *EmeraChem Holdings, LLC v. Volkswagen Grp. of
+ Am., Inc.,* 859 F.3d 1341, 123 USPQ2d 1146 (Fed. Cir. 2017) (finding that a
+ declaration submitted by inventor Campbell insufficient to establish that he and Guth
+ (now deceased) were inventors of the subject matter disclosed in a patent naming
+ Campbell, Guth, Danziger, and Padron because "[n]othing in the declaration itself, or in
+ addition to the declaration, provides any context, explanation, or evidence to lend
+ credence to the inventor's bare assertion" and more than twenty years had passed since
+ the alleged events occurred. *Id.* at 1345; 123 USPQ2d at 1149.). See
+ also *Ex parte Kroger,* 219 USPQ 370 (Bd. App. 1982) (affirming
+ rejection notwithstanding declarations by the alleged actual inventors as to their
+ inventorship in view of a nonapplicant author submitting a letter declaring the
+ nonapplicant author's inventorship). This is similar to the current process for
+ disqualifying a publication as not being by "others" discussed in **[MPEP § 2132.01](s2132.html#d0e203530)**,
+ except that **[AIA 35 U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** requires only that the disclosure be
+ by the inventor or a joint inventor.
+ 
+
+
+, 
+# 2155.02 Showing That the Subject Matter Disclosed Had
+ Been Previously Publicly Disclosed by the Inventor or a Joint Inventor [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** provides that a grace period disclosure shall
+ not be prior art to a claimed invention under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if subject matter disclosed had, before such disclosure,
+ been publicly disclosed by the inventor or a joint inventor. Similarly,
+ **[AIA 35
+ U.S.C. 102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provides that a disclosure shall not be prior
+ art to a claimed invention under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if the
+ subject matter disclosed had, before such subject matter was effectively filed under
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, been publicly disclosed by the inventor or a
+ joint inventor. An applicant may show that the subject matter disclosed had been
+ publicly disclosed by the inventor or a joint inventor before the disclosure or
+ effective filing date of the subject matter on which the rejection was based by way of
+ an affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)** (an affidavit or
+ declaration of prior public disclosure). Specifically, the affidavit or declaration must
+ identify the subject matter publicly disclosed and establish the date and content of
+ their earlier public disclosure. If the earlier public disclosure is a printed
+ publication, the affidavit or declaration must be accompanied by a copy of the printed
+ publication in accordance with**[37 CFR 1.130(b)(1)](mpep-9020-appx-r.html#ar_d1fc99_280b3_345)**. If the earlier
+ disclosure is not a printed publication, the affidavit or declaration must describe the
+ earlier disclosure with sufficient detail and particularity to determine that the
+ earlier disclosure is a public disclosure of the subject matter, as required by
+ **[37 CFR
+ 1.130(b)(2)](mpep-9020-appx-r.html#ar_d1fc99_28122_1d7)**.
+ 
+
+
+The manner of disclosure of subject matter referenced in
+ an affidavit or declaration under **[37 CFR 1.130(b)(2)](mpep-9020-appx-r.html#ar_d1fc99_28122_1d7)** is not critical.
+ Just as the prior art provision of **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** encompasses
+ any disclosure that renders a claimed invention "available to the public," any manner of
+ disclosure may be evidenced in an affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)**.
+ That is, when using an affidavit or declaration under **[37 CFR 1.130(b)](mpep-9020-appx-r.html#d0e323497)** to
+ disqualify an intervening disclosure as prior art based on a prior public disclosure by
+ an inventor or a joint inventor, it is not necessary for the subject matter to have been
+ disclosed in the same manner or using the same words. For example, the inventor or a
+ joint inventor may have publicly disclosed the subject matter in question via a slide
+ presentation at a scientific meeting, while the intervening disclosure of the subject
+ matter may have been made in a journal article. This difference in the manner of
+ disclosure or differences in the words used to describe the subject matter will not
+ preclude the inventor from submitting an affidavit or declaration under
+ **[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)** to disqualify the intervening disclosure (e.g., a journal
+ article) as prior art.
+ 
+
+
+, 
+# 2155.03 Showing That the Disclosure was Made, or That
+ Subject Matter had Been Previously Publicly Disclosed, by Another Who Obtained the
+ Subject Matter Disclosed Directly or Indirectly From the Inventor or a Joint
+ Inventor [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+**[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)**, **[102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)**, **[102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)**, and **[102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** each provide similar
+ treatment for disclosures of subject matter by another who obtained the subject matter
+ disclosed directly or indirectly from the inventor or a joint inventor. Specifically,
+ **[AIA 35
+ U.S.C. 102(b)(1)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_17f)** provides that a grace period disclosure shall
+ not be prior art to a claimed invention under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** if the disclosure was made by another who obtained the
+ subject matter disclosed directly or indirectly from the inventor or a joint inventor,
+ and **[AIA 35
+ U.S.C. 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** provides that a disclosure shall not be prior
+ art to a claimed invention under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if the
+ subject matter disclosed was obtained directly or indirectly from the inventor or a
+ joint inventor.
+ 
+
+
+In addition, **[AIA 35 U.S.C.
+ 102(b)(1)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_18d)** and **[102(b)(2)(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** respectively provide
+ that a grace period disclosure under **[AIA 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, and that a
+ disclosure under **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** shall not be
+ prior art to a claimed invention, if the subject matter disclosed had, before such grace
+ disclosure was made or before such subject matter was effectively filed according to
+ **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, been publicly disclosed by another who obtained the
+ subject matter disclosed directly or indirectly from the inventor or a joint inventor.
+ An applicant may also show that another obtained the subject matter disclosed directly
+ or indirectly from the inventor or a joint inventor in an affidavit or declaration under
+ **[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)** or **[(b)](mpep-9020-appx-r.html#d0e323497)**. Thus, an applicant may
+ establish a prior public disclosure by another during the grace period if the applicant
+ can establish that subject matter disclosed originated with the inventor or a joint
+ inventor and that the subject matter was communicated by the inventor or a joint
+ inventor, directly or indirectly. Any documentation which provides evidence of the
+ communication of the subject matter by the inventor or a joint inventor to the entity
+ that made the disclosure of the subject matter directly or indirectly, such as by an
+ assignee of the inventor, should accompany the affidavit or declaration.
+ 
+
+
+, 
+# 2155.04 Enablement [R-11.2013]
+
+
+*[Editor Note: This MPEP section is only applicable to applications subject to
+ examination under the first inventor to file (FITF) provisions of the AIA as set
+ forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject
+ to examination under the FITF provisions, and **[MPEP § 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for
+ examination of applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+An affidavit or declaration under **[37 CFR 1.130(a)](mpep-9020-appx-r.html#d0e323473)** or
+ **[(b)](mpep-9020-appx-r.html#d0e323497)** need not demonstrate that the disclosure by the inventor, a
+ joint inventor, or another who obtained the subject matter disclosed directly or
+ indirectly from an inventor or a joint inventor was an "enabling" disclosure of the
+ subject matter within the meaning of **[35 U.S.C. 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. Rather, an
+ affidavit or declaration under **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** must show that: (1) the
+ disclosure in question was made by the inventor or a joint inventor, or the subject
+ matter disclosed was obtained directly or indirectly from the inventor or a joint
+ inventor (**[37 CFR
+ 1.130(a)](mpep-9020-appx-r.html#d0e323473)**); or (2) the subject matter disclosed had, before such
+ disclosure was made or before such subject matter was effectively filed, been publicly
+ disclosed by the inventor or a joint inventor or another who obtained the subject matter
+ disclosed directly or indirectly from the inventor or a joint inventor
+ (**[37 CFR
+ 1.130(b)](mpep-9020-appx-r.html#d0e323497)**). 
+ 
+
+
+, 
+# 2155.05 Who May File an Affidavit or Declaration Under 37
+ CFR 1.130 [R-11.2013]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+In accordance with **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)**, the applicant or
+ patent owner may submit an affidavit or declaration. When an assignee, obligated
+ assignee, or person showing sufficient proprietary interest is the applicant under
+ **[35 U.S.C.
+ 118](mpep-9015-appx-l.html#d0e302910912)** rather than the inventor, the inventor may sign an affidavit
+ or declaration under **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** to disqualify a disclosure of the invention as prior
+ art, but the declaration must be filed by a party having authority to take action in the
+ application. Authority to file papers in an application generally does not lie with the
+ inventor if the inventor is not the applicant.
+ 
+
+
+, 
+# 2155.06 Situations in Which an Affidavit or Declaration
+ Is Not Available [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA
+ as set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is
+ subject to examination under the FITF provisions, and **[MPEP §
+ 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for examination of
+ applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+The provisions of **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** are not available if
+ the rejection is based upon a disclosure made more than one year before the effective
+ filing date of the claimed invention. A disclosure made more than one year before the
+ effective filing date of a claimed invention is prior art under **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** that cannot be excepted as prior art under
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**.
+ 
+
+
+Additionally, the provisions of **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** may
+ not be available if the rejection is based upon a U.S. patent or U.S. patent application
+ publication naming another inventor if: (1) the patent or pending application claims an
+ invention that is the same or substantially the same as the applicant's or patent
+ owner's claimed invention; and (2) the affidavit or declaration contends that an
+ inventor named in the U.S. patent or U.S. patent application publication derived the
+ claimed invention from the inventor or a joint inventor named in the application or
+ patent. The provisions of **[37 CFR 1.130](mpep-9020-appx-r.html#d0e323465)** are not available if it
+ would result in the Office issuing or confirming two patents containing patentably
+ indistinct claims to two different parties. See *In re Deckler,* 977
+ F.2d 1449, 1451-52, 24 USPQ2d 1448, 1449 (Fed. Cir. 1992) (**[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**, and **[135](mpep-9015-appx-l.html#al_d1fbe1_19834_19b)**
+ "clearly contemplate—where different inventive entities are concerned—only one patent
+ should issue for inventions which are either identical to or not patentably distinct
+ from each other") (quoting *Aelony v. Arni,* 547 F.2d 566, 570, 192
+ USPQ 486, 490 (CCPA 1977)). In this situation, an applicant or patent owner may file a
+ petition for a derivation proceeding pursuant to **[37 CFR
+ 42.401](mpep-9020-appx-r.html#ar_d1fd69_16c42_18a)** *et seq.* (**[37 CFR 1.130(c)](mpep-9020-appx-r.html#ar_d1fc99_281d7_1f)**).
+ 
+
+
+]

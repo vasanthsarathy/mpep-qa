@@ -1,0 +1,324 @@
+[
+# 2151 Overview of the Changes to 35 U.S.C. 102 and 103 in
+ the AIA [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **only applicable** to applications
+ subject to examination under the first inventor to file (FITF) provisions of the AIA as
+ set forth in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)**. See **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)** et seq. to determine whether an application is subject to
+ examination under the FITF provisions, and **[MPEP § 2131](s2131.html#d0e202959)**-**[MPEP § 2138](s2138.html#d0e207005)** for
+ examination of applications subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**.]*
+
+
+After the AIA, **[35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** continues to set forth
+ the scope of prior art that will preclude the grant of a patent on a claimed invention, but
+ revises what qualifies as prior art. Specifically, **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** and **[(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** set forth what qualifies as
+ prior art. **[AIA
+ 35 U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** provides that a person is not entitled to a
+ patent if the claimed invention was patented, described in a printed publication, or in
+ public use, on sale, or otherwise available to the public before the effective filing date
+ of the claimed invention. **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** provides that a
+ person is not entitled to a patent if the claimed invention was described in a patent
+ issued under **[35 U.S.C.
+ 151](mpep-9015-appx-l.html#d0e303440)**, or in an application for patent published or deemed published
+ under **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303063)**, in which the patent or application, as the case may be, names
+ another inventor, and was effectively filed before the effective filing date of the claimed
+ invention. **[AIA
+ 35 U.S.C. 102(b)](mpep-9015-appx-l.html#al_d1d85b_11e7d_156)** sets forth exceptions to prior art established in
+ **[AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. Specifically, **[AIA 35 U.S.C.
+ 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)** sets forth exceptions to prior art established in
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, and **[AIA 35 U.S.C. 102(b)(2)](mpep-9015-appx-l.html#al_d1d85b_11e7d_19a)** sets forth
+ exceptions to prior art established in **[AIA 35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**.
+ 
+
+
+The AIA also provides definitions in **[35 U.S.C. 100](mpep-9015-appx-l.html#d0e302338313)** of
+ the meaning of the terms "claimed invention," "effective filing date," "inventor," and
+ "joint inventor" (or "coinventor"). The AIA defines the term "claimed invention" in
+ **[35 U.S.C.
+ 100(j)](mpep-9015-appx-l.html#al_d1d85b_11e22_345)** as the subject matter defined by a claim in a patent or an
+ application for a patent. The AIA defines the term "effective filing date" for a claimed
+ invention in a patent or application for patent (other than a reissue application or
+ reissued patent) in **[35 U.S.C. 100(i)(1)](mpep-9015-appx-l.html#al_d1d85b_11e1a_3b9)** as meaning the
+ earlier of: (1) The actual filing date of the patent or the application for the patent
+ containing the claimed invention; or (2) the filing date of the earliest provisional,
+ nonprovisional, international (PCT), or foreign patent application to which the patent or
+ application is entitled to benefit or priority as to such claimed invention. The AIA
+ defines the term "inventor" in **[35 U.S.C. 100(f)](mpep-9015-appx-l.html#d0e302367313)** as the individual or,
+ if a joint invention, the individuals collectively who invented or discovered the subject
+ matter of the invention, and in **[35 U.S.C. 100(g)](mpep-9015-appx-l.html#al_d1d85b_11e0c_133)** defines the term
+ "joint inventor" and "coinventor" to mean any one of the individuals who invented or
+ discovered the subject matter of a joint invention.
+ 
+
+
+As discussed previously, **[AIA 35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** provides that a person is not entitled to a patent if the
+ claimed invention was patented, described in a printed publication, or in public use, on
+ sale, or otherwise available to the public before the effective filing date of the claimed
+ invention. Under **[pre-AIA
+ 35 U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** and **[(b)](mpep-9015-appx-l.html#d0e302395)**, knowledge or use of the invention
+ (**[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302391)**), or public use or sale of the invention (**[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302395)**), was required to be in the United States to qualify as a
+ prior art activity. Under the AIA, a prior public use, sale activity, or other disclosure
+ has no geographic requirement (i.e., need not be in the United States) to qualify as prior
+ art.
+ 
+
+
+**[AIA 35 U.S.C.
+ 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)** provides that certain disclosures made one year or less
+ before the effective filing date of a claimed invention shall not be prior art under
+ **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** with respect to the claimed invention if: (1) The
+ disclosure was made by the inventor or joint inventor or by another who obtained the
+ subject matter disclosed directly or indirectly from the inventor or a joint inventor; or
+ (2) the subject matter disclosed had, before such disclosure, been publicly disclosed by
+ the inventor or a joint inventor or by another who obtained the subject matter disclosed
+ directly or indirectly from the inventor or a joint inventor. Thus, **[AIA 35 U.S.C.
+ 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)** effectively provides a one-year grace period (grace period)
+ after a first inventor-originated disclosure of an invention within which the inventor,
+ assignee, obligated assignee, or other party having sufficient interest may file a patent
+ application which is not subject to such disclosure and certain other disclosures as prior
+ art. The one-year grace period in **[AIA 35 U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)** is measured
+ from the filing date of the earliest U.S. or foreign patent application to which a proper
+ benefit or priority claim to such invention has been asserted in the patent or application
+ and the earlier application supports the claimed invention in the manner required by
+ **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. Under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302383)**, the one-year
+ grace period is measured from the filing date of the earliest application filed in the
+ United States (directly or through the PCT) and not from the dates of earlier filed foreign
+ patent applications.
+ 
+
+
+The date of invention is not relevant under
+ **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**. Thus, a prior art disclosure could not be disqualified or
+ antedated by showing that the inventor invented the claimed invention prior to the
+ effective date of the prior art disclosure of the subject matter (e.g., under the
+ provisions of **[37 CFR
+ 1.131](mpep-9020-appx-r.html#aia_d0e323504)**).
+ 
+
+
+As discussed previously, **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** provides that a person is not entitled to a patent if the
+ claimed invention was described in a U.S. patent, a U.S. patent application publication, or
+ an application for patent deemed published under **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303063)** (collectively referred
+ to as "U.S. patent documents"), that names another inventor and was effectively filed
+ before the effective filing date of the claimed invention. Under **[35 U.S.C. 374](mpep-9015-appx-l.html#d0e307311313)**, a
+ World Intellectual Property Organization (WIPO) publication of a Patent Cooperation Treaty
+ (PCT) international application that designates the United States is an application for
+ patent deemed published under **[35 U.S.C. 122(b)](mpep-9015-appx-l.html#d0e303063)** for purposes of
+ **[AIA 35
+ U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Thus, under the AIA, WIPO publications of PCT
+ applications that designate the United States are treated as U.S. patent application
+ publications for prior art purposes, regardless of the international filing date, whether
+ they are published in English, or whether the PCT international application enters the
+ national stage in the United States. Accordingly, a WIPO publication of a PCT application
+ (WIPO published application) that designates the United States, a U.S. patent, or a U.S.
+ patent application publication that names another inventor and was effectively filed before
+ the effective filing date of the claimed invention, is prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**. Under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, a WIPO
+ published application designating the United States is treated as a U.S. patent application
+ publication only if the PCT application was filed on or after November 29, 2000, and
+ published under **[PCT
+ Article 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English language. See **[MPEP § 2136.03](s2136.html#d0e205924)**,
+ subsection III.
+ 
+
+
+**[AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** defines "effectively filed" for the purpose of determining
+ whether a particular U.S. patent document is prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** to a claimed invention. A U.S. patent document is
+ considered to have been effectively filed for purposes of its prior art effect under
+ **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** with respect to any subject matter it describes on the
+ earlier of: (1) The actual filing date of the patent or the application for patent; or (2)
+ if the patent or application for patent is entitled to claim the benefit of, or priority
+ to, the filing date of an earlier U.S. provisional, U.S. nonprovisional, international
+ (PCT), or foreign patent application, the filing date of the earliest such application that
+ describes the subject matter of the claimed invention. Thus, a U.S. patent document is
+ effective as prior art as of the filing date of the earliest application to which benefit
+ or priority is claimed and which describes the subject matter relied upon, regardless of
+ whether the earliest such application is a U.S. provisional or nonprovisional application,
+ an international (PCT) application, or a foreign patent application.
+ 
+
+
+**[AIA 35 U.S.C.
+ 102(b)(2)(A)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1a7)** and **[(B)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1b3)** provide that a disclosure shall not
+ be prior art to a claimed invention under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if: (1) The subject
+ matter disclosed was obtained directly or indirectly from the inventor or a joint inventor;
+ or (2) the subject matter disclosed had, before such subject matter was effectively filed
+ under **[35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, been publicly disclosed by the inventor or a joint
+ inventor or another who obtained the subject matter disclosed directly or indirectly from
+ the inventor or a joint inventor. Thus, under the AIA, a U.S. patent document that was not
+ issued or published more than one year before the effective filing date of the claimed
+ invention is not prior art to the claimed invention if: (1) The U.S. patent document was by
+ another who obtained the subject matter disclosed from the inventor or a joint inventor; or
+ (2) the inventor or a joint inventor, or another who obtained the subject matter disclosed
+ from an inventor or joint inventor, had publicly disclosed the subject matter before the
+ **[35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** ("effectively filed") date of the U.S. patent document. 
+ 
+
+
+Additionally, **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** provides
+ that a disclosure made in a U.S. patent document shall not be prior art to a claimed
+ invention under **[35 U.S.C. 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)** if, not later than the effective filing date of
+ the claimed invention, the subject matter disclosed and the claimed invention were owned by
+ the same person or subject to an obligation of assignment to the same person. This
+ provision replaces the exception in **[pre-AIA 35 U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** that applied
+ only in the context of an obviousness analysis under **[35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** to prior art that was commonly owned at the time the claimed
+ invention was made, and which qualified as prior art only under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, **[(f)](mpep-9015-appx-l.html#d0e302420)**, and/or **[(g)](mpep-9015-appx-l.html#d0e302424)**. Thus, the AIA
+ provides that certain prior patents and published patent applications of co-workers and
+ collaborators are not prior art either for purposes of determining novelty
+ (**[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**) or nonobviousness (**[35 U.S.C. 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**). This exception,
+ however, only removes disclosures as prior art under **[AIA 35 U.S.C.
+ 102(a)(2)](mpep-9015-appx-l.html#al_d1d85b_11e72_315)**, namely, U.S. patent documents that were not published, but
+ that were effectively filed, before the effective filing date of the claimed invention.
+ This exception is not effective to except prior art that is also available under
+ **[35 U.S.C.
+ 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, that is, patents, printed publications, public uses, sale
+ activities, or other publicly available disclosures published or occurring before the
+ effective filing date of the claimed invention. A prior disclosure, as defined in
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)**, by a co-worker or collaborator is prior art under
+ **[AIA 35
+ U.S.C. 102(a)(1)](mpep-9015-appx-l.html#al_d1d85b_11e72_307)** unless it falls within an exception under
+ **[AIA 35
+ U.S.C. 102(b)(1)](mpep-9015-appx-l.html#al_d1d85b_11e7d_172)**, regardless of whether the subject matter of the
+ prior disclosure and the claimed invention was commonly owned not later than the effective
+ filing date of the claimed invention.
+ 
+
+
+The AIA eliminates the provisions in **[pre-AIA 35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#d0e302399)** (abandonment of the invention), **[102(d)](mpep-9015-appx-l.html#d0e302403)** (premature
+ foreign patenting), **[102(f)](mpep-9015-appx-l.html#d0e302420)** (derivation), and **[102(g)](mpep-9015-appx-l.html#d0e302424)** (prior invention by another, but
+ see below for discussion of continued limited applicability). Under the AIA, abandonment of
+ the invention or premature foreign patenting is not relevant to patentability. Prior
+ invention by another is likewise not relevant to patentability under the AIA unless there
+ is a prior disclosure or filing of an application by another. A situation in which an
+ application names a person who is not the actual inventor as the inventor
+ (**[pre-AIA 35 U.S.C.
+ 102(f)](mpep-9015-appx-l.html#d0e302420)**) will be handled in a derivation proceeding under
+ **[35 U.S.C.
+ 135](mpep-9015-appx-l.html#al_d1fbe1_19834_19b)**, by a correction of inventorship under **[37 CFR 1.48](mpep-9020-appx-r.html#d0e317930)** to name
+ the actual inventor, or through a rejection under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)** and **[35 U.S.C. 115](mpep-9015-appx-l.html#d0e302875912)**. See
+ **[MPEP §
+ 2157](s2157.html#ch2100_d20034_1bb92_e7)**.
+ 
+
+
+**[AIA 35 U.S.C.
+ 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** provides for common ownership of subject matter made pursuant
+ to joint research agreements. Under **[35 U.S.C. 100(h)](mpep-9015-appx-l.html#al_d1d85b_11e10_359)**, the term "joint
+ research agreement" as used in **[AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** is defined as a
+ written contract, grant, or cooperative agreement entered into by two or more persons or
+ entities for the performance of experimental, developmental, or research work in the field
+ of the claimed invention. **[AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)** specifically
+ provides that subject matter disclosed and a claimed invention shall be deemed to have been
+ owned by the same person or subject to an obligation of assignment to the same person in
+ applying the provisions of **[AIA 35 U.S.C. 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** if: (1) The
+ subject matter disclosed was developed and the claimed invention was made by, or on behalf
+ of, one or more parties to a joint research agreement that was in effect on or before the
+ effective filing date of the claimed invention; (2) the claimed invention was made as a
+ result of activities undertaken within the scope of the joint research agreement; and (3)
+ the application for patent for the claimed invention discloses or is amended to disclose
+ the names of the parties to the joint research agreement.
+ 
+
+
+**[AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** provides that a patent for a claimed invention may not be
+ obtained, notwithstanding that the claimed invention is not identically disclosed as set
+ forth in **[35
+ U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)**, if the differences between the claimed invention and the
+ prior art are such that the claimed invention as a whole would have been obvious before the
+ effective filing date of the claimed invention to a person having ordinary skill in the art
+ to which the claimed invention pertains. In addition, **[AIA 35 U.S.C.
+ 103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** provides that patentability shall not be negated by the manner in
+ which the invention was made. This provision tracks **[pre-AIA 35 U.S.C. 103(a)](mpep-9015-appx-l.html#d0e302455)**, except that
+ the temporal focus for the obviousness inquiry is before the effective filing date of the
+ claimed invention, rather than at the time of the invention. The provisions of
+ **[pre-AIA 35 U.S.C.
+ 103(c)](mpep-9015-appx-l.html#d0e302521)** have been replaced with **[AIA 35 U.S.C.
+ 102(b)(2)(C)](mpep-9015-appx-l.html#al_d1d85b_11e7d_1bf)** and **[(c)](mpep-9015-appx-l.html#al_d1d85b_11e8f_148)**, and the provisions of
+ **[pre-AIA 35 U.S.C.
+ 103(b)](mpep-9015-appx-l.html#d0e302462)** pertaining to biotechnological processes have been
+ eliminated.
+ 
+
+
+**[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** took effect on March 16, 2013.
+ These new provisions apply to any patent application that contains or contained at any
+ time: (1) a claim to a claimed invention that has an effective filing date as defined in
+ **[35 U.S.C.
+ 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that is on or after March 16, 2013; or (2) a designation as a
+ continuation, divisional, or continuation-in-part of an application that contains or
+ contained at any time a claim to a claimed invention that has an effective filing date that
+ is on or after March 16, 2013. Such an application is referred to as an AIA (first inventor
+ to file) application (hereinafter "AIA application"). **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** also apply to any patent resulting
+ from an AIA application. See Public Law 112-29, § 3(n)(1), 125 Stat. at 293. See also
+ **[MPEP §
+ 2159](s2159.html#ch2100_d20034_1dc34_1dd)***et seq.* for guidance in determining whether an application is subject to
+ **[AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)**.
+ 
+
+
+The AIA provides that the provisions of **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** apply to each claim of an AIA application for patent if the
+ patent application: (1) contains or contained at any time a claim to a claimed invention
+ having an effective filing date as defined in **[35 U.S.C. 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that occurs before
+ March 16, 2013; or (2) is ever designated as a continuation, divisional, or
+ continuation-in-part of an application that contains or contained at any time a claim to a
+ claimed invention that has an effective filing date before March 16, 2013. Public Law
+ 112-29, § 3(n)(2), 125 Stat. at 293. **[Pre-AIA 35 U.S.C. 102(g)](mpep-9015-appx-l.html#d0e302424)** also applies
+ to any patent resulting from an AIA application to which **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** applied. See **[MPEP § 2138](s2138.html#d0e207005)** for guidance on application of
+ **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)**  and form paragraph **[7.14.aia](#fp7.14.aia)**. 
+ 
+
+
+If an application (1) contains or contained at any time a
+ claimed invention having an effective filing date that is before March 16, 2013, or ever
+ claimed the benefit of an earlier filing date under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**, or
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)** based upon an earlier application that ever contained a
+ claimed invention having an effective filing date as defined in **[35 U.S.C.
+ 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that is before March 16, 2013, and (2) also contains or
+ contained at any time any claimed invention having an effective filing date as defined in
+ **[35 U.S.C.
+ 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that is on or after March 16, 2013, or ever claimed the
+ benefit of an earlier filing date under **[35 U.S.C. 119](mpep-9015-appx-l.html#d0e302921)** , **[120](mpep-9015-appx-l.html#d0e303023313)**,
+ **[121](mpep-9015-appx-l.html#d0e303040912)**, **[365](mpep-9015-appx-l.html#d0e307034)** or **[386](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)** based
+ upon an earlier application that ever contained a claimed invention having an effective
+ filing date as defined in **[35 U.S.C. 100(i)](mpep-9015-appx-l.html#al_d1d85b_11e1a_39f)** that is on or after
+ March 16, 2013, then **[AIA 35 U.S.C. 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** apply to
+ the application, and each claimed invention in the application is also subject to
+ **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)**.
+ 
+
+
+[[top]](#top)
+
+
+]

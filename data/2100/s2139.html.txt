@@ -1,0 +1,2129 @@
+[
+# 2139 Rejections Under Pre-AIA 35 U.S.C. 102 [R-10.2019]
+
+
+Any application filed before March 16, 2013, is governed by
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** and **[103](mpep-9015-appx-l.html#d0e302450)** (i.e., the application is a pre-AIA
+ first to invent application). Note that neither the filing of a request for continued
+ examination, nor entry into the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**, constitutes the filing
+ of a new application. Accordingly, such an application remains subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)** even if a request for continued examination under
+ **[37 CFR
+ 1.114](mpep-9020-appx-r.html#d0e322625)** is filed on or after March 16, 2013, in an application that was
+ filed before March 16, 2013. Similarly, a PCT application filed under **[35 U.S.C. 363](mpep-9015-appx-l.html#d0e306994313)**
+ before March 16, 2013, is subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)** and
+ **[103](mpep-9015-appx-l.html#d0e302450)**, regardless of whether the application enters the national stage
+ under **[35 U.S.C.
+ 371](mpep-9015-appx-l.html#d0e307164)** before or after March 16, 2013. 
+ 
+
+
+Certain applications filed on or after March 16, 2013 that
+ claim the benefit of a filing date earlier than March 16, 2013 under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**,
+ **[121](mpep-9015-appx-l.html#d0e303040912)**, or **[365](mpep-9015-appx-l.html#d0e307034)** are also governed by
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**; see **[MPEP § 2159](s2159.html#ch2100_d20034_1dc34_1dd)***et seq.* for guidance in determining whether such an application is
+ subject to examination under the first to invent prior art regime.
+ 
+
+
+
+# 2139.01 Effective Filing Date of a Claimed Invention
+ Under Pre-AIA 35 U.S.C. 102 [R-10.2019]
+
+
+In examining applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**, the effective filing date of the claimed invention is the
+ actual filing date of the U.S. application, unless situation (A), (B), or (C) as set
+ forth below applies. Note that the actual U.S. filing date of an application that
+ entered the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)** is the international
+ filing date. See **[35
+ U.S.C. 363](mpep-9015-appx-l.html#d0e306994313)** and **[MPEP § 1893.03(b)](s1893.html#d0e191308)**.
+ 
+
+
+* (A) If the application is a continuation or divisional of one or
+ more earlier U.S. applications or international applications and if the
+ requirements of **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** or
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)** have been satisfied, the effective filing date of
+ the claimed invention is the same as the earliest filing date in the line of
+ continuation or divisional applications.
+* (B) If the application is a continuation-in-part of an earlier
+ U.S. application or international application, any claims in the new application
+ not supported by the specification and claims of the parent application have an
+ effective filing date equal to the actual filing date of the new application. Any
+ claims which are fully supported under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** by the earlier
+ parent application have the effective filing date of that earlier parent
+ application.
+* (C) If the application properly claims benefit under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)** to a provisional application, the effective filing
+ date of the claimed invention is the filing date of the provisional application
+ for any claims which are fully supported under the first paragraph of
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824912)** by the provisional application.
+
+
+The effective filing date for claims subject to
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** is not the filing date of the foreign priority document,
+ although the filing date of the foreign priority document may be used to overcome
+ certain references. See **[MPEP § 2136.05](s2136.html#d0e206333)***et seq.*
+
+
+See **[MPEP
+ § 1893.03(c)](s1893.html#d0e191506)**, subsection III for benefit claims under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, **[120](mpep-9015-appx-l.html#d0e303023313)**, or **[365(c)](mpep-9015-appx-l.html#d0e307053)** in an
+ application that entered the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**. See
+ **[MPEP §§
+ 211.01(c)](s211.html#ch200_d1ff71_22ea8_22b)** and **[1895](s1895.html#d0e192715)** for additional information on
+ determining the effective filing dates of claimed inventions in a continuation,
+ divisional, or continuation-in-part of a PCT application designating the U.S. See also
+ **[MPEP §§
+ 1895.01](s1895.html#d0e192774)** and **[1896](s1896.html#d0e193032)** which discuss differences between
+ applications filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302673)** and international
+ applications that enter national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**.
+ 
+
+
+
+
+# 2139.02 Determining Whether To Apply Pre-AIA 35 U.S.C.
+ 102(a), (b), or (e) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file provisions of the AIA as
+ explained in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §
+ 2152.05](s2152.html#ch2100_d2c184_13c9f_236)** for the examination of applications subject to the
+ first inventor to file provisions of the AIA.]*
+
+**I.** **PRE-AIA 35 U.S.C. 102(b)**First, the examiner should consider whether the
+ reference qualifies as prior art under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)** because
+ this section results in a statutory bar to obtaining a patent. If the publication or
+ issue date of the reference is more than 1 year prior to the effective filing date of
+ the claimed invention (**[MPEP § 2139.01](s2139.html#ch2100_d2c184_12530_2b6)**), the reference
+ qualifies as prior art under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**.
+ 
+
+
+Where the last day of the year dated from the date of
+ publication falls on a Saturday, Sunday or federal holiday, the publication is not a
+ statutory bar under **[pre-AIA 102(b)](mpep-9015-appx-l.html#d0e302395)** if the application was filed on the next
+ succeeding business day. *Ex parte Olah,* 131 USPQ 41 (Bd. App.
+ 1960) (The Board in *Olah* held that **[35 U.S.C. 21(b)](mpep-9015-appx-l.html#d0e301443)**
+ is applicable to the filing of an original application for patent and that
+ applicant’s own activity will not bar a patent if the 1-year grace period expires on
+ a Saturday, Sunday, or federal holiday and the application’s U.S. filing date is the
+ next succeeding business day.). Despite changes to **[37 CFR
+ 1.6(a)(2)](mpep-9020-appx-r.html#d0e313465)** and **[1.10](mpep-9020-appx-r.html#d0e313951)** which permit the USPTO to
+ accord a filing date to an application as of the date of deposit as Priority Mail
+ Express® with the U.S. Postal Service in accordance
+ with **[37
+ CFR 1.10](mpep-9020-appx-r.html#ar_d1b14e_16b60_2be)** (e.g., a Saturday filing date), the rule changes do
+ not affect applicant’s concurrent right to defer the filing of an application until
+ the next business day when the last day for "taking any action" falls on a Saturday,
+ Sunday, or federal holiday (e.g., the last day of the 1-year grace period falls on a
+ Saturday).
+ 
+
+
+If there is evidence of public use or sale activity
+ more than one year prior to the effective filing date of the claimed invention, a
+ rejection should be made under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**, which
+ results in a statutory bar to obtaining a patent, rather than under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. Note that mere knowledge of the invention by the public
+ does not warrant rejection under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**,
+ although public knowledge may provide grounds for rejection under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. See **[MPEP §§ 2132](s2132.html#d0e203390)** and
+ **[2133.03(a)](s2133.html#d0e203899)**. 
+ 
+
+**II.** **PRE-AIA 35 U.S.C. 102(e)**If the publication or issue date of the reference is
+ too recent for **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)** to apply, then the examiner should
+ consider **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**.
+ 
+
+
+**[Pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** allows
+ the use of certain international application publications and U.S. patent application
+ publications, and certain U.S. patents as prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as of their respective U.S. filing dates, including
+ certain international filing dates. The prior art date of a reference under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** may be the international filing date if the
+ international filing date was on or after November 29, 2000, the international
+ application designated the United States, and the international application was
+ published by the World Intellectual Property Organization (WIPO) under the Patent
+ Cooperation Treaty **[(PCT) Article 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English language. See
+ **[MPEP §
+ 2136](s2136.html#d0e205544)** for examination guidelines on the application of
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. References based on international applications
+ that were filed prior to November 29, 2000 are subject to the "pre-AIPA" version of
+ 35 U.S.C. 102(e) in force on November 28, 2000. See **[subsection
+ III](s2139.html#ch700_d222ef_29c79_2c1)**, below and **[MPEP § 2136.03](s2136.html#d0e205924)** for additional
+ information.
+ 
+
+
+In order to apply a reference under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, the inventive entity of the application must be
+ different from that of the reference. Note that, where there are joint inventors,
+ only one joint inventor needs to be different for the inventive entities to be
+ different and a rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** is
+ applicable even if there are some joint inventors in common between the application
+ and the reference.
+ 
+
+
+
+#### *35 U.S.C. 102 (pre-AIA)  
+ Conditions for patentability; novelty and
+ loss of right to patent.*
+
+
+\*\*\*\*\*
+
+
+* (e) the invention was described in — (1) an
+ application for patent, published under **[section 122(b)](mpep-9015-appx-l.html#d0e303063)**, by
+ another filed in the United States before the invention by the applicant for
+ patent or (2) a patent granted on an application for patent by another filed
+ in the United States before the invention by the applicant for patent,
+ except that an international application filed under the treaty defined in
+ **[section
+ 351(a)](mpep-9015-appx-l.html#d0e306875)** shall have the effects for the purposes of this
+ subsection of an application filed in the United States only if the
+ international application designated the United States and was published
+ under **[Article 21(2)](mpep-9025-appx-t.html#d0e363634)** of such treaty in the English language;
+ or
+
+
+\*\*\*\*\*
+
+
+
+**[Pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** has two separate clauses, namely, **[pre-AIA 35 U.S.C.
+ 102(e)(1)](mpep-9015-appx-l.html#d0e302407)** for publications of patent applications and
+ **[pre-AIA 35
+ U.S.C. 102(e)(2)](mpep-9015-appx-l.html#d0e302407)** for U.S. patents. **[Pre-AIA 35 U.S.C.
+ 102(e)(1)](mpep-9015-appx-l.html#d0e302407)**, in combination with **[pre-AIA 35 U.S.C.
+ 374](mpep-9015-appx-l.html#d0e307311)**, created a new category of prior art by providing prior art
+ effect for certain publications of patent applications, including certain
+ international applications, as of their effectively filed dates in the United States
+ (which include certain international filing dates). Under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, an international filing date which is on or after
+ November 29, 2000 is the United States filing date if the international application
+ designated the United States and was published by the World Intellectual Property
+ Organization (WIPO) under the Patent Cooperation Treaty **[(PCT) Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English language. Therefore, the prior art date of
+ a reference under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** may be the international filing date
+ (if all three conditions noted above are met) or an earlier U.S. filing date for
+ which priority or benefit is properly claimed.
+ 
+
+
+Publication under **[PCT Article 21(2)](mpep-9025-appx-t.html#d0e363634)** may result from
+ a request for early publication by an applicant of an international application or
+ after the expiration of 18-months after the earliest claimed priority date in an
+ international application. International applications, which: (1) were filed prior to
+ November 29, 2000, or (2) did not designate the U.S., or (3) were not published in
+ English under **[PCT
+ Article 21(2)](mpep-9025-appx-t.html#d0e363634)** by WIPO, may not be used to reach back (bridge)
+ to an earlier filing date through a priority or benefit claim for prior art purposes
+ under **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. An international filing date which is on or
+ after November 29, 2000 is a United States filing date for purposes of determining
+ the earliest effective prior art date of a patent if the international application
+ designated the United States and was published in the English language under
+ **[PCT Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** by WIPO. No international filing dates prior to November
+ 29, 2000 may be relied upon as a prior art date under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**. 
+ 
+
+**III.** **"PRE-AIPA" 35 U.S.C. 102(e) AS IN FORCE ON NOVEMBER 28, 2000**
+#### *"Pre-AIPA" 35 U.S.C. 102  
+ Conditions for patentability; novelty and
+ loss of right to patent (as in force on November 28, 2000).*
+
+
+A person shall be entitled to a patent unless - 
+
+
+\*\*\*\*\*
+
+
+* (e) the invention was described in a patent
+ granted on an application for patent by another filed in the United States
+ before the invention thereof by the applicant for patent, or on an
+ international application by another who has fulfilled the requirements of
+ paragraphs (1), (2), and (4) of section 371(c) of this title before the
+ invention thereof by the applicant for patent.
+
+
+\*\*\*\*\*
+
+
+
+Patents issued directly, or indirectly, from
+ international applications filed before November 29, 2000 may only be used as prior
+ art based on the provisions of pre-AIPA 35 U.S.C. 102(e) as in force on November 28,
+ 2000. Thus, the pre-AIPA 35 U.S.C. 102(e) date of such a prior art patent is the
+ earliest of the date of compliance with 35 U.S.C. 371(c)(1), (2) and (4), or the
+ filing date of the later-filed U.S. continuing application that claimed the benefit
+ of the international application. Publications of international applications filed
+ before November 29, 2000 (which would include WIPO publications and U.S. publications
+ of the national stage (35 U.S.C. 371)) do not have a pre-AIPA 35 U.S.C. 102(e) date
+ at all (however, such publications are available as prior art under **[pre-AIA 35 U.S.C. 102(a)
+ or (b)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** as of their publication date).
+ 
+
+**IV.** **PRE-AIA 35 U.S.C. 102(a)**Even if the reference is prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, the examiner should still consider
+ **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** for two reasons. First, if the
+ reference is a U.S. patent or patent application publication of, or claims benefit
+ of, an international application, the publication of the international application
+ under **[PCT Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** may be the earliest prior art date under
+ **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** for the disclosure. Second,
+ references that are only prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302407)** and applied in a rejection under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** are subject to being disqualified under
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** if the reference and the application were
+ commonly owned, or subject to an obligation of common assignment, at the time the
+ invention was made. For **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** to
+ apply, the reference must have a publication date earlier in time than the effective
+ filing date of the application under examination, and must not be the inventor or at
+ least one joint inventor's own work. 
+ 
+
+
+If the claimed invention is the subject of activity by
+ an entity other than the inventor(s), such as sale by another, manufacture by another
+ or disclosure of the invention by at least one joint inventor to another entity then
+ both **[pre-AIA 35
+ U.S.C. 102(a) and (b)](mpep-9015-appx-l.html#d0e302391)** may be applicable. If the evidence only
+ points to knowledge within the year prior to the effective filing date then
+ **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** applies. However, no rejection under
+ **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** should be made if there is evidence that
+ applicant made the invention and only disclosed it to others within the year prior to
+ the effective filing date.
+ 
+
+
+
+
+# 2139.03 Form Paragraphs for Use in Rejections Under
+ Pre-AIA 35 U.S.C. 102 [R-10.2019]
+
+
+The following form paragraphs should be used in making
+ the appropriate rejections. Note that the particular part of the reference relied upon
+ to support the rejection should be identified. 
+ 
+
+
+# ¶ 7.06 Notice re prior art available under both pre-AIA and
+ AIA
+
+
+In the event the determination of the status of the application as subject
+ to AIA **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** (or as subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**)
+ is incorrect, any correction of the statutory basis for the rejection will not be considered a
+ new ground of rejection if the prior art relied upon, and the rationale supporting the
+ rejection, would be the same under either status.
+ 
+
+
+### Examiner Note:
+
+ * 1.  This form paragraph must be used in all Office
+ Actions when a prior art rejection is made in an application with an actual filing
+ date on or after March 16, 2013, that claims priority to, or the benefit of, an
+ application filed before March 16, 2013.
+* 2.  This form paragraph should only be used ONCE in an
+ Office action.
+
+
+
+# ¶ 7.07.fti Statement of Statutory Basis, pre-AIA 35 U.S.C.
+ 102
+
+
+The following is a quotation of the appropriate paragraphs of
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** that form the basis for the rejections under this section made in
+ this Office action:
+ 
+
+
+A person shall be entitled to a patent
+ unless—
+ 
+
+
+### Examiner Note:
+
+ * 1. The statute is no longer being re-cited in all Office
+ actions. It is only required in first actions on the merits and final rejections. Where
+ the statute is not being cited in an action on the merits, use form paragraph
+ **[7.103](#fp7.103)**.
+* 2. Form paragraphs **[7.07.fti](#fp7.07.fti)** to
+ **[7.14.fti](#fp7.14.fti)**
+ are to be used ONLY ONCE in a given Office action.
+* 3. For applications with an actual filing date on or
+ after March 16, 2013, that claim priority to, or the benefit of, an application filed
+ before March 16, 2013, this form paragraph must be preceded by form
+ paragraph**[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.08.fti Pre-AIA 102(a), Activity by Another Before Invention by
+ Applicant
+
+
+(a) the invention was known or used by others in this
+ country, or patented or described in a printed publication in this or a foreign country,
+ before the invention thereof by the applicant for a patent.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti.](#fp7.07.fti)**
+
+
+
+# ¶ 7.09.fti Pre-AIA 102(b), Activity More Than One Year Prior to
+ Filing
+
+
+(b) the invention was patented or described in a printed
+ publication in this or a foreign country or in public use or on sale in this country, more
+ than one year prior to the date of application for patent in the United
+ States.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti](#fp7.07.fti)**,
+ and may be preceded by form paragraph **[7.08.fti](#fp7.08.fti)**.
+ 
+
+
+
+# ¶ 7.10.fti Pre-AIA 102(c), Invention Abandoned
+
+
+(c) he has abandoned the invention.
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti](#fp7.07.fti)**,
+ and may be preceded by one or more of form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+ 
+
+
+
+# ¶ 7.11.fti Pre-AIA 102(d), Foreign Patenting
+
+
+(d) the invention was first patented or caused to be
+ patented, or was the subject of an inventor’s certificate, by the applicant or his legal
+ representatives or assigns in a foreign country prior to the date of the application for
+ patent in this country on an application for patent or inventor’s certificate filed more than
+ twelve months before the filing of the application in the United States.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti](#fp7.07.fti)**,
+ and may be preceded by one or more of form paragraphs **[7.08.fti](#fp7.08.fti)** to **[7.10.fti](#fp7.10.fti)**.
+ 
+
+
+
+# ¶ 7.12.fti Pre-AIA 35 U.S.C 102(e), Patent Application Publication or
+ Patent to Another with Earlier Filing Date, in view of the American Inventors Protection Act
+ of 1999 (AIPA) and the Intellectual Property and High Technology Technical Amendments Act of
+ 2002
+
+
+(e) the invention was described in (1) an application for
+ patent, published under section **[122(b)](mpep-9015-appx-l.html#d0e303063)**, by another filed in the United
+ States before the invention by the applicant for patent or (2) a patent granted on an
+ application for patent by another filed in the United States before the invention by the
+ applicant for patent, except that an international application filed under the treaty defined
+ in section **[351(a)](mpep-9015-appx-l.html#d0e306875)** shall have the effects for purposes of this subsection of an
+ application filed in the United States only if the international application designated the
+ United States and was published under **[Article 21(2)](mpep-9025-appx-t.html#d0e363634)** of such treaty in the
+ English language.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used if the
+ reference is one of the following:
+	+ a U.S. patent or a publication of a U.S.
+	 application for patent filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302678)**;
+	+ a U.S. patent issued directly or indirectly from,
+	 or a U.S. or WIPO publication of, an international application (i.e., a PCT
+	 application) if the international application has an international filing date on or
+	 after November 29, 2000;
+	+ a U.S. patent issued from, or a WIPO
+	 publication of, an international design application that designates the United
+	 States.
+* 2. In determining the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** if the subject matter used to
+ make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). Do NOT consider foreign
+ priority claims under **[35 U.S.C. 119(a) - (d)](mpep-9015-appx-l.html#d0e302926pre)**,
+ **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_29a27_324)**. 
+ 
+>  
+
+
+In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 3. In order to rely on an international filing date for
+ prior art purposes under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, the
+ international application (PCT) must have been filed on or after November 29, 2000, it
+ must have designated the U.S., and the international publication under **[PCT Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** by WIPO must have been in English. If any one of the
+ conditions is not met, the international filing date is not a U.S. filing date for prior
+ art purposes under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**.
+* 4. If an international application (PCT) was published
+ by WIPO in a language other than English, or did not designate the U.S., the
+ international application’s publication by WIPO, the U.S. publication of the national
+ stage application (**[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**) of the international
+ application and a U.S. patent issued from the national stage of the international
+ application may not be applied as a reference under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)**  and **[7.09.fti](#fp7.09.fti)**.
+* 5. If an international application (PCT) was published by WIPO in a
+ language other than English, the U.S. publication of, or a U.S. patent issued from, a
+ continuing application claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to such an international application, has a
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** date as of the earliest U.S. filing date after the
+ international filing date.
+* 6. If the reference is a U.S. patent issued directly, or
+ indirectly, from an international application (PCT) that has an international filing
+ date prior to November 29, 2000, use form paragraph **[7.12.01.fti](#fp7.12.01.fti)**. In that situation,
+ **[pre-AIPA 35 U.S.C. 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** is applicable in
+ the determination of the prior art date of the patent issued from such an international
+ application.
+* 7. If the reference is a publication of an
+ international application (PCT), including the U.S. publication of a national stage
+ (**[35 U.S.C.
+ 371](mpep-9015-appx-l.html#d0e307164)**), that has an international filing date prior to November 29,
+ 2000, do not use this form paragraph. Such a reference may not be applied as a prior art
+ reference under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under
+ **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+* 8. This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08.fti)**  to **[7.11.fti](#fp7.11.fti)**.
+
+
+
+# ¶ 7.12.01.fti Pre-AIPA 35 U.S.C. 102(e), Patent to Another with Earlier
+ Filing Date, Reference is a U.S. Patent Issued Directly or Indirectly From a National Stage
+ of, or a Continuing Application Claiming Benefit to, an International Application Having an
+ International Filing Date Prior to November 29, 2000
+
+
+(e) the invention was described in a patent granted on an
+ application for patent by another filed in the United States before the invention thereof by
+ the applicant for patent, or on an international application by another who has fulfilled the
+ requirements of paragraphs (1), (2), and (4) of section **[371(c)](mpep-9015-appx-l.html#d0e307183)** of this title
+ before the invention thereof by the applicant for patent. 
+ 
+
+
+The changes made to 35 U.S.C. 102(e) by the American
+ Inventors Protection Act of 1999 (AIPA) and the Intellectual Property and High Technology
+ Technical Amendments Act of 2002 do not apply when the reference is a U.S. patent resulting
+ directly or indirectly from an international application filed before November 29, 2000.
+ Therefore, the prior art date of the reference is determined under 35 U.S.C. 102(e) prior to
+ the amendment by the AIPA (**pre-AIPA** 35 U.S.C. 102(e)).
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used if the
+ reference is a U.S. patent issued directly or indirectly from either a national stage of
+ an international application (application under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**)
+ which has an international filing date prior to November 29, 2000, or a continuing
+ application claiming benefit to an international application having an international
+ filing date prior to November 29, 2000.
+* 2. If the reference is a U.S. patent issued directly from a
+ national stage of such an international application, the reference’s**pre-AIPA** 35 U.S.C. 102(e) date is the date that the requirements of
+ **[35 U.S.C.
+ 371(c)(1), (2) and (4)](mpep-9015-appx-l.html#d0e307187)** were fulfilled. The language of WIPO
+ publication (PCT) is not relevant in this situation. Caution: the international
+ publication of the international application (PCT) by WIPO may have an earlier prior art
+ date under **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or **[pre-AIA 102(b)](mpep-9015-appx-l.html#d0e302395)**.
+* 3. If the reference is a U.S. patent issued directly from a
+ continuing application claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)** or
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)** to such an international application (which had not
+ entered the national stage prior to the continuing application’s filing date, otherwise
+ see note 4), the prior art reference’s **pre-AIPA** 35 U.S.C. 102(e) date is
+ the actual U.S. filing date of the continuing application. Caution: the international
+ publication of the international application (PCT) by WIPO may have an earlier prior art
+ date under **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[pre-AIA 102(b)](mpep-9015-appx-l.html#d0e302395)**.
+* 4. In determining the **pre-AIPA** 35 U.S.C. 102(e) date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** only if the subject matter
+ used to make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). A benefit claim to a
+ U.S. patent of an earlier-filed international application may only result in an
+ effective U.S. filing date as of the date the requirements of **[35 U.S.C. 371(c)(1), (2) and
+ (4)](mpep-9015-appx-l.html#d0e307187)** were fulfilled. Do NOT consider any benefit claims to U.S.
+ applications which are filed before an international application. Do NOT consider
+ foreign priority claims under **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302926)**-**[(d)](mpep-9015-appx-l.html#d0e302947)**,
+  **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)**. 
+ In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 5. This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08fti)** to **[7.11.fti](#fp7.11fti)**.
+
+
+
+# ¶ 7.13.fti Pre-AIA 102(f), Applicant Not the Inventor
+
+
+(f) he did not himself invent the subject matter sought to
+ be patented.
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08.fti)** to **[7.12.fti](#fp7.12.fti)**.
+
+
+
+# ¶ 7.14.fti Pre-AIA 102(g), Priority of Invention
+
+
+(g)(1) during the course of an interference conducted under
+ section **[135](mpep-9015-appx-l.html#al_d1fbe1_19834_19b)** or section **[291](mpep-9015-appx-l.html#al_d1fbe1_198be_137)**, another inventor involved therein
+ establishes, to the extent permitted in section **[104](mpep-9015-appx-l.html#al_d1fbe1_197a5_8)**, that before
+ such person’s invention thereof the invention was made by such other inventor and not
+ abandoned, suppressed, or concealed, or (2) before such person’s invention thereof, the
+ invention was made in this country by another inventor who had not abandoned, suppressed, or
+ concealed it. In determining priority of invention under this subsection, there shall be
+ considered not only the respective dates of conception and reduction to practice of the
+ invention, but also the reasonable diligence of one who was first to conceive and last to
+ reduce to practice, from a time prior to conception by the other.
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08.fti)** to **[7.13.fti](#fp7.13.fti)**.
+
+
+
+# ¶ 7.15.fti Rejection, Pre-AIA 35 U.S.C. 102(a), (b) Patent or Publication,
+ and (g)
+
+
+Claim(s) **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)****[2]** as being **[3]** by **[4]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 2, insert the appropriate paragraph letter or letters
+ of **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** in parentheses. If paragraph (e) of **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** is applicable, use form paragraph **[7.15.01.fti](#fp7.15.01.fti)**,
+ **[7.15.02.fti](#fp7.15.02.fti)** or **[7.15.03.fti](#fp7.15.03.fti)**.
+* 2. In bracket 3, insert either --clearly anticipated-- or
+ --anticipated-- with an explanation at the end of the paragraph.
+* 3. In bracket 4, insert the prior art relied upon.
+* 4. This rejection must be preceded either by form paragraph
+ **[7.07.fti](#fp7.07.fti )**
+ and form paragraphs **[7.08.fti](#fp7.08.fti)**, **[7.09.fti](#fp7.09.fti)**, and
+ **[7.14.fti](#fp7.14.fti)**
+ as appropriate, or by form paragraph **[7.103](#fp7.103)**.
+* 5. If **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** is also
+ being applied, this form paragraph must be followed by either form paragraph
+ **[7.15.01.fti](#fp7.15.01.fti)**, **[7.15.02.fti](#fp7.15.02.fti)** or
+ **[7.15.03.fti](#fp7.15.03.fti)**.
+* 6. For applications with an actual filing date on or after March 16,
+ 2013, that claim priority to, or the benefit of, an application filed before March 16,
+ 2013, this form paragraph must be preceded by form paragraph **[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.15.01.fti Provisional Rejection, Pre-AIA 35 U.S.C. 102(e) - Common
+ Assignee, Common Applicant, or At Least One Common Joint Inventor
+
+
+Claim(s) **[1]** is/are provisionally rejected under
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as being anticipated by copending Application No. **[2]** which has a common **[3]** with the instant application.
+ 
+
+
+Based upon the earlier effective U.S. filing date of the copending
+ application, it would constitute prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, if published
+ under **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303063)** or patented. This provisional rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ is based upon a presumption of future publication or patenting of the copending application.
+ **[4]**.
+ 
+
+
+This provisional rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** might be overcome
+ either by a showing under **[37
+ CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that any invention disclosed but not claimed in the copending
+ application was derived from the inventor of this application and is thus not the invention
+ "by another," or by an appropriate showing under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**. 
+ 
+
+
+This rejection may not be overcome by the filing of a terminal
+ disclaimer. See *In re Bartfeld*, 925 F.2d 1450, 17 USPQ2d 1885 (Fed. Cir.
+ 1991).
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is used to provisionally reject over a
+ copending application with an earlier filing date that discloses the claimed invention
+ which has not been published under **[35 U.S.C. 122](mpep-9015-appx-l.html#d0e303054)**. The copending
+ application must have either a common assignee, a common applicant (**[35 U.S.C. 118](mpep-9015-appx-l.html#d0e302910912)**),
+ or at least one common joint inventor.
+* 2. Use **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended
+ by the American Inventors Protection Act (AIPA) and the Intellectual Property and High
+ Technology Technical Amendments Act of 2002 (form paragraph **[7.12.fti](#fp7.12.fti)**) to determine the copending
+ application’s prior art date, unless the copending application is based directly, or
+ indirectly, from an international application which has an international filing date
+ prior to November 29, 2000. If the copending application is either a national stage of
+ an international application (application under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**) which has an
+ international filing date prior to November 29, 2000, or a continuing application
+ claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to an international
+ application having an international filing date prior to November 29, 2000, use
+ **[pre-AIPA
+ 35 U.S.C. 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** (form paragraph **[7.12.01.fti](#fp7.12.01.fti)**). See the Examiner
+ Notes for form paragraphs **[7.12.fti](#fp7.12.fti)** and **[7.12.01.fti](#fp7.21.01.fti)** to assist in the
+ determination of the reference’s **[35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date.
+* 3. If the claims would have been obvious over the invention
+ disclosed in the other copending application, use form paragraph
+ **[7.21.01.fti](#fp7.21.01.fti)**.
+* 4. In bracket 3, insert --assignee--, --applicant--, or --joint
+ inventor--.
+* 5. In bracket 4, an appropriate explanation may be provided in
+ support of the examiner’s position on anticipation, if necessary.
+* 6. Under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, two patents are not
+ permitted to issue on identical subject matter. Any claims in the instant application
+ directed to the same invention claimed in the reference should be provisionally rejected
+ using form paragraphs **[8.30](#fp8.30)** and **[8.32](#fp8.32)**. Additionally, the applicant should be required to
+ amend or cancel claims such that the applied reference and the instant application no
+ longer contain claims directed to the same invention using form paragraph
+ **[8.27.fti](#fp8.27.fti)**.
+* 7. Any claims in the instant application that are directed to
+ subject matter that is not patentably distinct from an invention claimed in the
+ reference should be rejected (or provisionally rejected if the reference has not yet
+ issued as a patent) on the grounds of nonstatutory double patenting using form paragraph
+ **[8.33](#fp8.33)** and at
+ least one of form paragraphs **[8.34](#fp8.34)** - **[8.39](#fp8.39)**.
+* 8. If evidence is additionally of record to show that either
+ invention is prior art to the other under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** or
+ **[(g)](mpep-9015-appx-l.html#d0e302424)**, a rejection using form paragraphs
+ **[7.13.fti](#fp7.13.fti)** and/or **[7.14.fti](#fp7.14.fti)** should also be made.
+* 9. For applications with an actual filing date on or after March
+ 16, 2013 that claim priority to, or the benefit of, an application filed before March
+ 16, 2013, this form paragraph must be preceded by form paragraph
+ **[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.15.02.fti Rejection, Pre-AIA 35 U.S.C. 102(e), Common Assignee,
+ Applicant, or Joint Inventor
+
+
+Claim(s) **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ as being anticipated by **[2]**.
+ 
+
+
+The applied reference has a common **[3]** with the instant
+ application. Based upon the earlier effective U.S. filing date of the reference, it
+ constitutes prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. This rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ might be overcome either by a showing under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that any invention disclosed
+ but not claimed in the reference was derived from the inventor or joint inventors (i.e., the
+ inventive entity) of this application and is thus not the invention "by another," or if the
+ same invention is not being claimed, by an appropriate showing under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is used to reject over a patent or patent
+ application publication with an earlier effective filing date. The patent or patent
+ application publication must have either a common assignee, a common applicant
+ (**[35 U.S.C.
+ 118](mpep-9015-appx-l.html#d0e302910912)**), or a common joint inventor.
+* 2. **[Pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended by the American Inventors Protection Act of 1999
+ (AIPA) and the Intellectual Property and High Technology Technical Amendments Act of
+ 2002 (form paragraph **[7.12.fti](#fp7.12.fti)**) must be applied if the reference is by
+ another and is one of the following:
+	+ a U.S. patent or a publication of a U.S. application for
+	 patent filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302678)**;
+	+ a U.S. patent issued directly or indirectly from, or a U.S.
+	 or WIPO publication of, **an international application (PCT) if the international
+	 application has an international filing date on or after November 29,
+	 2000**;
+	+ a U.S. patent issued from, or a WIPO publication of, an
+	 international design application that designates the United States.See the Examiner Notes for form paragraph
+ **[7.12.fti](#fp7.12.fti)**
+ to assist in the determination of the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date of the
+ reference.
+* 3. **[Pre-AIPA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** (form paragraph **[7.12.01.fti](#fp7.12.01.fti)**) must be applied if
+ the reference is a U.S. patent issued directly, or indirectly, from an international
+ application filed prior to November 29, 2000. See the Examiner Notes for form paragraph
+ **[7.12.01.fti](#fp7.12.01.fti)** to assist in the determination of the
+ **[pre-AIPA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date of the
+ reference.
+* 4. In determining the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040912)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** if the subject matter used to
+ make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). A benefit claim to a
+ U.S. patent of an earlier-filed international application, which has an international
+ filing date prior to November 29, 2000, may only result in an effective U.S. filing date
+ as of the date the requirements of **[35 U.S.C. 371(c)(1)](mpep-9015-appx-l.html#d0e307187)**,
+ **[(2)](mpep-9015-appx-l.html#d0e307194)** and **[(4)](mpep-9015-appx-l.html#d0e307205)** were fulfilled. Do NOT consider
+ any benefit claims to U.S. applications which are filed before an international
+ application that has an international filing date prior to November 29, 2000. Do NOT
+ consider foreign priority claims under **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302926pre)** - **[(d)](mpep-9015-appx-l.html#d0e302926pre)**,
+ **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_29a27_324)**. 
+ In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 5. If the reference is a publication of an international application
+ (PCT), including voluntary U.S. publication under **[35 U.S.C. 122](mpep-9015-appx-l.html#d0e303054)** of the national stage
+ or a WIPO PCT publication, that has an international filing date prior to November 29,
+ 2000, did not designate the United States or was not published in English by WIPO, do
+ not use this form paragraph. Such a reference is not a prior art reference under
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+* 6. In bracket 3, insert --assignee--, --applicant--, or --joint
+ inventor--.
+* 7. This form paragraph must be preceded by either of form
+ paragraphs **[7.12.fti](#fp7.12.fti)** or **[7.12.01.fti](#fp7.12.01.fti)**.
+* 8. Patent application publications may only be used if this form
+ paragraph was preceded by form paragraph **[7.12.fti](#fp7.12.fti)**.
+* 9. For applications with an actual filing date on or after March
+ 16, 2013, that claim priority to, or the benefit of, an application filed before March
+ 16, 2013, this form paragraph must be preceded by form paragraph
+ **[7.06](#fp7.06)**.
+* 10. Under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, two patents are not
+ permitted to issue on identical subject matter. Any claims in the instant application
+ directed to the same invention claimed in the reference should be rejected (or
+ provisionally rejected if the reference has not yet issued as a patent) using form
+ paragraphs **[8.30](#fp8.30)**
+ - **[8.32](#fp8.32)**.
+ Additionally, the applicant should be required to resolve any issue of priority under
+ **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** and possibly **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** using form
+ paragraph **[8.27.fti](#fp8.27.fti)**. See **[MPEP § 804](s804.html#d0e98894)**, subsection II.A.
+* 11. Any claims in the instant application that are directed to
+ subject matter that is not patentably distinct from an invention claimed in the
+ reference should be rejected (or provisionally rejected if the reference has not yet
+ issued as a patent) on the grounds of nonstatutory double patenting using form paragraph
+ **[8.33](#fp8.33)** and at
+ least one of form paragraphs **[8.34](#fp8.34)** - **[8.39](#fp8.39)**.
+
+
+
+# ¶ 7.15.03.fti Rejection, pre-AIA 35 U.S.C. 102(e), No Common Assignee or
+ Inventor(s)
+
+
+Claim(s) **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ as being **[2]** by **[3]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is used to reject over a patent or patent
+ application publication with an earlier filing date. The patent or patent application
+ publication is not required to have a common assignee or a common inventor.
+* 2. **[Pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended by the American Inventors Protection Act of 1999
+ (AIPA) and the Intellectual Property and High Technology Technical Amendments Act of
+ 2002 (form paragraph **[7.12.fti](#fp7.12.fti)**) must be applied if the reference is one of
+ the following:
+	+ a U.S. patent or a publication of a U.S. application for
+	 patent filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302678aia)**;
+	+ a U.S. patent issued directly or indirectly from, or a U.S. or
+	 WIPO publication of, an international application (PCT) if the international
+	 application has an international filing date on or after November 29, 2000;
+	+ a U.S. patent issued from, or a WIPO publication of, an
+	 international design application that designates the United States.See the Examiner Notes for form paragraph
+ **[7.12.fti](#fp7.12.fti)**
+ to assist in the determination of the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date of the
+ reference.
+* 3. **[Pre-AIPA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** (form paragraph **[7.12.01.fti](#fp7.12.01.fti)**) must be applied if
+ the reference is a U.S. patent issued directly, or indirectly, from an international
+ application filed prior to November 29, 2000. See the Examiner Notes for form paragraph
+ **[7.12.01.fti](#fp7.12.01.fti)** to assist in the determination of the pre-AIPA 35 U.S.C.
+ 102(e) date of the reference.
+* 4. In determining the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** if the subject matter used to
+ make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). A benefit claim to a
+ U.S. patent of an earlier-filed international application, which has an international
+ filing date prior to November 29, 2000, may only result in an effective U.S. filing date
+ as of the date the requirements of **[35 U.S.C. 371(c)(1)](mpep-9015-appx-l.html#d0e307187)**,
+ **[(2)](mpep-9015-appx-l.html#d0e307194)** and **[(4)](mpep-9015-appx-l.html#d0e307205)** were fulfilled. Do NOT consider
+ any benefit claims to U.S. applications which are filed before an international
+ application that has an international filing date prior to November 29, 2000. Do NOT
+ consider foreign priority claims under **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302926pre)** - **[(d)](mpep-9015-appx-l.html#d0e302926pre)**,
+ **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[35 U.S.C. 386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_29a27_324)**. 
+ In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 5. If the reference is a publication of an international
+ application (PCT), including voluntary U.S. publication under **[35 U.S.C. 122](mpep-9015-appx-l.html#d0e303054)** of
+ the national stage or a WIPO (PCT) publication, that has an international filing date
+ prior to November 29, 2000, did not designate the United States or was not published in
+ English by WIPO, do not use this form paragraph. Such a reference is not a prior art
+ reference under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under
+ **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+* 6. In bracket 2, insert either --clearly anticipated-- or
+ --anticipated-- with an explanation at the end of the paragraph.
+* 7. In bracket 3, insert the prior art relied upon.
+* 8. This form paragraph must be preceded by either of form paragraphs
+ **[7.12.fti](#fp7.12.fti)** or **[7.12.01.fti](#fp7.12.01.fti)**.
+* 9. Patent application publications may only be used if this form
+ paragraph was preceded by form paragraph **[7.12.fti](#fp7.12.fti)**.
+
+
+
+# ¶ 7.16.fti Rejection, pre-AIA 35 U.S.C. 102(b), Public Use or on
+ Sale
+
+
+Claim **[1]** rejected under **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302395)** based upon a public use or sale of the invention.
+ **[2]**
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded either by form
+ paragraphs **[7.07.fti](#fp7.07.fti)** and **[7.09.fti](#fp7.09.fti)** or by form paragraph
+ **[7.103](#fp7.103)**.
+* 2. A full explanation of the evidence establishing a
+ public use or sale must be provided in bracket 2.
+
+
+
+# ¶ 7.17.fti Rejection, pre-AIA 35 U.S.C. 102(c), Abandonment of
+ Invention
+
+
+Claim **[1]** rejected under **[pre-AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#d0e302399)**
+ because the invention has been abandoned. **[2]**
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded either by form paragraph
+ **[7.07.fti](#fp7.07.fti)**
+ and **[7.10.fti](#fp7.10.fti)** or by form paragraph **[7.103](#fp7.103)**.
+* 2. In bracket 2, insert a full explanation of the evidence
+ establishing abandonment of the invention. See **[MPEP § 2134](s2134.html#d0e205168)**.
+
+
+
+# ¶ 7.18.fti Rejection, pre-AIA 35 U.S.C. 102(d), Foreign
+ Patenting
+
+
+Claim **[1]** rejected under **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** as being barred by applicants **[2]**. **[3]**
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded either by form paragraphs
+ **[7.07.fti](#fp7.07.fti)**
+ and **[7.11.fti](#fp7.11.fti)**
+ or by form paragraph **[7.103](#fp7.103)**.
+* 2. In bracket 3, insert an explanation of this rejection which must
+ include appropriate dates and how they make the foreign patent available under
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)**.
+* 3. Refer to **[MPEP § 2135](s2135.html#d0e205278)** for applicable
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** prior art.
+
+
+
+# ¶ 7.19.fti Rejection, pre-AIA 35 U.S.C. 102(f), Applicant Not the
+ Inventor
+
+
+Claim **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)**
+ because the applicant did not invent the claimed subject matter. **[2]**
+
+
+### Examiner Note:
+
+ * 1. This paragraph must be preceded either by paragraphs
+ **[7.07.fti](#fp7.07.fti)**
+ and **[7.13.fti](#fp7.13.fti)**
+ or by paragraph **[7.103](#fp7.103)**.
+* 2. In bracket 2, insert an explanation of the supporting evidence establishing that
+ applicant was not the inventor. See **[MPEP § 2137](s2137.html#d0e206570)**.
+
+
+
+
+[[top]](#top)
+
+
+, 
+# 2139.01 Effective Filing Date of a Claimed Invention
+ Under Pre-AIA 35 U.S.C. 102 [R-10.2019]
+
+
+In examining applications subject to **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)**, the effective filing date of the claimed invention is the
+ actual filing date of the U.S. application, unless situation (A), (B), or (C) as set
+ forth below applies. Note that the actual U.S. filing date of an application that
+ entered the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)** is the international
+ filing date. See **[35
+ U.S.C. 363](mpep-9015-appx-l.html#d0e306994313)** and **[MPEP § 1893.03(b)](s1893.html#d0e191308)**.
+ 
+
+
+* (A) If the application is a continuation or divisional of one or
+ more earlier U.S. applications or international applications and if the
+ requirements of **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)** or
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)** have been satisfied, the effective filing date of
+ the claimed invention is the same as the earliest filing date in the line of
+ continuation or divisional applications.
+* (B) If the application is a continuation-in-part of an earlier
+ U.S. application or international application, any claims in the new application
+ not supported by the specification and claims of the parent application have an
+ effective filing date equal to the actual filing date of the new application. Any
+ claims which are fully supported under **[35 U.S.C. 112](mpep-9015-appx-l.html#d0e302824)** by the earlier
+ parent application have the effective filing date of that earlier parent
+ application.
+* (C) If the application properly claims benefit under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)** to a provisional application, the effective filing
+ date of the claimed invention is the filing date of the provisional application
+ for any claims which are fully supported under the first paragraph of
+ **[35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824912)** by the provisional application.
+
+
+The effective filing date for claims subject to
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** is not the filing date of the foreign priority document,
+ although the filing date of the foreign priority document may be used to overcome
+ certain references. See **[MPEP § 2136.05](s2136.html#d0e206333)***et seq.*
+
+
+See **[MPEP
+ § 1893.03(c)](s1893.html#d0e191506)**, subsection III for benefit claims under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, **[120](mpep-9015-appx-l.html#d0e303023313)**, or **[365(c)](mpep-9015-appx-l.html#d0e307053)** in an
+ application that entered the national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**. See
+ **[MPEP §§
+ 211.01(c)](s211.html#ch200_d1ff71_22ea8_22b)** and **[1895](s1895.html#d0e192715)** for additional information on
+ determining the effective filing dates of claimed inventions in a continuation,
+ divisional, or continuation-in-part of a PCT application designating the U.S. See also
+ **[MPEP §§
+ 1895.01](s1895.html#d0e192774)** and **[1896](s1896.html#d0e193032)** which discuss differences between
+ applications filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302673)** and international
+ applications that enter national stage under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**.
+ 
+
+
+, 
+# 2139.02 Determining Whether To Apply Pre-AIA 35 U.S.C.
+ 102(a), (b), or (e) [R-10.2019]
+
+
+*[Editor Note: This MPEP section is **not applicable** to applications
+ subject to examination under the first inventor to file provisions of the AIA as
+ explained in **[35 U.S.C. 100 (note)](mpep-9015-appx-l.html#al_d1d917_1bef1_2b)** and
+ **[MPEP
+ § 2159](s2159.html#ch2100_d20034_1dc34_1dd)**. See **[MPEP §
+ 2152.05](s2152.html#ch2100_d2c184_13c9f_236)** for the examination of applications subject to the
+ first inventor to file provisions of the AIA.]*
+
+**I.** **PRE-AIA 35 U.S.C. 102(b)**First, the examiner should consider whether the
+ reference qualifies as prior art under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)** because
+ this section results in a statutory bar to obtaining a patent. If the publication or
+ issue date of the reference is more than 1 year prior to the effective filing date of
+ the claimed invention (**[MPEP § 2139.01](s2139.html#ch2100_d2c184_12530_2b6)**), the reference
+ qualifies as prior art under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**.
+ 
+
+
+Where the last day of the year dated from the date of
+ publication falls on a Saturday, Sunday or federal holiday, the publication is not a
+ statutory bar under **[pre-AIA 102(b)](mpep-9015-appx-l.html#d0e302395)** if the application was filed on the next
+ succeeding business day. *Ex parte Olah,* 131 USPQ 41 (Bd. App.
+ 1960) (The Board in *Olah* held that **[35 U.S.C. 21(b)](mpep-9015-appx-l.html#d0e301443)**
+ is applicable to the filing of an original application for patent and that
+ applicant’s own activity will not bar a patent if the 1-year grace period expires on
+ a Saturday, Sunday, or federal holiday and the application’s U.S. filing date is the
+ next succeeding business day.). Despite changes to **[37 CFR
+ 1.6(a)(2)](mpep-9020-appx-r.html#d0e313465)** and **[1.10](mpep-9020-appx-r.html#d0e313951)** which permit the USPTO to
+ accord a filing date to an application as of the date of deposit as Priority Mail
+ Express® with the U.S. Postal Service in accordance
+ with **[37
+ CFR 1.10](mpep-9020-appx-r.html#ar_d1b14e_16b60_2be)** (e.g., a Saturday filing date), the rule changes do
+ not affect applicant’s concurrent right to defer the filing of an application until
+ the next business day when the last day for "taking any action" falls on a Saturday,
+ Sunday, or federal holiday (e.g., the last day of the 1-year grace period falls on a
+ Saturday).
+ 
+
+
+If there is evidence of public use or sale activity
+ more than one year prior to the effective filing date of the claimed invention, a
+ rejection should be made under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**, which
+ results in a statutory bar to obtaining a patent, rather than under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. Note that mere knowledge of the invention by the public
+ does not warrant rejection under **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)**,
+ although public knowledge may provide grounds for rejection under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)**. See **[MPEP §§ 2132](s2132.html#d0e203390)** and
+ **[2133.03(a)](s2133.html#d0e203899)**. 
+ 
+
+**II.** **PRE-AIA 35 U.S.C. 102(e)**If the publication or issue date of the reference is
+ too recent for **[pre-AIA 35 U.S.C. 102(b)](mpep-9015-appx-l.html#d0e302395)** to apply, then the examiner should
+ consider **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**.
+ 
+
+
+**[Pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** allows
+ the use of certain international application publications and U.S. patent application
+ publications, and certain U.S. patents as prior art under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as of their respective U.S. filing dates, including
+ certain international filing dates. The prior art date of a reference under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** may be the international filing date if the
+ international filing date was on or after November 29, 2000, the international
+ application designated the United States, and the international application was
+ published by the World Intellectual Property Organization (WIPO) under the Patent
+ Cooperation Treaty **[(PCT) Article 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English language. See
+ **[MPEP §
+ 2136](s2136.html#d0e205544)** for examination guidelines on the application of
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. References based on international applications
+ that were filed prior to November 29, 2000 are subject to the "pre-AIPA" version of
+ 35 U.S.C. 102(e) in force on November 28, 2000. See **[subsection
+ III](s2139.html#ch700_d222ef_29c79_2c1)**, below and **[MPEP § 2136.03](s2136.html#d0e205924)** for additional
+ information.
+ 
+
+
+In order to apply a reference under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, the inventive entity of the application must be
+ different from that of the reference. Note that, where there are joint inventors,
+ only one joint inventor needs to be different for the inventive entities to be
+ different and a rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** is
+ applicable even if there are some joint inventors in common between the application
+ and the reference.
+ 
+
+
+
+#### *35 U.S.C. 102 (pre-AIA)  
+ Conditions for patentability; novelty and
+ loss of right to patent.*
+
+
+\*\*\*\*\*
+
+
+* (e) the invention was described in — (1) an
+ application for patent, published under **[section 122(b)](mpep-9015-appx-l.html#d0e303063)**, by
+ another filed in the United States before the invention by the applicant for
+ patent or (2) a patent granted on an application for patent by another filed
+ in the United States before the invention by the applicant for patent,
+ except that an international application filed under the treaty defined in
+ **[section
+ 351(a)](mpep-9015-appx-l.html#d0e306875)** shall have the effects for the purposes of this
+ subsection of an application filed in the United States only if the
+ international application designated the United States and was published
+ under **[Article 21(2)](mpep-9025-appx-t.html#d0e363634)** of such treaty in the English language;
+ or
+
+
+\*\*\*\*\*
+
+
+
+**[Pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** has two separate clauses, namely, **[pre-AIA 35 U.S.C.
+ 102(e)(1)](mpep-9015-appx-l.html#d0e302407)** for publications of patent applications and
+ **[pre-AIA 35
+ U.S.C. 102(e)(2)](mpep-9015-appx-l.html#d0e302407)** for U.S. patents. **[Pre-AIA 35 U.S.C.
+ 102(e)(1)](mpep-9015-appx-l.html#d0e302407)**, in combination with **[pre-AIA 35 U.S.C.
+ 374](mpep-9015-appx-l.html#d0e307311)**, created a new category of prior art by providing prior art
+ effect for certain publications of patent applications, including certain
+ international applications, as of their effectively filed dates in the United States
+ (which include certain international filing dates). Under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**, an international filing date which is on or after
+ November 29, 2000 is the United States filing date if the international application
+ designated the United States and was published by the World Intellectual Property
+ Organization (WIPO) under the Patent Cooperation Treaty **[(PCT) Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** in the English language. Therefore, the prior art date of
+ a reference under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** may be the international filing date
+ (if all three conditions noted above are met) or an earlier U.S. filing date for
+ which priority or benefit is properly claimed.
+ 
+
+
+Publication under **[PCT Article 21(2)](mpep-9025-appx-t.html#d0e363634)** may result from
+ a request for early publication by an applicant of an international application or
+ after the expiration of 18-months after the earliest claimed priority date in an
+ international application. International applications, which: (1) were filed prior to
+ November 29, 2000, or (2) did not designate the U.S., or (3) were not published in
+ English under **[PCT
+ Article 21(2)](mpep-9025-appx-t.html#d0e363634)** by WIPO, may not be used to reach back (bridge)
+ to an earlier filing date through a priority or benefit claim for prior art purposes
+ under **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. An international filing date which is on or
+ after November 29, 2000 is a United States filing date for purposes of determining
+ the earliest effective prior art date of a patent if the international application
+ designated the United States and was published in the English language under
+ **[PCT Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** by WIPO. No international filing dates prior to November
+ 29, 2000 may be relied upon as a prior art date under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**. 
+ 
+
+**III.** **"PRE-AIPA" 35 U.S.C. 102(e) AS IN FORCE ON NOVEMBER 28, 2000**
+#### *"Pre-AIPA" 35 U.S.C. 102  
+ Conditions for patentability; novelty and
+ loss of right to patent (as in force on November 28, 2000).*
+
+
+A person shall be entitled to a patent unless - 
+
+
+\*\*\*\*\*
+
+
+* (e) the invention was described in a patent
+ granted on an application for patent by another filed in the United States
+ before the invention thereof by the applicant for patent, or on an
+ international application by another who has fulfilled the requirements of
+ paragraphs (1), (2), and (4) of section 371(c) of this title before the
+ invention thereof by the applicant for patent.
+
+
+\*\*\*\*\*
+
+
+
+Patents issued directly, or indirectly, from
+ international applications filed before November 29, 2000 may only be used as prior
+ art based on the provisions of pre-AIPA 35 U.S.C. 102(e) as in force on November 28,
+ 2000. Thus, the pre-AIPA 35 U.S.C. 102(e) date of such a prior art patent is the
+ earliest of the date of compliance with 35 U.S.C. 371(c)(1), (2) and (4), or the
+ filing date of the later-filed U.S. continuing application that claimed the benefit
+ of the international application. Publications of international applications filed
+ before November 29, 2000 (which would include WIPO publications and U.S. publications
+ of the national stage (35 U.S.C. 371)) do not have a pre-AIPA 35 U.S.C. 102(e) date
+ at all (however, such publications are available as prior art under **[pre-AIA 35 U.S.C. 102(a)
+ or (b)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** as of their publication date).
+ 
+
+**IV.** **PRE-AIA 35 U.S.C. 102(a)**Even if the reference is prior art under
+ **[pre-AIA 35
+ U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, the examiner should still consider
+ **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** for two reasons. First, if the
+ reference is a U.S. patent or patent application publication of, or claims benefit
+ of, an international application, the publication of the international application
+ under **[PCT Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** may be the earliest prior art date under
+ **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** for the disclosure. Second,
+ references that are only prior art under **[pre-AIA 35 U.S.C. 102(e), (f), or
+ (g)](mpep-9015-appx-l.html#d0e302407)** and applied in a rejection under **[pre-AIA 35 U.S.C.
+ 103(a)](mpep-9015-appx-l.html#d0e302455)** are subject to being disqualified under
+ **[pre-AIA 35
+ U.S.C. 103(c)](mpep-9015-appx-l.html#d0e302521)** if the reference and the application were
+ commonly owned, or subject to an obligation of common assignment, at the time the
+ invention was made. For **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** to
+ apply, the reference must have a publication date earlier in time than the effective
+ filing date of the application under examination, and must not be the inventor or at
+ least one joint inventor's own work. 
+ 
+
+
+If the claimed invention is the subject of activity by
+ an entity other than the inventor(s), such as sale by another, manufacture by another
+ or disclosure of the invention by at least one joint inventor to another entity then
+ both **[pre-AIA 35
+ U.S.C. 102(a) and (b)](mpep-9015-appx-l.html#d0e302391)** may be applicable. If the evidence only
+ points to knowledge within the year prior to the effective filing date then
+ **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** applies. However, no rejection under
+ **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** should be made if there is evidence that
+ applicant made the invention and only disclosed it to others within the year prior to
+ the effective filing date.
+ 
+
+
+, 
+# 2139.03 Form Paragraphs for Use in Rejections Under
+ Pre-AIA 35 U.S.C. 102 [R-10.2019]
+
+
+The following form paragraphs should be used in making
+ the appropriate rejections. Note that the particular part of the reference relied upon
+ to support the rejection should be identified. 
+ 
+
+
+# ¶ 7.06 Notice re prior art available under both pre-AIA and
+ AIA
+
+
+In the event the determination of the status of the application as subject
+ to AIA **[35 U.S.C.
+ 102](mpep-9015-appx-l.html#al_d1fbe1_234ed_52)** and **[103](mpep-9015-appx-l.html#al_d1fbe1_19797_b0)** (or as subject to **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)**
+ and **[103](mpep-9015-appx-l.html#d0e302450)**)
+ is incorrect, any correction of the statutory basis for the rejection will not be considered a
+ new ground of rejection if the prior art relied upon, and the rationale supporting the
+ rejection, would be the same under either status.
+ 
+
+
+### Examiner Note:
+
+ * 1.  This form paragraph must be used in all Office
+ Actions when a prior art rejection is made in an application with an actual filing
+ date on or after March 16, 2013, that claims priority to, or the benefit of, an
+ application filed before March 16, 2013.
+* 2.  This form paragraph should only be used ONCE in an
+ Office action.
+
+
+
+# ¶ 7.07.fti Statement of Statutory Basis, pre-AIA 35 U.S.C.
+ 102
+
+
+The following is a quotation of the appropriate paragraphs of
+ **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** that form the basis for the rejections under this section made in
+ this Office action:
+ 
+
+
+A person shall be entitled to a patent
+ unless—
+ 
+
+
+### Examiner Note:
+
+ * 1. The statute is no longer being re-cited in all Office
+ actions. It is only required in first actions on the merits and final rejections. Where
+ the statute is not being cited in an action on the merits, use form paragraph
+ **[7.103](#fp7.103)**.
+* 2. Form paragraphs **[7.07.fti](#fp7.07.fti)** to
+ **[7.14.fti](#fp7.14.fti)**
+ are to be used ONLY ONCE in a given Office action.
+* 3. For applications with an actual filing date on or
+ after March 16, 2013, that claim priority to, or the benefit of, an application filed
+ before March 16, 2013, this form paragraph must be preceded by form
+ paragraph**[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.08.fti Pre-AIA 102(a), Activity by Another Before Invention by
+ Applicant
+
+
+(a) the invention was known or used by others in this
+ country, or patented or described in a printed publication in this or a foreign country,
+ before the invention thereof by the applicant for a patent.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti.](#fp7.07.fti)**
+
+
+
+# ¶ 7.09.fti Pre-AIA 102(b), Activity More Than One Year Prior to
+ Filing
+
+
+(b) the invention was patented or described in a printed
+ publication in this or a foreign country or in public use or on sale in this country, more
+ than one year prior to the date of application for patent in the United
+ States.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti](#fp7.07.fti)**,
+ and may be preceded by form paragraph **[7.08.fti](#fp7.08.fti)**.
+ 
+
+
+
+# ¶ 7.10.fti Pre-AIA 102(c), Invention Abandoned
+
+
+(c) he has abandoned the invention.
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti](#fp7.07.fti)**,
+ and may be preceded by one or more of form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+ 
+
+
+
+# ¶ 7.11.fti Pre-AIA 102(d), Foreign Patenting
+
+
+(d) the invention was first patented or caused to be
+ patented, or was the subject of an inventor’s certificate, by the applicant or his legal
+ representatives or assigns in a foreign country prior to the date of the application for
+ patent in this country on an application for patent or inventor’s certificate filed more than
+ twelve months before the filing of the application in the United States.
+ 
+
+
+### Examiner Note:
+
+
+This form paragraph must be preceded by form paragraph
+ **[7.07.fti](#fp7.07.fti)**,
+ and may be preceded by one or more of form paragraphs **[7.08.fti](#fp7.08.fti)** to **[7.10.fti](#fp7.10.fti)**.
+ 
+
+
+
+# ¶ 7.12.fti Pre-AIA 35 U.S.C 102(e), Patent Application Publication or
+ Patent to Another with Earlier Filing Date, in view of the American Inventors Protection Act
+ of 1999 (AIPA) and the Intellectual Property and High Technology Technical Amendments Act of
+ 2002
+
+
+(e) the invention was described in (1) an application for
+ patent, published under section **[122(b)](mpep-9015-appx-l.html#d0e303063)**, by another filed in the United
+ States before the invention by the applicant for patent or (2) a patent granted on an
+ application for patent by another filed in the United States before the invention by the
+ applicant for patent, except that an international application filed under the treaty defined
+ in section **[351(a)](mpep-9015-appx-l.html#d0e306875)** shall have the effects for purposes of this subsection of an
+ application filed in the United States only if the international application designated the
+ United States and was published under **[Article 21(2)](mpep-9025-appx-t.html#d0e363634)** of such treaty in the
+ English language.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used if the
+ reference is one of the following:
+	+ a U.S. patent or a publication of a U.S.
+	 application for patent filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302678)**;
+	+ a U.S. patent issued directly or indirectly from,
+	 or a U.S. or WIPO publication of, an international application (i.e., a PCT
+	 application) if the international application has an international filing date on or
+	 after November 29, 2000;
+	+ a U.S. patent issued from, or a WIPO
+	 publication of, an international design application that designates the United
+	 States.
+* 2. In determining the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** if the subject matter used to
+ make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). Do NOT consider foreign
+ priority claims under **[35 U.S.C. 119(a) - (d)](mpep-9015-appx-l.html#d0e302926pre)**,
+ **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_29a27_324)**. 
+ 
+>  
+
+
+In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 3. In order to rely on an international filing date for
+ prior art purposes under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, the
+ international application (PCT) must have been filed on or after November 29, 2000, it
+ must have designated the U.S., and the international publication under **[PCT Article
+ 21(2)](mpep-9025-appx-t.html#d0e363634)** by WIPO must have been in English. If any one of the
+ conditions is not met, the international filing date is not a U.S. filing date for prior
+ art purposes under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**.
+* 4. If an international application (PCT) was published
+ by WIPO in a language other than English, or did not designate the U.S., the
+ international application’s publication by WIPO, the U.S. publication of the national
+ stage application (**[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**) of the international
+ application and a U.S. patent issued from the national stage of the international
+ application may not be applied as a reference under **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)**  and **[7.09.fti](#fp7.09.fti)**.
+* 5. If an international application (PCT) was published by WIPO in a
+ language other than English, the U.S. publication of, or a U.S. patent issued from, a
+ continuing application claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to such an international application, has a
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** date as of the earliest U.S. filing date after the
+ international filing date.
+* 6. If the reference is a U.S. patent issued directly, or
+ indirectly, from an international application (PCT) that has an international filing
+ date prior to November 29, 2000, use form paragraph **[7.12.01.fti](#fp7.12.01.fti)**. In that situation,
+ **[pre-AIPA 35 U.S.C. 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** is applicable in
+ the determination of the prior art date of the patent issued from such an international
+ application.
+* 7. If the reference is a publication of an
+ international application (PCT), including the U.S. publication of a national stage
+ (**[35 U.S.C.
+ 371](mpep-9015-appx-l.html#d0e307164)**), that has an international filing date prior to November 29,
+ 2000, do not use this form paragraph. Such a reference may not be applied as a prior art
+ reference under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under
+ **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+* 8. This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08.fti)**  to **[7.11.fti](#fp7.11.fti)**.
+
+
+
+# ¶ 7.12.01.fti Pre-AIPA 35 U.S.C. 102(e), Patent to Another with Earlier
+ Filing Date, Reference is a U.S. Patent Issued Directly or Indirectly From a National Stage
+ of, or a Continuing Application Claiming Benefit to, an International Application Having an
+ International Filing Date Prior to November 29, 2000
+
+
+(e) the invention was described in a patent granted on an
+ application for patent by another filed in the United States before the invention thereof by
+ the applicant for patent, or on an international application by another who has fulfilled the
+ requirements of paragraphs (1), (2), and (4) of section **[371(c)](mpep-9015-appx-l.html#d0e307183)** of this title
+ before the invention thereof by the applicant for patent. 
+ 
+
+
+The changes made to 35 U.S.C. 102(e) by the American
+ Inventors Protection Act of 1999 (AIPA) and the Intellectual Property and High Technology
+ Technical Amendments Act of 2002 do not apply when the reference is a U.S. patent resulting
+ directly or indirectly from an international application filed before November 29, 2000.
+ Therefore, the prior art date of the reference is determined under 35 U.S.C. 102(e) prior to
+ the amendment by the AIPA (**pre-AIPA** 35 U.S.C. 102(e)).
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph should only be used if the
+ reference is a U.S. patent issued directly or indirectly from either a national stage of
+ an international application (application under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**)
+ which has an international filing date prior to November 29, 2000, or a continuing
+ application claiming benefit to an international application having an international
+ filing date prior to November 29, 2000.
+* 2. If the reference is a U.S. patent issued directly from a
+ national stage of such an international application, the reference’s**pre-AIPA** 35 U.S.C. 102(e) date is the date that the requirements of
+ **[35 U.S.C.
+ 371(c)(1), (2) and (4)](mpep-9015-appx-l.html#d0e307187)** were fulfilled. The language of WIPO
+ publication (PCT) is not relevant in this situation. Caution: the international
+ publication of the international application (PCT) by WIPO may have an earlier prior art
+ date under **[pre-AIA 35 U.S.C. 102(a)](mpep-9015-appx-l.html#al_d1d85b_11e72_2ee)** or **[pre-AIA 102(b)](mpep-9015-appx-l.html#d0e302395)**.
+* 3. If the reference is a U.S. patent issued directly from a
+ continuing application claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)** or
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)** to such an international application (which had not
+ entered the national stage prior to the continuing application’s filing date, otherwise
+ see note 4), the prior art reference’s **pre-AIPA** 35 U.S.C. 102(e) date is
+ the actual U.S. filing date of the continuing application. Caution: the international
+ publication of the international application (PCT) by WIPO may have an earlier prior art
+ date under **[pre-AIA 35
+ U.S.C. 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[pre-AIA 102(b)](mpep-9015-appx-l.html#d0e302395)**.
+* 4. In determining the **pre-AIPA** 35 U.S.C. 102(e) date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313)**, **[121](mpep-9015-appx-l.html#d0e303040912)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** only if the subject matter
+ used to make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). A benefit claim to a
+ U.S. patent of an earlier-filed international application may only result in an
+ effective U.S. filing date as of the date the requirements of **[35 U.S.C. 371(c)(1), (2) and
+ (4)](mpep-9015-appx-l.html#d0e307187)** were fulfilled. Do NOT consider any benefit claims to U.S.
+ applications which are filed before an international application. Do NOT consider
+ foreign priority claims under **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302926)**-**[(d)](mpep-9015-appx-l.html#d0e302947)**,
+  **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_27b56_2ab)**. 
+ In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 5. This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08fti)** to **[7.11.fti](#fp7.11fti)**.
+
+
+
+# ¶ 7.13.fti Pre-AIA 102(f), Applicant Not the Inventor
+
+
+(f) he did not himself invent the subject matter sought to
+ be patented.
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08.fti)** to **[7.12.fti](#fp7.12.fti)**.
+
+
+
+# ¶ 7.14.fti Pre-AIA 102(g), Priority of Invention
+
+
+(g)(1) during the course of an interference conducted under
+ section **[135](mpep-9015-appx-l.html#al_d1fbe1_19834_19b)** or section **[291](mpep-9015-appx-l.html#al_d1fbe1_198be_137)**, another inventor involved therein
+ establishes, to the extent permitted in section **[104](mpep-9015-appx-l.html#al_d1fbe1_197a5_8)**, that before
+ such person’s invention thereof the invention was made by such other inventor and not
+ abandoned, suppressed, or concealed, or (2) before such person’s invention thereof, the
+ invention was made in this country by another inventor who had not abandoned, suppressed, or
+ concealed it. In determining priority of invention under this subsection, there shall be
+ considered not only the respective dates of conception and reduction to practice of the
+ invention, but also the reasonable diligence of one who was first to conceive and last to
+ reduce to practice, from a time prior to conception by the other.
+ 
+
+
+### Examiner Note:
+
+ * This form paragraph must be preceded by form
+ paragraph **[7.07.fti](#fp7.07.fti)**, and may be preceded by one or more of form
+ paragraphs **[7.08.fti](#fp7.08.fti)** to **[7.13.fti](#fp7.13.fti)**.
+
+
+
+# ¶ 7.15.fti Rejection, Pre-AIA 35 U.S.C. 102(a), (b) Patent or Publication,
+ and (g)
+
+
+Claim(s) **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102](mpep-9015-appx-l.html#d0e302383)****[2]** as being **[3]** by **[4]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. In bracket 2, insert the appropriate paragraph letter or letters
+ of **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** in parentheses. If paragraph (e) of **[pre-AIA 35 U.S.C.
+ 102](mpep-9015-appx-l.html#d0e302383)** is applicable, use form paragraph **[7.15.01.fti](#fp7.15.01.fti)**,
+ **[7.15.02.fti](#fp7.15.02.fti)** or **[7.15.03.fti](#fp7.15.03.fti)**.
+* 2. In bracket 3, insert either --clearly anticipated-- or
+ --anticipated-- with an explanation at the end of the paragraph.
+* 3. In bracket 4, insert the prior art relied upon.
+* 4. This rejection must be preceded either by form paragraph
+ **[7.07.fti](#fp7.07.fti )**
+ and form paragraphs **[7.08.fti](#fp7.08.fti)**, **[7.09.fti](#fp7.09.fti)**, and
+ **[7.14.fti](#fp7.14.fti)**
+ as appropriate, or by form paragraph **[7.103](#fp7.103)**.
+* 5. If **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** is also
+ being applied, this form paragraph must be followed by either form paragraph
+ **[7.15.01.fti](#fp7.15.01.fti)**, **[7.15.02.fti](#fp7.15.02.fti)** or
+ **[7.15.03.fti](#fp7.15.03.fti)**.
+* 6. For applications with an actual filing date on or after March 16,
+ 2013, that claim priority to, or the benefit of, an application filed before March 16,
+ 2013, this form paragraph must be preceded by form paragraph **[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.15.01.fti Provisional Rejection, Pre-AIA 35 U.S.C. 102(e) - Common
+ Assignee, Common Applicant, or At Least One Common Joint Inventor
+
+
+Claim(s) **[1]** is/are provisionally rejected under
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as being anticipated by copending Application No. **[2]** which has a common **[3]** with the instant application.
+ 
+
+
+Based upon the earlier effective U.S. filing date of the copending
+ application, it would constitute prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**, if published
+ under **[35 U.S.C.
+ 122(b)](mpep-9015-appx-l.html#d0e303063)** or patented. This provisional rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ is based upon a presumption of future publication or patenting of the copending application.
+ **[4]**.
+ 
+
+
+This provisional rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** might be overcome
+ either by a showing under **[37
+ CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that any invention disclosed but not claimed in the copending
+ application was derived from the inventor of this application and is thus not the invention
+ "by another," or by an appropriate showing under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**. 
+ 
+
+
+This rejection may not be overcome by the filing of a terminal
+ disclaimer. See *In re Bartfeld*, 925 F.2d 1450, 17 USPQ2d 1885 (Fed. Cir.
+ 1991).
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is used to provisionally reject over a
+ copending application with an earlier filing date that discloses the claimed invention
+ which has not been published under **[35 U.S.C. 122](mpep-9015-appx-l.html#d0e303054)**. The copending
+ application must have either a common assignee, a common applicant (**[35 U.S.C. 118](mpep-9015-appx-l.html#d0e302910912)**),
+ or at least one common joint inventor.
+* 2. Use **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended
+ by the American Inventors Protection Act (AIPA) and the Intellectual Property and High
+ Technology Technical Amendments Act of 2002 (form paragraph **[7.12.fti](#fp7.12.fti)**) to determine the copending
+ application’s prior art date, unless the copending application is based directly, or
+ indirectly, from an international application which has an international filing date
+ prior to November 29, 2000. If the copending application is either a national stage of
+ an international application (application under **[35 U.S.C. 371](mpep-9015-appx-l.html#d0e307164)**) which has an
+ international filing date prior to November 29, 2000, or a continuing application
+ claiming benefit under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** to an international
+ application having an international filing date prior to November 29, 2000, use
+ **[pre-AIPA
+ 35 U.S.C. 102(e)](s2139.html#ch700_d222ef_29c79_2c1)** (form paragraph **[7.12.01.fti](#fp7.12.01.fti)**). See the Examiner
+ Notes for form paragraphs **[7.12.fti](#fp7.12.fti)** and **[7.12.01.fti](#fp7.21.01.fti)** to assist in the
+ determination of the reference’s **[35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date.
+* 3. If the claims would have been obvious over the invention
+ disclosed in the other copending application, use form paragraph
+ **[7.21.01.fti](#fp7.21.01.fti)**.
+* 4. In bracket 3, insert --assignee--, --applicant--, or --joint
+ inventor--.
+* 5. In bracket 4, an appropriate explanation may be provided in
+ support of the examiner’s position on anticipation, if necessary.
+* 6. Under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, two patents are not
+ permitted to issue on identical subject matter. Any claims in the instant application
+ directed to the same invention claimed in the reference should be provisionally rejected
+ using form paragraphs **[8.30](#fp8.30)** and **[8.32](#fp8.32)**. Additionally, the applicant should be required to
+ amend or cancel claims such that the applied reference and the instant application no
+ longer contain claims directed to the same invention using form paragraph
+ **[8.27.fti](#fp8.27.fti)**.
+* 7. Any claims in the instant application that are directed to
+ subject matter that is not patentably distinct from an invention claimed in the
+ reference should be rejected (or provisionally rejected if the reference has not yet
+ issued as a patent) on the grounds of nonstatutory double patenting using form paragraph
+ **[8.33](#fp8.33)** and at
+ least one of form paragraphs **[8.34](#fp8.34)** - **[8.39](#fp8.39)**.
+* 8. If evidence is additionally of record to show that either
+ invention is prior art to the other under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** or
+ **[(g)](mpep-9015-appx-l.html#d0e302424)**, a rejection using form paragraphs
+ **[7.13.fti](#fp7.13.fti)** and/or **[7.14.fti](#fp7.14.fti)** should also be made.
+* 9. For applications with an actual filing date on or after March
+ 16, 2013 that claim priority to, or the benefit of, an application filed before March
+ 16, 2013, this form paragraph must be preceded by form paragraph
+ **[7.06](#fp7.06)**.
+
+
+
+# ¶ 7.15.02.fti Rejection, Pre-AIA 35 U.S.C. 102(e), Common Assignee,
+ Applicant, or Joint Inventor
+
+
+Claim(s) **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ as being anticipated by **[2]**.
+ 
+
+
+The applied reference has a common **[3]** with the instant
+ application. Based upon the earlier effective U.S. filing date of the reference, it
+ constitutes prior art under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. This rejection under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ might be overcome either by a showing under **[37 CFR 1.132](mpep-9020-appx-r.html#d0e323552)** that any invention disclosed
+ but not claimed in the reference was derived from the inventor or joint inventors (i.e., the
+ inventive entity) of this application and is thus not the invention "by another," or if the
+ same invention is not being claimed, by an appropriate showing under **[37 CFR 1.131(a)](mpep-9020-appx-r.html#aia_d0e323512)**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is used to reject over a patent or patent
+ application publication with an earlier effective filing date. The patent or patent
+ application publication must have either a common assignee, a common applicant
+ (**[35 U.S.C.
+ 118](mpep-9015-appx-l.html#d0e302910912)**), or a common joint inventor.
+* 2. **[Pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended by the American Inventors Protection Act of 1999
+ (AIPA) and the Intellectual Property and High Technology Technical Amendments Act of
+ 2002 (form paragraph **[7.12.fti](#fp7.12.fti)**) must be applied if the reference is by
+ another and is one of the following:
+	+ a U.S. patent or a publication of a U.S. application for
+	 patent filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302678)**;
+	+ a U.S. patent issued directly or indirectly from, or a U.S.
+	 or WIPO publication of, **an international application (PCT) if the international
+	 application has an international filing date on or after November 29,
+	 2000**;
+	+ a U.S. patent issued from, or a WIPO publication of, an
+	 international design application that designates the United States.See the Examiner Notes for form paragraph
+ **[7.12.fti](#fp7.12.fti)**
+ to assist in the determination of the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date of the
+ reference.
+* 3. **[Pre-AIPA
+ 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** (form paragraph **[7.12.01.fti](#fp7.12.01.fti)**) must be applied if
+ the reference is a U.S. patent issued directly, or indirectly, from an international
+ application filed prior to November 29, 2000. See the Examiner Notes for form paragraph
+ **[7.12.01.fti](#fp7.12.01.fti)** to assist in the determination of the
+ **[pre-AIPA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date of the
+ reference.
+* 4. In determining the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040912)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** if the subject matter used to
+ make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). A benefit claim to a
+ U.S. patent of an earlier-filed international application, which has an international
+ filing date prior to November 29, 2000, may only result in an effective U.S. filing date
+ as of the date the requirements of **[35 U.S.C. 371(c)(1)](mpep-9015-appx-l.html#d0e307187)**,
+ **[(2)](mpep-9015-appx-l.html#d0e307194)** and **[(4)](mpep-9015-appx-l.html#d0e307205)** were fulfilled. Do NOT consider
+ any benefit claims to U.S. applications which are filed before an international
+ application that has an international filing date prior to November 29, 2000. Do NOT
+ consider foreign priority claims under **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302926pre)** - **[(d)](mpep-9015-appx-l.html#d0e302926pre)**,
+ **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_29a27_324)**. 
+ In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 5. If the reference is a publication of an international application
+ (PCT), including voluntary U.S. publication under **[35 U.S.C. 122](mpep-9015-appx-l.html#d0e303054)** of the national stage
+ or a WIPO PCT publication, that has an international filing date prior to November 29,
+ 2000, did not designate the United States or was not published in English by WIPO, do
+ not use this form paragraph. Such a reference is not a prior art reference under
+ **[pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+* 6. In bracket 3, insert --assignee--, --applicant--, or --joint
+ inventor--.
+* 7. This form paragraph must be preceded by either of form
+ paragraphs **[7.12.fti](#fp7.12.fti)** or **[7.12.01.fti](#fp7.12.01.fti)**.
+* 8. Patent application publications may only be used if this form
+ paragraph was preceded by form paragraph **[7.12.fti](#fp7.12.fti)**.
+* 9. For applications with an actual filing date on or after March
+ 16, 2013, that claim priority to, or the benefit of, an application filed before March
+ 16, 2013, this form paragraph must be preceded by form paragraph
+ **[7.06](#fp7.06)**.
+* 10. Under **[35 U.S.C. 101](mpep-9015-appx-l.html#d0e302376)**, two patents are not
+ permitted to issue on identical subject matter. Any claims in the instant application
+ directed to the same invention claimed in the reference should be rejected (or
+ provisionally rejected if the reference has not yet issued as a patent) using form
+ paragraphs **[8.30](#fp8.30)**
+ - **[8.32](#fp8.32)**.
+ Additionally, the applicant should be required to resolve any issue of priority under
+ **[pre-AIA 35 U.S.C.
+ 102(g)](mpep-9015-appx-l.html#d0e302424)** and possibly **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)** using form
+ paragraph **[8.27.fti](#fp8.27.fti)**. See **[MPEP § 804](s804.html#d0e98894)**, subsection II.A.
+* 11. Any claims in the instant application that are directed to
+ subject matter that is not patentably distinct from an invention claimed in the
+ reference should be rejected (or provisionally rejected if the reference has not yet
+ issued as a patent) on the grounds of nonstatutory double patenting using form paragraph
+ **[8.33](#fp8.33)** and at
+ least one of form paragraphs **[8.34](#fp8.34)** - **[8.39](#fp8.39)**.
+
+
+
+# ¶ 7.15.03.fti Rejection, pre-AIA 35 U.S.C. 102(e), No Common Assignee or
+ Inventor(s)
+
+
+Claim(s) **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**
+ as being **[2]** by **[3]**.
+ 
+
+
+### Examiner Note:
+
+ * 1. This form paragraph is used to reject over a patent or patent
+ application publication with an earlier filing date. The patent or patent application
+ publication is not required to have a common assignee or a common inventor.
+* 2. **[Pre-AIA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** as amended by the American Inventors Protection Act of 1999
+ (AIPA) and the Intellectual Property and High Technology Technical Amendments Act of
+ 2002 (form paragraph **[7.12.fti](#fp7.12.fti)**) must be applied if the reference is one of
+ the following:
+	+ a U.S. patent or a publication of a U.S. application for
+	 patent filed under **[35 U.S.C. 111(a)](mpep-9015-appx-l.html#d0e302678aia)**;
+	+ a U.S. patent issued directly or indirectly from, or a U.S. or
+	 WIPO publication of, an international application (PCT) if the international
+	 application has an international filing date on or after November 29, 2000;
+	+ a U.S. patent issued from, or a WIPO publication of, an
+	 international design application that designates the United States.See the Examiner Notes for form paragraph
+ **[7.12.fti](#fp7.12.fti)**
+ to assist in the determination of the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date of the
+ reference.
+* 3. **[Pre-AIPA 35 U.S.C.
+ 102(e)](mpep-9015-appx-l.html#d0e302407)** (form paragraph **[7.12.01.fti](#fp7.12.01.fti)**) must be applied if
+ the reference is a U.S. patent issued directly, or indirectly, from an international
+ application filed prior to November 29, 2000. See the Examiner Notes for form paragraph
+ **[7.12.01.fti](#fp7.12.01.fti)** to assist in the determination of the pre-AIPA 35 U.S.C.
+ 102(e) date of the reference.
+* 4. In determining the **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)** date,
+ consider benefit claims to earlier-filed U.S. provisional applications under
+ **[35 U.S.C.
+ 119(e)](mpep-9015-appx-l.html#d0e302951)**, and to earlier-filed U.S. nonprovisional applications and
+ international applications under **[35 U.S.C. 120](mpep-9015-appx-l.html#d0e303023313p)**, **[121](mpep-9015-appx-l.html#d0e303040)**,
+ **[365(c)](mpep-9015-appx-l.html#d0e307053)**, or **[386(c)](mpep-9015-appx-l.html#al_d225a2_29a9c_1b3)** if the subject matter used to
+ make the rejection is appropriately supported in the relied upon earlier-filed
+ application’s disclosure (and any intermediate application(s)). A benefit claim to a
+ U.S. patent of an earlier-filed international application, which has an international
+ filing date prior to November 29, 2000, may only result in an effective U.S. filing date
+ as of the date the requirements of **[35 U.S.C. 371(c)(1)](mpep-9015-appx-l.html#d0e307187)**,
+ **[(2)](mpep-9015-appx-l.html#d0e307194)** and **[(4)](mpep-9015-appx-l.html#d0e307205)** were fulfilled. Do NOT consider
+ any benefit claims to U.S. applications which are filed before an international
+ application that has an international filing date prior to November 29, 2000. Do NOT
+ consider foreign priority claims under **[35 U.S.C. 119(a)](mpep-9015-appx-l.html#d0e302926pre)** - **[(d)](mpep-9015-appx-l.html#d0e302926pre)**,
+ **[365(a) or
+ (b)](mpep-9015-appx-l.html#d0e307039)**, or **[35 U.S.C. 386(a) or (b)](mpep-9015-appx-l.html#al_d225a2_29a27_324)**. 
+ In addition, a reference (i.e., a U.S. patent, published U.S.
+ patent application, or WIPO publication) is entitled to the benefit of the filing date
+ of a provisional application only if at least one of the claims in the reference is
+ supported by the written description of the provisional application in compliance with
+ **[pre-AIA 35 U.S.C.
+ 112](mpep-9015-appx-l.html#d0e302824)**, first paragraph or **[35 U.S.C.
+ 112(a)](mpep-9015-appx-l.html#al_d1d85b_2ae60_3d5)**. See *Dynamic Drinkware, LLC, v. National Graphics,
+ Inc.,* 800 F.3d 1375, 116 USPQ2d 1045 (Fed. Cir. 2015) and *Amgen v.
+ Sanofi*, 872 F.3d 1367, 1380 (Fed. Cir. 2017).
+* 5. If the reference is a publication of an international
+ application (PCT), including voluntary U.S. publication under **[35 U.S.C. 122](mpep-9015-appx-l.html#d0e303054)** of
+ the national stage or a WIPO (PCT) publication, that has an international filing date
+ prior to November 29, 2000, did not designate the United States or was not published in
+ English by WIPO, do not use this form paragraph. Such a reference is not a prior art
+ reference under **[pre-AIA 35 U.S.C. 102(e)](mpep-9015-appx-l.html#d0e302407)**. The reference may be applied under
+ **[pre-AIA 35 U.S.C.
+ 102(a)](mpep-9015-appx-l.html#d0e302391)** or **[(b)](mpep-9015-appx-l.html#d0e302395)** as of its publication date. See
+ form paragraphs **[7.08.fti](#fp7.08.fti)** and **[7.09.fti](#fp7.09.fti)**.
+* 6. In bracket 2, insert either --clearly anticipated-- or
+ --anticipated-- with an explanation at the end of the paragraph.
+* 7. In bracket 3, insert the prior art relied upon.
+* 8. This form paragraph must be preceded by either of form paragraphs
+ **[7.12.fti](#fp7.12.fti)** or **[7.12.01.fti](#fp7.12.01.fti)**.
+* 9. Patent application publications may only be used if this form
+ paragraph was preceded by form paragraph **[7.12.fti](#fp7.12.fti)**.
+
+
+
+# ¶ 7.16.fti Rejection, pre-AIA 35 U.S.C. 102(b), Public Use or on
+ Sale
+
+
+Claim **[1]** rejected under **[pre-AIA 35 U.S.C.
+ 102(b)](mpep-9015-appx-l.html#d0e302395)** based upon a public use or sale of the invention.
+ **[2]**
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded either by form
+ paragraphs **[7.07.fti](#fp7.07.fti)** and **[7.09.fti](#fp7.09.fti)** or by form paragraph
+ **[7.103](#fp7.103)**.
+* 2. A full explanation of the evidence establishing a
+ public use or sale must be provided in bracket 2.
+
+
+
+# ¶ 7.17.fti Rejection, pre-AIA 35 U.S.C. 102(c), Abandonment of
+ Invention
+
+
+Claim **[1]** rejected under **[pre-AIA 35 U.S.C. 102(c)](mpep-9015-appx-l.html#d0e302399)**
+ because the invention has been abandoned. **[2]**
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded either by form paragraph
+ **[7.07.fti](#fp7.07.fti)**
+ and **[7.10.fti](#fp7.10.fti)** or by form paragraph **[7.103](#fp7.103)**.
+* 2. In bracket 2, insert a full explanation of the evidence
+ establishing abandonment of the invention. See **[MPEP § 2134](s2134.html#d0e205168)**.
+
+
+
+# ¶ 7.18.fti Rejection, pre-AIA 35 U.S.C. 102(d), Foreign
+ Patenting
+
+
+Claim **[1]** rejected under **[pre-AIA 35 U.S.C.
+ 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** as being barred by applicants **[2]**. **[3]**
+
+
+### Examiner Note:
+
+ * 1. This form paragraph must be preceded either by form paragraphs
+ **[7.07.fti](#fp7.07.fti)**
+ and **[7.11.fti](#fp7.11.fti)**
+ or by form paragraph **[7.103](#fp7.103)**.
+* 2. In bracket 3, insert an explanation of this rejection which must
+ include appropriate dates and how they make the foreign patent available under
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)**.
+* 3. Refer to **[MPEP § 2135](s2135.html#d0e205278)** for applicable
+ **[pre-AIA
+ 35 U.S.C. 102(d)](mpep-9015-appx-l.html#al_d1d85b_11ecb_1d1)** prior art.
+
+
+
+# ¶ 7.19.fti Rejection, pre-AIA 35 U.S.C. 102(f), Applicant Not the
+ Inventor
+
+
+Claim **[1]** is/are rejected under **[pre-AIA 35 U.S.C. 102(f)](mpep-9015-appx-l.html#d0e302420)**
+ because the applicant did not invent the claimed subject matter. **[2]**
+
+
+### Examiner Note:
+
+ * 1. This paragraph must be preceded either by paragraphs
+ **[7.07.fti](#fp7.07.fti)**
+ and **[7.13.fti](#fp7.13.fti)**
+ or by paragraph **[7.103](#fp7.103)**.
+* 2. In bracket 2, insert an explanation of the supporting evidence establishing that
+ applicant was not the inventor. See **[MPEP § 2137](s2137.html#d0e206570)**.
+
+
+
+]
