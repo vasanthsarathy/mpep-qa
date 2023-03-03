@@ -8,18 +8,20 @@ css_style = """
 }
 """
 
-# Load the pre-created index
-index_filename =  'indices/index_vector_2100.json'
-index = GPTSimpleVectorIndex.load_from_disk(index_filename)
-
 
 def ask_question(question, openai_api_key):
     if len(openai_api_key) > 0:
         os.environ['OPENAI_API_KEY'] = openai_api_key.strip()
+
+        # Load the pre-created index
+        index_filename =  'indices/index_vector_2100.json'
+        index = GPTSimpleVectorIndex.load_from_disk(index_filename)
+
         prompt_template = "Provide references to sections in the MPEP"
         response = index.query(question + " " + prompt_template )
         return response.response
-    return "Enter your OpenAI API key to use MPEP-QA"
+    return "Enter your OPENAI API key"
+
 
 with gr.Blocks(css=css_style) as demo:
     openai_api_key = gr.State('')
