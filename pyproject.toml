@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "mpep-qa"
+version = "0.1.0"
+description = "Question-Answering System for the Manual of Patent Examination and Procedure"
+authors = ["Vasanth Sarathy <vsarathy@sift.net>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+gradio = "^3.19.1"
+openai = "^0.27.0"
+llama-index = "^0.4.19"
+
+[tool.poetry.dev-dependencies]
+pynvim = "^0.4.3"
+black = "^23.1.0"
+pylint = "^2.16.3"
+coverage = "^7.2.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
